@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": "marek-hora",
+      "name": "Marek Hora",
+      "category": "Japonská gastronomie",
+      "short": "Ambasador japonské kuchyně v České republice a uznávaný šéfkuchař v Evropě i Japonsku.",
+      "description": "Na pódiu naporcuje čerstvou rybu Hamachi a předvede mistrovskou přípravu sushi.",
+      "image": "/images/performers/marek-hora.jpg"
+    },
+    {
+      "id": "noriko-komiyama",
+      "name": "Noriko Komiyama",
+      "category": "Ikebana",
+      "short": "Certifikovaná lektorka ikebany školy Sógecu.",
+      "description": "Předvede rozdíly mezi školami Ikenobó (池坊流) a Sógecu (草月流) a ukáže práci s květinami v japonském aranžmá.",
+      "image": "/images/performers/noriko-komiyama.jpg"
+    },
+    {
+      "id": "kimono-klub-plzen",
+      "name": "Kimono Klub Plzeň",
+      "category": "Kimono",
+      "short": "Prezentace japonského oděvu a kultury kimona.",
+      "description": "Detailní text lze doplnit přímo v performers.json bez zásahu do komponent.",
+      "image": "/images/performers/kimono-klub-plzen.jpg"
+    },
+    {
+      "id": "gorin",
+      "name": "Gorin - Samurajská show",
+      "category": "Samurajská show",
+      "short": "Skupina věnující se japonským bojovým tradicím a období Sengoku džidai.",
+      "description": "Součástí programu je práce se samurajskou výzbrojí, lukostřelba a tameshigiri.",
+      "image": "/images/performers/gorin.jpg"
+    },
+    {
+      "id": "aikido-chyne",
+      "name": "Aikido Chýně",
+      "category": "Aikidō",
+      "short": "Ukázka aikidō přímo z Chýně.",
+      "description": "Dvě kratší ukázky během dne jsou vloženy přímo do hlavního programu.",
+      "image": "/images/performers/aikido-chyne.jpg"
+    },
+    {
+      "id": "aska-pluskal",
+      "name": "Aska Pluskal",
+      "category": "Japonská kultura",
+      "short": "Host programu Japonského dne.",
+      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
+      "image": "/images/performers/aska-pluskal.jpg"
+    },
+    {
+      "id": "marketa-franova",
+      "name": "Markéta Franová",
+      "category": "Kamigatamai",
+      "short": "Prezentace tradičního japonského tance Kamigatamai.",
+      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
+      "image": "/images/performers/marketa-franova.jpg"
+    },
+    {
+      "id": "yosakoi-hanamaru",
+      "name": "Yosakoi Hanamaru",
+      "category": "Tanec",
+      "short": "Energické taneční vystoupení inspirované japonským Yosakoi.",
+      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
+      "image": "/images/performers/yosakoi-hanamaru.jpg"
+    },
+    {
+      "id": "tereza-brussova",
+      "name": "Tereza Brussová",
+      "category": "Japonská kultura",
+      "short": "Host programu Japonského dne.",
+      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
+      "image": "/images/performers/tereza-brussova.jpg"
+    }
+  ]
+}

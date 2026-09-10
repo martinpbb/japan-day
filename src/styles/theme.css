@@ -1,0 +1,19 @@
+:root {
+  --paper: #f4efe5;
+  --paper-2: #ebe2d2;
+  --ink: #18211f;
+  --muted: #66706d;
+  --red: #ba2431;
+  --red-dark: #891a25;
+  --indigo: #1f2f3d;
+  --gold: #b99a5d;
+  --line: rgba(31, 47, 61, .15);
+  --white: #fffdfa;
+  --radius: 22px;
+  --shadow: 0 22px 60px rgba(40, 36, 30, .12);
+  --container: 1160px;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 86px; }
+body { margin: 0; font-family: Inter, "Segoe UI", system-ui, sans-serif; color: var(--ink); background: var(--paper); }
+button, input, textarea { font: inherit; }

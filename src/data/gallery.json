@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "id": "g1", "src": "/images/gallery/2025-01.jpg", "alt": "Japonský den v Chýni 2025", "category": "Program" },
+    { "id": "g2", "src": "/images/gallery/2025-02.jpg", "alt": "Návštěvníci Japonského dne", "category": "Atmosféra" },
+    { "id": "g3", "src": "/images/gallery/2025-03.jpg", "alt": "Japonská gastronomie", "category": "Gastronomie" },
+    { "id": "g4", "src": "/images/gallery/2025-04.jpg", "alt": "Kulturní program", "category": "Program" },
+    { "id": "g5", "src": "/images/gallery/2025-05.jpg", "alt": "Stánky a vystavovatelé", "category": "Stánky" },
+    { "id": "g6", "src": "/images/gallery/2025-06.jpg", "alt": "Japonský čaj", "category": "Čaj" }
+  ]
+}

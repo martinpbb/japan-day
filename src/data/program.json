@@ -1,0 +1,22 @@
+{
+  "status": "draft",
+  "note": "Pracovní program. Před publikací nahraďte časy finální verzí harmonogramu. Pevně potvrzené body z posledních podkladů jsou otevření v 10:00, přivítání v 11:00 a Aikido Chýně v 11:25 a 14:50.",
+  "items": [
+    { "time": "10:00", "title": "Otevření haly pro veřejnost", "type": "info", "confirmed": true },
+    { "time": "11:00", "title": "Přivítání hostů", "description": "Slovo zástupce Velvyslanectví Japonska v ČR, zástupce města Chýně a organizátora akce.", "type": "ceremony", "confirmed": true },
+    { "time": "11:25", "performerId": "aikido-chyne", "title": "Aikido Chýně", "type": "performance", "confirmed": true },
+    { "time": "—", "performerId": "marek-hora", "title": "Marek Hora", "type": "performance", "confirmed": false },
+    { "time": "—", "performerId": "noriko-komiyama", "title": "Noriko Komiyama", "type": "performance", "confirmed": false },
+    { "time": "—", "performerId": "kimono-klub-plzen", "title": "Kimono Klub Plzeň", "type": "performance", "confirmed": false },
+    { "time": "—", "performerId": "gorin", "title": "Gorin", "type": "performance", "confirmed": false },
+    { "time": "—", "performerId": "aikido-prosek", "title": "Aikidō Prosek", "type": "performance", "confirmed": false },
+    { "time": "14:50", "performerId": "aikido-chyne", "title": "Aikido Chýně", "type": "performance", "confirmed": true },
+    { "time": "—", "performerId": "aska-pluskal", "title": "Aska Pluskal", "type": "performance", "confirmed": false },
+    { "time": "—", "performerId": "hakuzan-dojo", "title": "Hakuzan Dōjō", "type": "performance", "confirmed": false },
+    { "time": "—", "performerId": "marketa-franova", "title": "Kamigatamai — Markéta Franová", "type": "performance", "confirmed": false },
+    { "time": "—", "performerId": "yosakoi-hanamaru", "title": "Yosakoi Hanamaru", "type": "performance", "confirmed": false },
+    { "time": "—", "performerId": "tereza-brussova", "title": "Tereza Brussová", "type": "performance", "confirmed": false },
+    { "time": "—", "performerId": "kenya-satoh", "title": "Kenya Satoh", "type": "performance", "confirmed": false },
+    { "time": "—", "title": "Závěr programu", "type": "ceremony", "confirmed": false }
+  ]
+}
