@@ -2,6 +2,7 @@ import React from "react";
 import { ArrowLeft, Clock3 } from "lucide-react";
 import ImageWithFallback from "./ImageWithFallback.jsx";
 import Section from "./Section.jsx";
+import ContentRenderer from "./ContentRenderer.jsx";
 import program from "../data/program.json";
 
 export default function PerformerDetail({ performer }) {
@@ -23,18 +24,23 @@ export default function PerformerDetail({ performer }) {
           <div className="programMeta">{performer.category}</div>
           <p className="performerLead">{performer.short}</p>
           <p>{performer.description}</p>
+          <ContentRenderer content={performer.content} />
 
           {appearances.length > 0 ? (
             <div className="performerSchedule">
               <h2>V programu</h2>
               {appearances.map((item, index) => (
-                <a className="performerScheduleItem" href="/program" key={`${item.time}-${index}`}>
-                  <Clock3 size={18} aria-hidden="true" />
-                  <span>
-                    <strong>{item.time}</strong>
-                    <span>{item.title}</span>
-                  </span>
-                </a>
+                <div className="performerScheduleItem" key={`${item.time}-${index}`}>
+                  <a className="performerScheduleLink" href="/program">
+                    <Clock3 size={18} aria-hidden="true" />
+                    <span>
+                      <strong>{item.time}</strong>
+                      <span>{item.title}</span>
+                    </span>
+                  </a>
+                  {item.description ? <p>{item.description}</p> : null}
+                  <ContentRenderer content={item.content} />
+                </div>
               ))}
             </div>
           ) : null}

@@ -41,8 +41,8 @@
     },
     {
       "time": "13:20",
-      "performerId": "kimono-klub-plzen",
-      "title": "Kimono Klub Plzeň",
+      "performerId": "nihon-bunka-plzen",
+      "title": "Nihon Bunka Plzeň",
       "description": "Ukázka tradičního oblékání kimona. Na pódiu obléknou do kimona zástupce města Chýně a vysvětlí symboliku a význam jednotlivých částí oděvu.",
       "type": "performance",
       "confirmed": true
@@ -74,7 +74,7 @@
     {
       "time": "15:15",
       "performerId": "iaido",
-      "title": "Iaido",
+      "title": "Iaido Plzeň",
       "description": "Ukázky tradičního japonského bojového umění Iaido.",
       "type": "performance",
       "confirmed": true
