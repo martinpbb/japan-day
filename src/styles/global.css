@@ -424,11 +424,65 @@ button {
   grid-template-columns: repeat(3, 1fr);
   gap: 12px;
 }
+.galleryItem {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: zoom-in;
+  text-align: left;
+}
+.galleryItem:focus-visible { outline: 3px solid var(--red); outline-offset: 3px; border-radius: 16px; }
 .galleryImage {
   aspect-ratio: 4/3;
   object-fit: cover;
   border-radius: 16px;
   overflow: hidden;
+  display: block;
+  width: 100%;
+}
+.modalBackdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: rgba(24, 20, 31, 0.78);
+}
+.modalPanel {
+  position: relative;
+  max-width: 92vw;
+  max-height: 90vh;
+  padding: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 18px;
+  background: var(--white);
+}
+.modalClose {
+  position: absolute;
+  top: 4px;
+  right: 8px;
+  z-index: 1;
+  border: 0;
+  background: transparent;
+  color: var(--indigo);
+  font-size: 32px;
+  line-height: 1;
+  cursor: pointer;
+}
+.galleryLightboxFigure { display: grid; gap: 10px; margin: 0; }
+.galleryLightboxImage {
+  display: block;
+  width: 90vw;
+  max-width: 90vw;
+  max-height: 85vh;
+  object-fit: contain;
+  border-radius: 10px;
+}
+.galleryLightboxFigure figcaption { display: flex; justify-content: space-between; gap: 16px; color: var(--ink); font-size: 14px; }
+.galleryLightboxFigure small { color: var(--muted); }
 }
 .infoGrid {
   display: grid;
