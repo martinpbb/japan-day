@@ -2,12 +2,22 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { absoluteUrl, buildSchemas } from "../../src/seo/schema.js";
+import { buildPerformerRoute } from "../../src/seo/performerRoute.js";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const dist = path.join(root, "dist");
 const seo = JSON.parse(await fs.readFile(path.join(root, "src/data/seo.json"), "utf8"));
 const site = JSON.parse(await fs.readFile(path.join(root, "src/data/site.json"), "utf8"));
+const performers = JSON.parse(await fs.readFile(path.join(root, "src/data/performers.json"), "utf8"));
 const baseHtml = await fs.readFile(path.join(dist, "index.html"), "utf8");
+
+const performerRoutes = Object.fromEntries(
+  performers.items.map((performer) => [
+    `/ucinkujici/${performer.id}`,
+    buildPerformerRoute(performer)
+  ])
+);
+const routes = { ...seo.routes, ...performerRoutes };
 
 function escapeHtml(value) {
   return String(value).replaceAll("&", "&amp;").replaceAll('"', "&quot;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
@@ -57,7 +67,7 @@ function renderRoute(routePath, route) {
   return html;
 }
 
-for (const [routePath, route] of Object.entries(seo.routes)) {
+for (const [routePath, route] of Object.entries(routes)) {
   const html = renderRoute(routePath, route);
   if (routePath === "/") {
     await fs.writeFile(path.join(dist, "index.html"), html);
@@ -68,8 +78,8 @@ for (const [routePath, route] of Object.entries(seo.routes)) {
   }
 }
 
-const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${Object.keys(seo.routes).map((routePath) => `  <url><loc>${absoluteUrl(seo.baseUrl, routePath)}</loc></url>`).join("\n")}\n</urlset>\n`;
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${Object.keys(routes).map((routePath) => `  <url><loc>${absoluteUrl(seo.baseUrl, routePath)}</loc></url>`).join("\n")}\n</urlset>\n`;
 await fs.writeFile(path.join(dist, "sitemap.xml"), sitemap);
 await fs.writeFile(path.join(dist, "robots.txt"), `User-agent: *\nAllow: /\n\nSitemap: ${seo.baseUrl}/sitemap.xml\n`);
 
-console.log(`Generated ${Object.keys(seo.routes).length} SEO route documents, sitemap.xml and robots.txt.`);
+console.log(`Generated ${Object.keys(routes).length} SEO route documents, sitemap.xml and robots.txt.`);

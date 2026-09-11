@@ -17,6 +17,15 @@ const required = [
   '.github/instructions/security.instructions.md',
   '.github/instructions/static-deployment.instructions.md',
   '.github/instructions/graphify.instructions.md',
+  '.copilot/skills/graphify/SKILL.md',
+  '.copilot/skills/graphify/references/query.md',
+  '.copilot/skills/japan-day-project/SKILL.md',
+  '.copilot/skills/japan-day-project/references/architecture.md',
+  '.codex/skills/graphify/SKILL.md',
+  '.codex/skills/graphify/references/query.md',
+  '.codex/skills/japan-day-project/SKILL.md',
+  '.codex/skills/japan-day-project/references/architecture.md',
+  '.agents/skills/graphify/SKILL.md',
   '.agents/skills/japanese-day-handoff/SKILL.md',
   '.agents/skills/japanese-day-handoff/scripts/collect-state.mjs',
   '.agents/skills/japanese-day-handoff/scripts/validate-install.mjs',
@@ -61,10 +70,17 @@ if (existsSync(gitignorePath)) {
   }
 }
 
-if (existsSync(atRoot('.agents/skills/graphify')) || existsSync(atRoot('.github/skills/graphify'))) {
-  console.log('INFO project-scoped Graphify skill detected.');
+const graphifyTargets = [
+  '.copilot/skills/graphify/SKILL.md',
+  '.codex/skills/graphify/SKILL.md',
+  '.agents/skills/graphify/SKILL.md',
+];
+
+const missingGraphifyTargets = graphifyTargets.filter((path) => !existsSync(atRoot(path)));
+if (missingGraphifyTargets.length === 0) {
+  console.log('INFO Copilot, Codex and generic project-scoped Graphify skills detected.');
 } else {
-  console.warn('WARN project-scoped Graphify skill is not installed yet. Run scripts/ai/setup-graphify.ps1 on the development machine.');
+  console.warn(`WARN incomplete project-scoped Graphify install: ${missingGraphifyTargets.join(', ')}`);
   warnings += 1;
 }
 

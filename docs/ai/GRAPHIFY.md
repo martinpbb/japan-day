@@ -97,3 +97,20 @@ After setup:
 graphify --version
 npm run ai:validate
 ```
+
+## Project-scoped assistant skills
+
+The repository commits Graphify skill trees for all development surfaces used by this project:
+
+- `.copilot/skills/graphify/` — GitHub Copilot
+- `.codex/skills/graphify/` — Codex (`$graphify` invocation)
+- `.agents/skills/graphify/` — generic Agent-Skills-compatible fallback
+
+The committed skill is a bootstrap/compatibility copy so a fresh clone already has discoverable instructions and references. Run `./scripts/ai/setup-graphify.ps1` on a development machine to refresh those trees from the locally installed Graphify version.
+
+Project-specific guidance is also available in:
+
+- `.copilot/skills/japan-day-project/`
+- `.codex/skills/japan-day-project/`
+
+These skills use progressive references for architecture, content ownership, SEO, workflow and validation so an agent does not need to load all project documentation for every task.

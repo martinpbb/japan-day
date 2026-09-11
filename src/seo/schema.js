@@ -62,23 +62,35 @@ export function buildOrganizationSchema({ seo }) {
 }
 
 export function buildBreadcrumbSchema({ seo, path, route }) {
+  const itemListElement = [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: seo.siteName,
+      item: absoluteUrl(seo.baseUrl, "/")
+    }
+  ];
+
+  if (route.breadcrumbParent) {
+    itemListElement.push({
+      "@type": "ListItem",
+      position: 2,
+      name: route.breadcrumbParent.name,
+      item: absoluteUrl(seo.baseUrl, route.breadcrumbParent.path)
+    });
+  }
+
+  itemListElement.push({
+    "@type": "ListItem",
+    position: itemListElement.length + 1,
+    name: route.breadcrumb || route.h1,
+    item: absoluteUrl(seo.baseUrl, path)
+  });
+
   return {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: seo.siteName,
-        item: absoluteUrl(seo.baseUrl, "/")
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: route.breadcrumb || route.h1,
-        item: absoluteUrl(seo.baseUrl, path)
-      }
-    ]
+    itemListElement
   };
 }
 

@@ -155,3 +155,53 @@ button { color: inherit; }
 .faqBlock details:last-child { border-bottom: 1px solid var(--line); }
 .faqBlock summary { cursor: pointer; font-weight: 750; }
 .faqBlock p { color: var(--muted); line-height: 1.65; margin: 12px 0 0; }
+
+.performerCardLink {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+.performerCardLink:hover {
+  transform: translateY(-4px);
+  border-color: rgba(186,36,49,.32);
+  box-shadow: 0 16px 36px rgba(60,50,40,.12);
+}
+.performerCardLink:focus-visible {
+  outline: 3px solid rgba(186,36,49,.28);
+  outline-offset: 4px;
+}
+.performerTitleRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+.performerTitleRow h3 { flex: 1; }
+.performerTitleRow svg { flex: 0 0 auto; color: var(--red); transition: transform .2s ease; }
+.performerCardLink:hover .performerTitleRow svg { transform: translateX(3px); }
+.performerMore { display: inline-block; margin-top: 7px; color: var(--red); font-size: 13px; font-weight: 800; }
+.performerDetailSection { padding-top: 54px; }
+.backLink { display: inline-flex; align-items: center; gap: 8px; margin-bottom: 28px; color: var(--red); font-weight: 800; }
+.performerDetailGrid { display: grid; grid-template-columns: minmax(0,.9fr) minmax(0,1.1fr); gap: 48px; align-items: start; }
+.performerDetailMedia { overflow: hidden; border-radius: 24px; background: var(--paper-2); }
+.performerDetailImage { width: 100%; aspect-ratio: 4/3; object-fit: cover; }
+.performerDetailContent { padding-top: 8px; }
+.performerDetailContent > p { color: var(--muted); line-height: 1.75; font-size: 17px; }
+.performerDetailContent .performerLead { color: var(--ink); font-size: 21px; line-height: 1.55; font-weight: 650; }
+.performerSchedule { margin-top: 34px; padding-top: 28px; border-top: 1px solid var(--line); }
+.performerSchedule h2 { margin: 0 0 16px; font-family: Georgia, serif; font-size: 30px; font-weight: 500; }
+.performerScheduleItem { display: flex; align-items: center; gap: 12px; padding: 14px 0; border-bottom: 1px solid var(--line); color: inherit; }
+.performerScheduleItem > span { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: baseline; }
+.performerScheduleItem strong { color: var(--red); }
+.performerScheduleItem > svg { color: var(--red); flex: 0 0 auto; }
+
+@media (max-width: 760px) {
+  .performerDetailGrid { grid-template-columns: 1fr; gap: 28px; }
+  .performerDetailSection { padding-top: 40px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .performerCardLink, .performerTitleRow svg { transition: none; }
+  .performerCardLink:hover { transform: none; }
+}

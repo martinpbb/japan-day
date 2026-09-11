@@ -26,7 +26,7 @@
     },
     {
       "id": "gorin",
-      "name": "Gorin - Samurajská show",
+      "name": "Gorin",
       "category": "Samurajská show",
       "short": "Skupina věnující se japonským bojovým tradicím a období Sengoku džidai.",
       "description": "Součástí programu je práce se samurajskou výzbrojí, lukostřelba a tameshigiri.",
@@ -41,12 +41,28 @@
       "image": "/images/performers/aikido-chyne.jpg"
     },
     {
+      "id": "aikido-prosek",
+      "name": "Aikidō Prosek",
+      "category": "Aikidō",
+      "short": "Ukázka japonského bojového umění aikidō.",
+      "description": "Detailní text lze doplnit po potvrzení finální podoby vystoupení.",
+      "image": "/images/performers/aikido-prosek.jpg"
+    },
+    {
       "id": "aska-pluskal",
       "name": "Aska Pluskal",
       "category": "Japonská kultura",
       "short": "Host programu Japonského dne.",
       "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
       "image": "/images/performers/aska-pluskal.jpg"
+    },
+    {
+      "id": "hakuzan-dojo",
+      "name": "Hakuzan Dōjō",
+      "category": "Bojová umění",
+      "short": "Ukázka japonských bojových tradic.",
+      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
+      "image": "/images/performers/hakuzan-dojo.jpg"
     },
     {
       "id": "marketa-franova",
@@ -71,6 +87,14 @@
       "short": "Host programu Japonského dne.",
       "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
       "image": "/images/performers/tereza-brussova.jpg"
+    },
+    {
+      "id": "kenya-satoh",
+      "name": "Kenya Satoh",
+      "category": "Hudba",
+      "short": "Hudební host programu.",
+      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
+      "image": "/images/performers/kenya-satoh.jpg"
     }
   ]
 }

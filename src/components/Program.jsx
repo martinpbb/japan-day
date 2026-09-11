@@ -21,7 +21,7 @@ export default function Program() {
                 <h3>{item.title}</h3>
                 {(item.description || performer?.short) ? <p>{item.description || performer.short}</p> : null}
               </div>
-              {performer ? <a className="iconLink" href={`/ucinkujici#host-${performer.id}`} aria-label={`Více o ${performer.name}`}><ChevronRight size={20}/></a> : null}
+              {performer ? <a className="iconLink" href={`/ucinkujici/${performer.id}`} aria-label={`Více o ${performer.name}`}><ChevronRight size={20}/></a> : null}
             </article>
           );
         })}

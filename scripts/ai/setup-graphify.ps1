@@ -22,11 +22,14 @@ if (-not (Get-Command graphify -ErrorAction SilentlyContinue)) {
     Write-Host "Graphify CLI already available."
 }
 
-Write-Host "Installing project-scoped GitHub Copilot Graphify skill..."
+Write-Host "Refreshing project-scoped GitHub Copilot Graphify skill..."
 graphify copilot install --project
 
-Write-Host "Installing project-scoped Codex Graphify skill..."
+Write-Host "Refreshing project-scoped Codex Graphify skill..."
 graphify codex install --project
+
+Write-Host "Refreshing generic Agent-Skills Graphify skill..."
+graphify agents install --project
 
 Write-Host "Graphify version:"
 graphify --version
@@ -36,10 +39,10 @@ node .agents/skills/japanese-day-handoff/scripts/validate-install.mjs
 
 if ($BuildGraph) {
     Write-Host "Building initial code-only Graphify index..."
-    graphify . --code-only
+    graphify extract . --code-only
 }
 
 Write-Host "Graphify setup complete."
 if (-not $BuildGraph) {
-    Write-Host "When ready, build the initial graph with: graphify . --code-only"
+    Write-Host "When ready, build the initial graph with: graphify extract . --code-only"
 }

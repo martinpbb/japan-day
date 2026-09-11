@@ -11,8 +11,8 @@
     "ai:state": "node .agents/skills/japanese-day-handoff/scripts/collect-state.mjs --format markdown",
     "ai:validate": "node .agents/skills/japanese-day-handoff/scripts/validate-install.mjs",
     "ai:graph:query": "graphify query",
-    "ai:graph:build": "graphify . --code-only",
-    "ai:graph:update": "graphify . --update",
+    "ai:graph:build": "graphify extract . --code-only",
+    "ai:graph:update": "graphify update .",
     "seo:generate": "node scripts/seo/generate-static-routes.mjs"
   },
   "dependencies": {

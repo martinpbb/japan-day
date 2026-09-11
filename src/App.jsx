@@ -4,6 +4,7 @@ import Hero from "./components/Hero.jsx";
 import About from "./components/About.jsx";
 import Program from "./components/Program.jsx";
 import Performers from "./components/Performers.jsx";
+import PerformerDetail from "./components/PerformerDetail.jsx";
 import Gastronomy from "./components/Gastronomy.jsx";
 import Exhibitors from "./components/Exhibitors.jsx";
 import VideoSection from "./components/VideoSection.jsx";
@@ -16,6 +17,8 @@ import PageIntro from "./components/PageIntro.jsx";
 import Breadcrumbs from "./components/Breadcrumbs.jsx";
 import SEO from "./seo/SEO.jsx";
 import seo from "./data/seo.json";
+import performers from "./data/performers.json";
+import { buildPerformerRoute } from "./seo/performerRoute.js";
 
 const pageComponents = {
   "/program": Program,
@@ -31,6 +34,12 @@ const pageComponents = {
 function normalizePath(pathname) {
   if (!pathname || pathname === "/") return "/";
   return pathname.replace(/\/+$/, "") || "/";
+}
+
+function getPerformerFromPath(path) {
+  const match = path.match(/^\/ucinkujici\/([^/]+)$/);
+  if (!match) return null;
+  return performers.items.find((item) => item.id === decodeURIComponent(match[1])) || null;
 }
 
 function HomePage() {
@@ -63,10 +72,22 @@ function SubPage({ path, route }) {
   );
 }
 
+function PerformerPage({ performer, route }) {
+  return (
+    <main>
+      <Breadcrumbs current={route.breadcrumb} parent={route.breadcrumbParent} />
+      <PageIntro title={route.h1} intro={route.intro} />
+      <PerformerDetail performer={performer} />
+    </main>
+  );
+}
+
 export default function App() {
   const path = normalizePath(window.location.pathname);
-  const route = seo.routes[path] || seo.routes["/"];
-  const isKnown = Boolean(seo.routes[path]);
+  const performer = getPerformerFromPath(path);
+  const performerRoute = performer ? buildPerformerRoute(performer) : null;
+  const route = performerRoute || seo.routes[path] || seo.routes["/"];
+  const isKnown = Boolean(performerRoute || seo.routes[path]);
 
   useEffect(() => {
     if (window.location.hash) {
@@ -80,7 +101,13 @@ export default function App() {
     <>
       <SEO path={isKnown ? path : "/"} route={route} />
       <Header />
-      {path === "/" || !isKnown ? <HomePage /> : <SubPage path={path} route={route} />}
+      {performer ? (
+        <PerformerPage performer={performer} route={route} />
+      ) : path === "/" || !isKnown ? (
+        <HomePage />
+      ) : (
+        <SubPage path={path} route={route} />
+      )}
       <Footer />
     </>
   );

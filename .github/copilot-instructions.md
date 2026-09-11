@@ -95,3 +95,7 @@ Report:
 For continued work, generate a concise handoff snapshot with:
 
 `npm run ai:state`
+
+## Repository skills
+
+For project-aware work, use `.copilot/skills/japan-day-project/SKILL.md` and load only the matching reference file. For cross-file architecture/dependency questions, use `.copilot/skills/graphify/SKILL.md` when Graphify is available/current.
