@@ -1,12 +1,20 @@
 {
   "items": [
     {
+      "id": "aikido-chyne",
+      "name": "Aikido Chýně",
+      "category": "Aikidō",
+      "short": "Ukázka tradičního japonského bojového umění Aikido.",
+      "description": "Dvě ukázky tradičního japonského bojového umění Aikido během dne.",
+      "image": "/images/performers/aikido_chyne.png"
+    },
+    {
       "id": "marek-hora",
       "name": "Marek Hora",
       "category": "Japonská gastronomie",
       "short": "Ambasador japonské kuchyně v České republice a uznávaný šéfkuchař v Evropě i Japonsku.",
       "description": "Na pódiu naporcuje čerstvou rybu Hamachi a předvede mistrovskou přípravu sushi.",
-      "image": "/images/performers/marek-hora.jpg"
+      "image": "/images/performers/marek_hora.png"
     },
     {
       "id": "noriko-komiyama",
@@ -14,87 +22,79 @@
       "category": "Ikebana",
       "short": "Certifikovaná lektorka ikebany školy Sógecu.",
       "description": "Předvede rozdíly mezi školami Ikenobó (池坊流) a Sógecu (草月流) a ukáže práci s květinami v japonském aranžmá.",
-      "image": "/images/performers/noriko-komiyama.jpg"
+      "image": "/images/performers/noriko_komiyama.png"
     },
     {
       "id": "kimono-klub-plzen",
       "name": "Kimono Klub Plzeň",
       "category": "Kimono",
-      "short": "Prezentace japonského oděvu a kultury kimona.",
-      "description": "Detailní text lze doplnit přímo v performers.json bez zásahu do komponent.",
-      "image": "/images/performers/kimono-klub-plzen.jpg"
+      "short": "Ukázka tradičního oblékání kimona.",
+      "description": "Na pódiu obléknou do kimona zástupce města Chýně a vysvětlí symboliku a význam jednotlivých částí oděvu.",
+      "image": "/images/performers/kimono_klub_plzen.png"
     },
     {
       "id": "gorin",
       "name": "Gorin",
       "category": "Samurajská show",
-      "short": "Skupina věnující se japonským bojovým tradicím a období Sengoku džidai.",
-      "description": "Součástí programu je práce se samurajskou výzbrojí, lukostřelba a tameshigiri.",
-      "image": "/images/performers/gorin.jpg"
-    },
-    {
-      "id": "aikido-chyne",
-      "name": "Aikido Chýně",
-      "category": "Aikidō",
-      "short": "Ukázka aikidō přímo z Chýně.",
-      "description": "Dvě kratší ukázky během dne jsou vloženy přímo do hlavního programu.",
-      "image": "/images/performers/aikido-chyne.jpg"
-    },
-    {
-      "id": "aikido-prosek",
-      "name": "Aikidō Prosek",
-      "category": "Aikidō",
-      "short": "Ukázka japonského bojového umění aikidō.",
-      "description": "Detailní text lze doplnit po potvrzení finální podoby vystoupení.",
-      "image": "/images/performers/aikido-prosek.jpg"
+      "short": "Skupina věnující se japonským bojovým tradicím a období Sengoku.",
+      "description": "Součástí programu je samurajská show, lukostřelba a tamešigiri.",
+      "image": "/images/performers/gorin_samurai_show.png"
     },
     {
       "id": "aska-pluskal",
       "name": "Aska Pluskal",
-      "category": "Japonská kultura",
-      "short": "Host programu Japonského dne.",
-      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
-      "image": "/images/performers/aska-pluskal.jpg"
+      "category": "Hudba",
+      "short": "Zpěvačka původem z Okinawy.",
+      "description": "Zazpívá tradiční i moderní písně v japonštině.",
+      "image": "/images/performers/aska_pluskal.png"
     },
     {
-      "id": "hakuzan-dojo",
-      "name": "Hakuzan Dōjō",
+      "id": "iaido",
+      "name": "Iaido",
       "category": "Bojová umění",
-      "short": "Ukázka japonských bojových tradic.",
-      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
-      "image": "/images/performers/hakuzan-dojo.jpg"
+      "short": "Ukázky bojového umění Iaido.",
+      "description": "Ukázky tradičního japonského bojového umění Iaido.",
+      "image": "/images/performers/iaido_plzen.png"
+    },
+    {
+      "id": "sandomon-kendo-klub-praha",
+      "name": "Sandomon Kendo Klub Praha",
+      "category": "Kendó",
+      "short": "Ukázky japonského bojového umění kendó.",
+      "description": "Klub představí kendó jako tradiční japonské bojové umění.",
+      "image": "/images/performers/sandomon_kendo_klub_praha.png"
     },
     {
       "id": "marketa-franova",
       "name": "Markéta Franová",
       "category": "Kamigatamai",
-      "short": "Prezentace tradičního japonského tance Kamigatamai.",
-      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
-      "image": "/images/performers/marketa-franova.jpg"
+      "short": "Tradiční sólový taneční styl z oblasti Ósaky a Kjóta.",
+      "description": "Elegantní tradiční tanec charakteristický zdrženlivými pohyby a jemnou prací s vějířem.",
+      "image": "/images/performers/marketa_franova.png"
+    },
+    {
+      "id": "shakuhachi",
+      "name": "Japonská flétna Shakuhachi",
+      "category": "Hudba",
+      "short": "Ukázka hry na tradiční japonskou bambusovou flétnu shakuhachi.",
+      "description": "Hudební vystoupení věnované tradičnímu zvuku japonské flétny shakuhachi.",
+      "image": "/images/performers/shakuhachi_shibumi.png"
     },
     {
       "id": "yosakoi-hanamaru",
       "name": "Yosakoi Hanamaru",
       "category": "Tanec",
       "short": "Energické taneční vystoupení inspirované japonským Yosakoi.",
-      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
-      "image": "/images/performers/yosakoi-hanamaru.jpg"
+      "description": "Skupinové taneční vystoupení v duchu japonského stylu Yosakoi.",
+      "image": "/images/performers/yosakoi_hanamaru.png"
     },
     {
       "id": "tereza-brussova",
-      "name": "Tereza Brussová",
+      "name": "Tereza Brussová (T3rreza)",
       "category": "Japonská kultura",
       "short": "Host programu Japonského dne.",
-      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
-      "image": "/images/performers/tereza-brussova.jpg"
-    },
-    {
-      "id": "kenya-satoh",
-      "name": "Kenya Satoh",
-      "category": "Hudba",
-      "short": "Hudební host programu.",
-      "description": "Detailní medailonek doplňte v JSON po potvrzení finálního textu.",
-      "image": "/images/performers/kenya-satoh.jpg"
+      "description": "Vystoupení v rámci hlavního programu akce.",
+      "image": "/images/performers/t3rreza2.png"
     }
   ]
 }
