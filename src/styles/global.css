@@ -264,7 +264,7 @@ button {
 }
 .programItem {
   display: grid;
-  grid-template-columns: 90px 20px 1fr 42px;
+  grid-template-columns: 90px 20px 56px minmax(160px, 220px) minmax(0, 1fr) 42px;
   gap: 18px;
   align-items: start;
   padding: 25px 0;
@@ -281,20 +281,24 @@ button {
   box-shadow: none;
 }
 .programMeta {
-  color: var(--muted);
+  color: var(--red);
   font-size: 0.72rem;
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
-.programBody h3 {
+.programHeading h3 {
   margin: 4px 0 7px;
   font-size: 20px;
+  line-height: 1.2;
+  overflow-wrap: normal;
+  word-break: normal;
 }
-.programBody p {
+.programDescription {
   margin: 0;
   color: var(--muted);
   line-height: 1.55;
+  min-width: 0;
 }
 .iconLink {
   width: 38px;
@@ -584,8 +588,14 @@ button {
     grid-template-columns: 1fr;
   }
   .programItem {
-    grid-template-columns: 64px 15px 1fr;
+    grid-template-columns: 64px 15px 52px minmax(0, 1fr);
     gap: 12px;
+  }
+  .programHeading {
+    grid-column: 4;
+  }
+  .programDescription {
+    grid-column: 4;
   }
   .programItem .iconLink {
     display: none;
@@ -944,13 +954,6 @@ button {
   }
 }
 
-.programBody {
-  display: flex;
-  align-items: flex-start;
-  gap: 16px;
-  min-width: 0;
-}
-
 .programAvatarLink {
   display: block;
   flex: 0 0 auto;
@@ -965,7 +968,10 @@ button {
   flex-shrink: 0;
 }
 
-.programText {
+.programAvatarSlot {
+  min-height: 54px;
+}
+
+.programHeading {
   min-width: 0;
-  flex: 1;
 }

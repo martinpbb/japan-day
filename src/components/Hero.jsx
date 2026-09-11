@@ -27,7 +27,7 @@ export default function Hero() {
         </div>
         <aside className="heroCard" aria-label="Japonský den čaje a kultury 2026">
           <div className="sunDisc" aria-hidden="true" />
-          <div className="verticalText">日本文化</div>
+          <div className="verticalText">日本の茶と文化</div>
           <div className="heroCardText">
             <small>10 • 10 • 2026</small>
             <strong>CHÝNĚ</strong>

@@ -45,7 +45,7 @@
   "video": {
     "kicker": "Atmosféra",
     "title": "Podívejte se na Japonský den čaje a kultury",
-    "youtubeId": "hpFwDbZvoeg?si=Y_d4sqcShIdik-E3",
+    "youtubeId": "hpFwDbZvoeg",
     "caption": "Sem vložte YouTube ID videa z minulého ročníku v src/data/site.json. Video se načte až po kliknutí návštěvníka."
   },
   "practical": {

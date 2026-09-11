@@ -16,11 +16,18 @@ export default function Program() {
             <article className="programItem" key={`${item.time}-${index}`}>
               <time>{item.time}</time>
               <div className="timelineDot" aria-hidden="true" />
-              <div className="programBody">
+              <div className="programAvatarSlot">
+                {performer ? (
+                  <a className="programAvatarLink" href={`/ucinkujici/${performer.id}`} aria-label={`Více o ${performer.name}`}>
+                    <img className="programAvatar" src={performer.image} alt="" />
+                  </a>
+                ) : null}
+              </div>
+              <div className="programHeading">
                 <div className="programMeta">{performer?.category || (item.type === "ceremony" ? "Program" : "Informace")}</div>
                 <h3>{item.title}</h3>
-                {(item.description || performer?.short) ? <p>{item.description || performer.short}</p> : null}
               </div>
+              {(item.description || performer?.short) ? <p className="programDescription">{item.description || performer.short}</p> : <div className="programDescription" />}
               {performer ? <a className="iconLink" href={`/ucinkujici/${performer.id}`} aria-label={`Více o ${performer.name}`}><ChevronRight size={20}/></a> : null}
             </article>
           );
