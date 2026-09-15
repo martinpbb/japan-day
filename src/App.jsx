@@ -15,6 +15,7 @@ import Partners from "./components/Partners.jsx";
 import Footer from "./components/Footer.jsx";
 import PageIntro from "./components/PageIntro.jsx";
 import Breadcrumbs from "./components/Breadcrumbs.jsx";
+import SmartsuppChat from "./components/SmartsuppChat.jsx";
 import SEO from "./seo/SEO.jsx";
 import seo from "./data/seo.json";
 import performers from "./data/performers.json";
@@ -99,6 +100,7 @@ export default function App() {
 
   return (
     <>
+      <SmartsuppChat />
       <SEO path={isKnown ? path : "/"} route={route} />
       <Header />
       {performer ? (

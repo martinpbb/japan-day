@@ -1051,3 +1051,25 @@ button {
 .programHeading {
   min-width: 0;
 }
+
+@media (min-width: 761px) {
+  iframe#widgetButtonFrame {
+    transform: scale(1.15);
+    transform-origin: bottom right;
+  }
+
+  #smartsupp-widget-container > [data-testid="widgetMessengerFrame"] {
+    transform: scale(1.25);
+    transform-origin: bottom right;
+  }
+}
+
+@media (max-width: 760px) {
+  iframe#widgetButtonFrame {
+    transform: none;
+  }
+
+  #smartsupp-widget-container > [data-testid="widgetMessengerFrame"] {
+    transform: none;
+  }
+}
