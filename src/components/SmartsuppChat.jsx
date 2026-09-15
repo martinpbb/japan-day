@@ -12,11 +12,16 @@ export default function SmartsuppChat() {
   useEffect(() => {
     if (smartsuppInitialized || window.smartsupp) return;
 
-    smartsuppInitialized = true;
-
     try {
       window._smartsupp = window._smartsupp || {};
       window._smartsupp.key = SMARTSUPP_KEY;
+      if (
+        window.location.hostname === "japanday.cz" ||
+        window.location.hostname === "www.japanday.cz"
+      ) {
+        window._smartsupp.cookieDomain = ".japanday.cz";
+      }
+      window._smartsupp.sitePlatform = "Japan Day / React + Vite";
       window.smartsupp = window.smartsupp || function (...args) {
         window.smartsupp._.push(args);
       };
@@ -35,6 +40,7 @@ export default function SmartsuppChat() {
       } else {
         document.head.appendChild(script);
       }
+      smartsuppInitialized = true;
     } catch {
       // A chat failure must not affect the rest of the application.
     }
