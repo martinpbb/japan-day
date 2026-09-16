@@ -121,8 +121,21 @@
       "path": "/galerie"
     },
     {
-      "label": "Informace",
+      "label": "Praktické informace",
       "path": "/prakticke-informace"
     }
-  ]
+  ],
+  "footer": {
+    "note": "Změna programu vyhrazena.",
+    "legalLinks": [
+      {
+        "label": "Obchodní podmínky",
+        "url": "https://www.chakai.cz/obchodni-podminky/"
+      },
+      {
+        "label": "Ochrana osobních údajů",
+        "url": "https://www.chakai.cz/podminky-ochrany-osobnich-udaju/"
+      }
+    ]
+  }
 }
