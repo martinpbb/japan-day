@@ -1,8 +1,10 @@
 import React from "react";
 import { CalendarDays, Clock3, MapPin, Ticket } from "lucide-react";
-import site from "../data/site.json";
+import { addLocalePrefix, useI18n } from "../lib/i18n.jsx";
 
 export default function Hero() {
+  const { locale, site } = useI18n();
+  const { ui } = site;
   const e = site.event;
   return (
     <section id="top" className="hero">
@@ -15,12 +17,12 @@ export default function Hero() {
           <div className="heroDescriptor">{site.hero.descriptor}</div>
           <p>{site.hero.subtitle}</p>
           <div className="heroActions">
-            <a className="button primary" href="/program">{site.hero.ctaPrimary}</a>
-            <a className="button ghost" href="/prakticke-informace">{site.hero.ctaSecondary}</a>
+            <a className="button primary" href={addLocalePrefix("/program", locale)}>{site.hero.ctaPrimary}</a>
+            <a className="button ghost" href={addLocalePrefix("/prakticke-informace", locale)}>{site.hero.ctaSecondary}</a>
           </div>
           <div className="facts">
             <span><CalendarDays size={18} />{e.date}</span>
-            <span><Clock3 size={18} />od {e.openingTime}</span>
+            <span><Clock3 size={18} />{ui.openingFrom.replace("{time}", e.openingTime)}</span>
             <span><MapPin size={18} />{e.venue}, {e.locationLabel}</span>
             <span><Ticket size={18} />{e.admission}</span>
           </div>

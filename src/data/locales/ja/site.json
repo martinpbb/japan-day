@@ -1,0 +1,181 @@
+{
+  "brand": {
+    "name": "日本茶と日本文化の日",
+    "shortName": "Japan Day Chýně",
+    "socialTag": "japandaychyne",
+    "descriptor": "日本文化・食・伝統を楽しむフェスティバル",
+    "japanese": "日本文化の日"
+  },
+  "event": {
+    "date": "10. 10. 2026",
+    "dateISO": "2026-10-10",
+    "openingTime": "10:00",
+    "closingTime": "",
+    "venue": "ZŠ Bolzanova",
+    "street": "Bolzanova 800",
+    "postalCode": "253 03",
+    "city": "Chýně",
+    "area": "プラハ西郡",
+    "region": "中央ボヘミア州",
+    "country": "CZ",
+    "locationLabel": "プラハ近郊 Chýně",
+    "admission": "100 Kč",
+    "admissionPrice": 100,
+    "currency": "CZK",
+    "patronage": "在チェコ日本国大使館 後援"
+  },
+  "hero": {
+    "kicker": "2026年10月10日 • プラハ近郊 Chýně",
+    "title": "日本茶と日本文化の日",
+    "descriptor": "日本文化・食・伝統を楽しむフェスティバル",
+    "subtitle": "Chýněで一日、日本を身近に。伝統文化と現代文化、武道、日本料理、日本茶、日本酒、そして長年日本に関わってきた人々との出会いをお楽しみください。",
+    "ctaPrimary": "プログラムを見る",
+    "ctaSecondary": "ご来場案内",
+    "shortName": "Japan Day Chýně 2026"
+  },
+  "about": {
+    "kicker": "イベントについて",
+    "title": "日本文化と味わい、体験に出会う一日",
+    "paragraphs": [
+      "「日本茶と日本文化の日」は、短く「Japan Day Chýně」とも呼ばれる、プラハ近郊Chýněで開催される日本文化・食・伝統のフェスティバルです。",
+      "日本料理、伝統芸術、武道、音楽、舞踊、日本茶を一つの会場で紹介します。ステージには、日本と長く深い関わりを持つゲストや団体が一日を通して登場します。",
+      "会場には、日本をテーマにした販売・紹介ブースも並びます。日本茶と日本文化の日 2026は、2026年10月10日にZŠ Bolzanova（Bolzanova 800, Chýně）で開催されます。"
+    ]
+  },
+  "video": {
+    "kicker": "会場の雰囲気",
+    "title": "日本茶と日本文化の日の様子をご覧ください",
+    "youtubeId": "hpFwDbZvoeg",
+    "caption": "前回開催時の動画です。動画は再生をクリックした後に読み込まれます。"
+  },
+  "practical": {
+    "kicker": "ご来場案内",
+    "title": "日時・会場・入場料",
+    "items": [
+      {
+        "label": "開催日",
+        "value": "2026年10月10日"
+      },
+      {
+        "label": "開場",
+        "value": "10:00"
+      },
+      {
+        "label": "会場",
+        "value": "ZŠ Bolzanova, Bolzanova 800, 253 03 Chýně"
+      },
+      {
+        "label": "入場料",
+        "value": "100 Kč"
+      }
+    ],
+    "transport": "Chýněはプラハ西部の近郊にあります。公共交通機関、アクセス、駐車場の詳細はイベント前に掲載します。",
+    "accessibility": "バリアフリー情報は、運営上の詳細が確定後に掲載します。",
+    "faq": [
+      {
+        "question": "日本茶と日本文化の日 2026はいつ開催されますか？",
+        "answer": "2026年10月10日（土）です。会場は10:00に一般開場します。"
+      },
+      {
+        "question": "会場はどこですか？",
+        "answer": "プラハ近郊ChýněのZŠ Bolzanova（Bolzanova 800, 253 03 Chýně）です。"
+      },
+      {
+        "question": "入場料はいくらですか？",
+        "answer": "日本茶と日本文化の日 2026の入場料は100 Kčです。"
+      },
+      {
+        "question": "最新のプログラムはどこで確認できますか？",
+        "answer": "最新スケジュールは「プログラム」ページに掲載し、出演時間の確定に合わせて随時更新します。"
+      }
+    ]
+  },
+  "contact": {
+    "intro": "プログラム、パートナーシップ、出展についてのお問い合わせは主催者までご連絡ください。公開用の連絡先はウェブサイト正式公開前に掲載します。",
+    "email": "",
+    "phone": ""
+  },
+  "navigation": [
+    {
+      "label": "イベントについて",
+      "path": "/o-akci"
+    },
+    {
+      "label": "プログラム",
+      "path": "/program"
+    },
+    {
+      "label": "出演者",
+      "path": "/ucinkujici"
+    },
+    {
+      "label": "日本料理",
+      "path": "/gastronomie"
+    },
+    {
+      "label": "出展者",
+      "path": "/vystavovatele"
+    },
+    {
+      "label": "ギャラリー",
+      "path": "/galerie"
+    },
+    {
+      "label": "ご来場案内",
+      "path": "/prakticke-informace"
+    }
+  ],
+  "ui": {
+    "openingFrom": "{time}から開場",
+    "breadcrumbLabel": "パンくずリスト",
+    "homeLabel": "日本茶と日本文化の日 — ホーム",
+    "mainNavigation": "メインナビゲーション",
+    "openMenu": "メニューを開く",
+    "language": "言語",
+    "importantLinks": "重要なリンク",
+    "legalInformation": "法的情報",
+    "socialLinks": "ウェブサイト / SNS",
+    "exhibitorListPending": "出展者一覧は準備中です。",
+    "previousYear": "前回開催",
+    "galleryTitle": "Japan Day 2025の雰囲気",
+    "all": "すべて",
+    "showPhoto": "写真を表示: {alt}",
+    "closePhoto": "写真を閉じる",
+    "photoPending": "写真は後日掲載します",
+    "heroCardLabel": "日本茶と日本文化の日 2026",
+    "cultureGastronomyTradition": "文化 • 食 • 伝統",
+    "organizers": "主催者",
+    "partnersAndPatronage": "パートナー・後援",
+    "allPerformers": "出演者一覧",
+    "inProgramme": "プログラム",
+    "performersDetail": "出演者詳細: {name}",
+    "showDetail": "詳細を見る",
+    "transportAndParking": "交通・駐車場",
+    "accessibility": "バリアフリー",
+    "faq": "よくある質問",
+    "moreAbout": "{name}について詳しく",
+    "playVideo": "動画を再生",
+    "playVideoLabel": "日本茶と日本文化の日の動画を再生",
+    "previousYearVideoAlt": "前回の日本茶と日本文化の日の動画",
+    "galleryCategories": {
+      "Program": "プログラム",
+      "Čaj": "お茶",
+      "Gastronomie": "グルメ",
+      "Atmosféra": "会場の雰囲気",
+      "Stánky": "出店"
+    }
+  },
+  "footer": {
+    "note": "プログラムは変更となる場合があります。",
+    "legalLinks": [
+      {
+        "label": "利用規約",
+        "url": "https://www.chakai.cz/obchodni-podminky/"
+      },
+      {
+        "label": "個人情報保護方針",
+        "url": "https://www.chakai.cz/podminky-ochrany-osobnich-udaju/"
+      }
+    ]
+  }
+}

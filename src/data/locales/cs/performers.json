@@ -1,0 +1,346 @@
+{
+  "items": [
+    {
+      "id": "aikido-chyne",
+      "name": "Aikido Chýně",
+      "category": "Aikidō",
+      "short": "Ukázka tradičního japonského bojového umění Aikido.",
+      "description": "Místní oddíl Aikido Chýně představí během dne dvě ukázky tradičního japonského bojového umění.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Aikido Chýně je místní oddíl japonského bojového umění, který vznikl v roce 2023. Vede jej Ing. arch. Václav Plánský, držitel 1. danu Aikikai."
+        },
+        {
+          "type": "p",
+          "text": "Aikido pracuje s pohybem, rovnováhou, správným načasováním a reakcí na útok partnera. Namísto soupeření staví velký důraz na techniku, kontrolu pohybu a spolupráci při cvičení."
+        },
+        {
+          "type": "h2",
+          "text": "Aikido přímo z Chýně"
+        },
+        {
+          "type": "p",
+          "text": "Na Japonském dni se oddíl představí hned dvakrát. Návštěvníci tak budou mít možnost sledovat ukázky technik, pohybu a práce mezi útočníkem a obráncem z bezprostřední blízkosti."
+        }
+      ],
+      "image": "/images/performers/aikido_chyne.png"
+    },
+    {
+      "id": "marek-hora",
+      "name": "Marek Hora",
+      "category": "Japonská gastronomie",
+      "short": "Ambasador japonské kuchyně v České republice a uznávaný šéfkuchař v Evropě i Japonsku.",
+      "description": "Na pódiu naporcuje čerstvou rybu Hamachi a předvede mistrovskou přípravu sushi.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Marek Hora patří mezi nejvýraznější osobnosti japonské gastronomie v České republice. Japonské kuchyni se věnuje více než třicet let a své zkušenosti získával také přímo v Japonsku."
+        },
+        {
+          "type": "p",
+          "text": "V Japonsku se zdokonaloval mimo jiné v restauraci Sakae Zushi. V roce 2009 získal v japonské Šizuoce druhé místo na mezinárodní soutěži World Sushi Stadium."
+        },
+        {
+          "type": "h2",
+          "text": "Ambasador japonské kuchyně"
+        },
+        {
+          "type": "p",
+          "text": "V roce 2024 byl japonským ministerstvem zemědělství jmenován ambasadorem japonské kuchyně. Dlouhodobě spolupracuje s japonskými kuchaři a svou práci staví na respektu k surovině, precizní technice a autentickém přístupu k japonské gastronomii."
+        },
+        {
+          "type": "h2",
+          "text": "Co uvidíte v Chýni"
+        },
+        {
+          "type": "p",
+          "text": "Marek Hora přímo před návštěvníky naporcuje čerstvou rybu Hamachi a následně předvede přípravu sushi. Půjde tak nejen o gastronomickou ukázku, ale také o možnost sledovat práci zkušeného sushi mistra z bezprostřední blízkosti."
+        }
+      ],
+      "image": "/images/performers/marek_hora.png"
+    },
+    {
+      "id": "noriko-komiyama",
+      "name": "Noriko Komiyama",
+      "category": "Ikebana",
+      "short": "Japonská lektorka ikebany školy Sógecu.",
+      "description": "Předvede rozdíly mezi školami Ikenobó a Sógecu a ukáže práci s květinami v japonském aranžmá.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Noriko Komiyama je japonská lektorka ikebany, která dlouhodobě žije v Praze. Věnuje se především škole Sógecu a své zkušenosti pravidelně předává prostřednictvím veřejných ukázek a workshopů."
+        },
+        {
+          "type": "p",
+          "text": "Její ukázky ikebany se konaly také pod záštitou Velvyslanectví Japonska, například během výstavy Flóra Bratislava, kde vedla vedle pódiové demonstrace také praktické workshopy."
+        },
+        {
+          "type": "h2",
+          "text": "Ikebana nemusí začínat exotickou květinou"
+        },
+        {
+          "type": "p",
+          "text": "Na Japonském dni ukáže, jak lze pracovat i s běžnými květinami a rostlinami dostupnými v našem prostředí. Představí rovněž rozdílné přístupy dvou významných škol ikebany – Ikenobó a Sógecu."
+        }
+      ],
+      "image": "/images/performers/noriko_komiyama.png"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "Kimono",
+      "short": "Ukázka tradičního oblékání kimona.",
+      "description": "Na pódiu obléknou do kimona zástupce města Chýně a vysvětlí symboliku a význam jednotlivých částí oděvu.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Nihon Bunka Plzeň je spolek nadšenců do japonské kultury, který se věnuje širokému spektru témat od historie a tradičního odívání přes bojová umění a gastronomii až po současnou japonskou popkulturu."
+        },
+        {
+          "type": "p",
+          "text": "Skupina působí především v Plzeňském kraji, pořádá vlastní kulturní akce, přednášky a workshopy a stojí také za festivalem Bunka Fest."
+        },
+        {
+          "type": "h2",
+          "text": "Tradiční japonské odívání"
+        },
+        {
+          "type": "p",
+          "text": "Jednou z oblastí, kterým se Nihon Bunka Plzeň dlouhodobě věnuje, je tradiční japonský oděv. Na svých akcích umožňují návštěvníkům vyzkoušet dámská, pánská i dětská kimona."
+        },
+        {
+          "type": "h2",
+          "text": "Kimono na pódiu"
+        },
+        {
+          "type": "p",
+          "text": "V Chýni proběhne oblékání kimona přímo před publikem. Jednotlivé vrstvy tak nevzniknou někde v zákulisí, ale návštěvníci budou moci sledovat celý proces a současně se dozvědět více o jeho pravidlech a významu."
+        }
+      ],
+      "image": "/images/performers/nihon_bunka_plzen.png"
+    },
+    {
+      "id": "gorin",
+      "name": "Gorin",
+      "category": "Samurajská show",
+      "short": "Skupina věnující se japonským bojovým tradicím a období Sengoku.",
+      "description": "Součástí programu je samurajská show, bojová lukostřelba a tamešigiri.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Počátky skupiny Gorin sahají do roku 1994, kdy byl ve Strakonicích pod vedením Silvestra Prajera založen oddíl iaido a kendó. Z něj se postupně vyvinula skupina zaměřená na historické japonské bojové tradice."
+        },
+        {
+          "type": "p",
+          "text": "Gorin se soustředí především na období Sengoku džidai, tedy dobu válčících států, kdy se Japonsko po dlouhá desetiletí nacházelo v téměř nepřetržitých vojenských konfliktech."
+        },
+        {
+          "type": "h2",
+          "text": "Samurajové v plné zbroji"
+        },
+        {
+          "type": "p",
+          "text": "Skupina předvádí bojové scény v plné samurajské zbroji, práci s různými zbraněmi, bojovou lukostřelbu kyūjutsu i testy seku tamešigiri."
+        },
+        {
+          "type": "p",
+          "text": "Členové Gorin se zároveň věnují výrobě replik japonských zbrojí, zbraní a historických kostýmů a také restaurování originálních samurajských zbrojí."
+        },
+        {
+          "type": "h2",
+          "text": "Tři různá vystoupení během dne"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "bojové scény inspirované obdobím Sengoku",
+            "ukázka samurajské bojové lukostřelby",
+            "tamešigiri – test přesnosti a techniky seku japonským mečem"
+          ]
+        }
+      ],
+      "image": "/images/performers/gorin_samurai_show.png"
+    },
+    {
+      "id": "aska-pluskal",
+      "name": "Aska Pluskal",
+      "category": "Hudba",
+      "short": "Japonská zpěvačka původem z Okinawy.",
+      "description": "Zazpívá tradiční i moderní písně v japonštině.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Aska Pluskal je zpěvačka pocházející z Okinawy, nejjižnější části Japonska s vlastní výraznou kulturou a hudební tradicí."
+        },
+        {
+          "type": "p",
+          "text": "Jako vokalistka vystupuje také přímo na Okinawě. Na Japonském dni představí výběr tradičních i modernějších písní zpívaných v japonštině."
+        },
+        {
+          "type": "h2",
+          "text": "Hudební Japonsko"
+        },
+        {
+          "type": "p",
+          "text": "Její vystoupení nabídne jinou podobu japonské kultury než bojová umění nebo tradiční řemesla – Japonsko prostřednictvím hlasu, melodie a současné hudební interpretace."
+        }
+      ],
+      "image": "/images/performers/aska_pluskal.png"
+    },
+    {
+      "id": "iaido",
+      "name": "Iaido",
+      "category": "Bojová umění",
+      "short": "Ukázky tradičního japonského umění práce s mečem.",
+      "description": "Iaido spojuje přesné tasení japonského meče, kontrolovaný pohyb a maximální soustředění.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Iaido je japonské bojové umění zaměřené na práci s mečem, zejména na přesné tasení, vedení seku a následné vrácení meče do pochvy."
+        },
+        {
+          "type": "p",
+          "text": "Cvičení probíhá především prostřednictvím přesně stanovených forem kata. Velký důraz se klade nejen na techniku samotnou, ale také na držení těla, načasování, soustředění a klid mysli."
+        },
+        {
+          "type": "h2",
+          "text": "Meč a preciznost pohybu"
+        },
+        {
+          "type": "p",
+          "text": "Při ukázce bude možné sledovat, jak se jednotlivé pohyby propojují do souvislého celku – od přípravy a tasení přes samotnou techniku až po kontrolované ukončení."
+        }
+      ],
+      "image": "/images/performers/iaido_plzen.png"
+    },
+    {
+      "id": "sandomon-kendo-klub-praha",
+      "name": "San Dó Mon Kendó Klub Praha",
+      "category": "Kendó",
+      "short": "Pražský klub tradičního japonského bojového umění kendó.",
+      "description": "Klub představí kendó – japonské bojové umění vycházející z tradice šermu mečem.",
+      "content": [
+        {
+          "type": "p",
+          "text": "San Dó Mon je pražský klub kendó založený v roce 1994. Sídlí na Karlově náměstí a dlouhodobě se věnuje rozvoji a výuce japonského bojového umění kendó."
+        },
+        {
+          "type": "p",
+          "text": "Mezi nejzkušenější členy klubu patří Jindřich Ziegelheim, držitel 7. danu kendó a titulu Renshi."
+        },
+        {
+          "type": "h2",
+          "text": "Co je kendó"
+        },
+        {
+          "type": "p",
+          "text": "Kendó vznikalo z tradičních japonských škol šermu kendžucu. Moderní trénink používá bambusový meč shinai a ochrannou zbroj bōgu, ale vedle techniky si zachovává také důraz na etiketu, respekt a principy budó."
+        },
+        {
+          "type": "p",
+          "text": "Na Japonském dni návštěvníci uvidí, jak vypadá kendó v pohybu – práci s mečem, vzdáleností, načasováním a výrazným kiai."
+        }
+      ],
+      "image": "/images/performers/sandomon_kendo_klub_praha.png"
+    },
+    {
+      "id": "marketa-franova",
+      "name": "Markéta Fránová",
+      "category": "Kamigatamai",
+      "short": "Tradiční japonský tanec pocházející z oblasti Kjóta a Ósaky.",
+      "description": "Elegantní sólový tanec charakteristický zdrženlivými pohyby, vnitřním výrazem a jemnou prací s vějířem.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Markéta Fránová je studentkou tradičního japonského tance Kamigatamai ve škole Ogawaryū, kde se pravidelně vzdělává od roku 2021."
+        },
+        {
+          "type": "p",
+          "text": "Kamigatamai pochází z oblasti Kamigata, tedy především z kulturního prostředí Kjóta a Ósaky. Styl se vyznačuje jemnými, přesnými a často velmi zdrženlivými pohyby, při nichž hraje zásadní roli vnitřní výraz tanečnice."
+        },
+        {
+          "type": "h2",
+          "text": "Tanec, kde má význam každý pohyb"
+        },
+        {
+          "type": "p",
+          "text": "Při tanci se používají také tradiční rekvizity, například malovaný papírový vějíř nebo japonský deštník. Namísto velkých gest pracuje Kamigatamai s detailem, gestem, postojem a přesným vedením pohybu."
+        }
+      ],
+      "image": "/images/performers/marketa_franova.png"
+    },
+    {
+      "id": "shakuhachi",
+      "name": "Japonská flétna Shakuhachi",
+      "category": "Hudba",
+      "short": "Ukázka hry na tradiční japonskou bambusovou flétnu shakuhachi.",
+      "description": "Komorní hudební vystoupení věnované charakteristickému zvuku japonské bambusové flétny.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Shakuhachi je tradiční japonská bambusová flétna s mimořádně výraznou barvou zvuku. Její jednoduchá konstrukce umožňuje hráči velmi jemně pracovat s dechem, intonací a barvou jednotlivých tónů."
+        },
+        {
+          "type": "p",
+          "text": "Nástroj je spojen s tradiční japonskou hudbou a duchovními hudebními formami, ale dnes se uplatňuje také v soudobé, improvizované a experimentální hudbě."
+        },
+        {
+          "type": "h2",
+          "text": "Hudba dechu a ticha"
+        },
+        {
+          "type": "p",
+          "text": "V komorním vystoupení vynikne nejen samotný tón flétny, ale také práce s tichem, dechem a prostorem mezi jednotlivými tóny."
+        }
+      ],
+      "image": "/images/performers/shakuhachi_shibumi.png"
+    },
+    {
+      "id": "yosakoi-hanamaru",
+      "name": "Yosakoi Hanamaru",
+      "category": "Tanec",
+      "short": "Česká taneční skupina věnující se energickému japonskému tanci yosakoi.",
+      "description": "Barevné skupinové vystoupení propojující moderní tanec s tradičními japonskými prvky.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Yosakoi Hanamaru je taneční skupina založená v roce 2018 v Praze. V roce 2020 se tým rozšířil také do Brna a dnes sdružuje české, slovenské, japonské i další zahraniční členy."
+        },
+        {
+          "type": "p",
+          "text": "Tři členky skupiny byly již v roce 2019 v Japonsku jmenovány ambasadorkami yosakoi."
+        },
+        {
+          "type": "h2",
+          "text": "Co je yosakoi"
+        },
+        {
+          "type": "p",
+          "text": "Yosakoi vzniklo v roce 1954 v japonské prefektuře Kóči. Jde o energický skupinový tanec, který propojuje moderní choreografii s tradičními japonskými prvky."
+        },
+        {
+          "type": "p",
+          "text": "Pro yosakoi jsou typické malé dřevěné klapačky naruko, ale choreografie mohou využívat také vějíře, deštníky, lampiony nebo velké týmové vlajky."
+        },
+        {
+          "type": "h2",
+          "text": "Hanamaru v Česku i zahraničí"
+        },
+        {
+          "type": "p",
+          "text": "Skupinu lze pravidelně potkávat na akcích spojených s japonskou kulturou, například Animefestu, Tanabatě, Eigasai nebo Cosplesu. Vystupovala také v Polsku, Maďarsku a na Slovensku."
+        }
+      ],
+      "image": "/images/performers/yosakoi_hanamaru.png"
+    },
+    {
+      "id": "kuroi-yuki",
+      "name": "Kuroi Yuki",
+      "category": "Japonská kultura",
+      "short": "Host programu Japonského dne.",
+      "description": "Vystoupení v rámci hlavního programu akce.",
+      "image": "/images/performers/kuroi_yuki.png"
+    }
+  ]
+}

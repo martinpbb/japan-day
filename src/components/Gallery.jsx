@@ -2,29 +2,6 @@ import React, { useMemo, useState } from "react";
 import Section from "./Section.jsx";
 import ImageWithFallback from "./ImageWithFallback.jsx";
 import Modal from "./Modal.jsx";
-import data from "../data/gallery.json";
-
-export default function Gallery() {
-  const categories = useMemo(() => ["Vše", ...new Set(data.items.map((x) => x.category))], []);
-  const [active, setActive] = useState("Vše");
-  const [selected, setSelected] = useState(null);
-  const visible = active === "Vše" ? data.items : data.items.filter((x) => x.category === active);
-  return (
-    <Section id="fotky" kicker="Minulý ročník" title="Atmosféra Japonského dne 2025" className="sectionTint">
-      <div className="filters">{categories.map((c) => <button className={active === c ? "active" : ""} key={c} onClick={() => setActive(c)}>{c}</button>)}</div>
-      <div className="galleryGrid">
-        {visible.map((item) => (
-          <button type="button" className="galleryItem" key={item.id} onClick={() => setSelected(item)} aria-label={`Zobrazit fotografii: ${item.alt}`}>
-            <ImageWithFallback src={item.src} alt={item.alt} className="galleryImage" />
-          </button>
-        ))}
-      </div>
-      <Modal open={Boolean(selected)} onClose={() => setSelected(null)}>
-        {selected ? <figure className="galleryLightboxFigure">
-          <img className="galleryLightboxImage" src={selected.src} alt={selected.alt} />
-          <figcaption><span>{selected.alt}</span>{selected.category ? <small>{selected.category}</small> : null}</figcaption>
-        </figure> : null}
-      </Modal>
-    </Section>
-  );
-}
+import { useI18n } from "../lib/i18n.jsx";
+const categoryKeys = { Program: "program", Programme: "program", "Čaj": "tea", Tea: "tea", Gastronomie: "food", Food: "food", Atmosféra: "atmosphere", Atmosphere: "atmosphere", Stánky: "stalls", Stalls: "stalls" };
+export default function Gallery() { const { site, content } = useI18n(); const { ui } = site; const items = content.gallery.items; const categories = useMemo(() => ["all", ...new Set(items.map((item) => categoryKeys[item.category] || item.category))], [items]); const [active, setActive] = useState("all"); const [selected, setSelected] = useState(null); const visible = active === "all" ? items : items.filter((item) => (categoryKeys[item.category] || item.category) === active); const labels = { all: ui.all, ...Object.fromEntries(Object.entries(ui.galleryCategories || {}).map(([label, value]) => [categoryKeys[label] || label, value])) }; return <Section id="fotky" kicker={ui.previousYear} title={ui.galleryTitle} className="sectionTint"><div className="filters">{categories.map((key) => <button className={active === key ? "active" : ""} key={key} onClick={() => setActive(key)}>{labels[key] || key}</button>)}</div><div className="galleryGrid">{visible.map((item) => <button type="button" className="galleryItem" key={item.id} onClick={() => setSelected(item)} aria-label={ui.showPhoto.replace("{alt}", item.alt)}><ImageWithFallback src={item.src} alt={item.alt} className="galleryImage" /></button>)}</div><Modal open={Boolean(selected)} onClose={() => setSelected(null)}>{selected ? <figure className="galleryLightboxFigure"><img className="galleryLightboxImage" src={selected.src} alt={selected.alt} /><figcaption><span>{selected.alt}</span>{selected.category ? <small>{labels[categoryKeys[selected.category]] || selected.category}</small> : null}</figcaption></figure> : null}</Modal></Section>; }

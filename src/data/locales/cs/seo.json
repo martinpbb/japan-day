@@ -1,0 +1,128 @@
+{
+  "baseUrl": "https://japanday.cz",
+  "siteName": "Japonský den čaje a kultury",
+  "locale": "cs_CZ",
+  "language": "cs-CZ",
+  "defaultImage": "/images/social/japan-day-chyne-2026-og.png",
+  "semanticTopics": [
+    "Japan Day Chýně",
+    "Japan Day",
+    "Japonský den Chýně",
+    "Japonský den v Chýni",
+    "Japonský den čaje a kultury",
+    "japonský festival",
+    "festival japonské kultury",
+    "japonská kultura",
+    "japonská gastronomie",
+    "japonské jídlo",
+    "sushi",
+    "sashimi",
+    "japonský čaj",
+    "saké",
+    "japonská whisky",
+    "samurajové",
+    "samurajská show",
+    "tameshigiri",
+    "japonská lukostřelba",
+    "aikido",
+    "kendó",
+    "ikebana",
+    "akce Praha",
+    "japonská akce Praha",
+    "japonská kultura Praha",
+    "festival Praha-západ"
+  ],
+  "routes": {
+    "/": {
+      "title": "Japonský den čaje a kultury 2026 | Japan Day Chýně",
+      "description": "Navštivte Japonský den čaje a kultury v Chýni u Prahy. Japan Day Chýně 2026 nabídne sushi, čaj, saké, samuraje, aikido, kendó, ikebanu a další program.",
+      "h1": "Japonský den čaje a kultury",
+      "intro": "Japan Day Chýně 2026 — festival japonské kultury, gastronomie a tradic v Chýni u Prahy.",
+      "schema": [
+        "festival",
+        "organization"
+      ]
+    },
+    "/program": {
+      "title": "Program | Japonský den čaje a kultury 2026",
+      "description": "Program Japonského dne čaje a kultury 2026 v Chýni u Prahy: japonská gastronomie, aikido, samurajská show, ikebana, tanec, hudba a další vystoupení.",
+      "h1": "Program Japonského dne čaje a kultury 2026",
+      "intro": "Přehled programu a vystoupení během celého dne.",
+      "breadcrumb": "Program",
+      "schema": [
+        "festival",
+        "breadcrumb"
+      ]
+    },
+    "/ucinkujici": {
+      "title": "Účinkující | Japonský den čaje a kultury 2026",
+      "description": "Poznejte účinkující a hosty Japonského dne čaje a kultury 2026 — osobnosti japonské gastronomie, ikebany, bojových umění, hudby a tance.",
+      "h1": "Účinkující a hosté",
+      "intro": "Lidé a skupiny, kteří představí tradiční i současnou japonskou kulturu.",
+      "breadcrumb": "Účinkující",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/gastronomie": {
+      "title": "Japonské jídlo a nápoje | Japonský den čaje a kultury",
+      "description": "Japonská gastronomie na Japonském dni čaje a kultury v Chýni: sushi, sashimi, Hamachi, japonský gril, čaj, saké, japonská whisky a další speciality.",
+      "h1": "Japonská gastronomie",
+      "intro": "Sushi, sashimi, japonský gril, čaj, saké a další chutě Japonska.",
+      "breadcrumb": "Gastronomie",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele": {
+      "title": "Vystavovatelé a prodejci | Japonský den čaje a kultury",
+      "description": "Vystavovatelé a prodejci s japonskou tematikou na Japonském dni čaje a kultury 2026 v Chýni.",
+      "h1": "Vystavovatelé a prodejci",
+      "intro": "Značky, spolky a prodejci, které potkáte během akce v Chýni.",
+      "breadcrumb": "Vystavovatelé",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/prakticke-informace": {
+      "title": "Místo, doprava a vstupné | Japonský den čaje a kultury 2026",
+      "description": "Praktické informace k Japonskému dni čaje a kultury 2026: datum, čas, místo v Chýni u Prahy, adresa ZŠ Bolzanova, vstupné, doprava a parkování.",
+      "h1": "Praktické informace",
+      "intro": "Datum, místo, vstupné a informace pro cestu do Chýně u Prahy.",
+      "breadcrumb": "Praktické informace",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/galerie": {
+      "title": "Fotogalerie | Japonský den čaje a kultury",
+      "description": "Fotografie z předchozího ročníku Japonského dne čaje a kultury v Chýni — program, japonská kultura, gastronomie, stánky a atmosféra akce.",
+      "h1": "Fotogalerie Japonského dne čaje a kultury",
+      "intro": "Podívejte se na atmosféru předchozího ročníku v Chýni.",
+      "breadcrumb": "Galerie",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/o-akci": {
+      "title": "O akci | Japonský den čaje a kultury",
+      "description": "Japonský den čaje a kultury v Chýni propojuje japonskou kulturu, gastronomii, tradice a setkávání. Krátké označení akce je Japan Day Chýně.",
+      "h1": "O Japonském dni čaje a kultury",
+      "intro": "Festival japonské kultury, gastronomie a tradic v Chýni u Prahy.",
+      "breadcrumb": "O akci",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/kontakt": {
+      "title": "Kontakt | Japonský den čaje a kultury",
+      "description": "Kontakt na pořadatele Japonského dne čaje a kultury v Chýni a informace pro návštěvníky, partnery a vystavovatele.",
+      "h1": "Kontakt",
+      "intro": "Kontakt na pořadatele a informace pro zájemce o spolupráci.",
+      "breadcrumb": "Kontakt",
+      "schema": [
+        "breadcrumb"
+      ]
+    }
+  }
+}

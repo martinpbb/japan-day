@@ -28,3 +28,4 @@ dist-ssr
 
 # Local AI/code-graph artifacts
 graphify-out/
+.playwright-mcp/*

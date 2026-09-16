@@ -1,0 +1,181 @@
+{
+  "brand": {
+    "name": "Japanese Day of Tea and Culture",
+    "shortName": "Japan Day Chýně",
+    "socialTag": "japandaychyne",
+    "descriptor": "A festival of Japanese culture, food and traditions",
+    "japanese": "日本文化の日"
+  },
+  "event": {
+    "date": "10. 10. 2026",
+    "dateISO": "2026-10-10",
+    "openingTime": "10:00",
+    "closingTime": "",
+    "venue": "ZŠ Bolzanova",
+    "street": "Bolzanova 800",
+    "postalCode": "253 03",
+    "city": "Chýně",
+    "area": "Prague-West",
+    "region": "Central Bohemian Region",
+    "country": "CZ",
+    "locationLabel": "Chýně near Prague",
+    "admission": "100 Kč",
+    "admissionPrice": 100,
+    "currency": "CZK",
+    "patronage": "Under the honorary patronage of the Embassy of Japan in Prague"
+  },
+  "hero": {
+    "kicker": "10 October 2026 • Chýně near Prague",
+    "title": "Japanese Day of Tea and Culture",
+    "descriptor": "A festival of Japanese culture, food and traditions",
+    "subtitle": "Experience Japan for a day in Chýně: traditional and contemporary culture, martial arts, Japanese food, tea, sake and encounters with people who have a long-standing connection to Japan.",
+    "ctaPrimary": "View programme",
+    "ctaSecondary": "Visitor information",
+    "shortName": "Japan Day Chýně 2026"
+  },
+  "about": {
+    "kicker": "About the event",
+    "title": "A day of Japanese culture, flavours and experiences",
+    "paragraphs": [
+      "The Japanese Day of Tea and Culture, also known by the shorter name Japan Day Chýně, is a festival of Japanese culture, food and traditions held in Chýně near Prague.",
+      "It brings together Japanese cuisine, traditional arts, martial arts, music, dance and Japanese tea in one place. Throughout the day, the stage will host guests and groups with a genuine, long-term connection to Japan.",
+      "The event will also feature sales and presentation stands with a Japanese theme. The Japanese Day of Tea and Culture 2026 takes place on 10 October 2026 at ZŠ Bolzanova, Bolzanova 800, Chýně near Prague."
+    ]
+  },
+  "video": {
+    "kicker": "Atmosphere",
+    "title": "Watch highlights from the Japanese Day of Tea and Culture",
+    "youtubeId": "hpFwDbZvoeg",
+    "caption": "Video from the previous edition. It loads only after the visitor clicks to play it."
+  },
+  "practical": {
+    "kicker": "Visitor information",
+    "title": "When, where and admission",
+    "items": [
+      {
+        "label": "Date",
+        "value": "10 October 2026"
+      },
+      {
+        "label": "Opening",
+        "value": "10:00"
+      },
+      {
+        "label": "Venue",
+        "value": "ZŠ Bolzanova, Bolzanova 800, 253 03 Chýně"
+      },
+      {
+        "label": "Admission",
+        "value": "100 Kč"
+      }
+    ],
+    "transport": "Chýně is located on the western edge of Prague. Detailed information about public transport, travel and parking will be added before the event.",
+    "accessibility": "Accessibility information will be added once the organisational details have been confirmed.",
+    "faq": [
+      {
+        "question": "When does the Japanese Day of Tea and Culture 2026 take place?",
+        "answer": "On Saturday, 10 October 2026. The hall opens to the public at 10:00."
+      },
+      {
+        "question": "Where is the festival held?",
+        "answer": "At ZŠ Bolzanova, Bolzanova 800, 253 03 Chýně near Prague."
+      },
+      {
+        "question": "How much is admission?",
+        "answer": "Admission to the Japanese Day of Tea and Culture 2026 is 100 Kč."
+      },
+      {
+        "question": "Where can I find the latest programme?",
+        "answer": "The current schedule is published on the Programme page and will be updated as performance times are confirmed."
+      }
+    ]
+  },
+  "contact": {
+    "intro": "For questions about the programme, partnerships or exhibitor participation, please contact the organisers. Public contact details will be added before the website officially launches.",
+    "email": "",
+    "phone": ""
+  },
+  "navigation": [
+    {
+      "label": "About",
+      "path": "/o-akci"
+    },
+    {
+      "label": "Programme",
+      "path": "/program"
+    },
+    {
+      "label": "Performers",
+      "path": "/ucinkujici"
+    },
+    {
+      "label": "Japanese cuisine",
+      "path": "/gastronomie"
+    },
+    {
+      "label": "Exhibitors",
+      "path": "/vystavovatele"
+    },
+    {
+      "label": "Gallery",
+      "path": "/galerie"
+    },
+    {
+      "label": "Visitor information",
+      "path": "/prakticke-informace"
+    }
+  ],
+  "ui": {
+    "openingFrom": "Open from {time}",
+    "breadcrumbLabel": "Breadcrumb navigation",
+    "homeLabel": "Japanese Day of Tea and Culture — home",
+    "mainNavigation": "Main navigation",
+    "openMenu": "Open menu",
+    "language": "Language",
+    "importantLinks": "Important links",
+    "legalInformation": "Legal information",
+    "socialLinks": "Website / social media",
+    "exhibitorListPending": "The exhibitor list is being prepared.",
+    "previousYear": "Previous edition",
+    "galleryTitle": "Atmosphere of Japan Day 2025",
+    "all": "All",
+    "showPhoto": "View photo: {alt}",
+    "closePhoto": "Close photo",
+    "photoPending": "Photo coming soon",
+    "heroCardLabel": "Japanese Day of Tea and Culture 2026",
+    "cultureGastronomyTradition": "culture • food • traditions",
+    "organizers": "Organisers",
+    "partnersAndPatronage": "Partners and patronage",
+    "allPerformers": "All performers",
+    "inProgramme": "In the programme",
+    "performersDetail": "Performer details: {name}",
+    "showDetail": "View details",
+    "transportAndParking": "Transport and parking",
+    "accessibility": "Accessibility",
+    "faq": "Frequently asked questions",
+    "moreAbout": "More about {name}",
+    "playVideo": "Play video",
+    "playVideoLabel": "Play video from the Japanese Day of Tea and Culture",
+    "previousYearVideoAlt": "Video from the previous Japanese Day of Tea and Culture",
+    "galleryCategories": {
+      "Program": "Programme",
+      "Čaj": "Tea",
+      "Gastronomie": "Food",
+      "Atmosféra": "Atmosphere",
+      "Stánky": "Stalls"
+    }
+  },
+  "footer": {
+    "note": "Programme subject to change.",
+    "legalLinks": [
+      {
+        "label": "Terms and conditions",
+        "url": "https://www.chakai.cz/obchodni-podminky/"
+      },
+      {
+        "label": "Privacy policy",
+        "url": "https://www.chakai.cz/podminky-ochrany-osobnich-udaju/"
+      }
+    ]
+  }
+}

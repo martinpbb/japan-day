@@ -1,13 +1,16 @@
 import React from "react";
+import { addLocalePrefix, useI18n } from "../lib/i18n.jsx";
 
 export default function Breadcrumbs({ current, parent = null }) {
+  const { locale, site } = useI18n();
+  const { ui } = site;
   return (
-    <nav className="breadcrumbs container" aria-label="Drobečková navigace">
-      <a href="/">Japonský den čaje a kultury</a>
+    <nav className="breadcrumbs container" aria-label={ui.breadcrumbLabel}>
+      <a href={addLocalePrefix("/", locale)}>{site.brand.name}</a>
       {parent ? (
         <>
           <span aria-hidden="true">›</span>
-          <a href={parent.path}>{parent.name}</a>
+          <a href={addLocalePrefix(parent.path, locale)}>{parent.name}</a>
         </>
       ) : null}
       <span aria-hidden="true">›</span>

@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "id": "aikido-chyne",
+      "name": "Aikido Chýně",
+      "category": "Aikido",
+      "short": "A demonstration of the traditional Japanese martial art of aikido.",
+      "description": "The local Aikido Chýně club will present two demonstrations of this traditional Japanese martial art during the day.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Aikido Chýně is a local Japanese martial arts club founded in 2023. It is led by Ing. arch. Václav Plánský, holder of 1st dan Aikikai."
+        },
+        {
+          "type": "p",
+          "text": "Aikido works with movement, balance, timing and response to a partner’s attack. Rather than competition, it places strong emphasis on technique, control of movement and cooperation in training."
+        },
+        {
+          "type": "h2",
+          "text": "Aikido from Chýně"
+        },
+        {
+          "type": "p",
+          "text": "The club will perform twice during Japan Day. Visitors will be able to watch demonstrations of technique, movement and interaction between attacker and defender from close range."
+        }
+      ],
+      "image": "/images/performers/aikido_chyne.png"
+    },
+    {
+      "id": "marek-hora",
+      "name": "Marek Hora",
+      "category": "Japanese cuisine",
+      "short": "Ambassador of Japanese cuisine in the Czech Republic and an acclaimed chef in Europe and Japan.",
+      "description": "On stage, he will break down a fresh Hamachi and demonstrate expert sushi preparation.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Marek Hora is one of the leading figures of Japanese cuisine in the Czech Republic. He has worked with Japanese cuisine for more than thirty years and gained experience directly in Japan."
+        },
+        {
+          "type": "p",
+          "text": "In Japan, he trained at establishments including Sakae Zushi. In 2009, he placed second at the international World Sushi Stadium competition in Shizuoka, Japan."
+        },
+        {
+          "type": "h2",
+          "text": "Ambassador of Japanese cuisine"
+        },
+        {
+          "type": "p",
+          "text": "In 2024, he was appointed an ambassador of Japanese cuisine by Japan’s Ministry of Agriculture. He has long worked with Japanese chefs and bases his work on respect for ingredients, precise technique and an authentic approach to Japanese cuisine."
+        },
+        {
+          "type": "h2",
+          "text": "What you will see in Chýně"
+        },
+        {
+          "type": "p",
+          "text": "Marek Hora will break down a fresh Hamachi in front of the audience and then demonstrate sushi preparation. It will be both a culinary demonstration and a chance to watch an experienced sushi master at work from close range."
+        }
+      ],
+      "image": "/images/performers/marek_hora.png"
+    },
+    {
+      "id": "noriko-komiyama",
+      "name": "Noriko Komiyama",
+      "category": "Ikebana",
+      "short": "Japanese instructor of Sogetsu school ikebana.",
+      "description": "She will demonstrate the differences between the Ikenobo and Sogetsu schools and show how flowers are used in Japanese arrangements.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Noriko Komiyama is a Japanese ikebana instructor who has lived in Prague for many years. She focuses mainly on the Sogetsu school and regularly shares her experience through public demonstrations and workshops."
+        },
+        {
+          "type": "p",
+          "text": "Her ikebana demonstrations have also been held under the patronage of the Embassy of Japan, including at Flora Bratislava, where she led practical workshops alongside a stage demonstration."
+        },
+        {
+          "type": "h2",
+          "text": "Ikebana does not have to begin with an exotic flower"
+        },
+        {
+          "type": "p",
+          "text": "At Japan Day, she will show how ordinary flowers and plants available locally can be used. She will also introduce the different approaches of two major ikebana schools — Ikenobo and Sogetsu."
+        }
+      ],
+      "image": "/images/performers/noriko_komiyama.png"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "Kimono",
+      "short": "A demonstration of traditional kimono dressing.",
+      "description": "On stage, they will dress a representative of the City of Chýně in kimono and explain the symbolism and meaning of the individual parts of the outfit.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Nihon Bunka Plzeň is an association of Japanese culture enthusiasts covering a broad range of topics, from history and traditional clothing to martial arts, gastronomy and contemporary Japanese pop culture."
+        },
+        {
+          "type": "p",
+          "text": "The group is active mainly in the Plzeň Region, organises its own cultural events, lectures and workshops, and is also behind the Bunka Fest festival."
+        },
+        {
+          "type": "h2",
+          "text": "Traditional Japanese clothing"
+        },
+        {
+          "type": "p",
+          "text": "One of the areas Nihon Bunka Plzeň has focused on for many years is traditional Japanese clothing. At its events, visitors can try women’s, men’s and children’s kimono."
+        },
+        {
+          "type": "h2",
+          "text": "Kimono on stage"
+        },
+        {
+          "type": "p",
+          "text": "In Chýně, the kimono dressing will take place directly in front of the audience. Visitors will be able to follow the entire process layer by layer while learning more about its rules and meaning."
+        }
+      ],
+      "image": "/images/performers/nihon_bunka_plzen.png"
+    },
+    {
+      "id": "gorin",
+      "name": "Gorin",
+      "category": "Samurai show",
+      "short": "A group dedicated to Japanese martial traditions and the Sengoku period.",
+      "description": "Their programme includes a samurai show, combat archery and tameshigiri.",
+      "content": [
+        {
+          "type": "p",
+          "text": "The origins of Gorin go back to 1994, when an iaido and kendo club was founded in Strakonice under the leadership of Silvestr Prajer. It gradually developed into a group focused on historical Japanese martial traditions."
+        },
+        {
+          "type": "p",
+          "text": "Gorin focuses primarily on the Sengoku jidai, the Warring States period, when Japan experienced decades of almost continuous military conflict."
+        },
+        {
+          "type": "h2",
+          "text": "Samurai in full armour"
+        },
+        {
+          "type": "p",
+          "text": "The group performs combat scenes in full samurai armour, demonstrates various weapons, kyujutsu combat archery and tameshigiri cutting tests."
+        },
+        {
+          "type": "p",
+          "text": "Gorin members also make replicas of Japanese armour, weapons and historical costumes, and restore original samurai armour."
+        },
+        {
+          "type": "h2",
+          "text": "Three different performances during the day"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "combat scenes inspired by the Sengoku period",
+            "a demonstration of samurai combat archery",
+            "tameshigiri — a test of accuracy and cutting technique with a Japanese sword"
+          ]
+        }
+      ],
+      "image": "/images/performers/gorin_samurai_show.png"
+    },
+    {
+      "id": "aska-pluskal",
+      "name": "Aska Pluskal",
+      "category": "Music",
+      "short": "A Japanese singer from Okinawa.",
+      "description": "She will perform traditional and modern songs in Japanese.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Aska Pluskal is a singer from Okinawa, Japan’s southernmost region, known for its distinctive culture and musical traditions."
+        },
+        {
+          "type": "p",
+          "text": "She also performs as a vocalist in Okinawa. At Japan Day, she will present a selection of traditional and more contemporary songs sung in Japanese."
+        },
+        {
+          "type": "h2",
+          "text": "Japan through music"
+        },
+        {
+          "type": "p",
+          "text": "Her performance will offer a different side of Japanese culture from martial arts or traditional crafts — Japan conveyed through voice, melody and contemporary musical interpretation."
+        }
+      ],
+      "image": "/images/performers/aska_pluskal.png"
+    },
+    {
+      "id": "iaido",
+      "name": "Iaido",
+      "category": "Martial arts",
+      "short": "Demonstrations of the traditional Japanese art of swordsmanship.",
+      "description": "Iaido combines precise drawing of the Japanese sword, controlled movement and intense concentration.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Iaido is a Japanese martial art focused on swordsmanship, especially precise drawing, cutting and returning the sword to its scabbard."
+        },
+        {
+          "type": "p",
+          "text": "Training is based mainly on precisely defined kata forms. Great emphasis is placed not only on technique itself, but also on posture, timing, concentration and a calm mind."
+        },
+        {
+          "type": "h2",
+          "text": "Sword and precision of movement"
+        },
+        {
+          "type": "p",
+          "text": "The demonstration will show how individual movements connect into a continuous whole — from preparation and drawing the sword, through the technique itself, to a controlled finish."
+        }
+      ],
+      "image": "/images/performers/iaido_plzen.png"
+    },
+    {
+      "id": "sandomon-kendo-klub-praha",
+      "name": "San Dó Mon Kendó Klub Praha",
+      "category": "Kendo",
+      "short": "A Prague club dedicated to the traditional Japanese martial art of kendo.",
+      "description": "The club will present kendo — a Japanese martial art rooted in the tradition of swordsmanship.",
+      "content": [
+        {
+          "type": "p",
+          "text": "San Dó Mon is a Prague kendo club founded in 1994. Based at Karlovo náměstí, it has long been dedicated to developing and teaching the Japanese martial art of kendo."
+        },
+        {
+          "type": "p",
+          "text": "Among the club’s most experienced members is Jindřich Ziegelheim, holder of 7th dan in kendo and the title of Renshi."
+        },
+        {
+          "type": "h2",
+          "text": "What is kendo"
+        },
+        {
+          "type": "p",
+          "text": "Kendo developed from traditional Japanese kenjutsu schools of swordsmanship. Modern training uses the bamboo sword shinai and protective armour bogu, while retaining a strong emphasis on etiquette, respect and the principles of budo."
+        },
+        {
+          "type": "p",
+          "text": "At Japan Day, visitors will see kendo in motion — sword work, distance, timing and powerful kiai."
+        }
+      ],
+      "image": "/images/performers/sandomon_kendo_klub_praha.png"
+    },
+    {
+      "id": "marketa-franova",
+      "name": "Markéta Fránová",
+      "category": "Kamigatamai",
+      "short": "Traditional Japanese dance originating in the Kyoto and Osaka region.",
+      "description": "An elegant solo dance characterised by restrained movement, inner expression and subtle work with the fan.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Markéta Fránová is a student of the traditional Japanese dance Kamigatamai at the Ogawaryu school, where she has trained regularly since 2021."
+        },
+        {
+          "type": "p",
+          "text": "Kamigatamai comes from the Kamigata region, especially the cultural environment of Kyoto and Osaka. The style is characterised by subtle, precise and often highly restrained movements in which the dancer’s inner expression plays a central role."
+        },
+        {
+          "type": "h2",
+          "text": "A dance where every movement has meaning"
+        },
+        {
+          "type": "p",
+          "text": "Traditional props such as a painted paper fan or Japanese parasol are also used. Rather than large gestures, Kamigatamai works with detail, gesture, posture and precise control of movement."
+        }
+      ],
+      "image": "/images/performers/marketa_franova.png"
+    },
+    {
+      "id": "shakuhachi",
+      "name": "Japanese Shakuhachi Flute",
+      "category": "Music",
+      "short": "A demonstration of the traditional Japanese bamboo flute, the shakuhachi.",
+      "description": "An intimate musical performance devoted to the distinctive sound of the Japanese bamboo flute.",
+      "content": [
+        {
+          "type": "p",
+          "text": "The shakuhachi is a traditional Japanese bamboo flute with an exceptionally distinctive tone. Its simple construction allows the player to work very subtly with breath, intonation and the colour of individual notes."
+        },
+        {
+          "type": "p",
+          "text": "The instrument is associated with traditional Japanese music and spiritual musical forms, but today it is also used in contemporary, improvised and experimental music."
+        },
+        {
+          "type": "h2",
+          "text": "Music of breath and silence"
+        },
+        {
+          "type": "p",
+          "text": "In this intimate performance, not only the sound of the flute itself will stand out, but also the use of silence, breath and the space between individual notes."
+        }
+      ],
+      "image": "/images/performers/shakuhachi_shibumi.png"
+    },
+    {
+      "id": "yosakoi-hanamaru",
+      "name": "Yosakoi Hanamaru",
+      "category": "Dance",
+      "short": "A Czech dance group dedicated to the energetic Japanese dance style yosakoi.",
+      "description": "A colourful group performance combining modern dance with traditional Japanese elements.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Yosakoi Hanamaru is a dance group founded in Prague in 2018. In 2020, the team expanded to Brno and today brings together Czech, Slovak, Japanese and other international members."
+        },
+        {
+          "type": "p",
+          "text": "Three members of the group were appointed yosakoi ambassadors in Japan in 2019."
+        },
+        {
+          "type": "h2",
+          "text": "What is yosakoi"
+        },
+        {
+          "type": "p",
+          "text": "Yosakoi originated in 1954 in Kochi Prefecture, Japan. It is an energetic group dance combining modern choreography with traditional Japanese elements."
+        },
+        {
+          "type": "p",
+          "text": "Small wooden clappers called naruko are typical of yosakoi, while choreographies may also use fans, parasols, lanterns or large team flags."
+        },
+        {
+          "type": "h2",
+          "text": "Hanamaru in the Czech Republic and abroad"
+        },
+        {
+          "type": "p",
+          "text": "The group regularly appears at events connected with Japanese culture, including Animefest, Tanabata, Eigasai and Cosples. It has also performed in Poland, Hungary and Slovakia."
+        }
+      ],
+      "image": "/images/performers/yosakoi_hanamaru.png"
+    },
+    {
+      "id": "kuroi-yuki",
+      "name": "Kuroi Yuki",
+      "category": "Japanese culture",
+      "short": "A guest in the Japan Day programme.",
+      "description": "A performance as part of the main event programme.",
+      "image": "/images/performers/kuroi_yuki.png",
+      "content": []
+    }
+  ]
+}

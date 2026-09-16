@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "title": "Sushi & sashimi",
+      "text": "Fresh Hamachi, sushi and sashimi prepared on site."
+    },
+    {
+      "title": "Japanese grill",
+      "text": "Yaki sakana, butaniku no miso yaki and other Japanese flavours from the grill."
+    },
+    {
+      "title": "Japanese tea",
+      "text": "A selection of Japanese teas, tea-based drinks and special non-alcoholic combinations."
+    },
+    {
+      "title": "Sake & whisky",
+      "text": "A selection of sake from dry to sweeter styles, as well as Japanese whisky."
+    }
+  ]
+}

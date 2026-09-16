@@ -1,0 +1,111 @@
+{
+  "status": "published",
+  "intro": "Japan Dayでは、日本文化、食、飲み物、伝統工芸をテーマにした販売・飲食・紹介ブースが並びます。",
+  "items": [
+    {
+      "id": "yamaya",
+      "name": "Yamaya",
+      "category": "日本茶",
+      "description": "日本茶とお茶の文化をご紹介します。",
+      "image": "/images/exhibitors/yamaya.png"
+    },
+    {
+      "id": "nagomi-tea",
+      "name": "Nagomi tea",
+      "category": "日本茶",
+      "description": "日本の生産者から直接仕入れた上質な日本茶をご紹介します。",
+      "image": "/images/exhibitors/nagomi_tea.png"
+    },
+    {
+      "id": "nagomi-sake",
+      "name": "Nagomi sake",
+      "category": "日本酒",
+      "description": "日本酒の紹介と試飲を行います。",
+      "image": "/images/exhibitors/nagomi_sake.png"
+    },
+    {
+      "id": "daniela-brouckova-rencova",
+      "name": "Daniela Broučková Renčová",
+      "category": "日本文化",
+      "description": "日本から着想を得た作品をご紹介します。",
+      "image": "/images/exhibitors/daniela_brouckova_rencova.png"
+    },
+    {
+      "id": "onigiri-hostivice",
+      "name": "Onigiri Hostivice",
+      "category": "グルメ",
+      "description": "おにぎりをはじめとする日本の味をご提供します。",
+      "image": "/images/exhibitors/onigiri_hostivice.png"
+    },
+    {
+      "id": "japan-whisky",
+      "name": "Japan Whisky",
+      "category": "ジャパニーズウイスキー",
+      "description": "ジャパニーズウイスキーのセレクションと、その文化をご紹介します。",
+      "image": "/images/exhibitors/japan_whisky.png"
+    },
+    {
+      "id": "kumihimo",
+      "name": "Kumihimo – 日本の組紐",
+      "category": "伝統工芸",
+      "description": "日本の伝統的な組紐の技法をご紹介します。",
+      "image": "/images/exhibitors/kumihimo_japonske_snury.png"
+    },
+    {
+      "id": "matcha-tea",
+      "name": "Matcha tea",
+      "category": "日本茶",
+      "description": "抹茶と、抹茶を使ったドリンクをご紹介します。",
+      "image": "/images/exhibitors/matcha_tea.png"
+    },
+    {
+      "id": "japanese-wagashi",
+      "name": "Japanese wagashi",
+      "category": "和菓子",
+      "description": "日本の伝統的な和菓子をご紹介します。",
+      "image": "/images/exhibitors/japanese_wagashi.png"
+    },
+    {
+      "id": "world-bakery-60",
+      "name": "World Bakery 60",
+      "category": "グルメ",
+      "description": "日本やアジアのパン、ケーキ、スイーツをご提供します。",
+      "image": "/images/exhibitors/world_bakery_60.png"
+    },
+    {
+      "id": "glaceo",
+      "name": "Glaceo",
+      "category": "グルメ",
+      "description": "アイスクリームや冷たいスイーツをご提供します。",
+      "image": "/images/exhibitors/glaceo.png"
+    },
+    {
+      "id": "fujitsu",
+      "name": "Fujitsu",
+      "category": "パートナー・展示",
+      "description": "日本のテクノロジー企業で、本イベントのパートナーです。",
+      "image": "/images/exhibitors/fujitsu.png"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "日本文化",
+      "description": "Nihon Bunkaによる日本文化、伝統衣装、各種活動の紹介です。",
+      "image": "/images/exhibitors/nihon_bunka_plzen.png"
+    },
+    {
+      "id": "go-akademie-praha",
+      "name": "GO Akademie Praha",
+      "category": "日本のゲーム",
+      "description": "伝統的な戦略ボードゲーム「囲碁」をご紹介します。",
+      "image": "/images/exhibitors/go_akademie_praha.png"
+    },
+    {
+      "id": "fakulta-herni",
+      "name": "Fakulta herní",
+      "category": "ゲーム・教育",
+      "description": "ゲーム関連の活動と教育をご紹介します。",
+      "image": "/images/exhibitors/fakulta_herni.png"
+    }
+  ]
+}

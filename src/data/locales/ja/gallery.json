@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "id": "gallery-2025-01",
+      "src": "/images/gallery/japan-day-2025-ikebana.webp",
+      "alt": "日本茶と日本文化の日 2025での生け花デモンストレーション",
+      "category": "プログラム",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-02",
+      "src": "/images/gallery/japan-day-2025-caj.webp",
+      "alt": "日本茶と日本文化の日 2025での日本茶の淹れ方",
+      "category": "お茶",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-03",
+      "src": "/images/gallery/japan-day-2025-gastronomie.webp",
+      "alt": "日本茶と日本文化の日 2025での日本料理の調理風景",
+      "category": "グルメ",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-04",
+      "src": "/images/gallery/japan-day-2025-samurajska-zbroj.webp",
+      "alt": "日本茶と日本文化の日 2025で展示された侍の甲冑",
+      "category": "会場の雰囲気",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-05",
+      "src": "/images/gallery/japan-day-2025-samuraj.webp",
+      "alt": "日本茶と日本文化の日 2025で伝統的な甲冑を着た侍",
+      "category": "プログラム",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-06",
+      "src": "/images/gallery/japan-day-2025-samurajska-show.webp",
+      "alt": "日本茶と日本文化の日 2025のサムライショー",
+      "category": "プログラム",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-07",
+      "src": "/images/gallery/japan-day-2025-hudba.webp",
+      "alt": "日本茶と日本文化の日 2025の音楽ステージ",
+      "category": "プログラム",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-08",
+      "src": "/images/gallery/japan-day-2025-stanky.webp",
+      "alt": "日本茶と日本文化の日 2025の出店と来場者",
+      "category": "出店",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-09",
+      "src": "/images/gallery/japan-day-2025-sushi.webp",
+      "alt": "日本茶と日本文化の日 2025で寿司を調理するMarek Hora",
+      "category": "グルメ",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-10",
+      "src": "/images/gallery/japan-day-2025-japonske-dobroty.webp",
+      "alt": "日本茶と日本文化の日 2025の和菓子とパン",
+      "category": "グルメ",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-11",
+      "src": "/images/gallery/japan-day-2025-kimono.webp",
+      "alt": "日本茶と日本文化の日 2025の着物着付け実演",
+      "category": "プログラム",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-12",
+      "src": "/images/gallery/japan-day-2025-aikido.webp",
+      "alt": "日本茶と日本文化の日 2025の合気道演武",
+      "category": "プログラム",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-13",
+      "src": "/images/gallery/japan-day-2025-origami-pro-deti.webp",
+      "alt": "日本茶と日本文化の日 2025で折り紙を楽しむ子どもたち",
+      "category": "会場の雰囲気",
+      "year": 2025
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "organizers": [
+    {
+      "name": "City of Chýně",
+      "image": "/images/partners/chyne.png"
+    },
+    {
+      "name": "Ing. Martin Labudík",
+      "image": ""
+    }
+  ],
+  "partners": [
+    {
+      "name": "Embassy of Japan in Prague",
+      "note": "Honorary Patronage",
+      "image": "/images/partners/embassy.png"
+    },
+    {
+      "name": "Fujitsu",
+      "image": "/images/partners/fujitsu.png"
+    },
+    {
+      "name": "Nagomi s.r.o.",
+      "image": "/images/partners/nagomi.png"
+    },
+    {
+      "name": "ZŠ Bolzanova",
+      "image": "/images/partners/zs-bolzanova.png"
+    }
+  ]
+}

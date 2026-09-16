@@ -1,0 +1,127 @@
+{
+  "baseUrl": "https://japanday.cz",
+  "siteName": "日本茶と日本文化の日",
+  "locale": "ja_JP",
+  "language": "ja-JP",
+  "defaultImage": "/images/social/japan-day-chyne-2026-og.png",
+  "semanticTopics": [
+    "Japan Day Chýně",
+    "Japan Day",
+    "日本茶と日本文化の日",
+    "日本文化フェスティバル",
+    "日本文化",
+    "日本料理",
+    "日本食",
+    "寿司",
+    "刺身",
+    "日本茶",
+    "日本酒",
+    "ジャパニーズウイスキー",
+    "侍",
+    "サムライショー",
+    "試し斬り",
+    "弓術",
+    "合気道",
+    "剣道",
+    "生け花",
+    "プラハ イベント",
+    "チェコ 日本イベント",
+    "プラハ 日本文化",
+    "Chýně フェスティバル"
+  ],
+  "routes": {
+    "/": {
+      "title": "日本茶と日本文化の日 2026 | Japan Day Chýně",
+      "description": "プラハ近郊Chýněで開催されるJapan Day Chýně 2026。寿司、日本茶、日本酒、侍、合気道、剣道、生け花など、日本文化を一日たっぷり楽しめます。",
+      "h1": "日本茶と日本文化の日",
+      "intro": "Japan Day Chýně 2026 — プラハ近郊Chýněで日本文化・食・伝統を楽しむフェスティバルです。",
+      "schema": [
+        "festival",
+        "organization"
+      ]
+    },
+    "/program": {
+      "title": "プログラム | 日本茶と日本文化の日 2026",
+      "description": "Japan Day Chýně 2026のプログラム。日本料理、合気道、サムライショー、生け花、舞踊、音楽などをお楽しみいただけます。",
+      "h1": "日本茶と日本文化の日 2026 プログラム",
+      "intro": "一日のステージや催しのスケジュールをご案内します。",
+      "breadcrumb": "プログラム",
+      "schema": [
+        "festival",
+        "breadcrumb"
+      ]
+    },
+    "/ucinkujici": {
+      "title": "出演者 | 日本茶と日本文化の日 2026",
+      "description": "Japan Day Chýně 2026の出演者・ゲストをご紹介します。日本料理、生け花、武道、音楽、舞踊など多彩な分野から登場します。",
+      "h1": "出演者・ゲスト",
+      "intro": "日本の伝統文化から現代文化までを紹介する出演者やグループです。",
+      "breadcrumb": "出演者",
+      "sectionKicker": "ゲスト・出演者",
+      "sectionTitle": "日本の魅力を伝える人々",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/gastronomie": {
+      "title": "日本料理と飲み物 | 日本茶と日本文化の日",
+      "description": "Japan Day Chýněで味わう日本料理。寿司、刺身、ハマチ、和風グリル、日本茶、日本酒、ジャパニーズウイスキーなどをご用意します。",
+      "h1": "日本料理",
+      "intro": "寿司、刺身、和風グリル、日本茶、日本酒など、日本の味をお楽しみください。",
+      "breadcrumb": "日本料理",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele": {
+      "title": "出展者・販売ブース | 日本茶と日本文化の日",
+      "description": "Japan Day Chýně 2026に参加する、日本をテーマにした出展者、団体、販売ブースをご紹介します。",
+      "h1": "出展者・販売ブース",
+      "intro": "Chýněの会場で出会えるブランド、団体、販売者をご紹介します。",
+      "breadcrumb": "出展者",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/prakticke-informace": {
+      "title": "会場・アクセス・入場料 | Japan Day Chýně 2026",
+      "description": "Japan Day Chýně 2026のご来場案内。開催日、時間、会場、ZŠ Bolzanovaの住所、入場料、交通、駐車場情報をご確認いただけます。",
+      "h1": "ご来場案内",
+      "intro": "開催日、会場、入場料、プラハ近郊Chýněへのアクセスをご案内します。",
+      "breadcrumb": "ご来場案内",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/galerie": {
+      "title": "フォトギャラリー | 日本茶と日本文化の日",
+      "description": "前回のJapan Day Chýněの写真をご覧ください。ステージ、日本文化、日本料理、出店、会場の雰囲気をご紹介します。",
+      "h1": "日本茶と日本文化の日 フォトギャラリー",
+      "intro": "前回のChýně会場の雰囲気を写真でご覧ください。",
+      "breadcrumb": "ギャラリー",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/o-akci": {
+      "title": "イベントについて | 日本茶と日本文化の日",
+      "description": "Chýněで開催される「日本茶と日本文化の日」は、日本文化、食、伝統、人との交流をつなぐイベントです。短い名称はJapan Day Chýněです。",
+      "h1": "日本茶と日本文化の日について",
+      "intro": "プラハ近郊Chýněで開催される、日本文化・食・伝統のフェスティバルです。",
+      "breadcrumb": "イベントについて",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/kontakt": {
+      "title": "お問い合わせ | 日本茶と日本文化の日",
+      "description": "Japan Day Chýněの主催者へのお問い合わせ。ご来場、パートナーシップ、出展に関する情報をご案内します。",
+      "h1": "お問い合わせ",
+      "intro": "主催者へのお問い合わせ、および協力をご検討の方へのご案内です。",
+      "breadcrumb": "お問い合わせ",
+      "schema": [
+        "breadcrumb"
+      ]
+    }
+  }
+}

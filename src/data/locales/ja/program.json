@@ -1,0 +1,147 @@
+{
+  "status": "published",
+  "note": "日本茶と日本文化の日 2026のプログラムです。内容は変更となる場合があります。",
+  "items": [
+    {
+      "time": "10:00",
+      "title": "一般開場",
+      "type": "info",
+      "confirmed": true
+    },
+    {
+      "time": "11:00",
+      "title": "開会・ご挨拶",
+      "description": "在チェコ日本国大使館、Chýně市、主催者の代表よりご挨拶します。",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "11:25",
+      "performerId": "aikido-chyne",
+      "title": "Aikido Chýně",
+      "description": "日本の伝統武道、合気道の演武です。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "11:50",
+      "performerId": "marek-hora",
+      "title": "Marek Hora",
+      "description": "チェコにおける日本料理のアンバサダーで、欧州と日本で高く評価される料理人です。ステージでは新鮮なハマチをさばき、熟練の寿司づくりを披露します。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "12:35",
+      "performerId": "noriko-komiyama",
+      "title": "Noriko Komiyama",
+      "description": "草月流の認定生け花講師です。池坊（池坊流）と草月流という二つの名高い流派の違いを紹介し、身近な花でも印象的な作品を作れることを実演します。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "13:20",
+      "performerId": "nihon-bunka-plzen",
+      "title": "Nihon Bunka Plzeň",
+      "description": "伝統的な着物の着付け実演です。ステージ上でChýně市の代表者に着物を着付けながら、各部位の意味や象徴について解説します。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "13:50",
+      "performerId": "gorin",
+      "title": "Gorin",
+      "description": "戦国時代の戦場をイメージした殺陣を披露するサムライショーです。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:15",
+      "performerId": "aska-pluskal",
+      "title": "Aska Pluskal",
+      "description": "沖縄出身の歌手が、日本語で伝統曲と現代の楽曲を歌います。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:50",
+      "performerId": "aikido-chyne",
+      "title": "Aikido Chýně",
+      "description": "日本の伝統武道、合気道の2回目の演武です。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "15:15",
+      "performerId": "iaido",
+      "title": "Iaido Plzeň",
+      "description": "日本の伝統武道、居合道の演武です。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "15:40",
+      "performerId": "sandomon-kendo-klub-praha",
+      "title": "Sandomon Kendo Klub Praha",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:10",
+      "performerId": "marketa-franova",
+      "title": "上方舞 – Markéta Franová",
+      "description": "大阪・京都を中心とする上方に伝わる伝統的な一人舞。優雅で控えめな所作と、扇を用いた繊細な表現が特徴です。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:30",
+      "performerId": "shakuhachi",
+      "title": "尺八演奏",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:55",
+      "performerId": "gorin",
+      "title": "Gorin – 武家弓術",
+      "description": "侍の弓術を、解説付きで実演します。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "17:20",
+      "performerId": "yosakoi-hanamaru",
+      "title": "Yosakoi Hanamaru",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "17:45",
+      "performerId": "kuroi-yuki",
+      "title": "Kuroi Yuki",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:15",
+      "performerId": "gorin",
+      "title": "Gorin – 試し斬り",
+      "description": "日本刀で巻き藁を斬る試し斬りの実演です。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:40",
+      "title": "イベント締めくくり・ベスト着物コンテスト発表",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "19:50",
+      "title": "ご挨拶・プログラム終了",
+      "type": "ceremony",
+      "confirmed": true
+    }
+  ]
+}

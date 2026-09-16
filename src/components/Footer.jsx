@@ -1,6 +1,8 @@
 import React from "react";
-import site from "../data/site.json";
+import { addLocalePrefix, useI18n } from "../lib/i18n.jsx";
 export default function Footer() {
+  const { locale, site } = useI18n();
+  const { ui } = site;
   const footerNavigation = site.navigation.filter((item) => [
     "/program",
     "/ucinkujici",
@@ -20,12 +22,12 @@ export default function Footer() {
             <span>{site.event.date}</span>
             <span>{site.event.venue}, {site.event.city}</span>
           </div>
-          <nav className="footerColumn" aria-label="Důležité odkazy">
-            <h2>Důležité odkazy</h2>
-            {footerNavigation.map((item) => <a key={item.path} href={item.path}>{item.label}</a>)}
+          <nav className="footerColumn" aria-label={ui.importantLinks}>
+            <h2>{ui.importantLinks}</h2>
+            {footerNavigation.map((item) => <a key={item.path} href={addLocalePrefix(item.path, locale)}>{item.label}</a>)}
           </nav>
-          <nav className="footerColumn" aria-label="Právní informace">
-            <h2>Právní informace</h2>
+          <nav className="footerColumn" aria-label={ui.legalInformation}>
+            <h2>{ui.legalInformation}</h2>
             {site.footer.legalLinks.map((item) => <a key={item.url} href={item.url} target="_blank" rel="noreferrer">{item.label}</a>)}
           </nav>
         </div>

@@ -1,0 +1,147 @@
+{
+  "status": "published",
+  "note": "Programme for the Japanese Day of Tea and Culture 2026. Programme subject to change.",
+  "items": [
+    {
+      "time": "10:00",
+      "title": "Hall opens to the public",
+      "type": "info",
+      "confirmed": true
+    },
+    {
+      "time": "11:00",
+      "title": "Welcome",
+      "description": "Welcome remarks from a representative of the Embassy of Japan in the Czech Republic, the City of Chýně and the event organiser.",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "11:25",
+      "performerId": "aikido-chyne",
+      "title": "Aikido Chýně",
+      "description": "A demonstration of the traditional Japanese martial art of aikido.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "11:50",
+      "performerId": "marek-hora",
+      "title": "Marek Hora",
+      "description": "An ambassador of Japanese cuisine in the Czech Republic and an acclaimed chef in Europe and Japan. On stage, he will break down a fresh Hamachi and demonstrate expert sushi preparation.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "12:35",
+      "performerId": "noriko-komiyama",
+      "title": "Noriko Komiyama",
+      "description": "A certified Sogetsu ikebana instructor. She will demonstrate the differences between two renowned schools — Ikenobo (池坊流) and Sogetsu (草月流) — and show how ordinary flowers can be turned into an impressive arrangement that visitors can also try at home.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "13:20",
+      "performerId": "nihon-bunka-plzen",
+      "title": "Nihon Bunka Plzeň",
+      "description": "A traditional kimono dressing demonstration. On stage, a representative of the City of Chýně will be dressed in kimono while the symbolism and purpose of each part of the outfit are explained.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "13:50",
+      "performerId": "gorin",
+      "title": "Gorin",
+      "description": "A samurai show featuring combat scenes inspired by the battlefields of the Sengoku period.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:15",
+      "performerId": "aska-pluskal",
+      "title": "Aska Pluskal",
+      "description": "A singer from Okinawa performs traditional and modern songs in Japanese.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:50",
+      "performerId": "aikido-chyne",
+      "title": "Aikido Chýně",
+      "description": "A second demonstration of the traditional Japanese martial art of aikido.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "15:15",
+      "performerId": "iaido",
+      "title": "Iaido Plzeň",
+      "description": "Demonstrations of the traditional Japanese martial art of iaido.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "15:40",
+      "performerId": "sandomon-kendo-klub-praha",
+      "title": "Sandomon Kendo Klub Praha",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:10",
+      "performerId": "marketa-franova",
+      "title": "Kamigatamai – Markéta Franová",
+      "description": "A traditional solo dance style from the Osaka and Kyoto region, characterised by elegance, restrained movement and subtle use of the fan.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:30",
+      "performerId": "shakuhachi",
+      "title": "Japanese Shakuhachi Flute",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:55",
+      "performerId": "gorin",
+      "title": "Gorin – Samurai Archery",
+      "description": "A samurai archery demonstration — a traditional Japanese discipline presented with live commentary.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "17:20",
+      "performerId": "yosakoi-hanamaru",
+      "title": "Yosakoi Hanamaru",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "17:45",
+      "performerId": "kuroi-yuki",
+      "title": "Kuroi Yuki",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:15",
+      "performerId": "gorin",
+      "title": "Gorin – Tameshigiri",
+      "description": "A tameshigiri demonstration — cutting rolled mats with a Japanese katana.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:40",
+      "title": "Closing & Best Kimono Competition Results",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "19:50",
+      "title": "Thanks and End of Programme",
+      "type": "ceremony",
+      "confirmed": true
+    }
+  ]
+}

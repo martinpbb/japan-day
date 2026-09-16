@@ -4,13 +4,15 @@ import ImageWithFallback from "./ImageWithFallback.jsx";
 import Section from "./Section.jsx";
 import ContentRenderer from "./ContentRenderer.jsx";
 import program from "../data/program.json";
+import { addLocalePrefix, useI18n } from "../lib/i18n.jsx";
 
 export default function PerformerDetail({ performer }) {
+  const { locale } = useI18n();
   const appearances = program.items.filter((item) => item.performerId === performer.id);
 
   return (
     <Section className="performerDetailSection">
-      <a className="backLink" href="/ucinkujici">
+      <a className="backLink" href={addLocalePrefix("/ucinkujici", locale)}>
         <ArrowLeft size={18} aria-hidden="true" />
         Všichni účinkující
       </a>
@@ -31,7 +33,7 @@ export default function PerformerDetail({ performer }) {
               <h2>V programu</h2>
               {appearances.map((item, index) => (
                 <div className="performerScheduleItem" key={`${item.time}-${index}`}>
-                  <a className="performerScheduleLink" href="/program">
+                  <a className="performerScheduleLink" href={addLocalePrefix("/program", locale)}>
                     <Clock3 size={18} aria-hidden="true" />
                     <span>
                       <strong>{item.time}</strong>

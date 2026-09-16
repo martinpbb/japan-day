@@ -1,0 +1,111 @@
+{
+  "status": "published",
+  "intro": "At Japan Day you will find sales, food and presentation stands dedicated to Japanese culture, food, drinks and traditional crafts.",
+  "items": [
+    {
+      "id": "yamaya",
+      "name": "Yamaya",
+      "category": "Japanese tea",
+      "description": "Japanese teas and tea culture.",
+      "image": "/images/exhibitors/yamaya.png"
+    },
+    {
+      "id": "nagomi-tea",
+      "name": "Nagomi tea",
+      "category": "Japanese tea",
+      "description": "Premium Japanese teas sourced directly from growers in Japan.",
+      "image": "/images/exhibitors/nagomi_tea.png"
+    },
+    {
+      "id": "nagomi-sake",
+      "name": "Nagomi sake",
+      "category": "Sake",
+      "description": "Presentation and tasting of Japanese sake.",
+      "image": "/images/exhibitors/nagomi_sake.png"
+    },
+    {
+      "id": "daniela-brouckova-rencova",
+      "name": "Daniela Broučková Renčová",
+      "category": "Japanese culture",
+      "description": "A presentation of work inspired by Japan.",
+      "image": "/images/exhibitors/daniela_brouckova_rencova.png"
+    },
+    {
+      "id": "onigiri-hostivice",
+      "name": "Onigiri Hostivice",
+      "category": "Food",
+      "description": "Japanese onigiri and other specialities.",
+      "image": "/images/exhibitors/onigiri_hostivice.png"
+    },
+    {
+      "id": "japan-whisky",
+      "name": "Japan Whisky",
+      "category": "Japanese whisky",
+      "description": "A selection of Japanese whisky and an introduction to Japanese whisky culture.",
+      "image": "/images/exhibitors/japan_whisky.png"
+    },
+    {
+      "id": "kumihimo",
+      "name": "Kumihimo – Japanese braiding",
+      "category": "Traditional crafts",
+      "description": "A demonstration of the traditional Japanese kumihimo braiding technique.",
+      "image": "/images/exhibitors/kumihimo_japonske_snury.png"
+    },
+    {
+      "id": "matcha-tea",
+      "name": "Matcha tea",
+      "category": "Japanese tea",
+      "description": "Matcha tea and drinks prepared with matcha.",
+      "image": "/images/exhibitors/matcha_tea.png"
+    },
+    {
+      "id": "japanese-wagashi",
+      "name": "Japanese wagashi",
+      "category": "Japanese sweets",
+      "description": "Traditional Japanese wagashi sweets.",
+      "image": "/images/exhibitors/japanese_wagashi.png"
+    },
+    {
+      "id": "world-bakery-60",
+      "name": "World Bakery 60",
+      "category": "Food",
+      "description": "Japanese and Asian baked goods, cakes and sweet specialities.",
+      "image": "/images/exhibitors/world_bakery_60.png"
+    },
+    {
+      "id": "glaceo",
+      "name": "Glaceo",
+      "category": "Food",
+      "description": "Ice cream and chilled specialities.",
+      "image": "/images/exhibitors/glaceo.png"
+    },
+    {
+      "id": "fujitsu",
+      "name": "Fujitsu",
+      "category": "Partner & presentation",
+      "description": "A Japanese technology company and partner of the event.",
+      "image": "/images/exhibitors/fujitsu.png"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "Japanese culture",
+      "description": "Japanese culture, traditional clothing and activities presented by the Nihon Bunka association.",
+      "image": "/images/exhibitors/nihon_bunka_plzen.png"
+    },
+    {
+      "id": "go-akademie-praha",
+      "name": "GO Akademie Praha",
+      "category": "Japanese games",
+      "description": "An introduction to the traditional strategic board game Go.",
+      "image": "/images/exhibitors/go_akademie_praha.png"
+    },
+    {
+      "id": "fakulta-herni",
+      "name": "Fakulta herní",
+      "category": "Games & education",
+      "description": "Presentation of gaming activities and education.",
+      "image": "/images/exhibitors/fakulta_herni.png"
+    }
+  ]
+}

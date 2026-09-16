@@ -1,0 +1,31 @@
+{
+  "organizers": [
+    {
+      "name": "Chýně市",
+      "image": "/images/partners/chyne.png"
+    },
+    {
+      "name": "Ing. Martin Labudík",
+      "image": ""
+    }
+  ],
+  "partners": [
+    {
+      "name": "在チェコ日本国大使館",
+      "note": "後援",
+      "image": "/images/partners/embassy.png"
+    },
+    {
+      "name": "Fujitsu",
+      "image": "/images/partners/fujitsu.png"
+    },
+    {
+      "name": "Nagomi s.r.o.",
+      "image": "/images/partners/nagomi.png"
+    },
+    {
+      "name": "ZŠ Bolzanova",
+      "image": "/images/partners/zs-bolzanova.png"
+    }
+  ]
+}

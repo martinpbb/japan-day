@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "id": "gallery-2025-01",
+      "src": "/images/gallery/japan-day-2025-ikebana.webp",
+      "alt": "Ikebana demonstration at the Japanese Day of Tea and Culture 2025",
+      "category": "Programme",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-02",
+      "src": "/images/gallery/japan-day-2025-caj.webp",
+      "alt": "Preparing Japanese tea at the Japanese Day of Tea and Culture 2025",
+      "category": "Tea",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-03",
+      "src": "/images/gallery/japan-day-2025-gastronomie.webp",
+      "alt": "Preparing Japanese food at the Japanese Day of Tea and Culture 2025",
+      "category": "Food",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-04",
+      "src": "/images/gallery/japan-day-2025-samurajska-zbroj.webp",
+      "alt": "Samurai armour on display at the Japanese Day of Tea and Culture 2025",
+      "category": "Atmosphere",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-05",
+      "src": "/images/gallery/japan-day-2025-samuraj.webp",
+      "alt": "Samurai in traditional armour at the Japanese Day of Tea and Culture 2025",
+      "category": "Programme",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-06",
+      "src": "/images/gallery/japan-day-2025-samurajska-show.webp",
+      "alt": "Samurai show at the Japanese Day of Tea and Culture 2025",
+      "category": "Programme",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-07",
+      "src": "/images/gallery/japan-day-2025-hudba.webp",
+      "alt": "Music performance at the Japanese Day of Tea and Culture 2025",
+      "category": "Programme",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-08",
+      "src": "/images/gallery/japan-day-2025-stanky.webp",
+      "alt": "Stalls and visitors at the Japanese Day of Tea and Culture 2025",
+      "category": "Stalls",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-09",
+      "src": "/images/gallery/japan-day-2025-sushi.webp",
+      "alt": "Marek Hora preparing sushi at the Japanese Day of Tea and Culture 2025",
+      "category": "Food",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-10",
+      "src": "/images/gallery/japan-day-2025-japonske-dobroty.webp",
+      "alt": "Japanese sweets and baked goods at the Japanese Day of Tea and Culture 2025",
+      "category": "Food",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-11",
+      "src": "/images/gallery/japan-day-2025-kimono.webp",
+      "alt": "Kimono dressing demonstration at the Japanese Day of Tea and Culture 2025",
+      "category": "Programme",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-12",
+      "src": "/images/gallery/japan-day-2025-aikido.webp",
+      "alt": "Aikido demonstration at the Japanese Day of Tea and Culture 2025",
+      "category": "Programme",
+      "year": 2025
+    },
+    {
+      "id": "gallery-2025-13",
+      "src": "/images/gallery/japan-day-2025-origami-pro-deti.webp",
+      "alt": "Children folding origami at the Japanese Day of Tea and Culture 2025",
+      "category": "Atmosphere",
+      "year": 2025
+    }
+  ]
+}

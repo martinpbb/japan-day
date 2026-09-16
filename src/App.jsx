@@ -17,9 +17,8 @@ import PageIntro from "./components/PageIntro.jsx";
 import Breadcrumbs from "./components/Breadcrumbs.jsx";
 import SmartsuppChat from "./components/SmartsuppChat.jsx";
 import SEO from "./seo/SEO.jsx";
-import seo from "./data/seo.json";
-import performers from "./data/performers.json";
 import { buildPerformerRoute } from "./seo/performerRoute.js";
+import { stripLocalePrefix, useI18n } from "./lib/i18n.jsx";
 
 const pageComponents = {
   "/program": Program,
@@ -37,7 +36,7 @@ function normalizePath(pathname) {
   return pathname.replace(/\/+$/, "") || "/";
 }
 
-function getPerformerFromPath(path) {
+function getPerformerFromPath(path, performers) {
   const match = path.match(/^\/ucinkujici\/([^/]+)$/);
   if (!match) return null;
   return performers.items.find((item) => item.id === decodeURIComponent(match[1])) || null;
@@ -84,8 +83,10 @@ function PerformerPage({ performer, route }) {
 }
 
 export default function App() {
-  const path = normalizePath(window.location.pathname);
-  const performer = getPerformerFromPath(path);
+  const { content } = useI18n();
+  const { seo, performers } = content;
+  const path = normalizePath(stripLocalePrefix(window.location.pathname));
+  const performer = getPerformerFromPath(path, performers);
   const performerRoute = performer ? buildPerformerRoute(performer) : null;
   const route = performerRoute || seo.routes[path] || seo.routes["/"];
   const isKnown = Boolean(performerRoute || seo.routes[path]);

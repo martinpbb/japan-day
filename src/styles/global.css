@@ -59,6 +59,7 @@ button {
 }
 .nav {
   display: flex;
+  align-items: center;
   gap: 4px;
 }
 .nav button {
@@ -71,6 +72,45 @@ button {
 }
 .nav button:hover {
   background: var(--white);
+}
+.languageSwitcher {
+  position: relative;
+  margin-left: 4px;
+}
+.languageSwitcherTrigger {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--line) !important;
+  background: rgba(255, 255, 255, 0.55) !important;
+}
+.languageSwitcherTrigger strong,
+.languageSwitcherMenu strong {
+  color: var(--red);
+  font-size: 12px;
+  letter-spacing: 0.06em;
+}
+.languageSwitcherMenu {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 2;
+  min-width: 150px;
+  padding: 6px;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+}
+.languageSwitcherMenu button {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 10px;
+  text-align: left;
+}
+.languageSwitcherMenu button.active {
+  background: var(--paper);
 }
 .menuButton {
   display: none;
@@ -670,12 +710,24 @@ button {
     border: 1px solid var(--line);
     border-radius: 18px;
     box-shadow: var(--shadow);
+    align-items: stretch;
   }
   .nav.open {
     display: flex;
   }
   .nav button {
     text-align: left;
+  }
+  .languageSwitcher {
+    margin: 4px 0 0;
+  }
+  .languageSwitcherTrigger {
+    width: 100%;
+  }
+  .languageSwitcherMenu {
+    position: static;
+    margin-top: 6px;
+    box-shadow: none;
   }
   .menuButton {
     display: block;
