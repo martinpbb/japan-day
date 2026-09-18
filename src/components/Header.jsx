@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
-import { addLocalePrefix, useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/i18n.jsx";
+import { addLocalePrefix } from "../lib/i18nPaths.js";
 
 const localeLabels = {
   cs: { code: "CZ", label: "Čeština" },

@@ -6,9 +6,9 @@ import { buildPerformerRoute } from "../../src/seo/performerRoute.js";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const dist = path.join(root, "dist");
-const seo = JSON.parse(await fs.readFile(path.join(root, "src/data/seo.json"), "utf8"));
-const site = JSON.parse(await fs.readFile(path.join(root, "src/data/site.json"), "utf8"));
-const performers = JSON.parse(await fs.readFile(path.join(root, "src/data/performers.json"), "utf8"));
+const seo = JSON.parse(await fs.readFile(path.join(root, "src/data/locales/cs/seo.json"), "utf8"));
+const site = JSON.parse(await fs.readFile(path.join(root, "src/data/locales/cs/site.json"), "utf8"));
+const performers = JSON.parse(await fs.readFile(path.join(root, "src/data/locales/cs/performers.json"), "utf8"));
 const baseHtml = await fs.readFile(path.join(dist, "index.html"), "utf8");
 
 const performerRoutes = Object.fromEntries(

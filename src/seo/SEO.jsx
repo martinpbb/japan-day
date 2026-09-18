@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
-import seo from "../data/seo.json";
-import site from "../data/site.json";
+import { useI18n } from "../lib/i18n.jsx";
 import { absoluteUrl, buildSchemas } from "./schema.js";
 
 function ensureMeta(selector, attributeName, attributeValue) {
@@ -24,6 +23,8 @@ function ensureLink(rel) {
 }
 
 export default function SEO({ path, route }) {
+  const { site, content } = useI18n();
+  const { seo } = content;
   useEffect(() => {
     document.title = route.title;
     ensureMeta('meta[name="description"]', "name", "description").content = route.description;

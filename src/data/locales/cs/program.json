@@ -10,6 +10,7 @@
     },
     {
       "time": "11:00",
+      "endTime": "11:15",
       "title": "Přivítání hostů",
       "description": "Slovo zástupce Velvyslanectví Japonska v ČR, zástupce města Chýně a organizátora akce.",
       "type": "ceremony",
@@ -17,128 +18,149 @@
     },
     {
       "time": "11:25",
+      "endTime": "11:40",
       "performerId": "aikido-chyne",
       "title": "Aikido Chýně",
-      "description": "Ukázka tradičního japonského bojového umění Aikido.",
+      "description": "Ukázka tradičního japonského bojového umění aikido. Klub Aikido Chýně vede Václav Plánský, držitel 1. danu Aikikai.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "11:50",
+      "endTime": "12:25",
       "performerId": "marek-hora",
       "title": "Marek Hora",
-      "description": "Ambasador japonské kuchyně v České republice a uznávaný šéfkuchař v Evropě i Japonsku. Na pódiu naporcuje čerstvou rybu Hamachi a předvede mistrovskou přípravu sushi.",
+      "description": "Ambasador japonské kuchyně v České republice a uznávaný šéfkuchař působící v Evropě i Japonsku. Marek Hora je majitelem pražské restaurace Yamaya. Na pódiu naporcuje čerstvou rybu hamachi a předvede mistrovskou přípravu sushi.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "12:35",
+      "endTime": "13:10",
       "performerId": "noriko-komiyama",
       "title": "Noriko Komiyama",
-      "description": "Certifikovaná lektorka ikebany školy Sógecu. Předvede rozdíly mezi dvěma slavnými školami – Ikenobó (池坊流) a Sógecu (草月流). Ukáže, jak lze z obyčejných květin vytvořit působivou dekoraci, aby si ji lidé mohli vyzkoušet i doma.",
+      "description": "Certifikovaná lektorka ikebany školy Sógecu. Předvede rozdíly mezi dvěma slavnými školami – Ikenobó (池坊流) a Sógecu (草月流). Ukáže, jak lze i z běžně dostupných květin vytvořit působivou ikebanu, kterou si mohou návštěvníci vyzkoušet také doma.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "13:20",
+      "endTime": "13:40",
       "performerId": "nihon-bunka-plzen",
       "title": "Nihon Bunka Plzeň",
-      "description": "Ukázka tradičního oblékání kimona. Na pódiu obléknou do kimona zástupce města Chýně a vysvětlí symboliku a význam jednotlivých částí oděvu.",
+      "description": "Ukázka tradičního oblékání kimona. Na pódiu obléknou do kimona zástupce města Chýně a přiblíží symboliku i význam jednotlivých částí tradičního japonského oděvu.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "13:50",
+      "endTime": "14:05",
       "performerId": "gorin",
-      "title": "Gorin",
-      "description": "Samurajská show – bojové scény inspirované bitevními poli období Sengoku.",
+      "title": "Gorin – samurajská show",
+      "description": "Samurajská show s bojovými scénami inspirovanými bitevními poli japonského období Sengoku.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "14:15",
-      "performerId": "aska-pluskal",
-      "title": "Aska Pluskal",
-      "description": "Zpěvačka původem z Okinawy zazpívá tradiční i moderní písně v japonštině.",
+      "endTime": "14:40",
+      "performerId": "marketa-franova",
+      "title": "Kamigatamai – Markéta Franová",
+      "description": "Ukázka tradičního sólového tanečního stylu kamigatamai z oblasti Ósaky a Kjóta, charakteristického elegancí, zdrženlivými pohyby a jemnou prací s vějířem.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "14:50",
+      "endTime": "15:05",
       "performerId": "aikido-chyne",
       "title": "Aikido Chýně",
-      "description": "Druhá ukázka tradičního japonského bojového umění Aikido.",
+      "description": "Druhá ukázka tradičního japonského bojového umění aikido.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "15:15",
-      "performerId": "iaido",
-      "title": "Iaido Plzeň",
-      "description": "Ukázky tradičního japonského bojového umění Iaido.",
+      "endTime": "15:30",
+      "performerId": "aska-pluskal",
+      "title": "Aska Pluskal",
+      "description": "Zpěvačka původem z Okinawy zazpívá tradiční i moderní japonské písně.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "15:40",
-      "performerId": "sandomon-kendo-klub-praha",
-      "title": "Sandomon Kendo Klub Praha",
+      "endTime": "16:00",
+      "performerId": "iaido",
+      "title": "Budō Plzeň",
+      "description": "Budō Plzeň představí iaido – tradiční japonské bojové umění zaměřené na práci s japonským mečem.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "16:10",
-      "performerId": "marketa-franova",
-      "title": "Kamigatamai – Markéta Franová",
-      "description": "Tradiční sólový taneční styl z oblasti Ósaky a Kjóta, charakteristický elegancí, zdrženlivými pohyby a jemnou prací s vějířem.",
+      "endTime": "16:25",
+      "performerId": "sandomon-kendo-klub-praha",
+      "title": "San Dó Mon Kendo Klub Praha",
+      "description": "San Dó Mon Kendo Klub Praha předvede ukázku kendo, japonského bojového umění vycházejícího z tradice šermu.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "16:30",
+      "endTime": "16:45",
       "performerId": "shakuhachi",
-      "title": "Japonská flétna Shakuhachi",
+      "title": "Tomáš Pelich – japonská flétna shakuhachi",
+      "description": "Ukázka hry na tradiční japonskou bambusovou flétnu shakuhachi v podání Tomáše Pelicha z meditační zahrady Shibumi.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "16:55",
+      "endTime": "17:10",
       "performerId": "gorin",
       "title": "Gorin – samurajská lukostřelba",
-      "description": "Ukázka samurajské lukostřelby – demonstrace tradiční japonské disciplíny s živým komentářem.",
+      "description": "Ukázka samurajské lukostřelby a tradiční práce s japonským lukem doplněná živým komentářem.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "17:20",
+      "endTime": "17:35",
       "performerId": "yosakoi-hanamaru",
-      "title": "Yosakoi Hanamaru",
+      "title": "Yosakoi Hanamaru (Praha)",
+      "description": "Taneční skupina Yosakoi Hanamaru Praha představí energický japonský taneční styl yosakoi, který propojuje tradiční prvky s moderní hudbou a choreografií.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "17:45",
-      "performerId": "kuroi-yuki",
-      "title": "Kuroi Yuki",
+      "endTime": "18:05",
+      "performerId": "radka-tumova",
+      "title": "Radka Tůmová – japonské rodové znaky",
+      "description": "Radka Tůmová představí japonské rodové znaky kamon (家紋), tradiční symboly používané k označení rodů a rodin. Přiblíží jejich historii, význam i podobnost s evropskou heraldickou tradicí.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "18:15",
+      "endTime": "18:30",
       "performerId": "gorin",
       "title": "Gorin – tamešigiri",
-      "description": "Ukázka tamešigiri – sekání rohoží pomocí japonské katany.",
+      "description": "Ukázka tamešigiri – tradičního testovacího sekání rohoží japonskou katanou.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "18:40",
-      "title": "Závěr akce & vyhlášení soutěže o nejlepší kimono",
+      "endTime": "18:55",
+      "title": "Závěr akce a vyhlášení soutěže o nejlepší kimono",
       "type": "ceremony",
       "confirmed": true
     },
     {
-      "time": "19:50",
+      "time": "19:00",
+      "endTime": "19:05",
       "title": "Poděkování a ukončení programu",
       "type": "ceremony",
       "confirmed": true

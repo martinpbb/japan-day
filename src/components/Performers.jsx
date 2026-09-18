@@ -2,7 +2,8 @@ import React from "react";
 import { ChevronRight } from "lucide-react";
 import Section from "./Section.jsx";
 import ImageWithFallback from "./ImageWithFallback.jsx";
-import { addLocalePrefix, useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/i18n.jsx";
+import { addLocalePrefix } from "../lib/i18nPaths.js";
 
 export default function Performers() {
   const { locale, site, content } = useI18n();

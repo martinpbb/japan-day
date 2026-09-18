@@ -1,28 +1,8 @@
 import React, { createContext, useCallback, useContext, useEffect, useMemo, useState } from "react";
 import { defaultLocale, getLocaleContent, getLocaleSite, supportedLocales } from "../data/content.js";
+import { addLocalePrefix, getLocaleFromPath } from "./i18nPaths.js";
 
 const I18nContext = createContext(null);
-const prefixedLocales = supportedLocales.filter((locale) => locale !== defaultLocale);
-const localePrefixPattern = new RegExp(`^/(${prefixedLocales.join("|")})(?=/|$)`);
-
-export function getLocaleFromPath(pathname) {
-  const match = (pathname || "/").match(localePrefixPattern);
-  return match ? match[1] : defaultLocale;
-}
-
-export function stripLocalePrefix(pathname) {
-  const path = pathname || "/";
-  const stripped = path.replace(localePrefixPattern, "");
-  return stripped || "/";
-}
-
-export function addLocalePrefix(pathname, locale) {
-  const path = stripLocalePrefix(pathname);
-  const targetLocale = supportedLocales.includes(locale) ? locale : defaultLocale;
-
-  if (targetLocale === defaultLocale) return path;
-  return path === "/" ? `/${targetLocale}/` : `/${targetLocale}${path}`;
-}
 
 export function I18nProvider({ children }) {
   const [locale, setLocaleState] = useState(() => getLocaleFromPath(window.location.pathname));

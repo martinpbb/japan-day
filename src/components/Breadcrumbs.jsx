@@ -1,5 +1,6 @@
 import React from "react";
-import { addLocalePrefix, useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/i18n.jsx";
+import { addLocalePrefix } from "../lib/i18nPaths.js";
 
 export default function Breadcrumbs({ current, parent = null }) {
   const { locale, site } = useI18n();

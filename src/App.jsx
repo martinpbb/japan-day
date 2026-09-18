@@ -18,7 +18,8 @@ import Breadcrumbs from "./components/Breadcrumbs.jsx";
 import SmartsuppChat from "./components/SmartsuppChat.jsx";
 import SEO from "./seo/SEO.jsx";
 import { buildPerformerRoute } from "./seo/performerRoute.js";
-import { stripLocalePrefix, useI18n } from "./lib/i18n.jsx";
+import { useI18n } from "./lib/i18n.jsx";
+import { stripLocalePrefix } from "./lib/i18nPaths.js";
 
 const pageComponents = {
   "/program": Program,

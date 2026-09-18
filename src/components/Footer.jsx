@@ -1,5 +1,6 @@
 import React from "react";
-import { addLocalePrefix, useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/i18n.jsx";
+import { addLocalePrefix } from "../lib/i18nPaths.js";
 export default function Footer() {
   const { locale, site } = useI18n();
   const { ui } = site;
