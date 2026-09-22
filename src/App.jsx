@@ -50,7 +50,7 @@ function HomePage() {
       <About />
       <Program />
       <Performers />
-      <Gastronomy />
+      <Gastronomy compact />
       <Exhibitors />
       <VideoSection />
       <Gallery />

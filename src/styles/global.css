@@ -427,6 +427,40 @@ button {
   border-radius: var(--radius);
   background: rgba(255, 255, 255, 0.05);
 }
+.featureCardLink {
+  color: inherit;
+  text-decoration: none;
+  transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+}
+.featureCardLink:hover,
+.featureCardLink:focus-visible {
+  transform: translateY(-3px);
+  border-color: rgba(239, 185, 179, 0.65);
+  background: rgba(255, 255, 255, 0.09);
+}
+.cardCta {
+  display: inline-block;
+  margin-top: 18px;
+  color: #efb9b3;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+.gastronomyDetails {
+  margin-top: 72px;
+}
+.gastronomyCategory {
+  scroll-margin-top: 28px;
+  padding-top: 54px;
+  border-top: 1px solid rgba(255, 255, 255, 0.13);
+}
+.gastronomyCategory + .gastronomyCategory { margin-top: 54px; }
+.gastronomyCategory h3 { margin: 0 0 10px; font-size: clamp(1.5rem, 2vw, 2rem); }
+.gastronomyIntro { max-width: 720px; color: rgba(255, 255, 255, 0.72); line-height: 1.65; }
+.gastronomyItemGrid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-top: 24px; }
+.gastronomyItem { padding: 18px 20px; border-left: 2px solid rgba(239, 185, 179, 0.55); background: rgba(255, 255, 255, 0.045); }
+.gastronomyItem h4 { margin: 0 0 6px; }
+.gastronomyItem p { margin: 0; color: rgba(255, 255, 255, 0.68); line-height: 1.5; }
+.gastronomyItem .gastronomyRegion { margin-bottom: 5px; color: #efb9b3; font-size: 0.88rem; }
 .featureCard svg {
   color: #efb9b3;
 }
@@ -800,6 +834,7 @@ button {
   }
   .performerGrid,
   .featureGrid,
+  .gastronomyItemGrid,
   .galleryGrid,
   .infoGrid,
   .partnerGrid {
