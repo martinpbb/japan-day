@@ -22,7 +22,10 @@
     "admission": "50 Kčから",
     "admissionPrice": 50,
     "currency": "CZK",
-    "patronage": "在チェコ日本国大使館 後援"
+    "patronage": [
+      "在チェコ日本国大使館 名誉後援",
+      "Chýně市長 後援"
+    ]
   },
   "hero": {
     "kicker": "2026年10月10日 • プラハ近郊 Chýně",
@@ -146,7 +149,7 @@
     "heroCardLabel": "日本茶と日本文化の日 2026",
     "cultureGastronomyTradition": "文化 • 食 • 伝統",
     "organizers": "主催者",
-    "partnersAndPatronage": "パートナー・後援",
+    "patronage": "後援",
     "allPerformers": "出演者一覧",
     "inProgramme": "プログラム",
     "inProgrammeHeading": "プログラム",

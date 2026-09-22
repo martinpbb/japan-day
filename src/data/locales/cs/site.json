@@ -22,7 +22,10 @@
     "admission": "od 50 Kč",
     "admissionPrice": 50,
     "currency": "CZK",
-    "patronage": "Čestná záštita Velvyslanectví Japonska v Praze"
+    "patronage": [
+      "Čestná záštita Velvyslanectví Japonska v České republice",
+      "Záštita starostky města Chýně"
+    ]
   },
   "hero": {
     "kicker": "10. 10. 2026 • Chýně u Prahy",
@@ -146,7 +149,7 @@
     "heroCardLabel": "Japonský den čaje a kultury 2026",
     "cultureGastronomyTradition": "kultura • gastronomie • tradice",
     "organizers": "Pořadatelé",
-    "partnersAndPatronage": "Partneři a záštita",
+    "patronage": "Záštita",
     "allPerformers": "Všichni účinkující",
     "inProgramme": "V programu",
     "inProgrammeHeading": "V programu",

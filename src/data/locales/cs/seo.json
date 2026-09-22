@@ -54,7 +54,9 @@
         "breadcrumb"
       ]
     },
-    "/ucinkujici": {
+  "/ucinkujici": {
+    "sectionKicker": "HOSTÉ A ÚČINKUJÍCÍ",
+    "sectionTitle": "Poznejte lidi, kteří vám přiblíží Japonsko",
       "title": "Účinkující | Japonský den čaje a kultury 2026",
       "description": "Poznejte účinkující a hosty Japonského dne čaje a kultury 2026 — osobnosti japonské gastronomie, ikebany, bojových umění, hudby a tance.",
       "h1": "Účinkující a hosté",

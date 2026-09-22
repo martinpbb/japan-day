@@ -22,7 +22,10 @@
     "admission": "from CZK 50",
     "admissionPrice": 50,
     "currency": "CZK",
-    "patronage": "Under the honorary patronage of the Embassy of Japan in Prague"
+    "patronage": [
+      "Honorary Patronage of the Embassy of Japan in the Czech Republic",
+      "Patronage of the Mayor of Chýně"
+    ]
   },
   "hero": {
     "kicker": "10 October 2026 • Chýně near Prague",
@@ -146,7 +149,7 @@
     "heroCardLabel": "Japanese Day of Tea and Culture 2026",
     "cultureGastronomyTradition": "culture • food • traditions",
     "organizers": "Organisers",
-    "partnersAndPatronage": "Partners and patronage",
+    "patronage": "Patronage",
     "allPerformers": "All performers",
     "inProgramme": "In the programme",
     "inProgrammeHeading": "In the programme",
