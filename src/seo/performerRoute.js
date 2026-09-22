@@ -1,14 +1,15 @@
-export function buildPerformerRoute(performer) {
+export function buildPerformerRoute(performer, seo) {
   const description = `${performer.name} — ${performer.short} ${performer.description}`.replace(/\s+/g, " ").trim();
+  const performersRoute = seo.routes["/ucinkujici"];
 
   return {
-    title: `${performer.name} | Účinkující | Japonský den čaje a kultury 2026`,
+    title: `${performer.name} | ${performersRoute.breadcrumb} | ${seo.siteName} 2026`,
     description: description.length > 160 ? `${description.slice(0, 157).trimEnd()}…` : description,
     h1: performer.name,
     intro: performer.short,
     breadcrumb: performer.name,
     breadcrumbParent: {
-      name: "Účinkující",
+      name: performersRoute.breadcrumb,
       path: "/ucinkujici"
     },
     schema: ["breadcrumb"]

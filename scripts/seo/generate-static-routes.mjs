@@ -6,21 +6,21 @@ import { buildPerformerRoute } from "../../src/seo/performerRoute.js";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const dist = path.join(root, "dist");
-const seo = JSON.parse(await fs.readFile(path.join(root, "src/data/locales/cs/seo.json"), "utf8"));
-const site = JSON.parse(await fs.readFile(path.join(root, "src/data/locales/cs/site.json"), "utf8"));
-const performers = JSON.parse(await fs.readFile(path.join(root, "src/data/locales/cs/performers.json"), "utf8"));
 const baseHtml = await fs.readFile(path.join(dist, "index.html"), "utf8");
 
-const performerRoutes = Object.fromEntries(
-  performers.items.map((performer) => [
-    `/ucinkujici/${performer.id}`,
-    buildPerformerRoute(performer)
-  ])
-);
-const routes = { ...seo.routes, ...performerRoutes };
+const locales = [
+  { locale: "cs", prefix: "" },
+  { locale: "en", prefix: "/en" },
+  { locale: "ja", prefix: "/ja" }
+];
 
 function escapeHtml(value) {
   return String(value).replaceAll("&", "&amp;").replaceAll('"', "&quot;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
+}
+
+function publicUrl(baseUrl, routePath) {
+  const url = absoluteUrl(baseUrl, routePath);
+  return url.endsWith("/") ? url : `${url}/`;
 }
 
 function replaceTitle(html, title) {
@@ -44,8 +44,17 @@ function addStructuredData(html, schemas) {
   return scripts ? html.replace("</head>", `${scripts}\n  </head>`) : html;
 }
 
-function renderRoute(routePath, route) {
-  const canonical = absoluteUrl(seo.baseUrl, routePath);
+function addHreflang(html, logicalPath, baseUrl) {
+  const links = locales.map(({ locale, prefix }) => {
+    const localizedPath = logicalPath === "/" ? `${prefix}/` || "/" : `${prefix}${logicalPath}`;
+    return `    <link rel="alternate" hreflang="${locale}" href="${escapeHtml(publicUrl(baseUrl, localizedPath))}" />`;
+  });
+  links.push(`    <link rel="alternate" hreflang="x-default" href="${escapeHtml(publicUrl(baseUrl, logicalPath))}" />`);
+  return html.replace("</head>", `${links.join("\n")}\n  </head>`);
+}
+
+function renderRoute({ seo, site, logicalPath, publicPath, route }) {
+  const canonical = publicUrl(seo.baseUrl, publicPath);
   const image = seo.defaultImage ? absoluteUrl(seo.baseUrl, seo.defaultImage) : "";
   let html = baseHtml;
   html = replaceTitle(html, route.title);
@@ -63,23 +72,31 @@ function renderRoute(routePath, route) {
     html = upsertMeta(html, "name", "twitter:image", image);
   }
   html = upsertCanonical(html, canonical);
-  html = addStructuredData(html, buildSchemas({ seo, site, path: routePath, route }));
-  return html;
+  html = addStructuredData(html, buildSchemas({ seo, site, path: publicPath, route }));
+  return addHreflang(html, logicalPath, seo.baseUrl);
 }
 
-for (const [routePath, route] of Object.entries(routes)) {
-  const html = renderRoute(routePath, route);
-  if (routePath === "/") {
-    await fs.writeFile(path.join(dist, "index.html"), html);
-  } else {
-    const targetDir = path.join(dist, routePath.slice(1));
+const sitemapPaths = new Set();
+for (const { locale, prefix } of locales) {
+  const seo = JSON.parse(await fs.readFile(path.join(root, `src/data/locales/${locale}/seo.json`), "utf8"));
+  const site = JSON.parse(await fs.readFile(path.join(root, `src/data/locales/${locale}/site.json`), "utf8"));
+  const performers = JSON.parse(await fs.readFile(path.join(root, `src/data/locales/${locale}/performers.json`), "utf8"));
+  const performerRoutes = Object.fromEntries(performers.items.map((performer) => [
+    `/ucinkujici/${performer.id}`, buildPerformerRoute(performer, seo)
+  ]));
+  const routes = { ...seo.routes, ...performerRoutes };
+  for (const [logicalPath, route] of Object.entries(routes)) {
+    const publicPath = logicalPath === "/" ? `${prefix}/` || "/" : `${prefix}${logicalPath}`;
+    const html = renderRoute({ seo, site, logicalPath, publicPath, route });
+    const targetDir = publicPath === "/" ? dist : path.join(dist, publicPath.slice(1));
     await fs.mkdir(targetDir, { recursive: true });
     await fs.writeFile(path.join(targetDir, "index.html"), html);
+    sitemapPaths.add(publicPath);
   }
 }
 
-const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${Object.keys(routes).map((routePath) => `  <url><loc>${absoluteUrl(seo.baseUrl, routePath)}</loc></url>`).join("\n")}\n</urlset>\n`;
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${[...sitemapPaths].map((routePath) => `  <url><loc>${publicUrl("https://japanday.cz", routePath)}</loc></url>`).join("\n")}\n</urlset>\n`;
 await fs.writeFile(path.join(dist, "sitemap.xml"), sitemap);
-await fs.writeFile(path.join(dist, "robots.txt"), `User-agent: *\nAllow: /\n\nSitemap: ${seo.baseUrl}/sitemap.xml\n`);
+await fs.writeFile(path.join(dist, "robots.txt"), "User-agent: *\nAllow: /\n\nSitemap: https://japanday.cz/sitemap.xml\n");
 
-console.log(`Generated ${Object.keys(routes).length} SEO route documents, sitemap.xml and robots.txt.`);
+console.log(`Generated ${sitemapPaths.size} localized SEO route documents, sitemap.xml and robots.txt.`);
