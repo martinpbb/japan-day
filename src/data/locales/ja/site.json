@@ -98,6 +98,7 @@
     "email": "",
     "phone": ""
   },
+  "contactForm": { "kicker": "お問い合わせ", "title": "まだご不明な点がありますか？", "intro": "Nenašli jste odpověď mezi častými otázkami? Napište nám a ozveme se vám.", "name": { "label": "Jméno", "placeholder": "Vaše jméno" }, "email": { "label": "E-mail", "placeholder": "vas@email.cz" }, "subject": { "label": "Předmět", "placeholder": "S čím vám můžeme pomoci?" }, "message": { "label": "Zpráva", "placeholder": "Napište nám svůj dotaz..." }, "submit": "Odeslat zprávu", "sending": "Odesílám…", "success": "Děkujeme. Vaše zpráva byla odeslána.", "error": "Zprávu se nepodařilo odeslat. Zkuste to prosím znovu.", "privacy": "Vaši e-mailovou adresu použijeme pouze pro odpověď na váš dotaz." },
   "navigation": [
     {
       "label": "イベントについて",

@@ -98,6 +98,7 @@
     "email": "",
     "phone": ""
   },
+  "contactForm": { "kicker": "CONTACT", "title": "Still have a question?", "intro": "Couldn’t find the answer in the FAQ? Send us a message and we’ll get back to you.", "name": { "label": "Name", "placeholder": "Your name" }, "email": { "label": "Email", "placeholder": "you@example.com" }, "subject": { "label": "Subject", "placeholder": "How can we help?" }, "message": { "label": "Message", "placeholder": "Write your message..." }, "submit": "Send message", "sending": "Sending…", "success": "Thank you. Your message has been sent.", "error": "Your message could not be sent. Please try again.", "privacy": "We will use your email address only to reply to your enquiry." },
   "navigation": [
     {
       "label": "About",

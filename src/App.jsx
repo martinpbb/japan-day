@@ -55,7 +55,6 @@ function HomePage() {
       <VideoSection />
       <Gallery />
       <PracticalInfo />
-      <Contact />
       <Partners />
     </main>
   );

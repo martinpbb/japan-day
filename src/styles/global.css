@@ -1121,6 +1121,28 @@ button {
   line-height: 1.65;
   margin: 12px 0 0;
 }
+.contactFormBlock {
+  margin-top: 42px;
+  padding: 28px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--white);
+}
+.contactFormIntro h3 { margin: 0 0 10px; font-family: Georgia, serif; font-size: 30px; font-weight: 500; }
+.contactFormIntro p, .contactPrivacy { color: var(--muted); line-height: 1.65; }
+.contactForm { display: grid; gap: 16px; margin-top: 22px; }
+.contactFormGrid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.contactField { display: grid; gap: 7px; font-weight: 700; }
+.contactField input, .contactField textarea { width: 100%; border: 1px solid var(--line); border-radius: 8px; padding: 12px 13px; font: inherit; background: #fff; }
+.contactField textarea { resize: vertical; }
+.contactSubmit { justify-self: start; display: inline-flex; align-items: center; gap: 9px; border: 0; border-radius: 999px; padding: 13px 18px; background: var(--red); color: #fff; font: inherit; font-weight: 750; cursor: pointer; }
+.contactSubmit:disabled { opacity: .65; cursor: wait; }
+.contactPrivacy { font-size: 14px; }
+.contactStatus { padding: 12px 14px; border-radius: 8px; }
+.contactStatus.isSuccess { background: #e7f3e8; color: #245d2c; }
+.contactStatus.isError { background: #fae8e6; color: #8f2720; }
+.contactHoneypot { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+@media (max-width: 760px) { .contactFormGrid { grid-template-columns: 1fr; } .contactFormBlock { padding: 22px; } }
 
 .performerCardLink {
   display: block;
