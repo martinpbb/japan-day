@@ -130,6 +130,8 @@
     }
   ],
   "ui": {
+    "organizersKicker": "ORGANISERS & PARTNERS",
+    "organizersTitle": "Who is behind Japan Day",
     "openingFrom": "Open from {time}",
     "programmeUntil": "until {time}",
     "breadcrumbLabel": "Breadcrumb navigation",

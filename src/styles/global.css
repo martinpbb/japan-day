@@ -667,6 +667,12 @@ button {
   grid-template-columns: repeat(4, 1fr);
   gap: 14px;
 }
+.contactPartners {
+  padding-top: 56px;
+}
+.contactPartners .sectionHead {
+  margin-bottom: 42px;
+}
 .partnerCard {
   min-height: 170px;
   display: flex;

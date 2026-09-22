@@ -130,6 +130,8 @@
     }
   ],
   "ui": {
+    "organizersKicker": "主催者・パートナー",
+    "organizersTitle": "Japan Dayを支える人々・団体",
     "openingFrom": "{time}から開場",
     "programmeUntil": "{time}まで",
     "breadcrumbLabel": "パンくずリスト",

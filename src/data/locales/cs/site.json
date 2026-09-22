@@ -130,6 +130,8 @@
     }
   ],
   "ui": {
+    "organizersKicker": "POŘADATELÉ A PARTNEŘI",
+    "organizersTitle": "Kdo stojí za Japonským dnem",
     "openingFrom": "Otevřeno od {time}",
     "programmeUntil": "do {time}",
     "breadcrumbLabel": "Drobečková navigace",
