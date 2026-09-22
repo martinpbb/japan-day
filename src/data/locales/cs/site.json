@@ -19,8 +19,8 @@
     "region": "Středočeský kraj",
     "country": "CZ",
     "locationLabel": "Chýně u Prahy",
-    "admission": "100 Kč",
-    "admissionPrice": 100,
+    "admission": "od 50 Kč",
+    "admissionPrice": 50,
     "currency": "CZK",
     "patronage": "Čestná záštita Velvyslanectví Japonska v Praze"
   },
@@ -66,7 +66,7 @@
       },
       {
         "label": "Vstupné",
-        "value": "100 Kč"
+        "value": "od 50 Kč"
       }
     ],
     "transport": "Chýně leží u západního okraje Prahy. Detailní informace k dopravě, MHD a parkování doplníme před akcí.",
@@ -82,7 +82,7 @@
       },
       {
         "question": "Kolik stojí vstupné?",
-        "answer": "Vstupné na Japonský den čaje a kultury 2026 je 100 Kč."
+        "answer": "Vstupné začíná na 50 Kč. Děti do 12 let mají vstup zdarma. Studenti od 12 let mají po předložení platného průkazu ISIC nebo studentského průkazu zvýhodněné vstupné 50 Kč. Senioři od 65 let mají vstupné 50 Kč. Běžné vstupné pro dospělé je 100 Kč. Rodinné vstupné je 200 Kč za rodinu (rodiče s dětmi)."
       },
       {
         "question": "Kde najdu aktuální program?",

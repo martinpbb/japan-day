@@ -19,8 +19,8 @@
     "region": "Central Bohemian Region",
     "country": "CZ",
     "locationLabel": "Chýně near Prague",
-    "admission": "100 Kč",
-    "admissionPrice": 100,
+    "admission": "from CZK 50",
+    "admissionPrice": 50,
     "currency": "CZK",
     "patronage": "Under the honorary patronage of the Embassy of Japan in Prague"
   },
@@ -66,7 +66,7 @@
       },
       {
         "label": "Admission",
-        "value": "100 Kč"
+        "value": "from CZK 50"
       }
     ],
     "transport": "Chýně is located on the western edge of Prague. Detailed information about public transport, travel and parking will be added before the event.",
@@ -82,7 +82,7 @@
       },
       {
         "question": "How much is admission?",
-        "answer": "Admission to the Japanese Day of Tea and Culture 2026 is 100 Kč."
+        "answer": "Admission starts at CZK 50. Children under 12 enter free of charge. Students aged 12 and over pay CZK 50 upon presentation of a valid ISIC or student card. Seniors aged 65 and over pay CZK 50. Standard adult admission is CZK 100. Family admission is CZK 200 per family (parents with children)."
       },
       {
         "question": "Where can I find the latest programme?",

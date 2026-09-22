@@ -4,67 +4,75 @@
   "items": [
     {
       "time": "10:00",
-      "title": "Hall opens to the public",
+      "title": "Venue opens to the public",
       "type": "info",
       "confirmed": true
     },
     {
       "time": "11:00",
-      "title": "Welcome",
-      "description": "Welcome remarks from a representative of the Embassy of Japan in the Czech Republic, the City of Chýně and the event organiser.",
+      "endTime": "11:15",
+      "title": "Welcome and opening remarks",
+      "description": "Opening remarks by a representative of the Embassy of Japan in the Czech Republic, a representative of the City of Chýně and the event organiser.",
       "type": "ceremony",
       "confirmed": true
     },
     {
       "time": "11:25",
+      "endTime": "11:45",
       "performerId": "aikido-chyne",
       "title": "Aikido Chýně",
-      "description": "A demonstration of the traditional Japanese martial art of aikido.",
+      "description": "A demonstration of the traditional Japanese martial art of aikido. Aikido Chýně is led by Václav Plánský, holder of 1st dan Aikikai.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "11:50",
+      "endTime": "12:15",
       "performerId": "marek-hora",
       "title": "Marek Hora",
-      "description": "An ambassador of Japanese cuisine in the Czech Republic and an acclaimed chef in Europe and Japan. On stage, he will break down a fresh Hamachi and demonstrate expert sushi preparation.",
+      "description": "An ambassador of Japanese cuisine in the Czech Republic and a respected chef active in both Europe and Japan. Marek Hora is the owner of Prague restaurant Yamaya. On stage, he will fillet a fresh hamachi and demonstrate expert sushi preparation.",
       "type": "performance",
       "confirmed": true
     },
     {
-      "time": "12:35",
+      "time": "12:25",
+      "endTime": "12:55",
       "performerId": "noriko-komiyama",
       "title": "Noriko Komiyama",
-      "description": "A certified Sogetsu ikebana instructor. She will demonstrate the differences between two renowned schools — Ikenobo (池坊流) and Sogetsu (草月流) — and show how ordinary flowers can be turned into an impressive arrangement that visitors can also try at home.",
+      "description": "A certified ikebana instructor of the Sogetsu school. She will introduce the differences between two renowned schools – Ikenobo (池坊流) and Sogetsu (草月流) – and show how striking ikebana arrangements can be created from readily available flowers.",
       "type": "performance",
       "confirmed": true
     },
     {
-      "time": "13:20",
+      "time": "13:05",
+      "endTime": "13:25",
       "performerId": "nihon-bunka-plzen",
       "title": "Nihon Bunka Plzeň",
-      "description": "A traditional kimono dressing demonstration. On stage, a representative of the City of Chýně will be dressed in kimono while the symbolism and purpose of each part of the outfit are explained.",
+      "description": "A demonstration of traditional kimono dressing. On stage, they will dress a representative of the City of Chýně in kimono and explain the symbolism and meaning of the individual elements of traditional Japanese clothing.",
       "type": "performance",
       "confirmed": true
     },
     {
-      "time": "13:50",
+      "time": "13:35",
+      "endTime": "13:55",
       "performerId": "gorin",
-      "title": "Gorin",
-      "description": "A samurai show featuring combat scenes inspired by the battlefields of the Sengoku period.",
+      "title": "Gorin – Samurai Show",
+      "description": "A samurai show featuring combat scenes inspired by the battlefields of Japan's Sengoku period.",
       "type": "performance",
       "confirmed": true
     },
     {
-      "time": "14:15",
-      "performerId": "aska-pluskal",
-      "title": "Aska Pluskal",
-      "description": "A singer from Okinawa performs traditional and modern songs in Japanese.",
+      "time": "14:00",
+      "endTime": "14:20",
+      "performerId": "marketa-franova",
+      "title": "Markéta Franová",
+      "description": "A demonstration of kamigata-mai, a traditional solo dance style from the Osaka and Kyoto region, characterised by elegance, restrained movement and refined use of the folding fan.",
       "type": "performance",
       "confirmed": true
     },
     {
-      "time": "14:50",
+      "time": "14:25",
+      "endTime": "14:45",
       "performerId": "aikido-chyne",
       "title": "Aikido Chýně",
       "description": "A second demonstration of the traditional Japanese martial art of aikido.",
@@ -72,74 +80,88 @@
       "confirmed": true
     },
     {
-      "time": "15:15",
-      "performerId": "iaido",
-      "title": "Iaido Plzeň",
-      "description": "Demonstrations of the traditional Japanese martial art of iaido.",
-      "type": "performance",
-      "confirmed": true
-    },
-    {
-      "time": "15:40",
+      "time": "14:55",
+      "endTime": "15:25",
       "performerId": "sandomon-kendo-klub-praha",
-      "title": "Sandomon Kendo Klub Praha",
+      "title": "San Dó Mon Kendo Klub Praha",
+      "description": "San Dó Mon Kendo Klub Praha will present kendo, the Japanese martial art rooted in the tradition of swordsmanship.",
       "type": "performance",
       "confirmed": true
     },
     {
-      "time": "16:10",
-      "performerId": "marketa-franova",
-      "title": "Kamigatamai – Markéta Franová",
-      "description": "A traditional solo dance style from the Osaka and Kyoto region, characterised by elegance, restrained movement and subtle use of the fan.",
+      "time": "15:30",
+      "endTime": "15:50",
+      "performerId": "aska-pluskal",
+      "title": "Aska Pluskal",
+      "description": "A singer originally from Okinawa, Aska Pluskal will perform traditional and contemporary Japanese songs.",
       "type": "performance",
       "confirmed": true
     },
     {
-      "time": "16:30",
+      "time": "16:00",
+      "endTime": "16:20",
+      "performerId": "iaido",
+      "title": "Budō Plzeň",
+      "description": "Budō Plzeň will present iaido, a traditional Japanese martial art focused on the use of the Japanese sword.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:25",
+      "endTime": "16:40",
       "performerId": "shakuhachi",
-      "title": "Japanese Shakuhachi Flute",
+      "title": "Tomáš Pelich",
+      "description": "A musical performance on the traditional Japanese bamboo flute shakuhachi by Tomáš Pelich from the Shibumi meditation garden.",
       "type": "performance",
       "confirmed": true
     },
     {
-      "time": "16:55",
+      "time": "16:45",
+      "endTime": "17:05",
       "performerId": "gorin",
       "title": "Gorin – Samurai Archery",
-      "description": "A samurai archery demonstration — a traditional Japanese discipline presented with live commentary.",
+      "description": "A demonstration of samurai archery and traditional Japanese bow technique, accompanied by live commentary.",
       "type": "performance",
       "confirmed": true
     },
     {
-      "time": "17:20",
+      "time": "17:15",
+      "endTime": "17:40",
       "performerId": "yosakoi-hanamaru",
-      "title": "Yosakoi Hanamaru",
+      "title": "Yosakoi Hanamaru (Prague)",
+      "description": "Yosakoi Hanamaru Prague will present the energetic Japanese dance style yosakoi, combining traditional elements with contemporary music and choreography.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "17:45",
-      "performerId": "kuroi-yuki",
-      "title": "Kuroi Yuki",
+      "endTime": "18:05",
+      "performerId": "radka-tumova",
+      "title": "Radka Tůmová",
+      "description": "Radka Tůmová will introduce Japanese family crests, kamon (家紋), traditional symbols used to identify families and lineages. She will explain their history, meaning and parallels with the European heraldic tradition.",
       "type": "performance",
       "confirmed": true
     },
     {
-      "time": "18:15",
+      "time": "18:10",
+      "endTime": "18:35",
       "performerId": "gorin",
       "title": "Gorin – Tameshigiri",
-      "description": "A tameshigiri demonstration — cutting rolled mats with a Japanese katana.",
+      "description": "A demonstration of tameshigiri – the traditional practice of test-cutting rolled mats with a Japanese katana.",
       "type": "performance",
       "confirmed": true
     },
     {
       "time": "18:40",
-      "title": "Closing & Best Kimono Competition Results",
+      "endTime": "18:55",
+      "title": "Closing programme and Best Kimono competition announcement",
       "type": "ceremony",
       "confirmed": true
     },
     {
-      "time": "19:50",
-      "title": "Thanks and End of Programme",
+      "time": "18:55",
+      "endTime": "19:00",
+      "title": "Thank you and programme close",
       "type": "ceremony",
       "confirmed": true
     }
