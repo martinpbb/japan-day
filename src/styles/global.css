@@ -725,7 +725,22 @@ button {
     grid-template-columns: 1fr;
   }
   .heroCard {
-    min-height: 340px;
+    min-height: 360px;
+  }
+  .verticalText {
+    top: 30px;
+    left: 30px;
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 0.08em;
+  }
+  .heroCardText {
+    left: 30px;
+    right: 30px;
+    bottom: 28px;
+  }
+  .heroCardText strong {
+    font-size: 44px;
   }
   .performerGrid {
     grid-template-columns: repeat(2, 1fr);
