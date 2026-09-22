@@ -127,6 +127,7 @@
   ],
   "ui": {
     "openingFrom": "{time}から開場",
+    "programmeUntil": "{time}まで",
     "breadcrumbLabel": "パンくずリスト",
     "homeLabel": "日本茶と日本文化の日 — ホーム",
     "mainNavigation": "メインナビゲーション",

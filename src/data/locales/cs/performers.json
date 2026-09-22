@@ -3,7 +3,7 @@
     {
       "id": "aikido-chyne",
       "name": "Aikido Chýně",
-      "category": "Aikidō",
+      "category": "Bojová umění",
       "short": "Ukázka tradičního japonského bojového umění Aikido.",
       "description": "Místní oddíl Aikido Chýně představí během dne dvě ukázky tradičního japonského bojového umění.",
       "content": [
@@ -29,7 +29,7 @@
     {
       "id": "marek-hora",
       "name": "Marek Hora",
-      "category": "Japonská gastronomie",
+      "category": "Gastronomie",
       "short": "Ambasador japonské kuchyně v České republice a uznávaný šéfkuchař v Evropě i Japonsku.",
       "description": "Na pódiu naporcuje čerstvou rybu Hamachi a předvede mistrovskou přípravu sushi.",
       "content": [
@@ -89,7 +89,7 @@
     {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
-      "category": "Kimono",
+      "category": "Kultura",
       "short": "Ukázka tradičního oblékání kimona.",
       "description": "Na pódiu obléknou do kimona zástupce města Chýně a vysvětlí symboliku a význam jednotlivých částí oděvu.",
       "content": [
@@ -123,7 +123,7 @@
     {
       "id": "gorin",
       "name": "Gorin",
-      "category": "Samurajská show",
+      "category": "Bojová umění",
       "short": "Skupina věnující se japonským bojovým tradicím a období Sengoku.",
       "description": "Součástí programu je samurajská show, bojová lukostřelba a tamešigiri.",
       "content": [
@@ -217,7 +217,7 @@
     {
       "id": "sandomon-kendo-klub-praha",
       "name": "San Dó Mon Kendó Klub Praha",
-      "category": "Kendó",
+      "category": "Bojová umění",
       "short": "Pražský klub tradičního japonského bojového umění kendó.",
       "description": "Klub představí kendó – japonské bojové umění vycházející z tradice šermu mečem.",
       "content": [
@@ -246,8 +246,8 @@
     },
     {
       "id": "marketa-franova",
-      "name": "Markéta Fránová",
-      "category": "Kamigatamai",
+      "name": "Markéta Fránová - Kamigatamai",
+      "category": "Tanec",
       "short": "Tradiční japonský tanec pocházející z oblasti Kjóta a Ósaky.",
       "description": "Elegantní sólový tanec charakteristický zdrženlivými pohyby, vnitřním výrazem a jemnou prací s vějířem.",
       "content": [
@@ -272,10 +272,10 @@
     },
     {
       "id": "shakuhachi",
-      "name": "Japonská flétna Shakuhachi",
+      "name": "Tomáš Pelich - japonská flétna shakuhachi",
       "category": "Hudba",
-      "short": "Ukázka hry na tradiční japonskou bambusovou flétnu shakuhachi.",
-      "description": "Komorní hudební vystoupení věnované charakteristickému zvuku japonské bambusové flétny.",
+      "short": "Tomáš Pelich - japonská flétna shakuhachi",
+      "description": "Hudební vystoupení na tradiční japonskou bambusovou flétnu shakuhachi v podání Tomáše Pelicha z meditační zahrady Shibumi.",
       "content": [
         {
           "type": "p",
@@ -335,12 +335,30 @@
       "image": "/images/performers/yosakoi_hanamaru.png"
     },
     {
-      "id": "kuroi-yuki",
-      "name": "Kuroi Yuki",
-      "category": "Japonská kultura",
-      "short": "Host programu Japonského dne.",
-      "description": "Vystoupení v rámci hlavního programu akce.",
-      "image": "/images/performers/kuroi_yuki.png"
+      "id": "radka-tumova",
+      "name": "Radka Tůmová – japonské rodové znaky",
+      "category": "Kultura",
+      "short": "Japonské rodové znaky kamon",
+      "description": "Radka Tůmová představí japonské rodové znaky kamon (家紋), tradiční symboly používané k označení rodů a rodin. Přiblíží jejich historii, význam i podobnost s evropskou heraldickou tradicí.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Mon, monšó nebo kamon (家紋) je tradiční japonský rodový znak, který plní podobnou funkci jako evropské erby. Sloužil k rozlišení rodů a rodin a stal se výraznou součástí japonské vizuální kultury."
+        },
+        {
+          "type": "p",
+          "text": "Rodové znaky se objevují na slavnostních kimonech, zbraních a zbrojích samurajů, ale také na chrámech, hradech, nábytku či předmětech každodenní potřeby. Jejich jednoduché a často velmi elegantní motivy bývají inspirovány rostlinami, zvířaty, přírodními jevy nebo geometrickými tvary."
+        },
+        {
+          "type": "h2",
+          "text": "Tradice, která žije dodnes"
+        },
+        {
+          "type": "p",
+          "text": "Na rozdíl od evropských erbů nejsou kamon pouze historickou záležitostí. Své místo mají i v Japonsku 21. století – dodnes se používají při slavnostních příležitostech a některé japonské firmy je využívají jako základ svých znaků či log."
+        }
+      ],
+      "image": "/images/performers/radka_tumova.png"
     }
   ]
 }

@@ -127,6 +127,7 @@
   ],
   "ui": {
     "openingFrom": "Otevřeno od {time}",
+    "programmeUntil": "do {time}",
     "breadcrumbLabel": "Drobečková navigace",
     "homeLabel": "Japonský den čaje a kultury — domů",
     "mainNavigation": "Hlavní navigace",

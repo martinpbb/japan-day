@@ -127,6 +127,7 @@
   ],
   "ui": {
     "openingFrom": "Open from {time}",
+    "programmeUntil": "until {time}",
     "breadcrumbLabel": "Breadcrumb navigation",
     "homeLabel": "Japanese Day of Tea and Culture — home",
     "mainNavigation": "Main navigation",

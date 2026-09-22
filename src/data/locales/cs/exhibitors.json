@@ -6,106 +6,115 @@
       "id": "yamaya",
       "name": "Yamaya",
       "category": "Japonský čaj",
-      "description": "Japonské čaje a čajová kultura.",
-      "image": "/images/exhibitors/yamaya.png"
+      "description": "Japonská gastronomie. Marek Hora - specialista na japonskou kuchyni připraví autentická japonská jídla.",
+      "image": "/images/exhibitors/yamaya_restaurace.png",
+      "imageMode": "logo"
     },
     {
       "id": "nagomi-tea",
       "name": "Nagomi tea",
       "category": "Japonský čaj",
       "description": "Výběrové japonské čaje přímo od pěstitelů z Japonska.",
-      "image": "/images/exhibitors/nagomi_tea.png"
+      "image": "/images/exhibitors/nagomi_tea.png",
+      "imageMode": "logo"
     },
     {
       "id": "nagomi-sake",
       "name": "Nagomi sake",
       "category": "Saké",
       "description": "Prezentace a ochutnávka japonského saké.",
-      "image": "/images/exhibitors/nagomi_sake.png"
+      "image": "/images/exhibitors/nagomi_sake.png",
+      "imageMode": "logo",
+      "imageScale": 1.15
     },
     {
       "id": "daniela-brouckova-rencova",
       "name": "Daniela Broučková Renčová",
       "category": "Japonská kultura",
       "description": "Prezentace tvorby inspirované Japonskem.",
-      "image": "/images/exhibitors/daniela_brouckova_rencova.png"
+      "image": "/images/exhibitors/daniela_brouckova.png",
+      "imageMode": "photo",
+      "imagePosition": "50% 15%"
     },
     {
       "id": "onigiri-hostivice",
       "name": "Onigiri Hostivice",
       "category": "Gastronomie",
       "description": "Japonské onigiri a další speciality.",
-      "image": "/images/exhibitors/onigiri_hostivice.png"
+      "image": "/images/exhibitors/onigiri_hostivice.png",
+      "imageMode": "photo"
     },
     {
       "id": "japan-whisky",
       "name": "Japan Whisky",
       "category": "Japonská whisky",
       "description": "Výběr japonské whisky a představení japonské whisky kultury.",
-      "image": "/images/exhibitors/japan_whisky.png"
+      "image": "/images/exhibitors/japan_whisky.png",
+      "imageMode": "photo"
     },
     {
       "id": "kumihimo",
       "name": "Kumihimo – japonské šňůry",
       "category": "Tradiční řemesla",
       "description": "Ukázka tradiční japonské techniky splétání šňůr kumihimo.",
-      "image": "/images/exhibitors/kumihimo_japonske_snury.png"
+      "image": "/images/exhibitors/kumihimo_japonske_snury.png",
+      "imageMode": "photo"
     },
     {
       "id": "matcha-tea",
-      "name": "Matcha tea",
+      "name": "Matcha tea (Nagomi tea)",
       "category": "Japonský čaj",
-      "description": "Čaj matcha a nápoje připravované z čaje matcha.",
-      "image": "/images/exhibitors/matcha_tea.png"
+      "description": "Čaj matcha a čajové latte připravované z mletách čajů: wakocha, houjicha, oolongcha, hakucha a matcha. .",
+      "image": "/images/exhibitors/matcha_tea.png",
+      "imageMode": "photo"
     },
     {
       "id": "japanese-wagashi",
       "name": "Japanese wagashi",
       "category": "Japonské sladkosti",
       "description": "Tradiční japonské sladkosti wagashi.",
-      "image": "/images/exhibitors/japanese_wagashi.png"
+      "image": "/images/exhibitors/japanese_wagashi.png",
+      "imageMode": "photo"
     },
     {
       "id": "world-bakery-60",
       "name": "World Bakery 60",
       "category": "Gastronomie",
       "description": "Japonské a asijské pečivo, dorty a sladké speciality.",
-      "image": "/images/exhibitors/world_bakery_60.png"
+      "image": "/images/exhibitors/world_bakery_60.png",
+      "imageMode": "photo"
     },
     {
       "id": "glaceo",
       "name": "Glaceo",
       "category": "Gastronomie",
       "description": "Zmrzlina a studené speciality.",
-      "image": "/images/exhibitors/glaceo.png"
-    },
-    {
-      "id": "fujitsu",
-      "name": "Fujitsu",
-      "category": "Partner & prezentace",
-      "description": "Japonská technologická společnost a partner akce.",
-      "image": "/images/exhibitors/fujitsu.png"
+      "image": "/images/exhibitors/glaceo.png",
+      "imageMode": "photo"
     },
     {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
       "category": "Japonská kultura",
       "description": "Prezentace japonské kultury, tradičního odívání a aktivit spolku Nihon Bunka.",
-      "image": "/images/exhibitors/nihon_bunka_plzen.png"
+      "image": "/images/performers/nihon_bunka_plzen.png",
+      "imageMode": "photo"
     },
     {
       "id": "go-akademie-praha",
       "name": "GO Akademie Praha",
       "category": "Japonské hry",
       "description": "Představení tradiční strategické deskové hry Go.",
-      "image": "/images/exhibitors/go_akademie_praha.png"
+      "image": "/images/exhibitors/go_akademie_praha.png",
+      "imageMode": "photo"
     },
     {
       "id": "fakulta-herni",
       "name": "Fakulta herní",
       "category": "Hry & vzdělávání",
       "description": "Prezentace herních aktivit a vzdělávání.",
-      "image": "/images/exhibitors/fakulta_herni.png"
+      "image": "/images/exhibitors/fakulta_herni.png",
+      "imageMode": "photo"
     }
   ]
 }
