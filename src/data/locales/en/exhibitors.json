@@ -93,14 +93,6 @@
       ,"imageMode": "photo"
     },
     {
-      "id": "fujitsu",
-      "name": "Fujitsu",
-      "category": "Partner & presentation",
-      "description": "A Japanese technology company and partner of the event.",
-      "image": "/images/partners/fujitsu_company.jpg"
-      ,"imageMode": "photo"
-    },
-    {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
       "category": "Japanese culture",
