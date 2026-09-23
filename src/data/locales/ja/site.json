@@ -125,8 +125,8 @@
       "path": "/galerie"
     },
     {
-      "label": "ご来場案内",
-      "path": "/prakticke-informace"
+      "label": "お問い合わせ",
+      "path": "/kontakt"
     }
   ],
   "ui": {
