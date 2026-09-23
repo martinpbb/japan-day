@@ -94,11 +94,36 @@
     ]
   },
   "contact": {
-    "intro": "For questions about the programme, partnerships or exhibitor participation, please contact the organisers. Public contact details will be added before the website officially launches.",
+    "intro": "For questions about the programme, visiting the event, partnerships or exhibitor participation, please use the contact form.",
     "email": "",
     "phone": ""
   },
-  "contactForm": { "kicker": "CONTACT", "title": "Still have a question?", "intro": "Couldn’t find the answer in the FAQ? Send us a message and we’ll get back to you.", "name": { "label": "Name", "placeholder": "Your name" }, "email": { "label": "Email", "placeholder": "you@example.com" }, "subject": { "label": "Subject", "placeholder": "How can we help?" }, "message": { "label": "Message", "placeholder": "Write your message..." }, "submit": "Send message", "sending": "Sending…", "success": "Thank you. Your message has been sent.", "error": "Your message could not be sent. Please try again.", "privacy": "We will use your email address only to reply to your enquiry." },
+  "contactForm": {
+    "kicker": "CONTACT",
+    "title": "Still have a question?",
+    "intro": "Couldn’t find the answer in the FAQ? Send us a message and we’ll get back to you.",
+    "name": {
+      "label": "Name",
+      "placeholder": "Your name"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "you@example.com"
+    },
+    "subject": {
+      "label": "Subject",
+      "placeholder": "How can we help?"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Write your message..."
+    },
+    "submit": "Send message",
+    "sending": "Sending…",
+    "success": "Thank you. Your message has been sent.",
+    "error": "Your message could not be sent. Please try again.",
+    "privacy": "We will use your email address only to reply to your enquiry."
+  },
   "navigation": [
     {
       "label": "About",
@@ -155,7 +180,17 @@
     "partners": "Partners",
     "mapTitle": "Map",
     "openMap": "Open in Google Maps",
-    "venue": { "heading": "Event venue", "text": "The event takes place at ZŠ Bolzanova in Chýně.", "addressLines": ["ZŠ Bolzanova", "Bolzanova 800", "253 03 Chýně"], "meta": "Prague-West District • Central Bohemian Region", "openMap": "Open in Google Maps" },
+    "venue": {
+      "heading": "Event venue",
+      "text": "The event takes place at ZŠ Bolzanova in Chýně.",
+      "addressLines": [
+        "ZŠ Bolzanova",
+        "Bolzanova 800",
+        "253 03 Chýně"
+      ],
+      "meta": "Prague-West District • Central Bohemian Region",
+      "openMap": "Open in Google Maps"
+    },
     "patronage": "Patronage",
     "allPerformers": "All performers",
     "inProgramme": "In the programme",

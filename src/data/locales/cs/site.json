@@ -94,11 +94,36 @@
     ]
   },
   "contact": {
-    "intro": "Pro dotazy k programu, partnerství nebo účasti vystavovatelů kontaktujte pořadatele. Konkrétní veřejné kontaktní údaje budou doplněny před spuštěním webu.",
+    "intro": "Pro dotazy k programu, návštěvě akce, partnerství nebo účasti vystavovatelů nám napište prostřednictvím kontaktního formuláře.",
     "email": "",
     "phone": ""
   },
-  "contactForm": { "kicker": "KONTAKT", "title": "Máte další dotaz?", "intro": "Nenašli jste odpověď mezi častými otázkami? Napište nám a ozveme se vám.", "name": { "label": "Jméno", "placeholder": "Vaše jméno" }, "email": { "label": "E-mail", "placeholder": "vas@email.cz" }, "subject": { "label": "Předmět", "placeholder": "S čím vám můžeme pomoci?" }, "message": { "label": "Zpráva", "placeholder": "Napište nám svůj dotaz..." }, "submit": "Odeslat zprávu", "sending": "Odesílám…", "success": "Děkujeme. Vaše zpráva byla odeslána.", "error": "Zprávu se nepodařilo odeslat. Zkuste to prosím znovu.", "privacy": "Vaši e-mailovou adresu použijeme pouze pro odpověď na váš dotaz." },
+  "contactForm": {
+    "kicker": "KONTAKT",
+    "title": "Máte další dotaz?",
+    "intro": "Nenašli jste odpověď mezi častými otázkami? Napište nám a ozveme se vám.",
+    "name": {
+      "label": "Jméno",
+      "placeholder": "Vaše jméno"
+    },
+    "email": {
+      "label": "E-mail",
+      "placeholder": "vas@email.cz"
+    },
+    "subject": {
+      "label": "Předmět",
+      "placeholder": "S čím vám můžeme pomoci?"
+    },
+    "message": {
+      "label": "Zpráva",
+      "placeholder": "Napište nám svůj dotaz..."
+    },
+    "submit": "Odeslat zprávu",
+    "sending": "Odesílám…",
+    "success": "Děkujeme. Vaše zpráva byla odeslána.",
+    "error": "Zprávu se nepodařilo odeslat. Zkuste to prosím znovu.",
+    "privacy": "Vaši e-mailovou adresu použijeme pouze pro odpověď na váš dotaz."
+  },
   "navigation": [
     {
       "label": "O akci",
@@ -155,7 +180,17 @@
     "partners": "Partneři",
     "mapTitle": "Mapa",
     "openMap": "Otevřít v Google Maps",
-    "venue": { "heading": "Adresa konání akce", "text": "Akce se koná v areálu ZŠ Bolzanova v Chýni.", "addressLines": ["ZŠ Bolzanova", "Bolzanova 800", "253 03 Chýně"], "meta": "Praha-západ • Středočeský kraj", "openMap": "Otevřít v Google Maps" },
+    "venue": {
+      "heading": "Adresa konání akce",
+      "text": "Akce se koná v areálu ZŠ Bolzanova v Chýni.",
+      "addressLines": [
+        "ZŠ Bolzanova",
+        "Bolzanova 800",
+        "253 03 Chýně"
+      ],
+      "meta": "Praha-západ • Středočeský kraj",
+      "openMap": "Otevřít v Google Maps"
+    },
     "patronage": "Záštita",
     "allPerformers": "Všichni účinkující",
     "inProgramme": "V programu",
@@ -168,7 +203,14 @@
     "moreAbout": "Více o {name}",
     "playVideo": "Přehrát video",
     "playVideoLabel": "Přehrát video z Japonského dne čaje a kultury",
-    "previousYearVideoAlt": "Video z předchozího ročníku Japonského dne čaje a kultury"
+    "previousYearVideoAlt": "Video z předchozího ročníku Japonského dne čaje a kultury",
+    "galleryCategories": {
+      "Program": "Program",
+      "Čaj": "Čaj",
+      "Gastronomie": "Gastronomie",
+      "Atmosféra": "Atmosféra",
+      "Stánky": "Stánky"
+    }
   },
   "footer": {
     "note": "Změna programu vyhrazena.",

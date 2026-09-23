@@ -94,11 +94,36 @@
     ]
   },
   "contact": {
-    "intro": "プログラム、パートナーシップ、出展についてのお問い合わせは主催者までご連絡ください。公開用の連絡先はウェブサイト正式公開前に掲載します。",
+    "intro": "プログラム、ご来場、パートナーシップ、出展に関するお問い合わせは、お問い合わせフォームをご利用ください。",
     "email": "",
     "phone": ""
   },
-  "contactForm": { "kicker": "お問い合わせ", "title": "まだご不明な点がありますか？", "intro": "Nenašli jste odpověď mezi častými otázkami? Napište nám a ozveme se vám.", "name": { "label": "Jméno", "placeholder": "Vaše jméno" }, "email": { "label": "E-mail", "placeholder": "vas@email.cz" }, "subject": { "label": "Předmět", "placeholder": "S čím vám můžeme pomoci?" }, "message": { "label": "Zpráva", "placeholder": "Napište nám svůj dotaz..." }, "submit": "Odeslat zprávu", "sending": "Odesílám…", "success": "Děkujeme. Vaše zpráva byla odeslána.", "error": "Zprávu se nepodařilo odeslat. Zkuste to prosím znovu.", "privacy": "Vaši e-mailovou adresu použijeme pouze pro odpověď na váš dotaz." },
+  "contactForm": {
+    "kicker": "お問い合わせ",
+    "title": "まだご不明な点がありますか？",
+    "intro": "よくある質問で解決しない場合は、こちらからお問い合わせください。",
+    "name": {
+      "label": "お名前",
+      "placeholder": "お名前"
+    },
+    "email": {
+      "label": "メールアドレス",
+      "placeholder": "you@example.com"
+    },
+    "subject": {
+      "label": "件名",
+      "placeholder": "お問い合わせ内容"
+    },
+    "message": {
+      "label": "メッセージ",
+      "placeholder": "メッセージをご入力ください"
+    },
+    "submit": "送信する",
+    "sending": "送信中…",
+    "success": "ありがとうございます。メッセージを送信しました。",
+    "error": "メッセージを送信できませんでした。もう一度お試しください。",
+    "privacy": "メールアドレスはお問い合わせへの返信にのみ使用します。"
+  },
   "navigation": [
     {
       "label": "イベントについて",
@@ -155,7 +180,17 @@
     "partners": "パートナー",
     "mapTitle": "地図",
     "openMap": "Googleマップで開く",
-    "venue": { "heading": "会場案内", "text": "イベント会場はフニェーのZŠ Bolzanovaです。", "addressLines": ["ZŠ Bolzanova", "Bolzanova 800", "253 03 Chýně"], "meta": "プラハ西部地区・中央ボヘミア州", "openMap": "Googleマップで開く" },
+    "venue": {
+      "heading": "会場案内",
+      "text": "イベント会場はフニェーのZŠ Bolzanovaです。",
+      "addressLines": [
+        "ZŠ Bolzanova",
+        "Bolzanova 800",
+        "253 03 Chýně"
+      ],
+      "meta": "プラハ西部地区・中央ボヘミア州",
+      "openMap": "Googleマップで開く"
+    },
     "patronage": "後援",
     "allPerformers": "出演者一覧",
     "inProgramme": "プログラム",

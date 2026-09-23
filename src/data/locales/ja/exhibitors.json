@@ -1,120 +1,118 @@
 {
-  "status": "published",
-  "intro": "Japan Dayでは、日本文化、食、飲み物、伝統工芸をテーマにした販売・飲食・紹介ブースが並びます。",
   "items": [
     {
       "id": "yamaya",
       "name": "Yamaya",
-      "category": "日本茶",
-      "description": "日本茶とお茶の文化をご紹介します。",
-      "image": "/images/exhibitors/yamaya_restaurace.png"
-      ,"imageMode": "logo"
+      "category": "日本料理",
+      "description": "日本料理のガストロノミー。日本料理の専門家であるMarek Horaが、本格的な日本料理を調理します。",
+      "image": "/images/exhibitors/yamaya_restaurace.png",
+      "imageMode": "logo"
     },
     {
       "id": "nagomi-tea",
       "name": "Nagomi tea",
       "category": "日本茶",
       "description": "日本の生産者から直接仕入れた上質な日本茶をご紹介します。",
-      "image": "/images/exhibitors/nagomi_tea.png"
-      ,"imageMode": "logo"
+      "image": "/images/exhibitors/nagomi_tea.png",
+      "imageMode": "logo"
     },
     {
       "id": "nagomi-sake",
       "name": "Nagomi sake",
       "category": "日本酒",
       "description": "日本酒の紹介と試飲を行います。",
-      "image": "/images/exhibitors/nagomi_sake.png"
-      ,"imageMode": "logo"
-      ,"imageScale": 1.15
+      "image": "/images/exhibitors/nagomi_sake.png",
+      "imageMode": "logo",
+      "imageScale": 1.15
     },
     {
       "id": "daniela-brouckova-rencova",
       "name": "Daniela Broučková Renčová",
       "category": "日本文化",
       "description": "日本から着想を得た作品をご紹介します。",
-      "image": "/images/exhibitors/daniela_brouckova.png"
-      ,"imageMode": "photo"
-      ,"imagePosition": "50% 15%"
+      "image": "/images/exhibitors/daniela_brouckova.png",
+      "imageMode": "photo",
+      "imagePosition": "50% 15%"
     },
     {
       "id": "onigiri-hostivice",
       "name": "Onigiri Hostivice",
       "category": "グルメ",
       "description": "おにぎりをはじめとする日本の味をご提供します。",
-      "image": "/images/exhibitors/onigiri_hostivice.png"
-      ,"imageMode": "photo"
+      "image": "/images/exhibitors/onigiri_hostivice.png",
+      "imageMode": "photo"
     },
     {
       "id": "japan-whisky",
       "name": "Japan Whisky",
       "category": "ジャパニーズウイスキー",
       "description": "ジャパニーズウイスキーのセレクションと、その文化をご紹介します。",
-      "image": "/images/exhibitors/japan_whisky.png"
-      ,"imageMode": "photo"
+      "image": "/images/exhibitors/japan_whisky.png",
+      "imageMode": "photo"
     },
     {
       "id": "kumihimo",
       "name": "Kumihimo – 日本の組紐",
       "category": "伝統工芸",
       "description": "日本の伝統的な組紐の技法をご紹介します。",
-      "image": "/images/exhibitors/kumihimo_japonske_snury.png"
-      ,"imageMode": "photo"
+      "image": "/images/exhibitors/kumihimo_japonske_snury.png",
+      "imageMode": "photo"
     },
     {
       "id": "matcha-tea",
-      "name": "Matcha tea",
+      "name": "Matcha tea (Nagomi tea)",
       "category": "日本茶",
-      "description": "抹茶と、抹茶を使ったドリンクをご紹介します。",
-      "image": "/images/exhibitors/matcha_tea.png"
-      ,"imageMode": "photo"
+      "description": "抹茶をはじめ、和紅茶、ほうじ茶、烏龍茶、白茶などの粉末茶を使ったティーラテをご用意します。",
+      "image": "/images/exhibitors/matcha_tea.png",
+      "imageMode": "photo"
     },
     {
       "id": "japanese-wagashi",
       "name": "Japanese wagashi",
       "category": "和菓子",
       "description": "日本の伝統的な和菓子をご紹介します。",
-      "image": "/images/exhibitors/japanese_wagashi.png"
-      ,"imageMode": "photo"
+      "image": "/images/exhibitors/japanese_wagashi.png",
+      "imageMode": "photo"
     },
     {
       "id": "world-bakery-60",
       "name": "World Bakery 60",
       "category": "グルメ",
       "description": "日本やアジアのパン、ケーキ、スイーツをご提供します。",
-      "image": "/images/exhibitors/world_bakery_60.png"
-      ,"imageMode": "photo"
+      "image": "/images/exhibitors/world_bakery_60.png",
+      "imageMode": "photo"
     },
     {
       "id": "glaceo",
       "name": "Glaceo",
       "category": "グルメ",
       "description": "アイスクリームや冷たいスイーツをご提供します。",
-      "image": "/images/exhibitors/glaceo.png"
-      ,"imageMode": "photo"
+      "image": "/images/exhibitors/glaceo.png",
+      "imageMode": "photo"
     },
     {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
       "category": "日本文化",
       "description": "Nihon Bunkaによる日本文化、伝統衣装、各種活動の紹介です。",
-      "image": "/images/exhibitors/nihon_bunka_plzen.png"
-      ,"imageMode": "photo"
+      "image": "/images/performers/nihon_bunka_plzen.png",
+      "imageMode": "photo"
     },
     {
       "id": "go-akademie-praha",
       "name": "GO Akademie Praha",
       "category": "日本のゲーム",
       "description": "伝統的な戦略ボードゲーム「囲碁」をご紹介します。",
-      "image": "/images/exhibitors/go_akademie_praha.png"
-      ,"imageMode": "photo"
+      "image": "/images/exhibitors/go_akademie.png",
+      "imageMode": "photo"
     },
     {
       "id": "fakulta-herni",
       "name": "Fakulta herní",
       "category": "ゲーム・教育",
       "description": "ゲーム関連の活動と教育をご紹介します。",
-      "image": "/images/exhibitors/fakulta_herni.png"
-      ,"imageMode": "photo"
+      "image": "/images/exhibitors/fakulta_herni.png",
+      "imageMode": "photo"
     }
   ]
 }

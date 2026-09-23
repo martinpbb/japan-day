@@ -1,11 +1,9 @@
 {
-  "status": "published",
-  "intro": "Na Japonském dni najdete prodejní, gastronomické i prezentační stánky věnované japonské kultuře, jídlu, nápojům a tradičním řemeslům.",
   "items": [
     {
       "id": "yamaya",
       "name": "Yamaya",
-      "category": "Japonský čaj",
+      "category": "Gastronomie",
       "description": "Japonská gastronomie. Marek Hora - specialista na japonskou kuchyni připraví autentická japonská jídla.",
       "image": "/images/exhibitors/yamaya_restaurace.png",
       "imageMode": "logo"
@@ -64,7 +62,7 @@
       "id": "matcha-tea",
       "name": "Matcha tea (Nagomi tea)",
       "category": "Japonský čaj",
-      "description": "Čaj matcha a čajové latte připravované z mletách čajů: wakocha, houjicha, oolongcha, hakucha a matcha. .",
+      "description": "Čaj matcha a čajové latte připravované z mletých čajů: wakocha, hōjicha, oolongcha, hakucha a matcha.",
       "image": "/images/exhibitors/matcha_tea.png",
       "imageMode": "photo"
     },
