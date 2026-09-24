@@ -264,7 +264,6 @@ button {
 }
 .sectionHead {
   margin-bottom: 34px;
-  max-width: 820px;
 }
 .section h2 {
   margin: 0;
@@ -430,7 +429,10 @@ button {
 .featureCardLink {
   color: inherit;
   text-decoration: none;
-  transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+  transition:
+    transform 180ms ease,
+    border-color 180ms ease,
+    background 180ms ease;
 }
 .featureCardLink:hover,
 .featureCardLink:focus-visible {
@@ -453,14 +455,111 @@ button {
   padding-top: 54px;
   border-top: 1px solid rgba(255, 255, 255, 0.13);
 }
-.gastronomyCategory + .gastronomyCategory { margin-top: 54px; }
-.gastronomyCategory h3 { margin: 0 0 10px; font-size: clamp(1.5rem, 2vw, 2rem); }
-.gastronomyIntro { max-width: 720px; color: rgba(255, 255, 255, 0.72); line-height: 1.65; }
-.gastronomyItemGrid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-top: 24px; }
-.gastronomyItem { padding: 18px 20px; border-left: 2px solid rgba(239, 185, 179, 0.55); background: rgba(255, 255, 255, 0.045); }
-.gastronomyItem h4 { margin: 0 0 6px; }
-.gastronomyItem p { margin: 0; color: rgba(255, 255, 255, 0.68); line-height: 1.5; }
-.gastronomyItem .gastronomyRegion { margin-bottom: 5px; color: #efb9b3; font-size: 0.88rem; }
+.gastronomyCategory + .gastronomyCategory {
+  margin-top: 54px;
+}
+.gastronomyCategory h3 {
+  margin: 0 0 10px;
+  font-size: clamp(1.5rem, 2vw, 2rem);
+}
+.gastronomyIntro {
+  max-width: 720px;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 1.65;
+}
+.gastronomyItemGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+  margin-top: 24px;
+}
+.gastronomyItem {
+  padding: 18px 20px;
+  border-left: 2px solid rgba(239, 185, 179, 0.55);
+  background: rgba(255, 255, 255, 0.045);
+}
+.gastronomyItem h4 {
+  margin: 0 0 6px;
+}
+.gastronomyItem p {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.68);
+  line-height: 1.5;
+}
+.gastronomyItem .gastronomyRegion {
+  margin-bottom: 5px;
+  color: #efb9b3;
+  font-size: 0.88rem;
+}
+.childrenIntro {
+  max-width: 760px;
+  color: var(--muted);
+  line-height: 1.65;
+}
+.childrenSection {
+  background: #f5e6d3;
+  color: var(--ink);
+}
+.childrenFreeEntry {
+  display: inline-block;
+  margin: 20px 0 24px;
+  padding: 9px 14px;
+  border: 1px solid #d7b99e;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.55);
+  color: var(--ink);
+  font-weight: 750;
+}
+.childrenSection .childrenCard {
+  border-color: #e4cdb8;
+  background: #fff8f1;
+  color: var(--ink);
+}
+.childrenSection .childrenCard p {
+  color: var(--muted);
+}
+.childrenSection .featureCard svg {
+  color: var(--red);
+}
+.childrenSection .childrenCard:hover,
+.childrenSection .childrenCard:focus-visible {
+  border-color: rgba(186, 36, 49, 0.3);
+  background: #fff;
+}
+.childrenCard p {
+  min-height: 4.8em;
+}
+.childrenCta {
+  display: inline-flex;
+  margin-top: 28px;
+  padding: 13px 20px;
+  border-radius: 999px;
+  background: var(--red);
+  color: #fff;
+  font-weight: 800;
+  text-decoration: none;
+}
+.childrenCta:hover,
+.childrenCta:focus-visible {
+  background: var(--red-dark);
+  color: #fff;
+}
+.childrenSafety {
+  margin-top: 54px;
+  padding: 22px 24px;
+  border-left: 3px solid var(--red);
+  background: rgba(255, 255, 255, 0.55);
+}
+.childrenSafety h3 {
+  margin: 0 0 8px;
+  color: var(--ink);
+}
+.childrenSafety p {
+  max-width: 820px;
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.65;
+}
 .featureCard svg {
   color: #efb9b3;
 }
@@ -1134,21 +1233,92 @@ button {
   border-radius: var(--radius);
   background: var(--white);
 }
-.contactFormIntro h3 { margin: 0 0 10px; font-family: Georgia, serif; font-size: 30px; font-weight: 500; }
-.contactFormIntro p, .contactPrivacy { color: var(--muted); line-height: 1.65; }
-.contactForm { display: grid; gap: 16px; margin-top: 22px; }
-.contactFormGrid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
-.contactField { display: grid; gap: 7px; font-weight: 700; }
-.contactField input, .contactField textarea { width: 100%; border: 1px solid var(--line); border-radius: 8px; padding: 12px 13px; font: inherit; background: #fff; }
-.contactField textarea { resize: vertical; }
-.contactSubmit { justify-self: start; display: inline-flex; align-items: center; gap: 9px; border: 0; border-radius: 999px; padding: 13px 18px; background: var(--red); color: #fff; font: inherit; font-weight: 750; cursor: pointer; }
-.contactSubmit:disabled { opacity: .65; cursor: wait; }
-.contactPrivacy { font-size: 14px; }
-.contactStatus { padding: 12px 14px; border-radius: 8px; }
-.contactStatus.isSuccess { background: #e7f3e8; color: #245d2c; }
-.contactStatus.isError { background: #fae8e6; color: #8f2720; }
-.contactHoneypot { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
-@media (max-width: 760px) { .contactFormGrid { grid-template-columns: 1fr; } .contactFormBlock { padding: 22px; } }
+.contactFormIntro h3 {
+  margin: 0 0 10px;
+  font-family: Georgia, serif;
+  font-size: 30px;
+  font-weight: 500;
+}
+.contactFormIntro p,
+.contactPrivacy {
+  color: var(--muted);
+  line-height: 1.65;
+}
+.contactForm {
+  display: grid;
+  gap: 16px;
+  margin-top: 22px;
+}
+.contactFormGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+.contactField {
+  display: grid;
+  gap: 7px;
+  font-weight: 700;
+}
+.contactField input,
+.contactField textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px 13px;
+  font: inherit;
+  background: #fff;
+}
+.contactField textarea {
+  resize: vertical;
+}
+.contactSubmit {
+  justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  border: 0;
+  border-radius: 999px;
+  padding: 13px 18px;
+  background: var(--red);
+  color: #fff;
+  font: inherit;
+  font-weight: 750;
+  cursor: pointer;
+}
+.contactSubmit:disabled {
+  opacity: 0.65;
+  cursor: wait;
+}
+.contactPrivacy {
+  font-size: 14px;
+}
+.contactStatus {
+  padding: 12px 14px;
+  border-radius: 8px;
+}
+.contactStatus.isSuccess {
+  background: #e7f3e8;
+  color: #245d2c;
+}
+.contactStatus.isError {
+  background: #fae8e6;
+  color: #8f2720;
+}
+.contactHoneypot {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+@media (max-width: 760px) {
+  .contactFormGrid {
+    grid-template-columns: 1fr;
+  }
+  .contactFormBlock {
+    padding: 22px;
+  }
+}
 
 .performerCardLink {
   display: block;

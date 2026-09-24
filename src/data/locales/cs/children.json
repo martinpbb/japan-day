@@ -1,0 +1,18 @@
+{
+  "kicker": "PRO DĚTI A RODINY",
+  "title": "Japonsko, které si děti mohou samy vyzkoušet",
+  "intro": "Máte v plánu dorazit s dětmi? Nebo přemýšlíte, jak si společně užít celý den? Připravujeme tvoření, soutěže, hry i sladké odměny, aby si Japonský den užili také naši nejmenší návštěvníci.",
+  "cta": "Zjistit více",
+  "freeEntry": "Děti do 12 let mají vstup zdarma.",
+  "activities": [
+    { "id": "japanese-drawing", "title": "Japonské malování a soutěž", "short": "Malování japonských motivů a soutěž o koš plný sladkostí.", "description": "Děti si budou moci vybarvovat a malovat různé motivy inspirované Japonskem. Hotová díla se mohou zapojit do soutěže o nejkrásnější obrázek. Autor vítězného díla získá koš plný japonských a asijských sladkostí a dobrot." },
+    { "id": "face-painting", "title": "Soutěž v malování na obličej", "short": "Rodiče mohou proměnit své děti v anime nebo japonské postavičky.", "description": "Do soutěže se mohou zapojit děti společně s rodiči. Rodiče mohou namalovat své dítě jako oblíbenou anime nebo japonskou postavičku. Nejpovedenější a nejoriginálnější výtvor získá cenu." },
+    { "id": "origami", "title": "Origami workshop", "short": "Vyzkoušejte si tradiční japonské skládání papíru.", "description": "Děti i rodiče si budou moci vyzkoušet origami, tradiční japonské umění skládání papíru, a vytvořit si vlastní jednoduchý papírový model." },
+    { "id": "retro-games", "title": "Retro japonské konzolové hry", "short": "Zahrajte si klasické hry na starších herních konzolích.", "description": "Děti i rodiče si budou moci zahrát starší konzolové hry spojené s japonskou herní kulturou a připomenout si dobu klasických herních konzolí." },
+    { "id": "ink-painting", "title": "Tušová malba", "short": "Vyzkoušejte si malování tuší inspirované japonským uměním.", "description": "Děti si budou moci vyzkoušet jednoduchou práci s tuší a vytvořit vlastní motiv inspirovaný japonskou výtvarnou kulturou." },
+    { "id": "go", "title": "Desková hra Go", "short": "Seznamte se s jednou z nejznámějších tradičních strategických her.", "description": "Návštěvníci si budou moci vyzkoušet deskovou hru Go, seznámit se s jejími základními pravidly a zahrát si jednoduchou partii." },
+    { "id": "play-area", "title": "Herní prostor pro nejmenší", "short": "Jednoduché hry a prostor pro děti přibližně do 7 let.", "description": "Pro děti přibližně do 7 let bude připravený prostor s jednoduchými hrami a zábavou, kde si mohou během dne hrát nebo si odpočinout od hlavního programu." },
+    { "id": "sweets", "title": "Zmrzlina a sladké dobroty", "short": "Sladká pauza pro malé i velké návštěvníky.", "description": "Během dne budou k dispozici také zmrzlina, japonské a asijské sladkosti a další dobroty pro děti i dospělé." }
+  ],
+  "safety": { "title": "Dohled nad dětmi", "text": "Dětské aktivity nejsou službou hlídání dětí. Děti zůstávají po celou dobu pod dohledem a odpovědností rodiče nebo jiné doprovázející dospělé osoby. Prosíme rodiče, aby při hrách, soutěžích a dalších aktivitách dohlíželi na bezpečnost svých dětí i ostatních účastníků." }
+}

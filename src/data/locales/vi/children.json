@@ -1,0 +1,18 @@
+{
+  "kicker": "DÀNH CHO TRẺ EM VÀ GIA ĐÌNH",
+  "title": "Nhật Bản để trẻ em tự mình khám phá",
+  "intro": "Bạn dự định đến cùng các con, hay muốn tìm cách tận hưởng trọn vẹn một ngày bên gia đình? Chúng tôi chuẩn bị các hoạt động thủ công, cuộc thi, trò chơi và món ngọt để những vị khách nhỏ tuổi cũng có thể vui cùng Japan Day.",
+  "cta": "Tìm hiểu thêm",
+  "freeEntry": "Trẻ em dưới 12 tuổi được vào cửa miễn phí.",
+  "activities": [
+    { "id": "japanese-drawing", "title": "Cuộc thi vẽ tranh Nhật Bản", "short": "Vẽ các họa tiết Nhật Bản và tham gia cuộc thi giành giỏ đầy bánh kẹo.", "description": "Trẻ em có thể tô màu và vẽ các họa tiết lấy cảm hứng từ Nhật Bản. Tác phẩm hoàn thành sẽ được tham gia cuộc thi, người thắng cuộc nhận một giỏ bánh kẹo Nhật Bản và châu Á." },
+    { "id": "face-painting", "title": "Cuộc thi vẽ mặt", "short": "Cha mẹ có thể biến con mình thành nhân vật anime hoặc nhân vật Nhật Bản.", "description": "Trẻ em có thể tham gia cùng cha mẹ. Cha mẹ sẽ vẽ cho con thành nhân vật anime hoặc nhân vật Nhật Bản yêu thích; tác phẩm sáng tạo nhất sẽ nhận được phần thưởng." },
+    { "id": "origami", "title": "Workshop origami", "short": "Thử nghệ thuật gấp giấy truyền thống của Nhật Bản.", "description": "Trẻ em và cha mẹ có thể cùng thử origami, nghệ thuật gấp giấy truyền thống của Nhật Bản, và tự tạo một mô hình giấy đơn giản." },
+    { "id": "retro-games", "title": "Trò chơi console Nhật Bản retro", "short": "Chơi các trò kinh điển trên những máy chơi game đời cũ.", "description": "Trẻ em và cha mẹ có thể chơi các trò chơi console gắn với văn hóa game Nhật Bản và cùng nhớ lại thời kỳ máy chơi game kinh điển." },
+    { "id": "ink-painting", "title": "Vẽ mực", "short": "Thử vẽ bằng mực lấy cảm hứng từ nghệ thuật Nhật Bản.", "description": "Trẻ em có thể thử sử dụng mực và tạo ra một họa tiết riêng lấy cảm hứng từ văn hóa hội họa Nhật Bản." },
+    { "id": "go", "title": "Cờ vây Go", "short": "Làm quen với một trong những trò chơi chiến thuật truyền thống nổi tiếng nhất.", "description": "Khách tham dự có thể thử chơi Go, tìm hiểu luật cơ bản và chơi một ván đơn giản." },
+    { "id": "play-area", "title": "Khu vui chơi cho trẻ nhỏ", "short": "Các trò chơi đơn giản và không gian cho trẻ khoảng dưới 7 tuổi.", "description": "Trẻ khoảng dưới 7 tuổi sẽ có một không gian với các trò chơi và hoạt động đơn giản để vui chơi hoặc nghỉ ngơi giữa chương trình chính." },
+    { "id": "sweets", "title": "Kem và món ngọt", "short": "Một khoảng nghỉ ngọt ngào cho cả trẻ em và người lớn.", "description": "Trong ngày sẽ có kem, bánh kẹo Nhật Bản và châu Á cùng nhiều món ngon khác dành cho trẻ em và người lớn." }
+  ],
+  "safety": { "title": "Cha mẹ cần giám sát trẻ", "text": "Các hoạt động dành cho trẻ em không phải là dịch vụ trông trẻ. Trẻ luôn phải ở dưới sự giám sát và chịu trách nhiệm của cha mẹ hoặc người lớn đi cùng. Kính mong cha mẹ chú ý đến sự an toàn của con mình và những người tham gia khác trong các trò chơi, cuộc thi và hoạt động." }
+}

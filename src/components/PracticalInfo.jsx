@@ -11,7 +11,7 @@ export default function PracticalInfo() {
   const e = site.event;
   const mapEmbedUrl = "https://www.google.com/maps?q=Z%C5%A0+Bolzanova%2C+Bolzanova+800%2C+253+03+Ch%C3%BDn%C4%9B%2C+Czech+Republic&output=embed";
   const mapUrl = "https://www.google.com/maps/search/?api=1&query=Z%C5%A0+Bolzanova%2C+Bolzanova+800%2C+253+03+Ch%C3%BDn%C4%9B";
-  return <Section id="informace" kicker={site.practical.kicker} title={site.practical.title}>
+  return <Section id="informace" kicker={site.practical.kicker} title={site.practical.title} className="sectionTint">
     <div className="infoGrid">{site.practical.items.map((item, i) => { const Icon = icons[i]; return <div className="infoCard" key={item.label}><Icon size={24}/><span>{item.label}</span><strong>{item.value}</strong></div>; })}</div>
     <div className="practicalDetails"><div><h3>{site.ui.transportAndParking}</h3><p>{site.practical.transport}</p></div><div><h3>{site.ui.accessibility}</h3><p>{site.practical.accessibility}</p></div></div>
     <div className="mapPlaceholder"><MapPin size={28}/><div><strong>{e.venue}, {e.street}, {e.postalCode} {e.city}</strong><span>{e.area} • {e.region}</span></div></div>

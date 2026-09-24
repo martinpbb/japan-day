@@ -1,0 +1,18 @@
+{
+  "kicker": "FÜR KINDER UND FAMILIEN",
+  "title": "Japan zum Mitmachen für Kinder",
+  "intro": "Sie möchten mit Kindern kommen oder den ganzen Tag gemeinsam genießen? Wir bereiten Bastelangebote, Wettbewerbe, Spiele und süße Belohnungen vor, damit auch die jüngsten Gäste den Japan-Tag erleben können.",
+  "cta": "Mehr erfahren",
+  "freeEntry": "Kinder unter 12 Jahren haben freien Eintritt.",
+  "activities": [
+    { "id": "japanese-drawing", "title": "Japanischer Malwettbewerb", "short": "Japanische Motive malen und einen Korb voller Süßigkeiten gewinnen.", "description": "Kinder können von Japan inspirierte Motive ausmalen und zeichnen. Die fertigen Bilder nehmen an einem Wettbewerb teil; auf die Gewinnerin oder den Gewinner wartet ein Korb mit japanischen und asiatischen Süßigkeiten." },
+    { "id": "face-painting", "title": "Wettbewerb im Gesichtmalen", "short": "Eltern können ihre Kinder in Anime- oder japanische Figuren verwandeln.", "description": "Kinder können gemeinsam mit ihren Eltern teilnehmen. Eltern malen ihr Kind als beliebte Anime- oder japanische Figur; die gelungenste und originellste Idee wird prämiert." },
+    { "id": "origami", "title": "Origami-Workshop", "short": "Die traditionelle japanische Kunst des Papierfaltens ausprobieren.", "description": "Kinder und Eltern können Origami ausprobieren und ihr eigenes einfaches Papiermodell gestalten." },
+    { "id": "retro-games", "title": "Japanische Retro-Konsolenspiele", "short": "Klassische Spiele auf älteren Spielkonsolen spielen.", "description": "Kinder und Eltern können ältere Konsolenspiele aus der japanischen Spielekultur spielen und die Zeit der klassischen Konsolen wiederentdecken." },
+    { "id": "ink-painting", "title": "Tuschemalerei", "short": "Von japanischer Kunst inspirierte Tuschemalerei ausprobieren.", "description": "Kinder können mit Tusche arbeiten und ein eigenes Motiv gestalten, das von der japanischen Bildkultur inspiriert ist." },
+    { "id": "go", "title": "Das Brettspiel Go", "short": "Eines der bekanntesten traditionellen Strategiespiele kennenlernen.", "description": "Besucher können Go ausprobieren, die Grundregeln kennenlernen und eine einfache Partie spielen." },
+    { "id": "play-area", "title": "Spielbereich für die Kleinsten", "short": "Einfache Spiele und Raum für Kinder bis etwa sieben Jahre.", "description": "Für Kinder bis etwa sieben Jahre gibt es einen Bereich mit einfachen Spielen und Beschäftigungen zum Spielen oder Ausruhen vom Hauptprogramm." },
+    { "id": "sweets", "title": "Eis und süße Leckereien", "short": "Eine süße Pause für kleine und große Gäste.", "description": "Im Laufe des Tages gibt es Eis, japanische und asiatische Süßigkeiten sowie weitere Leckereien für Kinder und Erwachsene." }
+  ],
+  "safety": { "title": "Aufsicht durch die Eltern", "text": "Die Kinderangebote sind keine Kinderbetreuung. Die Kinder bleiben jederzeit unter der Aufsicht und Verantwortung eines Elternteils oder einer anderen begleitenden erwachsenen Person. Bitte achten Sie während der Spiele, Wettbewerbe und Aktivitäten auf die Sicherheit Ihrer Kinder und der anderen Teilnehmer." }
+}

@@ -6,6 +6,7 @@ import Program from "./components/Program.jsx";
 import Performers from "./components/Performers.jsx";
 import PerformerDetail from "./components/PerformerDetail.jsx";
 import Gastronomy from "./components/Gastronomy.jsx";
+import Children from "./components/Children.jsx";
 import Exhibitors from "./components/Exhibitors.jsx";
 import VideoSection from "./components/VideoSection.jsx";
 import Gallery from "./components/Gallery.jsx";
@@ -25,6 +26,7 @@ const pageComponents = {
   "/program": Program,
   "/ucinkujici": Performers,
   "/gastronomie": Gastronomy,
+  "/pro-deti": Children,
   "/vystavovatele": Exhibitors,
   "/prakticke-informace": PracticalInfo,
   "/galerie": Gallery,
@@ -49,6 +51,7 @@ function HomePage() {
       <Hero />
       <About />
       <Program />
+      <Children compact />
       <Performers />
       <Gastronomy compact />
       <Exhibitors />

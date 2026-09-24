@@ -76,6 +76,16 @@
         "breadcrumb"
       ]
     },
+    "/pro-deti": {
+      "sectionKicker": "PRO DĚTI A RODINY",
+      "sectionTitle": "Japonsko, které si děti mohou samy vyzkoušet",
+      "title": "Program pro děti a rodiny | Japonský den čaje a kultury",
+      "description": "Rodinný program Japan Day Chýně: origami, japonské malování, hry, Go, sladkosti a další aktivity pro děti.",
+      "h1": "Pro děti a rodiny",
+      "intro": "Tvoření, soutěže, origami, hry a další program pro malé i velké návštěvníky.",
+      "breadcrumb": "Pro děti a rodiny",
+      "schema": ["breadcrumb"]
+    },
     "/vystavovatele": {
       "title": "Vystavovatelé a prodejci | Japonský den čaje a kultury",
       "description": "Vystavovatelé a prodejci s japonskou tematikou na Japonském dni čaje a kultury 2026 v Chýni.",

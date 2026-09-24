@@ -75,6 +75,16 @@
         "breadcrumb"
       ]
     },
+    "/pro-deti": {
+      "sectionKicker": "儿童与家庭",
+      "sectionTitle": "孩子们可以亲手体验的日本",
+      "title": "儿童与家庭活动 | Japan Day Chýně",
+      "description": "Japan Day Chýně家庭活动：折纸、绘画、游戏、围棋、甜点和适合儿童的体验。",
+      "h1": "儿童与家庭",
+      "intro": "手工、比赛、折纸、游戏等适合大小游客的活动。",
+      "breadcrumb": "儿童与家庭",
+      "schema": ["breadcrumb"]
+    },
     "/vystavovatele": {
       "title": "参展商与销售摊位 | 日本茶与文化日",
       "description": "探索 Japan Day Chýně 2026 的日本主题参展商、协会和销售摊位。",

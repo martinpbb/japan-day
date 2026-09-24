@@ -1,0 +1,18 @@
+{
+  "kicker": "PARA NIÑOS Y FAMILIAS",
+  "title": "Japón para descubrirlo con las propias manos",
+  "intro": "¿Pensáis venir con niños o buscáis cómo disfrutar juntos de todo el día? Preparamos manualidades, concursos, juegos y dulces para que también los visitantes más pequeños disfruten del Japan Day.",
+  "cta": "Descubrir más",
+  "freeEntry": "Los menores de 12 años tienen entrada gratuita.",
+  "activities": [
+    { "id": "japanese-drawing", "title": "Concurso de dibujo japonés", "short": "Dibuja motivos japoneses y participa por una cesta llena de dulces.", "description": "Los niños podrán colorear y dibujar motivos inspirados en Japón. Las obras terminadas participarán en un concurso y la ganadora recibirá una cesta de dulces japoneses y asiáticos." },
+    { "id": "face-painting", "title": "Concurso de pintura facial", "short": "Los padres pueden convertir a sus hijos en personajes de anime o japoneses.", "description": "Los niños pueden participar junto con sus padres. Los padres pintarán a sus hijos como su personaje favorito de anime o japonés y la creación más original recibirá un premio." },
+    { "id": "origami", "title": "Taller de origami", "short": "Prueba el tradicional arte japonés de doblar papel.", "description": "Niños y padres podrán probar el origami y crear su propio modelo sencillo de papel." },
+    { "id": "retro-games", "title": "Videojuegos retro japoneses", "short": "Juega a clásicos en consolas antiguas.", "description": "Niños y padres podrán jugar a videojuegos clásicos relacionados con la cultura japonesa y recordar la época de las primeras consolas." },
+    { "id": "ink-painting", "title": "Pintura con tinta", "short": "Prueba una pintura inspirada en el arte japonés.", "description": "Los niños podrán experimentar con la tinta y crear un motivo propio inspirado en la cultura visual japonesa." },
+    { "id": "go", "title": "El juego de mesa Go", "short": "Conoce uno de los juegos de estrategia tradicionales más famosos.", "description": "Los visitantes podrán probar el Go, conocer sus reglas básicas y jugar una partida sencilla." },
+    { "id": "play-area", "title": "Zona de juegos para los más pequeños", "short": "Juegos sencillos y un espacio para niños de hasta unos 7 años.", "description": "Los niños de hasta unos 7 años tendrán un espacio con juegos sencillos para jugar o descansar del programa principal." },
+    { "id": "sweets", "title": "Helados y dulces", "short": "Una pausa dulce para visitantes pequeños y mayores.", "description": "Durante el día habrá helados, dulces japoneses y asiáticos y otras delicias para niños y adultos." }
+  ],
+  "safety": { "title": "Supervisión de los niños", "text": "Las actividades infantiles no son un servicio de guardería. Los niños permanecen bajo la supervisión y responsabilidad de sus padres u otro adulto acompañante. Durante los juegos, concursos y demás actividades, pedimos a los padres que velen por la seguridad de sus hijos y de los demás participantes." }
+}

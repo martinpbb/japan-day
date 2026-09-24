@@ -75,6 +75,16 @@
         "breadcrumb"
       ]
     },
+    "/pro-deti": {
+      "sectionKicker": "DÀNH CHO TRẺ EM VÀ GIA ĐÌNH",
+      "sectionTitle": "Nhật Bản để trẻ em tự mình khám phá",
+      "title": "Chương trình cho trẻ em và gia đình | Japan Day Chýně",
+      "description": "Chương trình gia đình tại Japan Day Chýně với origami, vẽ tranh, trò chơi, cờ vây, món ngọt và hoạt động cho trẻ em.",
+      "h1": "Dành cho trẻ em và gia đình",
+      "intro": "Hoạt động thủ công, cuộc thi, origami, trò chơi và nhiều điều thú vị cho mọi lứa tuổi.",
+      "breadcrumb": "Trẻ em và gia đình",
+      "schema": ["breadcrumb"]
+    },
     "/vystavovatele": {
       "title": "Đơn vị trưng bày & bán hàng | Ngày Trà và Văn hóa Nhật Bản",
       "description": "Khám phá các đơn vị trưng bày, hội nhóm và người bán theo chủ đề Nhật Bản tại Japan Day Chýně 2026.",

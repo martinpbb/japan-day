@@ -1,0 +1,18 @@
+{
+  "kicker": "FOR CHILDREN AND FAMILIES",
+  "title": "Japan for children to discover hands-on",
+  "intro": "Planning to come with children, or wondering how to enjoy the whole day together? We are preparing crafts, competitions, games and sweet treats so our youngest visitors can enjoy Japan Day too.",
+  "cta": "Find out more",
+  "freeEntry": "Children under 12 enter free of charge.",
+  "activities": [
+    { "id": "japanese-drawing", "title": "Japanese drawing competition", "short": "Draw Japanese motifs and compete for a basket full of sweets.", "description": "Children can colour and draw motifs inspired by Japan. Finished pictures can enter a competition for the most beautiful drawing, with a basket of Japanese and Asian sweets for the winner." },
+    { "id": "face-painting", "title": "Face-painting competition", "short": "Parents can turn their children into anime or Japanese characters.", "description": "Children can take part together with their parents. Parents can paint their child as a favourite anime or Japanese character, and the most original creation will win a prize." },
+    { "id": "origami", "title": "Origami workshop", "short": "Try the traditional Japanese art of folding paper.", "description": "Children and parents can try origami, the traditional Japanese art of paper folding, and make their own simple paper model." },
+    { "id": "retro-games", "title": "Retro Japanese console games", "short": "Play classic games on older game consoles.", "description": "Children and parents can play older console games connected with Japanese gaming culture and revisit the era of classic consoles." },
+    { "id": "ink-painting", "title": "Ink painting", "short": "Try ink painting inspired by Japanese art.", "description": "Children can try working with ink and create their own motif inspired by Japanese visual culture." },
+    { "id": "go", "title": "The board game Go", "short": "Discover one of the best-known traditional strategy games.", "description": "Visitors can try the board game Go, learn its basic rules and play a simple game." },
+    { "id": "play-area", "title": "Play area for young children", "short": "Simple games and a space for children roughly up to age seven.", "description": "A space with simple games and activities will be available for children roughly up to age seven, where they can play or take a break from the main programme." },
+    { "id": "sweets", "title": "Ice cream and sweet treats", "short": "A sweet break for young and grown-up visitors alike.", "description": "Ice cream, Japanese and Asian sweets, and other treats will also be available for children and adults during the day." }
+  ],
+  "safety": { "title": "Parental supervision", "text": "The children’s activities are not a childcare service. Children remain under the supervision and responsibility of a parent or another accompanying adult at all times. Parents are asked to watch over the safety of their children and other participants during games, competitions and activities." }
+}

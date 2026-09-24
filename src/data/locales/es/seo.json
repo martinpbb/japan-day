@@ -75,6 +75,16 @@
         "breadcrumb"
       ]
     },
+    "/pro-deti": {
+      "sectionKicker": "PARA NIÑOS Y FAMILIAS",
+      "sectionTitle": "Japón para descubrirlo con las propias manos",
+      "title": "Programa para niños y familias | Japan Day Chýně",
+      "description": "Programa familiar de Japan Day Chýně con origami, dibujo, juegos, Go, dulces y actividades para niños.",
+      "h1": "Para niños y familias",
+      "intro": "Manualidades, concursos, origami, juegos y más para visitantes pequeños y mayores.",
+      "breadcrumb": "Niños y familias",
+      "schema": ["breadcrumb"]
+    },
     "/vystavovatele": {
       "title": "Expositores y vendedores | Día Japonés del Té y la Cultura",
       "description": "Descubre expositores, asociaciones y vendedores de temática japonesa en Japan Day Chýně 2026.",

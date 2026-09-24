@@ -73,6 +73,16 @@
         "breadcrumb"
       ]
     },
+    "/pro-deti": {
+      "sectionKicker": "子どもと家族のために",
+      "sectionTitle": "子どもたちが自分で体験できる日本",
+      "title": "子どもと家族のプログラム | Japan Day Chýně",
+      "description": "折り紙、絵画、ゲーム、囲碁やお菓子など、子どもと家族で楽しめるJapan Day Chýněのプログラム。",
+      "h1": "子どもと家族のために",
+      "intro": "工作、コンテスト、折り紙、ゲームなど、家族で楽しめるプログラムです。",
+      "breadcrumb": "子どもと家族",
+      "schema": ["breadcrumb"]
+    },
     "/vystavovatele": {
       "title": "出展者・販売ブース | 日本茶と日本文化の日",
       "description": "Japan Day Chýně 2026に参加する、日本をテーマにした出展者、団体、販売ブースをご紹介します。",
