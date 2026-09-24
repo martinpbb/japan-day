@@ -64,6 +64,15 @@ import viPartners from "./locales/vi/partners.json";
 
 export const defaultLocale = "cs";
 export const supportedLocales = ["cs", "en", "ja", "de", "es", "zh", "vi"];
+export const localeDocumentLanguages = {
+  cs: "cs",
+  en: "en",
+  ja: "ja",
+  de: "de",
+  es: "es",
+  zh: "zh-CN",
+  vi: "vi",
+};
 
 const localeContent = {
   cs: {

@@ -7,6 +7,7 @@ export default function Hero() {
   const { locale, site } = useI18n();
   const { ui } = site;
   const e = site.event;
+  const openingFrom = ui?.openingFrom ?? "Open from {time}";
   return (
     <section id="top" className="hero">
       <div className="heroPattern" aria-hidden="true" />
@@ -23,7 +24,7 @@ export default function Hero() {
           </div>
           <div className="facts">
             <span><CalendarDays size={18} />{e.date}</span>
-            <span><Clock3 size={18} />{ui.openingFrom.replace("{time}", e.openingTime)}</span>
+            <span><Clock3 size={18} />{openingFrom.replace("{time}", e.openingTime)}</span>
             <span><MapPin size={18} />{e.venue}, {e.locationLabel}</span>
             <span><Ticket size={18} />{e.admission}</span>
           </div>

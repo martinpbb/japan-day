@@ -47,7 +47,6 @@
       "name": "Japan Whisky",
       "category": "Whisky japonés",
       "description": "Selección de whisky japonés e introducción a la cultura del whisky en Japón.",
-      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -63,7 +62,6 @@
       "name": "Matcha tea (Nagomi tea)",
       "category": "Té japonés",
       "description": "Matcha y lattes de té preparados con tés en polvo, como wakocha, hōjicha, oolongcha, hakucha y matcha.",
-      "image": "/images/exhibitors/matcha_tea.png",
       "imageMode": "photo"
     },
     {
@@ -71,7 +69,6 @@
       "name": "Wagashi japoneses",
       "category": "Dulces japoneses",
       "description": "Dulces japoneses tradicionales wagashi.",
-      "image": "/images/exhibitors/japanese_wagashi.png",
       "imageMode": "photo"
     },
     {

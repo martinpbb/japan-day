@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useMemo, useState } from "react";
-import { defaultLocale, getLocaleContent, getLocaleSite, supportedLocales } from "../data/content.js";
+import { defaultLocale, getLocaleContent, getLocaleSite, localeDocumentLanguages, supportedLocales } from "../data/content.js";
 import { addLocalePrefix, getLocaleFromPath } from "./i18nPaths.js";
 import { I18nContext } from "./i18nContext.js";
 
@@ -13,7 +13,7 @@ export function I18nProvider({ children }) {
   }, []);
 
   useEffect(() => {
-    document.documentElement.lang = locale;
+    document.documentElement.lang = localeDocumentLanguages[locale] || localeDocumentLanguages[defaultLocale];
   }, [locale]);
 
   const setLocale = useCallback((nextLocale) => {

@@ -47,7 +47,6 @@
       "name": "Japan Whisky",
       "category": "Whisky Nhật Bản",
       "description": "Tuyển chọn whisky Nhật Bản và giới thiệu văn hóa whisky Nhật.",
-      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -63,7 +62,6 @@
       "name": "Matcha tea (Nagomi tea)",
       "category": "Trà Nhật Bản",
       "description": "Matcha và các loại tea latte làm từ trà bột như wakocha, hōjicha, oolongcha, hakucha và matcha.",
-      "image": "/images/exhibitors/matcha_tea.png",
       "imageMode": "photo"
     },
     {
@@ -71,7 +69,6 @@
       "name": "Wagashi Nhật Bản",
       "category": "Đồ ngọt Nhật Bản",
       "description": "Các loại bánh ngọt wagashi truyền thống của Nhật.",
-      "image": "/images/exhibitors/japanese_wagashi.png",
       "imageMode": "photo"
     },
     {

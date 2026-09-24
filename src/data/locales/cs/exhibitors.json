@@ -47,7 +47,6 @@
       "name": "Japan Whisky",
       "category": "Japonská whisky",
       "description": "Výběr japonské whisky a představení japonské whisky kultury.",
-      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -63,7 +62,6 @@
       "name": "Matcha tea (Nagomi tea)",
       "category": "Japonský čaj",
       "description": "Čaj matcha a čajové latte připravované z mletých čajů: wakocha, hōjicha, oolongcha, hakucha a matcha.",
-      "image": "/images/exhibitors/matcha_tea.png",
       "imageMode": "photo"
     },
     {
@@ -71,7 +69,6 @@
       "name": "Japanese wagashi",
       "category": "Japonské sladkosti",
       "description": "Tradiční japonské sladkosti wagashi.",
-      "image": "/images/exhibitors/japanese_wagashi.png",
       "imageMode": "photo"
     },
     {
