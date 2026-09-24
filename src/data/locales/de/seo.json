@@ -1,0 +1,129 @@
+{
+  "baseUrl": "https://japanday.cz",
+  "siteName": "Japanischer Tag des Tees und der Kultur",
+  "locale": "de_DE",
+  "language": "de-DE",
+  "defaultImage": "/images/social/japan-day-chyne-2026-og.png",
+  "semanticTopics": [
+    "Japan Day Chýně",
+    "Japan Day",
+    "Japanischer Tag Chýně",
+    "Japanischer Tag des Tees und der Kultur",
+    "Japan-Festival",
+    "Festival japanischer Kultur",
+    "japanische Kultur",
+    "japanische Küche",
+    "japanisches Essen",
+    "Sushi",
+    "Sashimi",
+    "japanischer Tee",
+    "Sake",
+    "japanischer Whisky",
+    "Samurai",
+    "Samurai-Show",
+    "Tameshigiri",
+    "japanisches Bogenschießen",
+    "Aikido",
+    "Kendo",
+    "Ikebana",
+    "Veranstaltungen in Prag",
+    "Japan-Veranstaltungen Prag",
+    "japanische Kultur Prag",
+    "Festival Prag-West"
+  ],
+  "routes": {
+    "/": {
+      "title": "Japanischer Tag des Tees und der Kultur 2026 | Japan Day Chýně",
+      "description": "Besuchen Sie den Japan Day Chýně 2026 bei Prag mit japanischem Essen, Tee, Sake, Samurai, Aikido, Kendo, Ikebana und einem ganzen Tag japanischer Kultur.",
+      "h1": "Japanischer Tag des Tees und der Kultur",
+      "intro": "Japan Day Chýně 2026 — ein Festival japanischer Kultur, Küche und Traditionen in Chýně bei Prag.",
+      "schema": [
+        "festival",
+        "organization"
+      ]
+    },
+    "/program": {
+      "title": "Programm | Japanischer Tag des Tees und der Kultur 2026",
+      "description": "Programm des Japan Day Chýně 2026 bei Prag: japanische Küche, Aikido, Samurai-Shows, Ikebana, Tanz, Musik und mehr.",
+      "h1": "Programm — Japanischer Tag des Tees und der Kultur 2026",
+      "intro": "Vollständiger Überblick über Auftritte und Aktivitäten im Laufe des Tages.",
+      "breadcrumb": "Programm",
+      "schema": [
+        "festival",
+        "breadcrumb"
+      ]
+    },
+    "/ucinkujici": {
+      "title": "Mitwirkende | Japanischer Tag des Tees und der Kultur 2026",
+      "description": "Lernen Sie die Mitwirkenden und Gäste des Japan Day Chýně 2026 aus japanischer Küche, Ikebana, Kampfkünsten, Musik und Tanz kennen.",
+      "h1": "Mitwirkende und Gäste",
+      "intro": "Menschen und Gruppen, die traditionelle und moderne japanische Kultur präsentieren.",
+      "breadcrumb": "Mitwirkende",
+      "sectionKicker": "GÄSTE & MITWIRKENDE",
+      "sectionTitle": "Lernen Sie die Menschen kennen, die Ihnen Japan näherbringen",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/gastronomie": {
+      "title": "Japanisches Essen & Getränke | Japanischer Tag des Tees und der Kultur",
+      "description": "Japanische Küche beim Japan Day Chýně: Sushi, Sashimi, Hamachi, japanischer Grill, Tee, Sake, japanischer Whisky und mehr.",
+      "h1": "Japanische Küche",
+      "intro": "Sushi, Sashimi, japanischer Grill, Tee, Sake und weitere Aromen Japans.",
+      "breadcrumb": "Japanische Küche",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele": {
+      "title": "Aussteller & Verkaufsstände | Japanischer Tag des Tees und der Kultur",
+      "description": "Entdecken Sie Aussteller, Vereine und Verkaufsstände mit Japan-Bezug beim Japan Day Chýně 2026.",
+      "h1": "Aussteller und Verkaufsstände",
+      "intro": "Marken, Vereine und Anbieter, die Sie während der Veranstaltung in Chýně treffen können.",
+      "breadcrumb": "Aussteller",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/prakticke-informace": {
+      "title": "Ort, Anreise & Eintritt | Japan Day Chýně 2026",
+      "description": "Praktische Informationen zum Japan Day Chýně 2026: Datum, Uhrzeit, Veranstaltungsort, Adresse der ZŠ Bolzanova, Eintritt, Anreise und Parken.",
+      "h1": "Praktische Informationen",
+      "intro": "Datum, Veranstaltungsort, Eintritt und Anreiseinformationen für Chýně bei Prag.",
+      "breadcrumb": "Praktische Informationen",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/galerie": {
+      "title": "Fotogalerie | Japanischer Tag des Tees und der Kultur",
+      "description": "Fotos vom vorherigen Japan Day Chýně: Auftritte, japanische Kultur, Essen, Stände und Atmosphäre der Veranstaltung.",
+      "h1": "Fotogalerie des Japanischen Tages des Tees und der Kultur",
+      "intro": "Werfen Sie einen Blick auf die Atmosphäre der vorherigen Ausgabe in Chýně.",
+      "breadcrumb": "Galerie",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/o-akci": {
+      "title": "Über die Veranstaltung | Japanischer Tag des Tees und der Kultur",
+      "description": "Der Japanische Tag des Tees und der Kultur in Chýně verbindet japanische Kultur, Küche, Traditionen und Menschen. Der Kurzname der Veranstaltung lautet Japan Day Chýně.",
+      "h1": "Über den Japanischen Tag des Tees und der Kultur",
+      "intro": "Ein Festival japanischer Kultur, Küche und Traditionen in Chýně bei Prag.",
+      "breadcrumb": "Über die Veranstaltung",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/kontakt": {
+      "title": "Kontakt | Japanischer Tag des Tees und der Kultur",
+      "description": "Kontaktieren Sie die Veranstalter des Japan Day Chýně zu Besucherinformationen, Partnerschaften und Anfragen von Ausstellern.",
+      "h1": "Kontakt",
+      "intro": "Kontaktdaten der Veranstalter und Informationen für potenzielle Partner und Aussteller.",
+      "breadcrumb": "Kontakt",
+      "schema": [
+        "breadcrumb"
+      ]
+    }
+  }
+}

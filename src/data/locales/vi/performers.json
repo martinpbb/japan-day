@@ -1,0 +1,364 @@
+{
+  "items": [
+    {
+      "id": "aikido-chyne",
+      "name": "Aikido Chýně",
+      "category": "Võ thuật",
+      "short": "Trình diễn môn võ truyền thống Nhật Bản aikido.",
+      "description": "Câu lạc bộ địa phương Aikido Chýně sẽ có hai màn trình diễn môn võ truyền thống Nhật Bản trong ngày.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Aikido Chýně là câu lạc bộ võ thuật Nhật Bản địa phương được thành lập năm 2023. Câu lạc bộ do Ing. arch. Václav Plánský, đai 1 dan Aikikai, dẫn dắt."
+        },
+        {
+          "type": "p",
+          "text": "Aikido làm việc với chuyển động, thăng bằng, thời điểm chính xác và phản ứng trước đòn tấn công của bạn tập. Thay vì thi đấu, môn này nhấn mạnh kỹ thuật, kiểm soát chuyển động và sự hợp tác trong luyện tập."
+        },
+        {
+          "type": "h2",
+          "text": "Aikido từ Chýně"
+        },
+        {
+          "type": "p",
+          "text": "Câu lạc bộ sẽ xuất hiện hai lần trong Japan Day. Vì vậy khách tham quan sẽ có hai cơ hội quan sát cận cảnh kỹ thuật, chuyển động và sự tương tác giữa người tấn công và người phòng thủ."
+        }
+      ],
+      "image": "/images/performers/aikido_chyne.png"
+    },
+    {
+      "id": "marek-hora",
+      "name": "Marek Hora",
+      "category": "Ẩm thực Nhật Bản",
+      "short": "Đại sứ ẩm thực Nhật Bản tại Cộng hòa Séc và đầu bếp được kính trọng ở cả châu Âu lẫn Nhật Bản.",
+      "description": "Trên sân khấu, ông sẽ phi lê hamachi tươi và trình diễn cách làm sushi chuyên nghiệp.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Marek Hora là một trong những gương mặt nổi bật nhất của ẩm thực Nhật Bản tại Cộng hòa Séc. Ông đã gắn bó với ẩm thực Nhật hơn ba mươi năm và cũng tích lũy kinh nghiệm trực tiếp tại Nhật Bản."
+        },
+        {
+          "type": "p",
+          "text": "Tại Nhật Bản, ông tiếp tục nâng cao kỹ năng, trong đó có thời gian ở Sakae Zushi. Năm 2009, ông giành vị trí thứ hai tại cuộc thi quốc tế World Sushi Stadium ở Shizuoka, Nhật Bản."
+        },
+        {
+          "type": "h2",
+          "text": "Đại sứ ẩm thực Nhật Bản"
+        },
+        {
+          "type": "p",
+          "text": "Năm 2024, ông được Bộ Nông nghiệp Nhật Bản bổ nhiệm làm đại sứ ẩm thực Nhật Bản. Ông đã hợp tác lâu năm với các đầu bếp Nhật và xây dựng công việc của mình trên sự tôn trọng nguyên liệu, kỹ thuật chính xác và cách tiếp cận chân thực với ẩm thực Nhật."
+        },
+        {
+          "type": "h2",
+          "text": "Bạn sẽ thấy gì tại Chýně"
+        },
+        {
+          "type": "p",
+          "text": "Marek Hora sẽ phi lê một con hamachi tươi ngay trước khán giả rồi trình diễn cách làm sushi. Đây không chỉ là màn trình diễn ẩm thực mà còn là cơ hội quan sát cận cảnh một bậc thầy sushi giàu kinh nghiệm đang làm việc."
+        }
+      ],
+      "image": "/images/performers/marek_hora.png"
+    },
+    {
+      "id": "noriko-komiyama",
+      "name": "Noriko Komiyama",
+      "category": "Ikebana",
+      "short": "Giảng viên ikebana người Nhật của trường phái Sōgetsu.",
+      "description": "Bà sẽ trình bày sự khác biệt giữa hai trường phái Ikenobō và Sōgetsu, đồng thời cho thấy cách sử dụng hoa trong nghệ thuật cắm hoa Nhật Bản.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Noriko Komiyama là giảng viên ikebana người Nhật đã sống ở Praha nhiều năm. Bà chủ yếu tập trung vào trường phái Sōgetsu và thường xuyên chia sẻ kinh nghiệm qua các buổi trình diễn công khai và workshop."
+        },
+        {
+          "type": "p",
+          "text": "Các buổi trình diễn ikebana của bà cũng từng được tổ chức dưới sự bảo trợ của Đại sứ quán Nhật Bản, chẳng hạn tại triển lãm Flora Bratislava, nơi bà còn hướng dẫn workshop thực hành bên cạnh phần trình diễn sân khấu."
+        },
+        {
+          "type": "h2",
+          "text": "Ikebana không nhất thiết phải bắt đầu bằng một loài hoa lạ"
+        },
+        {
+          "type": "p",
+          "text": "Tại Japan Day, bà sẽ cho thấy cách sử dụng cả những loài hoa và cây phổ biến quanh chúng ta. Bà cũng sẽ giới thiệu cách tiếp cận khác nhau của hai trường phái ikebana quan trọng – Ikenobō và Sōgetsu."
+        }
+      ],
+      "image": "/images/performers/noriko_komiyama.png"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "Văn hóa",
+      "short": "Trình diễn cách mặc kimono truyền thống.",
+      "description": "Trên sân khấu, họ sẽ mặc kimono cho một đại diện Thành phố Chýně và giải thích biểu tượng cũng như ý nghĩa của từng phần trang phục.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Nihon Bunka Plzeň là hội những người yêu văn hóa Nhật Bản, bao quát nhiều chủ đề từ lịch sử và trang phục truyền thống đến võ thuật, ẩm thực và văn hóa đại chúng Nhật Bản đương đại."
+        },
+        {
+          "type": "p",
+          "text": "Nhóm hoạt động chủ yếu tại vùng Plzeň, tổ chức các sự kiện văn hóa, bài giảng và workshop riêng, đồng thời cũng đứng sau lễ hội Bunka Fest."
+        },
+        {
+          "type": "h2",
+          "text": "Trang phục truyền thống Nhật Bản"
+        },
+        {
+          "type": "p",
+          "text": "Một trong những lĩnh vực Nihon Bunka Plzeň theo đuổi lâu dài là trang phục truyền thống Nhật Bản. Tại các sự kiện của họ, khách tham quan có thể thử kimono nữ, nam và trẻ em."
+        },
+        {
+          "type": "h2",
+          "text": "Kimono trên sân khấu"
+        },
+        {
+          "type": "p",
+          "text": "Tại Chýně, việc mặc kimono sẽ diễn ra trực tiếp trước khán giả. Thay vì chuẩn bị sau cánh gà, từng lớp trang phục sẽ được mặc ngay trước mắt mọi người, giúp khách theo dõi toàn bộ quá trình và hiểu thêm về quy tắc cũng như ý nghĩa của nó."
+        }
+      ],
+      "image": "/images/performers/nihon_bunka_plzen.png"
+    },
+    {
+      "id": "gorin",
+      "name": "Gorin",
+      "category": "Võ thuật",
+      "short": "Nhóm chuyên về truyền thống võ thuật Nhật Bản và thời kỳ Sengoku.",
+      "description": "Chương trình gồm trình diễn samurai, cung thuật chiến đấu và tameshigiri.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Nguồn gốc của nhóm Gorin bắt đầu từ năm 1994, khi một câu lạc bộ iaidō và kendō được thành lập tại Strakonice dưới sự dẫn dắt của Silvestr Prajer. Dần dần, câu lạc bộ phát triển thành nhóm tập trung vào các truyền thống võ thuật lịch sử của Nhật Bản."
+        },
+        {
+          "type": "p",
+          "text": "Gorin chủ yếu tập trung vào Sengoku jidai, Thời kỳ Chiến Quốc, khi Nhật Bản trải qua xung đột quân sự gần như liên tục trong nhiều thập kỷ."
+        },
+        {
+          "type": "h2",
+          "text": "Samurai trong bộ giáp đầy đủ"
+        },
+        {
+          "type": "p",
+          "text": "Nhóm tái hiện các cảnh chiến đấu trong bộ giáp samurai đầy đủ, sử dụng nhiều loại vũ khí, cung thuật chiến đấu kyūjutsu và kỹ thuật thử chém tameshigiri."
+        },
+        {
+          "type": "p",
+          "text": "Các thành viên Gorin còn chế tác bản sao giáp, vũ khí và trang phục lịch sử Nhật Bản, đồng thời phục chế giáp samurai nguyên bản."
+        },
+        {
+          "type": "h2",
+          "text": "Ba màn trình diễn khác nhau trong ngày"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Các cảnh chiến đấu lấy cảm hứng từ thời Sengoku",
+            "Trình diễn cung thuật chiến đấu samurai",
+            "Tameshigiri – kiểm tra độ chính xác và kỹ thuật chém bằng kiếm Nhật"
+          ]
+        }
+      ],
+      "image": "/images/performers/gorin_samurai_show.png"
+    },
+    {
+      "id": "aska-pluskal",
+      "name": "Aska Pluskal",
+      "category": "Âm nhạc",
+      "short": "Ca sĩ Nhật Bản quê ở Okinawa.",
+      "description": "Cô sẽ biểu diễn các bài hát truyền thống và hiện đại bằng tiếng Nhật.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Aska Pluskal là ca sĩ đến từ Okinawa, vùng cực nam của Nhật Bản, nổi tiếng với nền văn hóa và truyền thống âm nhạc riêng biệt."
+        },
+        {
+          "type": "p",
+          "text": "Cô cũng biểu diễn với vai trò ca sĩ tại Okinawa. Tại Japan Day, cô sẽ giới thiệu tuyển chọn các ca khúc truyền thống và hiện đại hơn bằng tiếng Nhật."
+        },
+        {
+          "type": "h2",
+          "text": "Nhật Bản qua âm nhạc"
+        },
+        {
+          "type": "p",
+          "text": "Phần trình diễn của cô mang đến một góc nhìn khác về văn hóa Nhật so với võ thuật hay thủ công truyền thống – Nhật Bản được thể hiện qua giọng hát, giai điệu và cách diễn giải âm nhạc đương đại."
+        }
+      ],
+      "image": "/images/performers/aska_pluskal.png"
+    },
+    {
+      "id": "iaido",
+      "name": "Iaido",
+      "category": "Võ thuật",
+      "short": "Trình diễn nghệ thuật kiếm đạo truyền thống Nhật Bản iaidō.",
+      "description": "Iaidō kết hợp động tác rút kiếm chính xác, chuyển động có kiểm soát và sự tập trung cao độ.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Iaidō là một môn võ Nhật Bản tập trung vào kiếm thuật, đặc biệt là rút kiếm chính xác, thực hiện nhát chém và đưa kiếm trở lại vỏ."
+        },
+        {
+          "type": "p",
+          "text": "Việc luyện tập chủ yếu dựa trên các bài kata được quy định chính xác. Không chỉ kỹ thuật, tư thế, thời điểm, sự tập trung và sự tĩnh tại của tâm trí cũng được nhấn mạnh."
+        },
+        {
+          "type": "h2",
+          "text": "Thanh kiếm và độ chính xác của chuyển động"
+        },
+        {
+          "type": "p",
+          "text": "Trong phần trình diễn, khách tham quan sẽ thấy các chuyển động riêng lẻ kết nối thành một tổng thể liền mạch – từ chuẩn bị và rút kiếm, qua kỹ thuật chính đến kết thúc có kiểm soát."
+        }
+      ],
+      "image": "/images/performers/iaido_plzen.png"
+    },
+    {
+      "id": "sandomon-kendo-klub-praha",
+      "name": "San Dó Mon Kendó Klub Praha",
+      "category": "Võ thuật",
+      "short": "Câu lạc bộ Praha chuyên về môn võ truyền thống Nhật Bản kendō.",
+      "description": "Câu lạc bộ sẽ giới thiệu kendō – môn võ Nhật Bản bắt nguồn từ truyền thống kiếm thuật.",
+      "content": [
+        {
+          "type": "p",
+          "text": "San Dó Mon là câu lạc bộ kendō ở Praha, thành lập năm 1994. Có trụ sở tại Karlovo náměstí, câu lạc bộ đã nhiều năm phát triển và giảng dạy môn võ Nhật Bản kendō."
+        },
+        {
+          "type": "p",
+          "text": "Một trong những thành viên giàu kinh nghiệm nhất của câu lạc bộ là Jindřich Ziegelheim, đai 7 dan kendō và mang danh hiệu Renshi."
+        },
+        {
+          "type": "h2",
+          "text": "Kendō là gì"
+        },
+        {
+          "type": "p",
+          "text": "Kendō phát triển từ các trường phái kiếm thuật truyền thống Nhật Bản gọi là kenjutsu. Việc luyện tập hiện đại sử dụng kiếm tre shinai và giáp bảo hộ bōgu, đồng thời vẫn nhấn mạnh nghi lễ, sự tôn trọng và nguyên tắc budō bên cạnh kỹ thuật."
+        },
+        {
+          "type": "p",
+          "text": "Tại Japan Day, khách tham quan sẽ thấy kendō trong chuyển động – kỹ thuật kiếm, khoảng cách, thời điểm và tiếng kiai mạnh mẽ."
+        }
+      ],
+      "image": "/images/performers/sandomon_kendo_klub_praha.png"
+    },
+    {
+      "id": "marketa-franova",
+      "name": "Markéta Fránová – Kamigatamai",
+      "category": "Múa",
+      "short": "Điệu múa truyền thống Nhật Bản có nguồn gốc từ vùng Kyoto và Osaka.",
+      "description": "Điệu múa độc diễn thanh nhã, đặc trưng bởi những chuyển động tiết chế, biểu cảm nội tâm và cách sử dụng quạt gấp tinh tế.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Markéta Fránová là học viên của điệu múa truyền thống Nhật Bản Kamigatamai tại trường Ogawaryū, nơi cô học đều đặn từ năm 2021."
+        },
+        {
+          "type": "p",
+          "text": "Kamigatamai bắt nguồn từ vùng Kamigata, đặc biệt là môi trường văn hóa Kyoto và Osaka. Phong cách này có các chuyển động tinh tế, chính xác và thường rất tiết chế, trong đó biểu cảm nội tâm của người múa giữ vai trò trung tâm."
+        },
+        {
+          "type": "h2",
+          "text": "Điệu múa mà mỗi chuyển động đều có ý nghĩa"
+        },
+        {
+          "type": "p",
+          "text": "Điệu múa cũng sử dụng các đạo cụ truyền thống như quạt giấy vẽ hoặc ô Nhật Bản. Thay vì những động tác lớn, Kamigatamai chú trọng chi tiết, cử chỉ, tư thế và kiểm soát chuyển động chính xác."
+        }
+      ],
+      "image": "/images/performers/marketa_franova.png"
+    },
+    {
+      "id": "shakuhachi",
+      "name": "Tomáš Pelich – sáo shakuhachi Nhật Bản",
+      "category": "Âm nhạc",
+      "short": "Tomáš Pelich – sáo shakuhachi Nhật Bản",
+      "description": "Phần biểu diễn âm nhạc với sáo tre truyền thống Nhật Bản shakuhachi của Tomáš Pelich từ khu vườn thiền Shibumi.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Shakuhachi là sáo tre truyền thống Nhật Bản với âm sắc rất đặc trưng. Cấu tạo đơn giản cho phép người chơi xử lý tinh tế hơi thở, cao độ và màu âm của từng nốt."
+        },
+        {
+          "type": "p",
+          "text": "Nhạc cụ này gắn với âm nhạc truyền thống Nhật Bản và các hình thức âm nhạc mang tính tinh thần, nhưng ngày nay cũng được sử dụng trong âm nhạc đương đại, ứng tác và thử nghiệm."
+        },
+        {
+          "type": "h2",
+          "text": "Âm nhạc của hơi thở và sự tĩnh lặng"
+        },
+        {
+          "type": "p",
+          "text": "Trong một phần trình diễn thân mật, không chỉ âm thanh của cây sáo nổi bật mà cả sự im lặng, hơi thở và khoảng trống giữa các nốt cũng trở thành một phần của âm nhạc."
+        }
+      ],
+      "image": "/images/performers/shakuhachi_shibumi.png"
+    },
+    {
+      "id": "yosakoi-hanamaru",
+      "name": "Yosakoi Hanamaru",
+      "category": "Múa",
+      "short": "Nhóm múa Séc chuyên về phong cách yosakoi Nhật Bản đầy năng lượng.",
+      "description": "Màn trình diễn nhóm đầy màu sắc kết hợp múa hiện đại với các yếu tố truyền thống Nhật Bản.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Yosakoi Hanamaru là nhóm múa được thành lập tại Praha năm 2018. Năm 2020, đội cũng mở rộng đến Brno và hiện quy tụ các thành viên Séc, Slovakia, Nhật Bản và nhiều quốc tịch khác."
+        },
+        {
+          "type": "p",
+          "text": "Ba thành viên của nhóm được bổ nhiệm làm đại sứ yosakoi tại Nhật Bản vào năm 2019."
+        },
+        {
+          "type": "h2",
+          "text": "Yosakoi là gì"
+        },
+        {
+          "type": "p",
+          "text": "Yosakoi bắt nguồn từ năm 1954 tại tỉnh Kōchi, Nhật Bản. Đây là điệu múa nhóm đầy năng lượng kết hợp vũ đạo hiện đại với các yếu tố truyền thống Nhật Bản."
+        },
+        {
+          "type": "p",
+          "text": "Những thanh gỗ nhỏ gọi là naruko là đặc trưng của yosakoi; vũ đạo cũng có thể sử dụng quạt, ô, đèn lồng hoặc cờ đội lớn."
+        },
+        {
+          "type": "h2",
+          "text": "Hanamaru tại Séc và nước ngoài"
+        },
+        {
+          "type": "p",
+          "text": "Nhóm thường xuyên xuất hiện tại các sự kiện liên quan đến văn hóa Nhật Bản, gồm Animefest, Tanabata, Eigasai và Cosples. Nhóm cũng đã biểu diễn tại Ba Lan, Hungary và Slovakia."
+        }
+      ],
+      "image": "/images/performers/yosakoi_hanamaru.png"
+    },
+    {
+      "id": "radka-tumova",
+      "name": "Radka Tůmová – gia huy Nhật Bản",
+      "category": "Văn hóa",
+      "short": "Gia huy Nhật Bản – kamon",
+      "description": "Radka Tůmová sẽ giới thiệu gia huy Nhật Bản, kamon (家紋), các biểu tượng truyền thống dùng để nhận diện gia đình và dòng tộc. Bà sẽ giải thích lịch sử, ý nghĩa và những điểm tương đồng với truyền thống huy hiệu châu Âu.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Mon, monshō hay kamon (家紋) là gia huy truyền thống Nhật Bản, có vai trò tương tự huy hiệu gia tộc châu Âu. Nó được dùng để phân biệt các gia đình và dòng tộc và trở thành một phần quan trọng của văn hóa thị giác Nhật Bản."
+        },
+        {
+          "type": "p",
+          "text": "Gia huy xuất hiện trên kimono trang trọng, vũ khí và giáp samurai, cũng như trên đền chùa, lâu đài, đồ nội thất và vật dụng hằng ngày. Các họa tiết đơn giản và thường rất thanh nhã được lấy cảm hứng từ thực vật, động vật, hiện tượng tự nhiên hoặc hình học."
+        },
+        {
+          "type": "h2",
+          "text": "Truyền thống vẫn sống động đến ngày nay"
+        },
+        {
+          "type": "p",
+          "text": "Khác với huy hiệu châu Âu, kamon không chỉ là di vật lịch sử. Chúng vẫn có vị trí trong Nhật Bản thế kỷ 21 – tiếp tục được dùng trong các dịp nghi lễ, và một số công ty Nhật sử dụng chúng làm nền tảng cho biểu trưng hoặc logo."
+        }
+      ],
+      "image": "/images/performers/radka_tumova.png"
+    }
+  ]
+}

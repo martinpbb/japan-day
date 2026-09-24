@@ -1,0 +1,364 @@
+{
+  "items": [
+    {
+      "id": "aikido-chyne",
+      "name": "Aikido Chýně",
+      "category": "Kampfkünste",
+      "short": "Vorführung der traditionellen japanischen Kampfkunst Aikido.",
+      "description": "Der lokale Verein Aikido Chýně zeigt im Laufe des Tages zwei Vorführungen der traditionellen japanischen Kampfkunst.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Aikido Chýně ist ein lokaler Verein für japanische Kampfkünste, der 2023 gegründet wurde. Geleitet wird er von Ing. arch. Václav Plánský, Träger des 1. Dan Aikikai."
+        },
+        {
+          "type": "p",
+          "text": "Aikido arbeitet mit Bewegung, Gleichgewicht, richtigem Timing und Reaktionen auf den Angriff eines Partners. Statt Wettkampf stehen Technik, Bewegungskontrolle und Zusammenarbeit im Training im Vordergrund."
+        },
+        {
+          "type": "h2",
+          "text": "Aikido aus Chýně"
+        },
+        {
+          "type": "p",
+          "text": "Der Verein tritt beim Japan Day zweimal auf. Besucher haben somit zwei Gelegenheiten, Techniken, Bewegungen und das Zusammenspiel von Angreifer und Verteidiger aus nächster Nähe zu sehen."
+        }
+      ],
+      "image": "/images/performers/aikido_chyne.png"
+    },
+    {
+      "id": "marek-hora",
+      "name": "Marek Hora",
+      "category": "Japanische Küche",
+      "short": "Botschafter der japanischen Küche in der Tschechischen Republik und anerkannter Koch in Europa und Japan.",
+      "description": "Auf der Bühne zerlegt er einen frischen Hamachi und zeigt die fachkundige Zubereitung von Sushi.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Marek Hora gehört zu den bekanntesten Persönlichkeiten der japanischen Küche in der Tschechischen Republik. Seit mehr als dreißig Jahren widmet er sich der japanischen Küche und sammelte auch direkt in Japan Erfahrungen."
+        },
+        {
+          "type": "p",
+          "text": "In Japan vertiefte er seine Fähigkeiten unter anderem bei Sakae Zushi. 2009 belegte er beim internationalen Wettbewerb World Sushi Stadium in Shizuoka, Japan, den zweiten Platz."
+        },
+        {
+          "type": "h2",
+          "text": "Botschafter der japanischen Küche"
+        },
+        {
+          "type": "p",
+          "text": "2024 wurde er vom japanischen Landwirtschaftsministerium zum Botschafter der japanischen Küche ernannt. Er arbeitet seit Langem mit japanischen Köchen zusammen und stützt seine Arbeit auf Respekt vor den Zutaten, präzise Technik und einen authentischen Zugang zur japanischen Gastronomie."
+        },
+        {
+          "type": "h2",
+          "text": "Was Sie in Chýně sehen werden"
+        },
+        {
+          "type": "p",
+          "text": "Marek Hora zerlegt direkt vor den Besuchern einen frischen Hamachi und demonstriert anschließend die Sushi-Zubereitung. Es ist nicht nur eine kulinarische Vorführung, sondern auch die Gelegenheit, einem erfahrenen Sushi-Meister aus nächster Nähe bei der Arbeit zuzusehen."
+        }
+      ],
+      "image": "/images/performers/marek_hora.png"
+    },
+    {
+      "id": "noriko-komiyama",
+      "name": "Noriko Komiyama",
+      "category": "Ikebana",
+      "short": "Japanische Lehrerin für Ikebana der Sōgetsu-Schule.",
+      "description": "Sie zeigt die Unterschiede zwischen den Schulen Ikenobō und Sōgetsu und erläutert, wie Blumen in japanischen Arrangements verwendet werden.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Noriko Komiyama ist eine japanische Ikebana-Lehrerin, die seit vielen Jahren in Prag lebt. Ihr Schwerpunkt liegt vor allem auf der Sōgetsu-Schule; ihre Erfahrungen vermittelt sie regelmäßig in öffentlichen Vorführungen und Workshops."
+        },
+        {
+          "type": "p",
+          "text": "Ihre Ikebana-Vorführungen fanden auch unter der Schirmherrschaft der japanischen Botschaft statt, zum Beispiel bei der Ausstellung Flora Bratislava, wo sie neben einer Bühnenpräsentation praktische Workshops leitete."
+        },
+        {
+          "type": "h2",
+          "text": "Ikebana muss nicht mit einer exotischen Blume beginnen"
+        },
+        {
+          "type": "p",
+          "text": "Beim Japan Day zeigt sie, wie auch gewöhnliche Blumen und Pflanzen aus unserer Umgebung verwendet werden können. Außerdem stellt sie unterschiedliche Ansätze zweier bedeutender Ikebana-Schulen vor – Ikenobō und Sōgetsu."
+        }
+      ],
+      "image": "/images/performers/noriko_komiyama.png"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "Kultur",
+      "short": "Vorführung des traditionellen Anlegens eines Kimonos.",
+      "description": "Auf der Bühne wird eine Vertreterin oder ein Vertreter der Stadt Chýně in einen Kimono gekleidet; dabei werden Symbolik und Bedeutung der einzelnen Kleidungsbestandteile erklärt.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Nihon Bunka Plzeň ist ein Verein von Japan-Kulturbegeisterten, der ein breites Themenspektrum abdeckt – von Geschichte und traditioneller Kleidung bis zu Kampfkünsten, Gastronomie und moderner japanischer Popkultur."
+        },
+        {
+          "type": "p",
+          "text": "Die Gruppe ist vor allem in der Region Plzeň aktiv, organisiert eigene Kulturveranstaltungen, Vorträge und Workshops und steht auch hinter dem Festival Bunka Fest."
+        },
+        {
+          "type": "h2",
+          "text": "Traditionelle japanische Kleidung"
+        },
+        {
+          "type": "p",
+          "text": "Ein Bereich, dem sich Nihon Bunka Plzeň seit Langem widmet, ist traditionelle japanische Kleidung. Bei den Veranstaltungen können Besucher Damen-, Herren- und Kinderkimono anprobieren."
+        },
+        {
+          "type": "h2",
+          "text": "Kimono auf der Bühne"
+        },
+        {
+          "type": "p",
+          "text": "In Chýně findet das Anlegen des Kimonos direkt vor dem Publikum statt. Statt hinter der Bühne vorbereitet zu werden, werden die einzelnen Schichten sichtbar angelegt, sodass Besucher den gesamten Ablauf verfolgen und mehr über Regeln und Bedeutung erfahren können."
+        }
+      ],
+      "image": "/images/performers/nihon_bunka_plzen.png"
+    },
+    {
+      "id": "gorin",
+      "name": "Gorin",
+      "category": "Kampfkünste",
+      "short": "Eine Gruppe, die sich japanischen Kampftraditionen und der Sengoku-Zeit widmet.",
+      "description": "Zum Programm gehören eine Samurai-Show, Kampfbogenschießen und Tameshigiri.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Die Anfänge der Gruppe Gorin reichen bis 1994 zurück, als in Strakonice unter der Leitung von Silvestr Prajer ein Iaidō- und Kendō-Club gegründet wurde. Daraus entwickelte sich nach und nach eine Gruppe mit Schwerpunkt auf historischen japanischen Kampftraditionen."
+        },
+        {
+          "type": "p",
+          "text": "Gorin konzentriert sich vor allem auf die Sengoku jidai, die Zeit der Streitenden Reiche, in der Japan über viele Jahrzehnte nahezu ununterbrochene militärische Konflikte erlebte."
+        },
+        {
+          "type": "h2",
+          "text": "Samurai in vollständiger Rüstung"
+        },
+        {
+          "type": "p",
+          "text": "Die Gruppe zeigt Kampfszenen in vollständiger Samurai-Rüstung, den Umgang mit verschiedenen Waffen, Kyūjutsu-Kampfbogenschießen und Tameshigiri-Testschnitte."
+        },
+        {
+          "type": "p",
+          "text": "Gorin-Mitglieder fertigen außerdem Repliken japanischer Rüstungen, Waffen und historischer Kostüme an und restaurieren originale Samurai-Rüstungen."
+        },
+        {
+          "type": "h2",
+          "text": "Drei verschiedene Auftritte im Laufe des Tages"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Kampfszenen, inspiriert von der Sengoku-Zeit",
+            "Vorführung des Samurai-Kampfbogenschießens",
+            "Tameshigiri – Prüfung von Präzision und Schnitttechnik mit einem japanischen Schwert"
+          ]
+        }
+      ],
+      "image": "/images/performers/gorin_samurai_show.png"
+    },
+    {
+      "id": "aska-pluskal",
+      "name": "Aska Pluskal",
+      "category": "Musik",
+      "short": "Japanische Sängerin, die ursprünglich aus Okinawa stammt.",
+      "description": "Sie singt traditionelle und moderne Lieder auf Japanisch.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Aska Pluskal ist eine Sängerin aus Okinawa, Japans südlichster Region, die für ihre eigenständige Kultur und Musiktradition bekannt ist."
+        },
+        {
+          "type": "p",
+          "text": "Sie tritt auch in Okinawa als Sängerin auf. Beim Japan Day präsentiert sie eine Auswahl traditioneller und modernerer Lieder auf Japanisch."
+        },
+        {
+          "type": "h2",
+          "text": "Japan durch Musik"
+        },
+        {
+          "type": "p",
+          "text": "Ihr Auftritt bietet einen anderen Blick auf die japanische Kultur als Kampfkünste oder traditionelles Handwerk – Japan durch Stimme, Melodie und zeitgenössische musikalische Interpretation."
+        }
+      ],
+      "image": "/images/performers/aska_pluskal.png"
+    },
+    {
+      "id": "iaido",
+      "name": "Iaido",
+      "category": "Kampfkünste",
+      "short": "Vorführungen der traditionellen japanischen Kunst des Schwertkampfs.",
+      "description": "Iaidō verbindet das präzise Ziehen des japanischen Schwerts, kontrollierte Bewegung und höchste Konzentration.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Iaidō ist eine japanische Kampfkunst mit Schwerpunkt auf dem Schwertkampf, insbesondere auf dem präzisen Ziehen des Schwerts, der Ausführung des Schnitts und dem kontrollierten Zurückführen in die Scheide."
+        },
+        {
+          "type": "p",
+          "text": "Das Training erfolgt hauptsächlich anhand genau festgelegter Kata-Formen. Großer Wert liegt nicht nur auf der Technik selbst, sondern auch auf Haltung, Timing, Konzentration und innerer Ruhe."
+        },
+        {
+          "type": "h2",
+          "text": "Das Schwert und die Präzision der Bewegung"
+        },
+        {
+          "type": "p",
+          "text": "Bei der Vorführung können Besucher sehen, wie einzelne Bewegungen zu einem fließenden Ganzen verbunden werden – von Vorbereitung und Ziehen des Schwerts über die eigentliche Technik bis zum kontrollierten Abschluss."
+        }
+      ],
+      "image": "/images/performers/iaido_plzen.png"
+    },
+    {
+      "id": "sandomon-kendo-klub-praha",
+      "name": "San Dó Mon Kendó Klub Praha",
+      "category": "Kampfkünste",
+      "short": "Prager Verein für die traditionelle japanische Kampfkunst Kendō.",
+      "description": "Der Verein präsentiert Kendō – eine japanische Kampfkunst mit Wurzeln in der Tradition des Schwertkampfs.",
+      "content": [
+        {
+          "type": "p",
+          "text": "San Dó Mon ist ein 1994 gegründeter Prager Kendō-Club. Mit Sitz am Karlovo náměstí widmet er sich seit Langem der Entwicklung und Vermittlung der japanischen Kampfkunst Kendō."
+        },
+        {
+          "type": "p",
+          "text": "Zu den erfahrensten Mitgliedern des Vereins gehört Jindřich Ziegelheim, Träger des 7. Dan Kendō und des Titels Renshi."
+        },
+        {
+          "type": "h2",
+          "text": "Was ist Kendō"
+        },
+        {
+          "type": "p",
+          "text": "Kendō entwickelte sich aus traditionellen japanischen Schwertkampfschulen, die als Kenjutsu bekannt sind. Im modernen Training werden das Bambusschwert Shinai und die Schutzrüstung Bōgu verwendet; neben der Technik bleiben Etikette, Respekt und die Prinzipien des Budō zentral."
+        },
+        {
+          "type": "p",
+          "text": "Beim Japan Day erleben Besucher Kendō in Bewegung – Schwertarbeit, Distanz, Timing und kraftvolles Kiai."
+        }
+      ],
+      "image": "/images/performers/sandomon_kendo_klub_praha.png"
+    },
+    {
+      "id": "marketa-franova",
+      "name": "Markéta Fránová – Kamigatamai",
+      "category": "Tanz",
+      "short": "Traditioneller japanischer Tanz aus der Region Kyoto und Osaka.",
+      "description": "Eleganter Solotanz, geprägt von zurückhaltenden Bewegungen, innerem Ausdruck und feinem Einsatz des Fächers.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Markéta Fránová ist Schülerin des traditionellen japanischen Tanzes Kamigatamai an der Ogawaryū-Schule, wo sie seit 2021 regelmäßig lernt."
+        },
+        {
+          "type": "p",
+          "text": "Kamigatamai stammt aus der Kamigata-Region, insbesondere aus dem kulturellen Umfeld von Kyoto und Osaka. Der Stil ist durch subtile, präzise und oft sehr zurückhaltende Bewegungen geprägt, bei denen der innere Ausdruck der Tänzerin eine zentrale Rolle spielt."
+        },
+        {
+          "type": "h2",
+          "text": "Ein Tanz, bei dem jede Bewegung Bedeutung hat"
+        },
+        {
+          "type": "p",
+          "text": "Im Tanz werden auch traditionelle Requisiten verwendet, etwa ein bemalter Papierfächer oder ein japanischer Sonnenschirm. Statt großer Gesten arbeitet Kamigatamai mit Details, Gestik, Haltung und präziser Bewegungskontrolle."
+        }
+      ],
+      "image": "/images/performers/marketa_franova.png"
+    },
+    {
+      "id": "shakuhachi",
+      "name": "Tomáš Pelich – japanische Shakuhachi-Flöte",
+      "category": "Musik",
+      "short": "Tomáš Pelich – japanische Shakuhachi-Flöte",
+      "description": "Musikalischer Auftritt auf der traditionellen japanischen Bambusflöte Shakuhachi mit Tomáš Pelich aus dem Meditationsgarten Shibumi.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Die Shakuhachi ist eine traditionelle japanische Bambusflöte mit einem unverwechselbaren Klang. Ihre einfache Konstruktion erlaubt dem Spieler eine sehr feine Arbeit mit Atem, Intonation und Klangfarbe einzelner Töne."
+        },
+        {
+          "type": "p",
+          "text": "Das Instrument ist mit traditioneller japanischer Musik und spirituellen Musikformen verbunden, wird heute aber auch in zeitgenössischer, improvisierter und experimenteller Musik eingesetzt."
+        },
+        {
+          "type": "h2",
+          "text": "Musik aus Atem und Stille"
+        },
+        {
+          "type": "p",
+          "text": "In einem intimen Auftritt treten nicht nur der Klang der Flöte selbst, sondern auch Stille, Atem und der Raum zwischen den einzelnen Tönen hervor."
+        }
+      ],
+      "image": "/images/performers/shakuhachi_shibumi.png"
+    },
+    {
+      "id": "yosakoi-hanamaru",
+      "name": "Yosakoi Hanamaru",
+      "category": "Tanz",
+      "short": "Tschechische Tanzgruppe, die sich dem energiegeladenen japanischen Tanzstil Yosakoi widmet.",
+      "description": "Farbenfroher Gruppenauftritt, der modernen Tanz mit traditionellen japanischen Elementen verbindet.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Yosakoi Hanamaru ist eine 2018 in Prag gegründete Tanzgruppe. 2020 erweiterte sich das Team auch nach Brno und vereint heute tschechische, slowakische, japanische und weitere internationale Mitglieder."
+        },
+        {
+          "type": "p",
+          "text": "Drei Mitglieder der Gruppe wurden 2019 in Japan zu Yosakoi-Botschaftern ernannt."
+        },
+        {
+          "type": "h2",
+          "text": "Was ist Yosakoi"
+        },
+        {
+          "type": "p",
+          "text": "Yosakoi entstand 1954 in der japanischen Präfektur Kōchi. Es ist ein energiegeladener Gruppentanz, der moderne Choreografie mit traditionellen japanischen Elementen verbindet."
+        },
+        {
+          "type": "p",
+          "text": "Typisch für Yosakoi sind kleine Holzklappern namens Naruko; in Choreografien können außerdem Fächer, Sonnenschirme, Laternen oder große Teamflaggen eingesetzt werden."
+        },
+        {
+          "type": "h2",
+          "text": "Hanamaru in Tschechien und im Ausland"
+        },
+        {
+          "type": "p",
+          "text": "Die Gruppe tritt regelmäßig bei Veranstaltungen rund um japanische Kultur auf, darunter Animefest, Tanabata, Eigasai und Cosples. Sie ist auch in Polen, Ungarn und der Slowakei aufgetreten."
+        }
+      ],
+      "image": "/images/performers/yosakoi_hanamaru.png"
+    },
+    {
+      "id": "radka-tumova",
+      "name": "Radka Tůmová – japanische Familienwappen",
+      "category": "Kultur",
+      "short": "Japanische Familienwappen – Kamon",
+      "description": "Radka Tůmová stellt japanische Familienwappen, Kamon (家紋), vor – traditionelle Symbole zur Kennzeichnung von Familien und Linien. Sie erläutert ihre Geschichte, Bedeutung und Ähnlichkeiten mit der europäischen Heraldik.",
+      "content": [
+        {
+          "type": "p",
+          "text": "Mon, Monshō oder Kamon (家紋) ist ein traditionelles japanisches Familienwappen mit einer ähnlichen Funktion wie europäische Wappen. Es diente zur Unterscheidung von Familien und Linien und wurde zu einem wichtigen Teil der japanischen visuellen Kultur."
+        },
+        {
+          "type": "p",
+          "text": "Familienwappen erscheinen auf formellen Kimono, Samurai-Waffen und -Rüstungen sowie an Tempeln, Burgen, Möbeln und Alltagsgegenständen. Ihre einfachen und oft sehr eleganten Motive sind von Pflanzen, Tieren, Naturphänomenen oder geometrischen Formen inspiriert."
+        },
+        {
+          "type": "h2",
+          "text": "Eine Tradition, die bis heute lebendig ist"
+        },
+        {
+          "type": "p",
+          "text": "Anders als europäische Wappen sind Kamon nicht nur historische Artefakte. Sie haben auch im Japan des 21. Jahrhunderts ihren Platz – sie werden weiterhin bei zeremoniellen Anlässen verwendet, und einige japanische Unternehmen nutzen sie als Grundlage ihrer Embleme oder Logos."
+        }
+      ],
+      "image": "/images/performers/radka_tumova.png"
+    }
+  ]
+}

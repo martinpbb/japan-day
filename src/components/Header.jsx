@@ -3,6 +3,10 @@ import { useI18n } from "../lib/i18n.jsx";
 import { addLocalePrefix } from "../lib/i18nPaths.js";
 
 const localeLabels = {
+  de: { code: "DE", label: "Deutsch" },
+  es: { code: "ES", label: "Español" },
+  zh: { code: "ZH", label: "中文" },
+  vi: { code: "VI", label: "Tiếng Việt" },
   cs: { code: "CZ", label: "Čeština" },
   en: { code: "EN", label: "English" },
   ja: { code: "JP", label: "日本語" }

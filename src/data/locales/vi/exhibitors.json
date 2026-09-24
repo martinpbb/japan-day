@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "yamaya",
+      "name": "Yamaya",
+      "category": "Ẩm thực Nhật Bản",
+      "description": "Ẩm thực Nhật Bản. Marek Hora, chuyên gia về ẩm thực Nhật, sẽ chuẩn bị các món Nhật chính thống.",
+      "image": "/images/exhibitors/yamaya_restaurace.png",
+      "imageMode": "logo"
+    },
+    {
+      "id": "nagomi-tea",
+      "name": "Nagomi tea",
+      "category": "Trà Nhật Bản",
+      "description": "Các loại trà Nhật cao cấp được nhập trực tiếp từ người trồng tại Nhật Bản.",
+      "image": "/images/exhibitors/nagomi_tea.png",
+      "imageMode": "logo"
+    },
+    {
+      "id": "nagomi-sake",
+      "name": "Nagomi sake",
+      "category": "Sake",
+      "description": "Giới thiệu và nếm thử sake Nhật Bản.",
+      "image": "/images/exhibitors/nagomi_sake.png",
+      "imageMode": "logo",
+      "imageScale": 1.15
+    },
+    {
+      "id": "daniela-brouckova-rencova",
+      "name": "Daniela Broučková Renčová",
+      "category": "Văn hóa Nhật Bản",
+      "description": "Giới thiệu các tác phẩm lấy cảm hứng từ Nhật Bản.",
+      "image": "/images/exhibitors/daniela_brouckova.png",
+      "imageMode": "photo",
+      "imagePosition": "50% 15%"
+    },
+    {
+      "id": "onigiri-hostivice",
+      "name": "Onigiri Hostivice",
+      "category": "Ẩm thực",
+      "description": "Onigiri Nhật Bản và các món đặc sắc khác.",
+      "image": "/images/exhibitors/onigiri_hostivice.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "japan-whisky",
+      "name": "Japan Whisky",
+      "category": "Whisky Nhật Bản",
+      "description": "Tuyển chọn whisky Nhật Bản và giới thiệu văn hóa whisky Nhật.",
+      "image": "/images/exhibitors/japan_whisky.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "kumihimo",
+      "name": "Kumihimo – nghệ thuật đan dây Nhật Bản",
+      "category": "Thủ công truyền thống",
+      "description": "Trình diễn kỹ thuật đan dây kumihimo truyền thống của Nhật Bản.",
+      "image": "/images/exhibitors/kumihimo_japonske_snury.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "matcha-tea",
+      "name": "Matcha tea (Nagomi tea)",
+      "category": "Trà Nhật Bản",
+      "description": "Matcha và các loại tea latte làm từ trà bột như wakocha, hōjicha, oolongcha, hakucha và matcha.",
+      "image": "/images/exhibitors/matcha_tea.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "japanese-wagashi",
+      "name": "Wagashi Nhật Bản",
+      "category": "Đồ ngọt Nhật Bản",
+      "description": "Các loại bánh ngọt wagashi truyền thống của Nhật.",
+      "image": "/images/exhibitors/japanese_wagashi.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "world-bakery-60",
+      "name": "World Bakery 60",
+      "category": "Ẩm thực",
+      "description": "Bánh nướng, bánh ngọt và các món tráng miệng kiểu Nhật và châu Á.",
+      "image": "/images/exhibitors/world_bakery_60.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "glaceo",
+      "name": "Glaceo",
+      "category": "Ẩm thực",
+      "description": "Kem và các món lạnh đặc sắc.",
+      "image": "/images/exhibitors/glaceo.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "Văn hóa Nhật Bản",
+      "description": "Văn hóa Nhật Bản, trang phục truyền thống và các hoạt động do hội Nihon Bunka giới thiệu.",
+      "image": "/images/performers/nihon_bunka_plzen.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "go-akademie-praha",
+      "name": "GO Akademie Praha",
+      "category": "Trò chơi Nhật Bản",
+      "description": "Giới thiệu cờ vây Go, trò chơi bàn chiến lược truyền thống.",
+      "image": "/images/exhibitors/go_akademie.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "fakulta-herni",
+      "name": "Fakulta herní",
+      "category": "Trò chơi & giáo dục",
+      "description": "Giới thiệu các hoạt động trò chơi và giáo dục.",
+      "image": "/images/exhibitors/fakulta_herni.png",
+      "imageMode": "photo"
+    }
+  ]
+}

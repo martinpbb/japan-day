@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "yamaya",
+      "name": "Yamaya",
+      "category": "Japanische Küche",
+      "description": "Japanische Gastronomie. Marek Hora, Spezialist für japanische Küche, bereitet authentische japanische Gerichte zu.",
+      "image": "/images/exhibitors/yamaya_restaurace.png",
+      "imageMode": "logo"
+    },
+    {
+      "id": "nagomi-tea",
+      "name": "Nagomi tea",
+      "category": "Japanischer Tee",
+      "description": "Hochwertige japanische Tees, direkt von Erzeugern in Japan bezogen.",
+      "image": "/images/exhibitors/nagomi_tea.png",
+      "imageMode": "logo"
+    },
+    {
+      "id": "nagomi-sake",
+      "name": "Nagomi sake",
+      "category": "Sake",
+      "description": "Präsentation und Verkostung von japanischem Sake.",
+      "image": "/images/exhibitors/nagomi_sake.png",
+      "imageMode": "logo",
+      "imageScale": 1.15
+    },
+    {
+      "id": "daniela-brouckova-rencova",
+      "name": "Daniela Broučková Renčová",
+      "category": "Japanische Kultur",
+      "description": "Präsentation von Arbeiten, die von Japan inspiriert sind.",
+      "image": "/images/exhibitors/daniela_brouckova.png",
+      "imageMode": "photo",
+      "imagePosition": "50% 15%"
+    },
+    {
+      "id": "onigiri-hostivice",
+      "name": "Onigiri Hostivice",
+      "category": "Gastronomie",
+      "description": "Japanische Onigiri und weitere Spezialitäten.",
+      "image": "/images/exhibitors/onigiri_hostivice.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "japan-whisky",
+      "name": "Japan Whisky",
+      "category": "Japanischer Whisky",
+      "description": "Auswahl japanischer Whiskys und Einführung in die japanische Whiskykultur.",
+      "image": "/images/exhibitors/japan_whisky.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "kumihimo",
+      "name": "Kumihimo – japanische Flechtkunst",
+      "category": "Traditionelles Handwerk",
+      "description": "Vorführung der traditionellen japanischen Flechttechnik Kumihimo.",
+      "image": "/images/exhibitors/kumihimo_japonske_snury.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "matcha-tea",
+      "name": "Matcha tea (Nagomi tea)",
+      "category": "Japanischer Tee",
+      "description": "Matcha und Tee-Latte aus gemahlenen Teesorten wie Wakocha, Hōjicha, Oolongcha, Hakucha und Matcha.",
+      "image": "/images/exhibitors/matcha_tea.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "japanese-wagashi",
+      "name": "Japanische Wagashi",
+      "category": "Japanische Süßigkeiten",
+      "description": "Traditionelle japanische Wagashi-Süßigkeiten.",
+      "image": "/images/exhibitors/japanese_wagashi.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "world-bakery-60",
+      "name": "World Bakery 60",
+      "category": "Gastronomie",
+      "description": "Japanisches und asiatisches Gebäck, Kuchen und süße Spezialitäten.",
+      "image": "/images/exhibitors/world_bakery_60.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "glaceo",
+      "name": "Glaceo",
+      "category": "Gastronomie",
+      "description": "Eis und gekühlte Spezialitäten.",
+      "image": "/images/exhibitors/glaceo.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "Japanische Kultur",
+      "description": "Japanische Kultur, traditionelle Kleidung und Aktivitäten, präsentiert vom Verein Nihon Bunka.",
+      "image": "/images/performers/nihon_bunka_plzen.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "go-akademie-praha",
+      "name": "GO Akademie Praha",
+      "category": "Japanische Spiele",
+      "description": "Einführung in das traditionelle strategische Brettspiel Go.",
+      "image": "/images/exhibitors/go_akademie.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "fakulta-herni",
+      "name": "Fakulta herní",
+      "category": "Spiele & Bildung",
+      "description": "Präsentation von Spielaktivitäten und Bildungsangeboten.",
+      "image": "/images/exhibitors/fakulta_herni.png",
+      "imageMode": "photo"
+    }
+  ]
+}

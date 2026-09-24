@@ -1,0 +1,169 @@
+{
+  "status": "published",
+  "note": "Programm des Japanischen Tages des Tees und der Kultur 2026. Änderungen vorbehalten.",
+  "items": [
+    {
+      "time": "10:00",
+      "title": "Öffnung der Halle für die Öffentlichkeit",
+      "type": "info",
+      "confirmed": true
+    },
+    {
+      "time": "11:00",
+      "endTime": "11:15",
+      "title": "Begrüßung und Eröffnung",
+      "description": "Eröffnungsworte eines Vertreters der Botschaft von Japan in der Tschechischen Republik, eines Vertreters der Stadt Chýně und des Veranstalters.",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "11:25",
+      "endTime": "11:45",
+      "performerId": "aikido-chyne",
+      "title": "Aikido Chýně",
+      "description": "Vorführung der traditionellen japanischen Kampfkunst Aikido. Aikido Chýně wird von Václav Plánský, Träger des 1. Dan Aikikai, geleitet.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "11:50",
+      "endTime": "12:15",
+      "performerId": "marek-hora",
+      "title": "Marek Hora",
+      "description": "Botschafter der japanischen Küche in der Tschechischen Republik und anerkannter Koch mit Tätigkeit in Europa und Japan. Marek Hora ist Inhaber des Prager Restaurants Yamaya. Auf der Bühne zerlegt er einen frischen Hamachi und zeigt die fachkundige Zubereitung von Sushi.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "12:25",
+      "endTime": "12:55",
+      "performerId": "noriko-komiyama",
+      "title": "Noriko Komiyama",
+      "description": "Zertifizierte Ikebana-Lehrerin der Sōgetsu-Schule. Sie stellt die Unterschiede zwischen zwei bekannten Schulen – Ikenobō (池坊流) und Sōgetsu (草月流) – vor und zeigt, wie aus leicht erhältlichen Blumen eindrucksvolle Ikebana-Arrangements entstehen.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "13:05",
+      "endTime": "13:25",
+      "performerId": "nihon-bunka-plzen",
+      "title": "Nihon Bunka Plzeň",
+      "description": "Vorführung des traditionellen Anlegens eines Kimonos. Auf der Bühne wird eine Vertreterin oder ein Vertreter der Stadt Chýně eingekleidet, während Symbolik und Bedeutung der einzelnen Elemente traditioneller japanischer Kleidung erläutert werden.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "13:35",
+      "endTime": "13:55",
+      "performerId": "gorin",
+      "title": "Gorin – Samurai-Show",
+      "description": "Samurai-Show mit Kampfszenen, inspiriert von den Schlachtfeldern der japanischen Sengoku-Zeit.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:00",
+      "endTime": "14:20",
+      "performerId": "marketa-franova",
+      "title": "Markéta Franová",
+      "description": "Vorführung von Kamigata-mai, einem traditionellen Solotanz aus dem Raum Osaka und Kyoto, geprägt von Eleganz, zurückhaltenden Bewegungen und dem feinen Einsatz des Fächers.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:25",
+      "endTime": "14:45",
+      "performerId": "aikido-chyne",
+      "title": "Aikido Chýně",
+      "description": "Zweite Vorführung der traditionellen japanischen Kampfkunst Aikido.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:55",
+      "endTime": "15:25",
+      "performerId": "sandomon-kendo-klub-praha",
+      "title": "San Dó Mon Kendo Klub Praha",
+      "description": "San Dó Mon Kendo Klub Praha präsentiert Kendō, die japanische Kampfkunst mit Wurzeln in der Tradition des Schwertkampfs.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "15:30",
+      "endTime": "15:50",
+      "performerId": "aska-pluskal",
+      "title": "Aska Pluskal",
+      "description": "Die aus Okinawa stammende Sängerin Aska Pluskal präsentiert traditionelle und moderne japanische Lieder.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:00",
+      "endTime": "16:20",
+      "performerId": "iaido",
+      "title": "Budō Plzeň",
+      "description": "Budō Plzeň präsentiert Iaidō, eine traditionelle japanische Kampfkunst mit Schwerpunkt auf dem Umgang mit dem japanischen Schwert.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:25",
+      "endTime": "16:40",
+      "performerId": "shakuhachi",
+      "title": "Tomáš Pelich",
+      "description": "Musikalischer Auftritt auf der traditionellen japanischen Bambusflöte Shakuhachi mit Tomáš Pelich aus dem Meditationsgarten Shibumi.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:45",
+      "endTime": "17:05",
+      "performerId": "gorin",
+      "title": "Gorin – Samurai-Bogenschießen",
+      "description": "Vorführung des Samurai-Bogenschießens und traditioneller japanischer Bogentechnik mit Live-Kommentar.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "17:15",
+      "endTime": "17:40",
+      "performerId": "yosakoi-hanamaru",
+      "title": "Yosakoi Hanamaru (Prag)",
+      "description": "Yosakoi Hanamaru Prag präsentiert den energiegeladenen japanischen Tanzstil Yosakoi, der traditionelle Elemente mit moderner Musik und Choreografie verbindet.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "17:45",
+      "endTime": "18:05",
+      "performerId": "radka-tumova",
+      "title": "Radka Tůmová",
+      "description": "Radka Tůmová stellt japanische Familienwappen, Kamon (家紋), vor – traditionelle Symbole zur Kennzeichnung von Familien und Linien. Sie erläutert Geschichte, Bedeutung und Parallelen zur europäischen Heraldik.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:10",
+      "endTime": "18:35",
+      "performerId": "gorin",
+      "title": "Gorin – Tameshigiri",
+      "description": "Vorführung von Tameshigiri – der traditionellen Praxis des Testschnitts gerollter Matten mit einem japanischen Katana.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:40",
+      "endTime": "18:55",
+      "title": "Abschlussprogramm und Bekanntgabe des Wettbewerbs um das beste Kimono",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "18:55",
+      "endTime": "19:00",
+      "title": "Dank und Ende des Programms",
+      "type": "ceremony",
+      "confirmed": true
+    }
+  ]
+}

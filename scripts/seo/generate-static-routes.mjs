@@ -11,7 +11,11 @@ const baseHtml = await fs.readFile(path.join(dist, "index.html"), "utf8");
 const locales = [
   { locale: "cs", prefix: "" },
   { locale: "en", prefix: "/en" },
-  { locale: "ja", prefix: "/ja" }
+  { locale: "ja", prefix: "/ja" },
+  { locale: "de", prefix: "/de" },
+  { locale: "es", prefix: "/es" },
+  { locale: "zh-CN", contentLocale: "zh", prefix: "/zh" },
+  { locale: "vi", prefix: "/vi" }
 ];
 
 function escapeHtml(value) {
@@ -77,10 +81,10 @@ function renderRoute({ seo, site, logicalPath, publicPath, route }) {
 }
 
 const sitemapPaths = new Set();
-for (const { locale, prefix } of locales) {
-  const seo = JSON.parse(await fs.readFile(path.join(root, `src/data/locales/${locale}/seo.json`), "utf8"));
-  const site = JSON.parse(await fs.readFile(path.join(root, `src/data/locales/${locale}/site.json`), "utf8"));
-  const performers = JSON.parse(await fs.readFile(path.join(root, `src/data/locales/${locale}/performers.json`), "utf8"));
+for (const { locale, contentLocale = locale, prefix } of locales) {
+  const seo = JSON.parse(await fs.readFile(path.join(root, `src/data/locales/${contentLocale}/seo.json`), "utf8"));
+  const site = JSON.parse(await fs.readFile(path.join(root, `src/data/locales/${contentLocale}/site.json`), "utf8"));
+  const performers = JSON.parse(await fs.readFile(path.join(root, `src/data/locales/${contentLocale}/performers.json`), "utf8"));
   const performerRoutes = Object.fromEntries(performers.items.map((performer) => [
     `/ucinkujici/${performer.id}`, buildPerformerRoute(performer, seo)
   ]));

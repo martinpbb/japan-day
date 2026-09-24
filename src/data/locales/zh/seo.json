@@ -1,0 +1,129 @@
+{
+  "baseUrl": "https://japanday.cz",
+  "siteName": "日本茶与文化日",
+  "locale": "zh_CN",
+  "language": "zh-CN",
+  "defaultImage": "/images/social/japan-day-chyne-2026-og.png",
+  "semanticTopics": [
+    "Japan Day Chýně",
+    "日本日",
+    "Chýně 日本文化日",
+    "日本茶与文化日",
+    "日本节庆",
+    "日本文化节",
+    "日本文化",
+    "日本料理",
+    "日本美食",
+    "寿司",
+    "刺身",
+    "日本茶",
+    "日本酒",
+    "日本威士忌",
+    "武士",
+    "武士表演",
+    "试斩",
+    "日本弓术",
+    "合气道",
+    "剑道",
+    "花道",
+    "布拉格活动",
+    "布拉格日本活动",
+    "布拉格日本文化",
+    "布拉格西区节庆"
+  ],
+  "routes": {
+    "/": {
+      "title": "2026 日本茶与文化日 | Japan Day Chýně",
+      "description": "参加布拉格附近的 Japan Day Chýně 2026，体验日本料理、茶、日本酒、武士、合气道、剑道、花道和一整天的日本文化。",
+      "h1": "日本茶与文化日",
+      "intro": "Japan Day Chýně 2026 — 在布拉格附近 Chýně 举办的日本文化、美食与传统节庆。",
+      "schema": [
+        "festival",
+        "organization"
+      ]
+    },
+    "/program": {
+      "title": "节目 | 2026 日本茶与文化日",
+      "description": "Japan Day Chýně 2026 节目：日本料理、合气道、武士表演、花道、舞蹈、音乐等。",
+      "h1": "节目 — 2026 日本茶与文化日",
+      "intro": "全天演出与活动的完整安排。",
+      "breadcrumb": "节目",
+      "schema": [
+        "festival",
+        "breadcrumb"
+      ]
+    },
+    "/ucinkujici": {
+      "title": "出演者 | 2026 日本茶与文化日",
+      "description": "认识 Japan Day Chýně 2026 的出演者与嘉宾，涵盖日本料理、花道、武道、音乐和舞蹈。",
+      "h1": "出演者与嘉宾",
+      "intro": "介绍传统与当代日本文化的人物和团体。",
+      "breadcrumb": "出演者",
+      "sectionKicker": "嘉宾与出演者",
+      "sectionTitle": "认识把日本带到您身边的人们",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/gastronomie": {
+      "title": "日本美食与饮品 | 日本茶与文化日",
+      "description": "Japan Day Chýně 的日本美食：寿司、刺身、Hamachi、日本烧烤、茶、日本酒、日本威士忌等。",
+      "h1": "日本美食",
+      "intro": "寿司、刺身、日本烧烤、茶、日本酒，以及更多日本风味。",
+      "breadcrumb": "日本美食",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele": {
+      "title": "参展商与销售摊位 | 日本茶与文化日",
+      "description": "探索 Japan Day Chýně 2026 的日本主题参展商、协会和销售摊位。",
+      "h1": "参展商与销售摊位",
+      "intro": "活动期间可在 Chýně 遇到的品牌、协会与摊商。",
+      "breadcrumb": "参展商",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/prakticke-informace": {
+      "title": "地点、交通与门票 | Japan Day Chýně 2026",
+      "description": "Japan Day Chýně 2026 实用信息：日期、时间、地点、ZŠ Bolzanova 地址、票价、交通和停车。",
+      "h1": "实用信息",
+      "intro": "布拉格附近 Chýně 的日期、地点、门票和交通信息。",
+      "breadcrumb": "实用信息",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/galerie": {
+      "title": "照片图库 | 日本茶与文化日",
+      "description": "上一届 Japan Day Chýně 照片：演出、日本文化、美食、摊位和活动氛围。",
+      "h1": "日本茶与文化日照片图库",
+      "intro": "看看上一届 Chýně 活动的现场氛围。",
+      "breadcrumb": "图库",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/o-akci": {
+      "title": "关于活动 | 日本茶与文化日",
+      "description": "Chýně 日本茶与文化日把日本文化、美食、传统和人们汇聚在一起，活动简称为 Japan Day Chýně。",
+      "h1": "关于日本茶与文化日",
+      "intro": "在布拉格附近 Chýně 举办的日本文化、美食与传统节庆。",
+      "breadcrumb": "关于活动",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/kontakt": {
+      "title": "联系 | 日本茶与文化日",
+      "description": "联系 Japan Day Chýně 主办方，咨询参观信息、合作和参展事宜。",
+      "h1": "联系",
+      "intro": "主办方联系方式，以及面向潜在合作伙伴和参展商的信息。",
+      "breadcrumb": "联系",
+      "schema": [
+        "breadcrumb"
+      ]
+    }
+  }
+}

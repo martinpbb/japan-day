@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "yamaya",
+      "name": "Yamaya",
+      "category": "Gastronomía japonesa",
+      "description": "Gastronomía japonesa. Marek Hora, especialista en cocina japonesa, preparará platos japoneses auténticos.",
+      "image": "/images/exhibitors/yamaya_restaurace.png",
+      "imageMode": "logo"
+    },
+    {
+      "id": "nagomi-tea",
+      "name": "Nagomi tea",
+      "category": "Té japonés",
+      "description": "Tés japoneses de alta calidad obtenidos directamente de productores de Japón.",
+      "image": "/images/exhibitors/nagomi_tea.png",
+      "imageMode": "logo"
+    },
+    {
+      "id": "nagomi-sake",
+      "name": "Nagomi sake",
+      "category": "Sake",
+      "description": "Presentación y degustación de sake japonés.",
+      "image": "/images/exhibitors/nagomi_sake.png",
+      "imageMode": "logo",
+      "imageScale": 1.15
+    },
+    {
+      "id": "daniela-brouckova-rencova",
+      "name": "Daniela Broučková Renčová",
+      "category": "Cultura japonesa",
+      "description": "Presentación de obras inspiradas en Japón.",
+      "image": "/images/exhibitors/daniela_brouckova.png",
+      "imageMode": "photo",
+      "imagePosition": "50% 15%"
+    },
+    {
+      "id": "onigiri-hostivice",
+      "name": "Onigiri Hostivice",
+      "category": "Gastronomía",
+      "description": "Onigiri japoneses y otras especialidades.",
+      "image": "/images/exhibitors/onigiri_hostivice.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "japan-whisky",
+      "name": "Japan Whisky",
+      "category": "Whisky japonés",
+      "description": "Selección de whisky japonés e introducción a la cultura del whisky en Japón.",
+      "image": "/images/exhibitors/japan_whisky.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "kumihimo",
+      "name": "Kumihimo – trenzado japonés",
+      "category": "Artesanía tradicional",
+      "description": "Demostración de la técnica tradicional japonesa de trenzado kumihimo.",
+      "image": "/images/exhibitors/kumihimo_japonske_snury.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "matcha-tea",
+      "name": "Matcha tea (Nagomi tea)",
+      "category": "Té japonés",
+      "description": "Matcha y lattes de té preparados con tés en polvo, como wakocha, hōjicha, oolongcha, hakucha y matcha.",
+      "image": "/images/exhibitors/matcha_tea.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "japanese-wagashi",
+      "name": "Wagashi japoneses",
+      "category": "Dulces japoneses",
+      "description": "Dulces japoneses tradicionales wagashi.",
+      "image": "/images/exhibitors/japanese_wagashi.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "world-bakery-60",
+      "name": "World Bakery 60",
+      "category": "Gastronomía",
+      "description": "Bollería, tartas y especialidades dulces japonesas y asiáticas.",
+      "image": "/images/exhibitors/world_bakery_60.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "glaceo",
+      "name": "Glaceo",
+      "category": "Gastronomía",
+      "description": "Helados y especialidades frías.",
+      "image": "/images/exhibitors/glaceo.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "Cultura japonesa",
+      "description": "Cultura japonesa, indumentaria tradicional y actividades presentadas por la asociación Nihon Bunka.",
+      "image": "/images/performers/nihon_bunka_plzen.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "go-akademie-praha",
+      "name": "GO Akademie Praha",
+      "category": "Juegos japoneses",
+      "description": "Introducción al tradicional juego estratégico de tablero Go.",
+      "image": "/images/exhibitors/go_akademie.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "fakulta-herni",
+      "name": "Fakulta herní",
+      "category": "Juegos y educación",
+      "description": "Presentación de actividades lúdicas y educativas.",
+      "image": "/images/exhibitors/fakulta_herni.png",
+      "imageMode": "photo"
+    }
+  ]
+}

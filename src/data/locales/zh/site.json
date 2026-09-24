@@ -1,0 +1,228 @@
+{
+  "brand": {
+    "name": "日本茶与文化日",
+    "shortName": "Japan Day Chýně",
+    "socialTag": "japandaychyne",
+    "descriptor": "日本文化、美食与传统节庆",
+    "japanese": "日本文化の日"
+  },
+  "event": {
+    "date": "10. 10. 2026",
+    "dateISO": "2026-10-10",
+    "openingTime": "10:00",
+    "closingTime": "",
+    "venue": "ZŠ Bolzanova",
+    "street": "Bolzanova 800",
+    "postalCode": "253 03",
+    "city": "Chýně",
+    "area": "布拉格西区",
+    "region": "中波希米亚州",
+    "country": "CZ",
+    "locationLabel": "布拉格附近的 Chýně",
+    "admission": "50 Kč起",
+    "admissionPrice": 50,
+    "currency": "CZK",
+    "patronage": [
+      "日本驻捷克共和国大使馆名誉支持",
+      "Chýně 市长支持"
+    ]
+  },
+  "hero": {
+    "kicker": "2026年10月10日 • 布拉格附近的 Chýně",
+    "title": "日本茶与文化日",
+    "descriptor": "日本文化、美食与传统节庆",
+    "subtitle": "在 Chýně 用一天感受日本：传统与当代文化、武道、日本料理、茶、日本酒，以及与长期关注和连接日本的人们相遇。",
+    "ctaPrimary": "查看节目",
+    "ctaSecondary": "实用信息",
+    "shortName": "Japan Day Chýně 2026"
+  },
+  "about": {
+    "kicker": "关于活动",
+    "title": "一天体验日本文化、风味与精彩内容",
+    "paragraphs": [
+      "日本茶与文化日，也以较短的名称 Japan Day Chýně 为人所知，是在布拉格附近 Chýně 举办的日本文化、美食与传统节庆。",
+      "活动把日本料理、传统艺术、武道、音乐、舞蹈和日本茶汇聚在同一地点。全天舞台将邀请与日本拥有真实且长期联系的嘉宾和团体登场。",
+      "现场还将设有日本主题的销售与展示摊位。2026 日本茶与文化日将于2026年10月10日在 ZŠ Bolzanova（Bolzanova 800，Chýně，布拉格附近）举行。"
+    ]
+  },
+  "video": {
+    "kicker": "现场氛围",
+    "title": "观看日本茶与文化日精彩片段",
+    "youtubeId": "hpFwDbZvoeg",
+    "caption": "上一届活动视频。只有在访客点击播放后才会加载。"
+  },
+  "practical": {
+    "kicker": "实用信息",
+    "title": "时间、地点与票价",
+    "items": [
+      {
+        "label": "日期",
+        "value": "2026年10月10日"
+      },
+      {
+        "label": "开放时间",
+        "value": "10:00"
+      },
+      {
+        "label": "地点",
+        "value": "ZŠ Bolzanova, Bolzanova 800, 253 03 Chýně"
+      },
+      {
+        "label": "票价",
+        "value": "50 Kč起"
+      }
+    ],
+    "transport": "Chýně 位于布拉格西侧。关于公共交通、出行和停车的详细信息将在活动前补充。",
+    "accessibility": "无障碍信息将在相关组织安排确认后补充。",
+    "faq": [
+      {
+        "question": "2026 日本茶与文化日什么时候举行？",
+        "answer": "2026年10月10日，星期六。场馆于10:00向公众开放。"
+      },
+      {
+        "question": "活动在哪里举行？",
+        "answer": "ZŠ Bolzanova，Bolzanova 800，253 03 Chýně，布拉格附近。"
+      },
+      {
+        "question": "门票多少钱？",
+        "answer": "票价从50 Kč起。12岁以下儿童免费。12岁及以上学生凭有效 ISIC 或学生证票价为50 Kč。65岁及以上人士票价为50 Kč。成人普通票100 Kč。家庭票200 Kč/家庭（父母与孩子）。"
+      },
+      {
+        "question": "在哪里可以查看最新节目？",
+        "answer": "最新时间表发布在“节目”页面，并会随着演出时间的确认持续更新。"
+      }
+    ]
+  },
+  "contact": {
+    "intro": "如对节目、到场参观、合作或参展有疑问，请使用联系表单。",
+    "email": "",
+    "phone": ""
+  },
+  "contactForm": {
+    "kicker": "联系我们",
+    "title": "还有其他问题吗？",
+    "intro": "常见问题中没有找到答案？请给我们留言，我们会回复您。",
+    "name": {
+      "label": "姓名",
+      "placeholder": "您的姓名"
+    },
+    "email": {
+      "label": "电子邮箱",
+      "placeholder": "you@example.com"
+    },
+    "subject": {
+      "label": "主题",
+      "placeholder": "我们可以如何帮助您？"
+    },
+    "message": {
+      "label": "留言",
+      "placeholder": "请输入您的留言…"
+    },
+    "submit": "发送留言",
+    "sending": "发送中…",
+    "success": "谢谢。您的留言已发送。",
+    "error": "留言发送失败，请重试。",
+    "privacy": "您的电子邮箱仅用于回复本次咨询。"
+  },
+  "navigation": [
+    {
+      "label": "关于活动",
+      "path": "/o-akci"
+    },
+    {
+      "label": "节目",
+      "path": "/program"
+    },
+    {
+      "label": "出演者",
+      "path": "/ucinkujici"
+    },
+    {
+      "label": "日本美食",
+      "path": "/gastronomie"
+    },
+    {
+      "label": "参展商",
+      "path": "/vystavovatele"
+    },
+    {
+      "label": "图库",
+      "path": "/galerie"
+    },
+    {
+      "label": "联系",
+      "path": "/kontakt"
+    }
+  ],
+  "ui": {
+    "organizersKicker": "主办方与合作伙伴",
+    "organizersTitle": "共同打造 Japan Day 的团队",
+    "openingFrom": "{time}起开放",
+    "programmeUntil": "至{time}",
+    "breadcrumbLabel": "面包屑导航",
+    "homeLabel": "日本茶与文化日 — 首页",
+    "mainNavigation": "主导航",
+    "openMenu": "打开菜单",
+    "language": "语言",
+    "importantLinks": "重要链接",
+    "legalInformation": "法律信息",
+    "socialLinks": "网站 / 社交媒体",
+    "exhibitorListPending": "参展商名单正在准备中。",
+    "previousYear": "上一届",
+    "galleryTitle": "Japan Day 2025 现场氛围",
+    "all": "全部",
+    "showPhoto": "查看照片：{alt}",
+    "closePhoto": "关闭照片",
+    "photoPending": "照片即将发布",
+    "heroCardLabel": "2026 日本茶与文化日",
+    "cultureGastronomyTradition": "文化 • 美食 • 传统",
+    "organizers": "主办方",
+    "partners": "合作伙伴",
+    "mapTitle": "地图",
+    "openMap": "在 Google 地图中打开",
+    "venue": {
+      "heading": "活动地点",
+      "text": "活动在 Chýně 的 ZŠ Bolzanova 举行。",
+      "addressLines": [
+        "ZŠ Bolzanova",
+        "Bolzanova 800",
+        "253 03 Chýně"
+      ],
+      "meta": "布拉格西区 • 中波希米亚州",
+      "openMap": "在 Google 地图中打开"
+    },
+    "patronage": "支持",
+    "allPerformers": "全部出演者",
+    "inProgramme": "节目中的演出",
+    "inProgrammeHeading": "节目中的演出",
+    "performersDetail": "{name} 详情",
+    "showDetail": "查看详情",
+    "transportAndParking": "交通与停车",
+    "accessibility": "无障碍",
+    "faq": "常见问题",
+    "moreAbout": "了解更多：{name}",
+    "playVideo": "播放视频",
+    "playVideoLabel": "播放日本茶与文化日视频",
+    "previousYearVideoAlt": "上一届日本茶与文化日视频",
+    "galleryCategories": {
+      "Program": "节目",
+      "Čaj": "茶",
+      "Gastronomie": "美食",
+      "Atmosféra": "现场氛围",
+      "Stánky": "摊位"
+    }
+  },
+  "footer": {
+    "note": "节目可能调整。",
+    "legalLinks": [
+      {
+        "label": "条款与条件",
+        "url": "https://www.chakai.cz/obchodni-podminky/"
+      },
+      {
+        "label": "隐私政策",
+        "url": "https://www.chakai.cz/podminky-ochrany-osobnich-udaju/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "status": "published",
+  "note": "2026 日本茶与文化日节目。节目可能调整。",
+  "items": [
+    {
+      "time": "10:00",
+      "title": "场馆向公众开放",
+      "type": "info",
+      "confirmed": true
+    },
+    {
+      "time": "11:00",
+      "endTime": "11:15",
+      "title": "欢迎与开幕致辞",
+      "description": "日本驻捷克共和国大使馆代表、Chýně 市代表及活动主办方致开幕词。",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "11:25",
+      "endTime": "11:45",
+      "performerId": "aikido-chyne",
+      "title": "Aikido Chýně",
+      "description": "日本传统武道合气道演示。Aikido Chýně 由 Aikikai 合气会初段的 Václav Plánský 带领。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "11:50",
+      "endTime": "12:15",
+      "performerId": "marek-hora",
+      "title": "Marek Hora",
+      "description": "捷克共和国日本料理推广大使，也是活跃于欧洲和日本的资深厨师。Marek Hora 是布拉格 Yamaya 餐厅的店主。他将在舞台上分切新鲜 Hamachi，并展示专业寿司制作。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "12:25",
+      "endTime": "12:55",
+      "performerId": "noriko-komiyama",
+      "title": "Noriko Komiyama",
+      "description": "草月流认证花道讲师。她将介绍池坊流（池坊流）与草月流（草月流）两所知名流派的差异，并展示如何用日常易得的花材完成富有表现力的花道作品。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "13:05",
+      "endTime": "13:25",
+      "performerId": "nihon-bunka-plzen",
+      "title": "Nihon Bunka Plzeň",
+      "description": "传统和服穿着演示。舞台上将为 Chýně 市代表穿着和服，并讲解传统日本服饰各个部分的象征意义与作用。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "13:35",
+      "endTime": "13:55",
+      "performerId": "gorin",
+      "title": "Gorin – 武士表演",
+      "description": "以日本战国时代战场为灵感的武士战斗表演。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:00",
+      "endTime": "14:20",
+      "performerId": "marketa-franova",
+      "title": "Markéta Franová",
+      "description": "上方舞 Kamigata-mai 演示。这是一种源自大阪与京都地区的传统独舞，以优雅、克制的动作和精细的折扇运用为特色。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:25",
+      "endTime": "14:45",
+      "performerId": "aikido-chyne",
+      "title": "Aikido Chýně",
+      "description": "第二场日本传统武道合气道演示。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:55",
+      "endTime": "15:25",
+      "performerId": "sandomon-kendo-klub-praha",
+      "title": "San Dó Mon Kendo Klub Praha",
+      "description": "San Dó Mon Kendo Klub Praha 将展示剑道，这项日本武道源自传统剑术。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "15:30",
+      "endTime": "15:50",
+      "performerId": "aska-pluskal",
+      "title": "Aska Pluskal",
+      "description": "来自冲绳的歌手 Aska Pluskal 将演唱日本传统与现代歌曲。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:00",
+      "endTime": "16:20",
+      "performerId": "iaido",
+      "title": "Budō Plzeň",
+      "description": "Budō Plzeň 将展示居合道，这项传统日本武道以日本刀的运用为核心。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:25",
+      "endTime": "16:40",
+      "performerId": "shakuhachi",
+      "title": "Tomáš Pelich",
+      "description": "来自 Shibumi 冥想花园的 Tomáš Pelich 将演奏日本传统竹制尺八。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:45",
+      "endTime": "17:05",
+      "performerId": "gorin",
+      "title": "Gorin – 武士弓术",
+      "description": "武士弓术与日本传统射箭技术演示，并配有现场讲解。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "17:15",
+      "endTime": "17:40",
+      "performerId": "yosakoi-hanamaru",
+      "title": "Yosakoi Hanamaru（布拉格）",
+      "description": "Yosakoi Hanamaru Prague 将展示充满活力的日本舞蹈“夜来祭”，把传统元素与现代音乐和编舞相结合。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "17:45",
+      "endTime": "18:05",
+      "performerId": "radka-tumova",
+      "title": "Radka Tůmová",
+      "description": "Radka Tůmová 将介绍日本家纹（家紋）——用于识别家族和血统的传统符号，并讲解其历史、意义以及与欧洲纹章传统的相似之处。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:10",
+      "endTime": "18:35",
+      "performerId": "gorin",
+      "title": "Gorin – 试斩",
+      "description": "试斩（tameshigiri）演示，即使用日本刀对卷席进行传统试切。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:40",
+      "endTime": "18:55",
+      "title": "闭幕节目与“最佳和服”比赛公布",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "18:55",
+      "endTime": "19:00",
+      "title": "致谢与节目结束",
+      "type": "ceremony",
+      "confirmed": true
+    }
+  ]
+}

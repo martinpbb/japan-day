@@ -1,0 +1,228 @@
+{
+  "brand": {
+    "name": "Japanischer Tag des Tees und der Kultur",
+    "shortName": "Japan Day Chýně",
+    "socialTag": "japandaychyne",
+    "descriptor": "Ein Festival japanischer Kultur, Küche und Traditionen",
+    "japanese": "日本文化の日"
+  },
+  "event": {
+    "date": "10. 10. 2026",
+    "dateISO": "2026-10-10",
+    "openingTime": "10:00",
+    "closingTime": "",
+    "venue": "ZŠ Bolzanova",
+    "street": "Bolzanova 800",
+    "postalCode": "253 03",
+    "city": "Chýně",
+    "area": "Prag-West",
+    "region": "Mittelböhmische Region",
+    "country": "CZ",
+    "locationLabel": "Chýně bei Prag",
+    "admission": "ab 50 Kč",
+    "admissionPrice": 50,
+    "currency": "CZK",
+    "patronage": [
+      "Ehrenschirmherrschaft der Botschaft von Japan in der Tschechischen Republik",
+      "Schirmherrschaft der Bürgermeisterin von Chýně"
+    ]
+  },
+  "hero": {
+    "kicker": "10. Oktober 2026 • Chýně bei Prag",
+    "title": "Japanischer Tag des Tees und der Kultur",
+    "descriptor": "Ein Festival japanischer Kultur, Küche und Traditionen",
+    "subtitle": "Erleben Sie Japan einen Tag lang in Chýně: traditionelle und moderne Kultur, Kampfkünste, japanisches Essen, Tee, Sake und Begegnungen mit Menschen, die seit vielen Jahren mit Japan verbunden sind.",
+    "ctaPrimary": "Programm ansehen",
+    "ctaSecondary": "Praktische Informationen",
+    "shortName": "Japan Day Chýně 2026"
+  },
+  "about": {
+    "kicker": "Über die Veranstaltung",
+    "title": "Ein Tag voller japanischer Kultur, Aromen und Erlebnisse",
+    "paragraphs": [
+      "Der Japanische Tag des Tees und der Kultur, auch unter dem kürzeren Namen Japan Day Chýně bekannt, ist ein Festival japanischer Kultur, Küche und Traditionen in Chýně bei Prag.",
+      "An einem Ort verbindet die Veranstaltung japanische Küche, traditionelle Künste, Kampfkünste, Musik, Tanz und japanischen Tee. Auf der Bühne treten im Laufe des Tages Gäste und Gruppen auf, die eine echte und langjährige Verbindung zu Japan haben.",
+      "Zur Veranstaltung gehören außerdem Verkaufs- und Präsentationsstände mit Japan-Bezug. Der Japanische Tag des Tees und der Kultur 2026 findet am 10. Oktober 2026 in der ZŠ Bolzanova, Bolzanova 800, Chýně bei Prag statt."
+    ]
+  },
+  "video": {
+    "kicker": "Atmosphäre",
+    "title": "Eindrücke vom Japanischen Tag des Tees und der Kultur",
+    "youtubeId": "hpFwDbZvoeg",
+    "caption": "Video von der vorherigen Ausgabe. Es wird erst geladen, nachdem der Besucher auf Wiedergabe geklickt hat."
+  },
+  "practical": {
+    "kicker": "Praktische Informationen",
+    "title": "Wann, wo und Eintritt",
+    "items": [
+      {
+        "label": "Datum",
+        "value": "10. Oktober 2026"
+      },
+      {
+        "label": "Öffnung",
+        "value": "10:00"
+      },
+      {
+        "label": "Veranstaltungsort",
+        "value": "ZŠ Bolzanova, Bolzanova 800, 253 03 Chýně"
+      },
+      {
+        "label": "Eintritt",
+        "value": "ab 50 Kč"
+      }
+    ],
+    "transport": "Chýně liegt am westlichen Rand von Prag. Ausführliche Informationen zu öffentlichen Verkehrsmitteln, Anreise und Parkmöglichkeiten werden vor der Veranstaltung ergänzt.",
+    "accessibility": "Informationen zur Barrierefreiheit werden ergänzt, sobald die organisatorischen Details bestätigt sind.",
+    "faq": [
+      {
+        "question": "Wann findet der Japanische Tag des Tees und der Kultur 2026 statt?",
+        "answer": "Am Samstag, den 10. Oktober 2026. Die Halle öffnet um 10:00 Uhr für die Öffentlichkeit."
+      },
+      {
+        "question": "Wo findet das Festival statt?",
+        "answer": "In der ZŠ Bolzanova, Bolzanova 800, 253 03 Chýně bei Prag."
+      },
+      {
+        "question": "Wie hoch ist der Eintritt?",
+        "answer": "Der Eintritt beginnt bei 50 Kč. Kinder unter 12 Jahren haben freien Eintritt. Schülerinnen, Schüler und Studierende ab 12 Jahren zahlen gegen Vorlage eines gültigen ISIC- oder Schüler-/Studierendenausweises 50 Kč. Personen ab 65 Jahren zahlen 50 Kč. Der reguläre Eintritt für Erwachsene beträgt 100 Kč. Der Familieneintritt beträgt 200 Kč pro Familie (Eltern mit Kindern)."
+      },
+      {
+        "question": "Wo finde ich das aktuelle Programm?",
+        "answer": "Der aktuelle Zeitplan ist auf der Seite „Programm“ veröffentlicht und wird aktualisiert, sobald die Auftrittszeiten bestätigt sind."
+      }
+    ]
+  },
+  "contact": {
+    "intro": "Für Fragen zum Programm, zum Besuch der Veranstaltung, zu Partnerschaften oder zur Teilnahme als Aussteller nutzen Sie bitte das Kontaktformular.",
+    "email": "",
+    "phone": ""
+  },
+  "contactForm": {
+    "kicker": "KONTAKT",
+    "title": "Noch eine Frage?",
+    "intro": "Sie haben in den häufig gestellten Fragen keine Antwort gefunden? Schreiben Sie uns, und wir melden uns bei Ihnen.",
+    "name": {
+      "label": "Name",
+      "placeholder": "Ihr Name"
+    },
+    "email": {
+      "label": "E-Mail",
+      "placeholder": "sie@example.com"
+    },
+    "subject": {
+      "label": "Betreff",
+      "placeholder": "Wie können wir helfen?"
+    },
+    "message": {
+      "label": "Nachricht",
+      "placeholder": "Schreiben Sie Ihre Nachricht …"
+    },
+    "submit": "Nachricht senden",
+    "sending": "Wird gesendet …",
+    "success": "Vielen Dank. Ihre Nachricht wurde gesendet.",
+    "error": "Ihre Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
+    "privacy": "Wir verwenden Ihre E-Mail-Adresse ausschließlich zur Beantwortung Ihrer Anfrage."
+  },
+  "navigation": [
+    {
+      "label": "Über die Veranstaltung",
+      "path": "/o-akci"
+    },
+    {
+      "label": "Programm",
+      "path": "/program"
+    },
+    {
+      "label": "Mitwirkende",
+      "path": "/ucinkujici"
+    },
+    {
+      "label": "Japanische Küche",
+      "path": "/gastronomie"
+    },
+    {
+      "label": "Aussteller",
+      "path": "/vystavovatele"
+    },
+    {
+      "label": "Galerie",
+      "path": "/galerie"
+    },
+    {
+      "label": "Kontakt",
+      "path": "/kontakt"
+    }
+  ],
+  "ui": {
+    "organizersKicker": "VERANSTALTER & PARTNER",
+    "organizersTitle": "Wer hinter dem Japan Day steht",
+    "openingFrom": "Geöffnet ab {time}",
+    "programmeUntil": "bis {time}",
+    "breadcrumbLabel": "Breadcrumb-Navigation",
+    "homeLabel": "Japanischer Tag des Tees und der Kultur — Startseite",
+    "mainNavigation": "Hauptnavigation",
+    "openMenu": "Menü öffnen",
+    "language": "Sprache",
+    "importantLinks": "Wichtige Links",
+    "legalInformation": "Rechtliche Informationen",
+    "socialLinks": "Website / soziale Medien",
+    "exhibitorListPending": "Die Ausstellerliste wird vorbereitet.",
+    "previousYear": "Vorherige Ausgabe",
+    "galleryTitle": "Atmosphäre des Japan Day 2025",
+    "all": "Alle",
+    "showPhoto": "Foto ansehen: {alt}",
+    "closePhoto": "Foto schließen",
+    "photoPending": "Foto folgt in Kürze",
+    "heroCardLabel": "Japanischer Tag des Tees und der Kultur 2026",
+    "cultureGastronomyTradition": "Kultur • Küche • Traditionen",
+    "organizers": "Veranstalter",
+    "partners": "Partner",
+    "mapTitle": "Karte",
+    "openMap": "In Google Maps öffnen",
+    "venue": {
+      "heading": "Veranstaltungsort",
+      "text": "Die Veranstaltung findet in der ZŠ Bolzanova in Chýně statt.",
+      "addressLines": [
+        "ZŠ Bolzanova",
+        "Bolzanova 800",
+        "253 03 Chýně"
+      ],
+      "meta": "Bezirk Prag-West • Mittelböhmische Region",
+      "openMap": "In Google Maps öffnen"
+    },
+    "patronage": "Schirmherrschaft",
+    "allPerformers": "Alle Mitwirkenden",
+    "inProgramme": "Im Programm",
+    "inProgrammeHeading": "Im Programm",
+    "performersDetail": "Details zu {name}",
+    "showDetail": "Details ansehen",
+    "transportAndParking": "Anreise und Parken",
+    "accessibility": "Barrierefreiheit",
+    "faq": "Häufig gestellte Fragen",
+    "moreAbout": "Mehr über {name}",
+    "playVideo": "Video abspielen",
+    "playVideoLabel": "Video vom Japanischen Tag des Tees und der Kultur abspielen",
+    "previousYearVideoAlt": "Video vom vorherigen Japanischen Tag des Tees und der Kultur",
+    "galleryCategories": {
+      "Program": "Programm",
+      "Čaj": "Tee",
+      "Gastronomie": "Gastronomie",
+      "Atmosféra": "Atmosphäre",
+      "Stánky": "Stände"
+    }
+  },
+  "footer": {
+    "note": "Programmänderungen vorbehalten.",
+    "legalLinks": [
+      {
+        "label": "Allgemeine Geschäftsbedingungen",
+        "url": "https://www.chakai.cz/obchodni-podminky/"
+      },
+      {
+        "label": "Datenschutzerklärung",
+        "url": "https://www.chakai.cz/podminky-ochrany-osobnich-udaju/"
+      }
+    ]
+  }
+}

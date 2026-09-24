@@ -1,0 +1,31 @@
+{
+  "organizers": [
+    {
+      "name": "Stadt Chýně",
+      "image": "/images/organizers/mesto_chyne.png"
+    },
+    {
+      "name": "Ing. Martin Labudík",
+      "image": ""
+    }
+  ],
+  "partners": [
+    {
+      "name": "Botschaft von Japan in der Tschechischen Republik",
+      "note": "Ehrenschirmherrschaft",
+      "image": "/images/partners/velvyslanectvi_japonska_v_praze.png"
+    },
+    {
+      "name": "Fujitsu",
+      "image": "/images/partners/fujitsu_company.jpg"
+    },
+    {
+      "name": "Nagomi s.r.o.",
+      "image": "/images/partners/nagomi.png"
+    },
+    {
+      "name": "ZŠ Bolzanova",
+      "image": "/images/partners/zakladni_skola_bolzanova.png"
+    }
+  ]
+}

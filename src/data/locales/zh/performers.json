@@ -1,0 +1,364 @@
+{
+  "items": [
+    {
+      "id": "aikido-chyne",
+      "name": "Aikido Chýně",
+      "category": "武道",
+      "short": "日本传统武道合气道演示。",
+      "description": "本地 Aikido Chýně 俱乐部将在当天进行两场日本传统武道演示。",
+      "content": [
+        {
+          "type": "p",
+          "text": "Aikido Chýně 是成立于2023年的本地日本武道俱乐部，由 Aikikai 合气会初段的 Ing. arch. Václav Plánský 带领。"
+        },
+        {
+          "type": "p",
+          "text": "合气道重视移动、平衡、恰当时机，以及对搭档攻击的应对。它不以比赛为核心，而更强调技术、动作控制和练习中的合作。"
+        },
+        {
+          "type": "h2",
+          "text": "来自 Chýně 的合气道"
+        },
+        {
+          "type": "p",
+          "text": "俱乐部将在 Japan Day 出场两次，因此访客将有两次机会近距离观看技术、身法，以及攻击者与防守者之间的互动。"
+        }
+      ],
+      "image": "/images/performers/aikido_chyne.png"
+    },
+    {
+      "id": "marek-hora",
+      "name": "Marek Hora",
+      "category": "日本料理",
+      "short": "捷克共和国日本料理推广大使，也是活跃于欧洲和日本的资深厨师。",
+      "description": "他将在舞台上分切新鲜 Hamachi，并展示专业寿司制作。",
+      "content": [
+        {
+          "type": "p",
+          "text": "Marek Hora 是捷克共和国日本料理领域最具代表性的人物之一。他从事日本料理超过三十年，也曾直接在日本积累经验。"
+        },
+        {
+          "type": "p",
+          "text": "在日本期间，他曾在 Sakae Zushi 等地进一步提升技艺。2009年，他在日本静冈举行的国际 World Sushi Stadium 比赛中获得第二名。"
+        },
+        {
+          "type": "h2",
+          "text": "日本料理推广大使"
+        },
+        {
+          "type": "p",
+          "text": "2024年，他由日本农林水产省任命为日本料理推广大使。他长期与日本厨师合作，工作理念建立在尊重食材、精准技法和对日本料理的真实理解之上。"
+        },
+        {
+          "type": "h2",
+          "text": "在 Chýně 可以看到什么"
+        },
+        {
+          "type": "p",
+          "text": "Marek Hora 将在访客面前直接分切新鲜 Hamachi，随后演示寿司制作。这不仅是一场料理展示，也是近距离观察经验丰富的寿司师傅工作的机会。"
+        }
+      ],
+      "image": "/images/performers/marek_hora.png"
+    },
+    {
+      "id": "noriko-komiyama",
+      "name": "Noriko Komiyama",
+      "category": "花道",
+      "short": "草月流日本花道讲师。",
+      "description": "她将展示池坊流与草月流的不同，并说明花材在日本花道作品中的运用。",
+      "content": [
+        {
+          "type": "p",
+          "text": "Noriko Komiyama 是一位在布拉格生活多年的日本花道讲师，主要专注于草月流，并经常通过公开演示和工作坊分享经验。"
+        },
+        {
+          "type": "p",
+          "text": "她的花道演示也曾在日本大使馆支持下举办，例如 Flora Bratislava 展览；在那里，她除舞台演示外还主持了实践工作坊。"
+        },
+        {
+          "type": "h2",
+          "text": "花道不一定要从珍稀花材开始"
+        },
+        {
+          "type": "p",
+          "text": "在 Japan Day，她将展示如何使用我们身边常见的花草，同时介绍两个重要花道流派——池坊流和草月流——不同的创作方式。"
+        }
+      ],
+      "image": "/images/performers/noriko_komiyama.png"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "文化",
+      "short": "传统和服穿着演示。",
+      "description": "舞台上将为 Chýně 市代表穿着和服，并解释服装各部分的象征意义与作用。",
+      "content": [
+        {
+          "type": "p",
+          "text": "Nihon Bunka Plzeň 是由日本文化爱好者组成的协会，关注范围从历史、传统服饰到武道、饮食和当代日本流行文化。"
+        },
+        {
+          "type": "p",
+          "text": "该团体主要活跃于 Plzeň 地区，举办自己的文化活动、讲座和工作坊，也是 Bunka Fest 的主办力量之一。"
+        },
+        {
+          "type": "h2",
+          "text": "日本传统服饰"
+        },
+        {
+          "type": "p",
+          "text": "Nihon Bunka Plzeň 长期关注的领域之一就是日本传统服饰。在其活动中，访客可以试穿女式、男式和儿童和服。"
+        },
+        {
+          "type": "h2",
+          "text": "舞台上的和服"
+        },
+        {
+          "type": "p",
+          "text": "在 Chýně，和服穿着过程会直接在观众面前完成。各层服装不会预先在后台穿好，而是现场逐层穿着，让访客看到完整过程并了解其中的规则与含义。"
+        }
+      ],
+      "image": "/images/performers/nihon_bunka_plzen.png"
+    },
+    {
+      "id": "gorin",
+      "name": "Gorin",
+      "category": "武道",
+      "short": "专注于日本武术传统与战国时代的团体。",
+      "description": "节目包括武士表演、战斗弓术和试斩。",
+      "content": [
+        {
+          "type": "p",
+          "text": "Gorin 的历史可追溯到1994年，当时 Silvestr Prajer 在 Strakonice 创建了居合道与剑道俱乐部，后来逐步发展为专注日本历史武术传统的团体。"
+        },
+        {
+          "type": "p",
+          "text": "Gorin 主要聚焦战国时代（Sengoku jidai），这是日本持续数十年频繁发生军事冲突的时期。"
+        },
+        {
+          "type": "h2",
+          "text": "全甲武士"
+        },
+        {
+          "type": "p",
+          "text": "团体以完整武士甲胄呈现战斗场景，展示多种武器、弓术（kyūjutsu）以及试斩。"
+        },
+        {
+          "type": "p",
+          "text": "Gorin 成员还制作日本甲胄、武器和历史服装的复原品，并修复原版武士甲胄。"
+        },
+        {
+          "type": "h2",
+          "text": "一天三场不同表演"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "以战国时代为灵感的战斗场景",
+            "武士战斗弓术演示",
+            "试斩——使用日本刀检验精准度和切割技巧"
+          ]
+        }
+      ],
+      "image": "/images/performers/gorin_samurai_show.png"
+    },
+    {
+      "id": "aska-pluskal",
+      "name": "Aska Pluskal",
+      "category": "音乐",
+      "short": "来自冲绳的日本歌手。",
+      "description": "她将演唱传统与现代日语歌曲。",
+      "content": [
+        {
+          "type": "p",
+          "text": "Aska Pluskal 是来自冲绳的歌手。冲绳位于日本最南端，以独特文化和音乐传统闻名。"
+        },
+        {
+          "type": "p",
+          "text": "她也在冲绳以歌手身份演出。在 Japan Day，她将带来一组选自传统与较现代曲目的日语歌曲。"
+        },
+        {
+          "type": "h2",
+          "text": "通过音乐认识日本"
+        },
+        {
+          "type": "p",
+          "text": "她的演出将提供不同于武道或传统工艺的日本文化视角——通过声音、旋律和当代音乐诠释来感受日本。"
+        }
+      ],
+      "image": "/images/performers/aska_pluskal.png"
+    },
+    {
+      "id": "iaido",
+      "name": "Iaido",
+      "category": "武道",
+      "short": "日本传统剑术居合道演示。",
+      "description": "居合道结合精准拔刀、受控动作与高度专注。",
+      "content": [
+        {
+          "type": "p",
+          "text": "居合道是一项专注日本刀术的武道，尤其重视精准拔刀、完成斩击以及将刀收回刀鞘。"
+        },
+        {
+          "type": "p",
+          "text": "训练主要通过严格规定的型（kata）进行。除了技术本身，也非常重视姿势、时机、专注和心境平稳。"
+        },
+        {
+          "type": "h2",
+          "text": "刀与动作的精准"
+        },
+        {
+          "type": "p",
+          "text": "演示中，访客可以看到各个动作如何连接成连续整体——从准备、拔刀，到技术完成与受控收势。"
+        }
+      ],
+      "image": "/images/performers/iaido_plzen.png"
+    },
+    {
+      "id": "sandomon-kendo-klub-praha",
+      "name": "San Dó Mon Kendó Klub Praha",
+      "category": "武道",
+      "short": "布拉格的传统日本剑道俱乐部。",
+      "description": "俱乐部将展示剑道——源自日本传统剑术的武道。",
+      "content": [
+        {
+          "type": "p",
+          "text": "San Dó Mon 是1994年成立的布拉格剑道俱乐部，训练地点位于 Karlovo náměstí，多年来致力于日本剑道的推广与教学。"
+        },
+        {
+          "type": "p",
+          "text": "俱乐部经验最丰富的成员之一是 Jindřich Ziegelheim，他拥有剑道七段及炼士称号。"
+        },
+        {
+          "type": "h2",
+          "text": "什么是剑道"
+        },
+        {
+          "type": "p",
+          "text": "剑道源自日本传统剑术流派“剑术（kenjutsu）”。现代训练使用竹刀（shinai）和防具（bōgu），同时在技术之外保留对礼仪、尊重与武道精神的重视。"
+        },
+        {
+          "type": "p",
+          "text": "在 Japan Day，访客将看到动态中的剑道——刀法、距离、时机和有力的气合。"
+        }
+      ],
+      "image": "/images/performers/sandomon_kendo_klub_praha.png"
+    },
+    {
+      "id": "marketa-franova",
+      "name": "Markéta Fránová – Kamigatamai",
+      "category": "舞蹈",
+      "short": "源自京都和大阪地区的日本传统舞蹈。",
+      "description": "优雅的独舞，以克制动作、内在表达和细腻的折扇运用为特色。",
+      "content": [
+        {
+          "type": "p",
+          "text": "Markéta Fránová 是 Ogawaryū 学校上方舞（Kamigatamai）的学习者，自2021年起持续接受训练。"
+        },
+        {
+          "type": "p",
+          "text": "上方舞源自上方地区，尤其是京都和大阪的文化环境。其风格动作细腻、精准且常常十分克制，舞者的内在表达在其中具有核心地位。"
+        },
+        {
+          "type": "h2",
+          "text": "每一个动作都有意义的舞蹈"
+        },
+        {
+          "type": "p",
+          "text": "舞蹈中也会使用传统道具，例如绘有图案的纸扇或日本伞。上方舞并不追求大幅动作，而更重视细节、手势、姿态和精准的动作控制。"
+        }
+      ],
+      "image": "/images/performers/marketa_franova.png"
+    },
+    {
+      "id": "shakuhachi",
+      "name": "Tomáš Pelich – 日本尺八",
+      "category": "音乐",
+      "short": "Tomáš Pelich – 日本尺八",
+      "description": "来自 Shibumi 冥想花园的 Tomáš Pelich 将演奏日本传统竹制尺八。",
+      "content": [
+        {
+          "type": "p",
+          "text": "尺八是一种日本传统竹笛，音色极具辨识度。看似简单的结构让演奏者能够细腻控制呼吸、音准和每一个音的音色。"
+        },
+        {
+          "type": "p",
+          "text": "尺八与日本传统音乐和精神性音乐形式密切相关，如今也用于当代、即兴和实验音乐。"
+        },
+        {
+          "type": "h2",
+          "text": "呼吸与寂静的音乐"
+        },
+        {
+          "type": "p",
+          "text": "在这场亲密的演出中，除了尺八本身的声音，寂静、呼吸以及音与音之间的空间也同样重要。"
+        }
+      ],
+      "image": "/images/performers/shakuhachi_shibumi.png"
+    },
+    {
+      "id": "yosakoi-hanamaru",
+      "name": "Yosakoi Hanamaru",
+      "category": "舞蹈",
+      "short": "专注于充满活力的日本夜来祭舞蹈的捷克团体。",
+      "description": "色彩丰富的团体表演，将现代舞蹈与日本传统元素结合。",
+      "content": [
+        {
+          "type": "p",
+          "text": "Yosakoi Hanamaru 是2018年在布拉格成立的舞蹈团体。2020年团队扩展到 Brno，如今汇聚捷克、斯洛伐克、日本及其他国家的成员。"
+        },
+        {
+          "type": "p",
+          "text": "2019年，团体中有三名成员在日本被任命为夜来祭推广大使。"
+        },
+        {
+          "type": "h2",
+          "text": "什么是夜来祭"
+        },
+        {
+          "type": "p",
+          "text": "夜来祭起源于1954年的日本高知县，是一种充满活力的群舞，把现代编舞与日本传统元素结合在一起。"
+        },
+        {
+          "type": "p",
+          "text": "夜来祭常使用名为 naruko 的小木鸣子，编舞中也可能加入扇子、日伞、灯笼或大型团队旗帜。"
+        },
+        {
+          "type": "h2",
+          "text": "Hanamaru 在捷克及海外"
+        },
+        {
+          "type": "p",
+          "text": "该团体经常参加与日本文化相关的活动，包括 Animefest、Tanabata、Eigasai 和 Cosples，也曾在波兰、匈牙利和斯洛伐克演出。"
+        }
+      ],
+      "image": "/images/performers/yosakoi_hanamaru.png"
+    },
+    {
+      "id": "radka-tumova",
+      "name": "Radka Tůmová – 日本家纹",
+      "category": "文化",
+      "short": "日本家纹 – kamon",
+      "description": "Radka Tůmová 将介绍日本家纹（家紋），即用于识别家族和血统的传统符号，并说明其历史、意义以及与欧洲纹章传统的相似之处。",
+      "content": [
+        {
+          "type": "p",
+          "text": "Mon、monshō 或 kamon（家紋）是日本传统家族纹章，作用与欧洲家徽相似。它用于区分家族和血统，并成为日本视觉文化的重要组成部分。"
+        },
+        {
+          "type": "p",
+          "text": "家纹可见于正式和服、武士武器和甲胄，也出现在寺院、城堡、家具和日常用品上。其简洁而常常十分优雅的图案来自植物、动物、自然现象或几何形状。"
+        },
+        {
+          "type": "h2",
+          "text": "延续至今的传统"
+        },
+        {
+          "type": "p",
+          "text": "与欧洲家徽不同，家纹并非只是历史遗物。它在21世纪的日本仍然存在：继续用于礼仪场合，一些日本企业也将家纹作为徽章或标志设计的基础。"
+        }
+      ],
+      "image": "/images/performers/radka_tumova.png"
+    }
+  ]
+}

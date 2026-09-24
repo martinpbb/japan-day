@@ -1,0 +1,129 @@
+{
+  "baseUrl": "https://japanday.cz",
+  "siteName": "Ngày Trà và Văn hóa Nhật Bản",
+  "locale": "vi_VN",
+  "language": "vi-VN",
+  "defaultImage": "/images/social/japan-day-chyne-2026-og.png",
+  "semanticTopics": [
+    "Japan Day Chýně",
+    "Japan Day",
+    "Ngày Nhật Bản Chýně",
+    "Ngày Trà và Văn hóa Nhật Bản",
+    "lễ hội Nhật Bản",
+    "lễ hội văn hóa Nhật Bản",
+    "văn hóa Nhật Bản",
+    "ẩm thực Nhật Bản",
+    "món ăn Nhật Bản",
+    "sushi",
+    "sashimi",
+    "trà Nhật Bản",
+    "sake",
+    "whisky Nhật Bản",
+    "samurai",
+    "trình diễn samurai",
+    "tameshigiri",
+    "cung thuật Nhật Bản",
+    "aikido",
+    "kendo",
+    "ikebana",
+    "sự kiện tại Praha",
+    "sự kiện Nhật Bản Praha",
+    "văn hóa Nhật Bản Praha",
+    "lễ hội Prague-West"
+  ],
+  "routes": {
+    "/": {
+      "title": "Ngày Trà và Văn hóa Nhật Bản 2026 | Japan Day Chýně",
+      "description": "Đến Japan Day Chýně 2026 gần Praha để thưởng thức ẩm thực Nhật Bản, trà, sake, samurai, aikido, kendo, ikebana và một ngày trọn vẹn với văn hóa Nhật.",
+      "h1": "Ngày Trà và Văn hóa Nhật Bản",
+      "intro": "Japan Day Chýně 2026 — lễ hội văn hóa, ẩm thực và truyền thống Nhật Bản tại Chýně gần Praha.",
+      "schema": [
+        "festival",
+        "organization"
+      ]
+    },
+    "/program": {
+      "title": "Chương trình | Ngày Trà và Văn hóa Nhật Bản 2026",
+      "description": "Chương trình Japan Day Chýně 2026 gần Praha: ẩm thực Nhật Bản, aikido, trình diễn samurai, ikebana, múa, âm nhạc và nhiều nội dung khác.",
+      "h1": "Chương trình — Ngày Trà và Văn hóa Nhật Bản 2026",
+      "intro": "Tổng quan đầy đủ về các màn trình diễn và hoạt động trong suốt ngày.",
+      "breadcrumb": "Chương trình",
+      "schema": [
+        "festival",
+        "breadcrumb"
+      ]
+    },
+    "/ucinkujici": {
+      "title": "Nghệ sĩ & khách mời | Ngày Trà và Văn hóa Nhật Bản 2026",
+      "description": "Gặp gỡ nghệ sĩ và khách mời của Japan Day Chýně 2026, đại diện cho ẩm thực Nhật Bản, ikebana, võ thuật, âm nhạc và múa.",
+      "h1": "Nghệ sĩ và khách mời",
+      "intro": "Những cá nhân và nhóm giới thiệu văn hóa Nhật Bản truyền thống lẫn đương đại.",
+      "breadcrumb": "Nghệ sĩ & khách mời",
+      "sectionKicker": "KHÁCH MỜI & NGHỆ SĨ",
+      "sectionTitle": "Gặp những người mang Nhật Bản đến gần bạn hơn",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/gastronomie": {
+      "title": "Ẩm thực & đồ uống Nhật Bản | Ngày Trà và Văn hóa Nhật Bản",
+      "description": "Ẩm thực Nhật Bản tại Japan Day Chýně: sushi, sashimi, hamachi, đồ nướng Nhật, trà, sake, whisky Nhật Bản và nhiều hơn nữa.",
+      "h1": "Ẩm thực Nhật Bản",
+      "intro": "Sushi, sashimi, đồ nướng Nhật, trà, sake và nhiều hương vị khác của Nhật Bản.",
+      "breadcrumb": "Ẩm thực Nhật Bản",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele": {
+      "title": "Đơn vị trưng bày & bán hàng | Ngày Trà và Văn hóa Nhật Bản",
+      "description": "Khám phá các đơn vị trưng bày, hội nhóm và người bán theo chủ đề Nhật Bản tại Japan Day Chýně 2026.",
+      "h1": "Đơn vị trưng bày và bán hàng",
+      "intro": "Các thương hiệu, hội nhóm và người bán mà bạn có thể gặp trong sự kiện tại Chýně.",
+      "breadcrumb": "Đơn vị trưng bày",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/prakticke-informace": {
+      "title": "Địa điểm, di chuyển & vé | Japan Day Chýně 2026",
+      "description": "Thông tin thực tế cho Japan Day Chýně 2026: ngày, giờ, địa điểm, địa chỉ ZŠ Bolzanova, giá vé, di chuyển và đỗ xe.",
+      "h1": "Thông tin thực tế",
+      "intro": "Ngày, địa điểm, vé và thông tin di chuyển cho Chýně gần Praha.",
+      "breadcrumb": "Thông tin thực tế",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/galerie": {
+      "title": "Thư viện ảnh | Ngày Trà và Văn hóa Nhật Bản",
+      "description": "Ảnh từ Japan Day Chýně kỳ trước: các màn trình diễn, văn hóa Nhật Bản, ẩm thực, gian hàng và không khí sự kiện.",
+      "h1": "Thư viện ảnh Ngày Trà và Văn hóa Nhật Bản",
+      "intro": "Cùng xem lại không khí của kỳ trước tại Chýně.",
+      "breadcrumb": "Thư viện ảnh",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/o-akci": {
+      "title": "Về sự kiện | Ngày Trà và Văn hóa Nhật Bản",
+      "description": "Ngày Trà và Văn hóa Nhật Bản tại Chýně kết nối văn hóa, ẩm thực, truyền thống và con người gắn với Nhật Bản. Tên ngắn của sự kiện là Japan Day Chýně.",
+      "h1": "Về Ngày Trà và Văn hóa Nhật Bản",
+      "intro": "Lễ hội văn hóa, ẩm thực và truyền thống Nhật Bản tại Chýně gần Praha.",
+      "breadcrumb": "Về sự kiện",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/kontakt": {
+      "title": "Liên hệ | Ngày Trà và Văn hóa Nhật Bản",
+      "description": "Liên hệ ban tổ chức Japan Day Chýně để hỏi thông tin tham dự, hợp tác và các vấn đề dành cho đơn vị trưng bày.",
+      "h1": "Liên hệ",
+      "intro": "Thông tin liên hệ của ban tổ chức và thông tin dành cho các đối tác, đơn vị trưng bày tiềm năng.",
+      "breadcrumb": "Liên hệ",
+      "schema": [
+        "breadcrumb"
+      ]
+    }
+  }
+}

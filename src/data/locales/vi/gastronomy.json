@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "id": "sushi",
+      "title": "Sushi & sashimi",
+      "text": "Hamachi sashimi, nigiri, maki, maguro zuke don và nhiều loại sushi khác được chuẩn bị ngay tại sự kiện.",
+      "cta": "Tìm hiểu thêm",
+      "details": {
+        "intro": "Cá tươi và sushi được chuẩn bị trong Japan Day.",
+        "items": [
+          {
+            "name": "Hamachi sashimi",
+            "description": "Các lát hamachi tươi được phục vụ theo phong cách Nhật đơn giản để làm nổi bật hương vị của cá."
+          },
+          {
+            "name": "Negi-hama maki",
+            "description": "Maki sushi với hamachi và hành lá."
+          },
+          {
+            "name": "Tekka maki",
+            "description": "Maki sushi cuộn mỏng cổ điển với cá ngừ."
+          },
+          {
+            "name": "Maguro zuke don",
+            "description": "Cơm tô với cá ngừ ướp theo kiểu zuke."
+          },
+          {
+            "name": "Sake don",
+            "description": "Cơm tô Nhật Bản với cá hồi."
+          },
+          {
+            "name": "Nigiri",
+            "description": "Nigiri sushi truyền thống được làm tại chỗ."
+          },
+          {
+            "name": "Sushi set",
+            "description": "Kết hợp nigiri hamachi và ebi."
+          }
+        ]
+      }
+    },
+    {
+      "id": "food",
+      "title": "Món Nhật & đồ nướng",
+      "text": "Buta no kakuni, hayashi rice, saba nướng, thịt heo miso và burger phong cách Wagyu.",
+      "cta": "Tìm hiểu thêm",
+      "details": {
+        "intro": "Các món Nhật nóng và đặc sản được chế biến trên vỉ nướng.",
+        "items": [
+          {
+            "name": "Buta no kakuni",
+            "description": "Thịt heo hầm chậm kiểu Nhật, dùng với cơm."
+          },
+          {
+            "name": "Hayashi rice",
+            "description": "Món Nhật phổ biến gồm cơm và sốt nâu đậm đà."
+          },
+          {
+            "name": "Yaki sakana – saba",
+            "description": "Cá thu nướng được chế biến theo phong cách Nhật đơn giản."
+          },
+          {
+            "name": "Butaniku no miso yaki",
+            "description": "Thịt heo ướp miso, dùng cùng salad và sốt."
+          },
+          {
+            "name": "Wagyu-style burger",
+            "description": "Burger bò phong cách Nhật với salad, hành tây và mayonnaise ninniku-miso."
+          }
+        ]
+      }
+    },
+    {
+      "id": "tea",
+      "title": "Trà Nhật Bản",
+      "text": "Ba quầy trà với lựa chọn phong phú, từ sencha và gyokuro đến oolong, wakocha và trà trắng.",
+      "cta": "Tìm hiểu thêm",
+      "details": {
+        "intro": "Trà Nhật Bản sẽ được pha tại ba quầy riêng biệt bởi Martin Kindl, Jiří Houska và Tomáš Pelich, những người yêu trà giàu kinh nghiệm.",
+        "secondary": "Trong suốt ngày, khách tham quan có thể so sánh các phương pháp chế biến, hương vị và phong cách pha trà Nhật Bản khác nhau.",
+        "items": [
+          {
+            "name": "Sencha",
+            "description": "Trà xanh Nhật hấp, lá được cuộn thành hình kim."
+          },
+          {
+            "name": "Kamairicha",
+            "description": "Trà xanh Nhật được sao chảo."
+          },
+          {
+            "name": "Gyokuro",
+            "description": "Trà xanh Nhật nổi tiếng với việc che bóng trước khi thu hoạch."
+          },
+          {
+            "name": "Oolong",
+            "description": "Trà có lá oxy hóa một phần."
+          },
+          {
+            "name": "Wakocha",
+            "description": "Trà đen Nhật Bản."
+          },
+          {
+            "name": "Kurocha",
+            "description": "Trà lên men Nhật Bản."
+          },
+          {
+            "name": "Hōjicha",
+            "description": "Trà xanh Nhật rang."
+          },
+          {
+            "name": "Trà trắng / Hakucha / Shirocha",
+            "description": "Trà trắng được chế biến nhẹ nhàng."
+          }
+        ]
+      }
+    },
+    {
+      "id": "sake",
+      "title": "Sake & whisky",
+      "text": "Năm loại sake khác nhau từ Shizuoka, Kanagawa và Osaka, cùng whisky Nhật Bản.",
+      "cta": "Tìm hiểu thêm",
+      "details": {
+        "intro": "Nagomi Sake sẽ tổ chức nếm thử năm loại sake từ nhiều vùng của Nhật Bản, giúp khách tham quan so sánh phong cách vùng miền và các nhà sản xuất.",
+        "items": [
+          {
+            "name": "Hananomai",
+            "region": "Shizuoka"
+          },
+          {
+            "name": "Izumibashi",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Afuri",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Daimon",
+            "region": "Osaka"
+          },
+          {
+            "name": "Matsumidori",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Whisky Nhật Bản",
+            "description": "Cũng sẽ có whisky Nhật Bản."
+          }
+        ]
+      }
+    }
+  ]
+}

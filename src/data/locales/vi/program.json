@@ -1,0 +1,169 @@
+{
+  "status": "published",
+  "note": "Chương trình Ngày Trà và Văn hóa Nhật Bản 2026. Chương trình có thể thay đổi.",
+  "items": [
+    {
+      "time": "10:00",
+      "title": "Mở cửa địa điểm cho công chúng",
+      "type": "info",
+      "confirmed": true
+    },
+    {
+      "time": "11:00",
+      "endTime": "11:15",
+      "title": "Chào mừng và khai mạc",
+      "description": "Phát biểu khai mạc của đại diện Đại sứ quán Nhật Bản tại Cộng hòa Séc, đại diện Thành phố Chýně và ban tổ chức sự kiện.",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "11:25",
+      "endTime": "11:45",
+      "performerId": "aikido-chyne",
+      "title": "Aikido Chýně",
+      "description": "Biểu diễn aikido, môn võ truyền thống Nhật Bản. Aikido Chýně do Václav Plánský, đai 1 dan Aikikai, dẫn dắt.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "11:50",
+      "endTime": "12:15",
+      "performerId": "marek-hora",
+      "title": "Marek Hora",
+      "description": "Đại sứ ẩm thực Nhật Bản tại Cộng hòa Séc và đầu bếp được đánh giá cao hoạt động tại cả châu Âu và Nhật Bản. Marek Hora là chủ nhà hàng Yamaya ở Praha. Trên sân khấu, ông sẽ phi lê hamachi tươi và trình diễn kỹ thuật làm sushi chuyên nghiệp.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "12:25",
+      "endTime": "12:55",
+      "performerId": "noriko-komiyama",
+      "title": "Noriko Komiyama",
+      "description": "Giảng viên ikebana được chứng nhận của trường phái Sōgetsu. Bà sẽ giới thiệu sự khác biệt giữa hai trường phái nổi tiếng – Ikenobō (池坊流) và Sōgetsu (草月流) – đồng thời cho thấy cách tạo nên những tác phẩm ikebana ấn tượng từ các loại hoa dễ tìm.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "13:05",
+      "endTime": "13:25",
+      "performerId": "nihon-bunka-plzen",
+      "title": "Nihon Bunka Plzeň",
+      "description": "Trình diễn cách mặc kimono truyền thống. Trên sân khấu, họ sẽ mặc kimono cho một đại diện của Thành phố Chýně và giải thích biểu tượng cũng như ý nghĩa của từng phần trong trang phục Nhật Bản truyền thống.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "13:35",
+      "endTime": "13:55",
+      "performerId": "gorin",
+      "title": "Gorin – trình diễn samurai",
+      "description": "Màn trình diễn samurai với các cảnh chiến đấu lấy cảm hứng từ chiến trường Nhật Bản thời Sengoku.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:00",
+      "endTime": "14:20",
+      "performerId": "marketa-franova",
+      "title": "Markéta Franová",
+      "description": "Trình diễn Kamigata-mai, điệu múa độc diễn truyền thống từ vùng Osaka và Kyoto, đặc trưng bởi sự thanh nhã, chuyển động tiết chế và cách sử dụng quạt gấp tinh tế.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:25",
+      "endTime": "14:45",
+      "performerId": "aikido-chyne",
+      "title": "Aikido Chýně",
+      "description": "Màn trình diễn thứ hai của môn võ truyền thống Nhật Bản aikido.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "14:55",
+      "endTime": "15:25",
+      "performerId": "sandomon-kendo-klub-praha",
+      "title": "San Dó Mon Kendo Klub Praha",
+      "description": "San Dó Mon Kendo Klub Praha sẽ giới thiệu kendō, môn võ Nhật Bản bắt nguồn từ truyền thống kiếm thuật.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "15:30",
+      "endTime": "15:50",
+      "performerId": "aska-pluskal",
+      "title": "Aska Pluskal",
+      "description": "Ca sĩ Aska Pluskal, quê ở Okinawa, sẽ trình bày các ca khúc Nhật Bản truyền thống và đương đại.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:00",
+      "endTime": "16:20",
+      "performerId": "iaido",
+      "title": "Budō Plzeň",
+      "description": "Budō Plzeň sẽ giới thiệu iaidō, môn võ Nhật Bản truyền thống tập trung vào việc sử dụng kiếm Nhật.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:25",
+      "endTime": "16:40",
+      "performerId": "shakuhachi",
+      "title": "Tomáš Pelich",
+      "description": "Phần biểu diễn âm nhạc với sáo tre truyền thống Nhật Bản shakuhachi của Tomáš Pelich từ khu vườn thiền Shibumi.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "16:45",
+      "endTime": "17:05",
+      "performerId": "gorin",
+      "title": "Gorin – cung thuật samurai",
+      "description": "Trình diễn cung thuật samurai và kỹ thuật bắn cung truyền thống Nhật Bản, kèm thuyết minh trực tiếp.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "17:15",
+      "endTime": "17:40",
+      "performerId": "yosakoi-hanamaru",
+      "title": "Yosakoi Hanamaru (Praha)",
+      "description": "Yosakoi Hanamaru Praha sẽ giới thiệu điệu múa Nhật Bản yosakoi đầy năng lượng, kết hợp yếu tố truyền thống với âm nhạc và vũ đạo hiện đại.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "17:45",
+      "endTime": "18:05",
+      "performerId": "radka-tumova",
+      "title": "Radka Tůmová",
+      "description": "Radka Tůmová sẽ giới thiệu gia huy Nhật Bản, kamon (家紋), những biểu tượng truyền thống dùng để nhận diện gia đình và dòng tộc. Bà sẽ giải thích lịch sử, ý nghĩa và những điểm tương đồng với truyền thống huy hiệu châu Âu.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:10",
+      "endTime": "18:35",
+      "performerId": "gorin",
+      "title": "Gorin – Tameshigiri",
+      "description": "Trình diễn tameshigiri – kỹ thuật thử chém truyền thống trên các cuộn chiếu bằng katana Nhật Bản.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:40",
+      "endTime": "18:55",
+      "title": "Chương trình bế mạc và công bố cuộc thi Kimono đẹp nhất",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "18:55",
+      "endTime": "19:00",
+      "title": "Lời cảm ơn và kết thúc chương trình",
+      "type": "ceremony",
+      "confirmed": true
+    }
+  ]
+}

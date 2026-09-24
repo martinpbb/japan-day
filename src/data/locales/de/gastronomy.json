@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "id": "sushi",
+      "title": "Sushi & Sashimi",
+      "text": "Hamachi-Sashimi, Nigiri, Maki, Maguro Zuke Don und weitere Sushi werden direkt bei der Veranstaltung zubereitet.",
+      "cta": "Mehr erfahren",
+      "details": {
+        "intro": "Frischer Fisch und Sushi, während des Japan Day zubereitet.",
+        "items": [
+          {
+            "name": "Hamachi sashimi",
+            "description": "Frische Hamachi-Scheiben, schlicht japanisch serviert, damit der Geschmack des Fisches im Mittelpunkt steht."
+          },
+          {
+            "name": "Negi-hama maki",
+            "description": "Maki-Sushi mit Hamachi und Frühlingszwiebel."
+          },
+          {
+            "name": "Tekka maki",
+            "description": "Klassisches dünnes Maki-Sushi mit Thunfisch."
+          },
+          {
+            "name": "Maguro zuke don",
+            "description": "Reisschale mit im Zuke-Stil mariniertem Thunfisch."
+          },
+          {
+            "name": "Sake don",
+            "description": "Japanische Reisschale mit Lachs."
+          },
+          {
+            "name": "Nigiri",
+            "description": "Traditionelles Nigiri-Sushi, vor Ort zubereitet."
+          },
+          {
+            "name": "Sushi set",
+            "description": "Kombination aus Hamachi- und Ebi-Nigiri."
+          }
+        ]
+      }
+    },
+    {
+      "id": "food",
+      "title": "Japanische Küche & Grill",
+      "text": "Buta no kakuni, Hayashi Rice, gegrillte Saba, Miso-Schweinefleisch und ein Wagyu-Style-Burger.",
+      "cta": "Mehr erfahren",
+      "details": {
+        "intro": "Warme japanische Gerichte und Spezialitäten vom Grill.",
+        "items": [
+          {
+            "name": "Buta no kakuni",
+            "description": "Langsam gegartes Schweinefleisch nach japanischer Art mit Reis."
+          },
+          {
+            "name": "Hayashi rice",
+            "description": "Beliebtes japanisches Gericht mit Reis und einer kräftigen dunklen Sauce."
+          },
+          {
+            "name": "Yaki sakana – saba",
+            "description": "Gegrillte Makrele, schlicht japanisch zubereitet."
+          },
+          {
+            "name": "Butaniku no miso yaki",
+            "description": "In Miso mariniertes Schweinefleisch mit Salat und Dressing."
+          },
+          {
+            "name": "Wagyu-style burger",
+            "description": "Japanisch inspirierter Rindfleisch-Burger mit Salat, Zwiebel und Ninniku-Miso-Mayonnaise."
+          }
+        ]
+      }
+    },
+    {
+      "id": "tea",
+      "title": "Japanischer Tee",
+      "text": "Drei Teestationen mit großer Auswahl – von Sencha und Gyokuro bis Oolong, Wakocha und Weißtee.",
+      "cta": "Mehr erfahren",
+      "details": {
+        "intro": "Japanische Tees werden an drei separaten Teestationen von Martin Kindl, Jiří Houska und Tomáš Pelich, erfahrenen Teeliebhabern, zubereitet.",
+        "secondary": "Besucher können im Laufe des Tages unterschiedliche Verarbeitungsarten, Geschmacksprofile und Zubereitungsstile japanischer Tees vergleichen.",
+        "items": [
+          {
+            "name": "Sencha",
+            "description": "Japanischer gedämpfter Grüntee mit nadelförmig gerollten Blättern."
+          },
+          {
+            "name": "Kamairicha",
+            "description": "Japanischer Grüntee, der in der Pfanne erhitzt wird."
+          },
+          {
+            "name": "Gyokuro",
+            "description": "Japanischer Grüntee, der für die Beschattung vor der Ernte bekannt ist."
+          },
+          {
+            "name": "Oolong",
+            "description": "Tee mit teilweise oxidierten Blättern."
+          },
+          {
+            "name": "Wakocha",
+            "description": "Japanischer Schwarztee."
+          },
+          {
+            "name": "Kurocha",
+            "description": "Japanischer fermentierter Tee."
+          },
+          {
+            "name": "Hōjicha",
+            "description": "Gerösteter japanischer Grüntee."
+          },
+          {
+            "name": "Weißtee / Hakucha / Shirocha",
+            "description": "Schonend verarbeiteter Weißtee."
+          }
+        ]
+      }
+    },
+    {
+      "id": "sake",
+      "title": "Sake & Whisky",
+      "text": "Fünf verschiedene Sake aus Shizuoka, Kanagawa und Osaka sowie japanischer Whisky.",
+      "cta": "Mehr erfahren",
+      "details": {
+        "intro": "Nagomi Sake bietet eine Verkostung von fünf verschiedenen Sake aus mehreren Regionen Japans an, sodass Besucher regionale Stile und Produzenten vergleichen können.",
+        "items": [
+          {
+            "name": "Hananomai",
+            "region": "Shizuoka"
+          },
+          {
+            "name": "Izumibashi",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Afuri",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Daimon",
+            "region": "Osaka"
+          },
+          {
+            "name": "Matsumidori",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Japanischer Whisky",
+            "description": "Auch japanischer Whisky wird angeboten."
+          }
+        ]
+      }
+    }
+  ]
+}

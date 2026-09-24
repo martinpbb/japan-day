@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "id": "sushi",
+      "title": "寿司与刺身",
+      "text": "现场制作 Hamachi 刺身、握寿司、卷寿司、金枪鱼渍丼等多种寿司。",
+      "cta": "了解更多",
+      "details": {
+        "intro": "Japan Day 现场准备新鲜鱼类与寿司。",
+        "items": [
+          {
+            "name": "Hamachi sashimi",
+            "description": "新鲜 Hamachi 切片，以简洁日式方式呈现，突出鱼本身的风味。"
+          },
+          {
+            "name": "Negi-hama maki",
+            "description": "Hamachi 与葱制作的卷寿司。"
+          },
+          {
+            "name": "Tekka maki",
+            "description": "经典细卷金枪鱼寿司。"
+          },
+          {
+            "name": "Maguro zuke don",
+            "description": "以 zuke 腌渍方式处理的金枪鱼盖饭。"
+          },
+          {
+            "name": "Sake don",
+            "description": "日式三文鱼盖饭。"
+          },
+          {
+            "name": "Nigiri",
+            "description": "现场制作的传统握寿司。"
+          },
+          {
+            "name": "Sushi set",
+            "description": "Hamachi 握寿司与虾握寿司的组合。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "food",
+      "title": "日本料理与烧烤",
+      "text": "Buta no kakuni、Hayashi rice、烤鲭鱼、味噌猪肉和 Wagyu 风格汉堡。",
+      "cta": "了解更多",
+      "details": {
+        "intro": "热腾腾的日本料理与现场烧烤特色菜。",
+        "items": [
+          {
+            "name": "Buta no kakuni",
+            "description": "日式慢炖猪肉，配米饭。"
+          },
+          {
+            "name": "Hayashi rice",
+            "description": "广受欢迎的日式米饭料理，搭配浓郁深色酱汁。"
+          },
+          {
+            "name": "Yaki sakana – saba",
+            "description": "以简洁日式方式烤制的鲭鱼。"
+          },
+          {
+            "name": "Butaniku no miso yaki",
+            "description": "味噌腌制猪肉，配沙拉和酱汁。"
+          },
+          {
+            "name": "Wagyu-style burger",
+            "description": "日式风格牛肉汉堡，搭配沙拉、洋葱和蒜味味噌蛋黄酱。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tea",
+      "title": "日本茶",
+      "text": "三处茶席提供丰富选择，从煎茶、玉露到乌龙茶、和红茶与白茶。",
+      "cta": "了解更多",
+      "details": {
+        "intro": "Martin Kindl、Jiří Houska 和 Tomáš Pelich 三位经验丰富的茶爱好者将在三个独立茶席冲泡日本茶。",
+        "secondary": "访客可在一天中比较不同的制茶方式、风味和日本茶冲泡风格。",
+        "items": [
+          {
+            "name": "煎茶",
+            "description": "日本蒸青绿茶，茶叶揉制成针状。"
+          },
+          {
+            "name": "釜炒茶",
+            "description": "采用炒制方式加工的日本绿茶。"
+          },
+          {
+            "name": "玉露",
+            "description": "以采摘前遮阴栽培而闻名的日本绿茶。"
+          },
+          {
+            "name": "乌龙茶",
+            "description": "部分氧化的茶。"
+          },
+          {
+            "name": "和红茶",
+            "description": "日本红茶。"
+          },
+          {
+            "name": "黑茶",
+            "description": "日本发酵茶。"
+          },
+          {
+            "name": "焙茶",
+            "description": "焙炒的日本绿茶。"
+          },
+          {
+            "name": "白茶（Hakucha / Shirocha）",
+            "description": "轻柔加工的白茶。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sake",
+      "title": "日本酒与威士忌",
+      "text": "来自静冈、神奈川和大阪的五款日本酒，以及日本威士忌。",
+      "cta": "了解更多",
+      "details": {
+        "intro": "Nagomi Sake 将提供来自日本多个地区的五款日本酒品鉴，让访客比较不同地区风格和酒造。",
+        "items": [
+          {
+            "name": "Hananomai",
+            "region": "Shizuoka"
+          },
+          {
+            "name": "Izumibashi",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Afuri",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Daimon",
+            "region": "Osaka"
+          },
+          {
+            "name": "Matsumidori",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "日本威士忌",
+            "description": "现场也将提供日本威士忌。"
+          }
+        ]
+      }
+    }
+  ]
+}

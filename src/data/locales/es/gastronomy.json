@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "id": "sushi",
+      "title": "Sushi y sashimi",
+      "text": "Sashimi de hamachi, nigiri, maki, maguro zuke don y más sushi preparado durante el evento.",
+      "cta": "Descubrir más",
+      "details": {
+        "intro": "Pescado fresco y sushi preparados durante Japan Day.",
+        "items": [
+          {
+            "name": "Hamachi sashimi",
+            "description": "Láminas frescas de hamachi servidas al estilo japonés sencillo para resaltar el sabor del pescado."
+          },
+          {
+            "name": "Negi-hama maki",
+            "description": "Maki sushi con hamachi y cebolleta."
+          },
+          {
+            "name": "Tekka maki",
+            "description": "Maki sushi fino clásico con atún."
+          },
+          {
+            "name": "Maguro zuke don",
+            "description": "Bol de arroz con atún marinado al estilo zuke."
+          },
+          {
+            "name": "Sake don",
+            "description": "Bol japonés de arroz con salmón."
+          },
+          {
+            "name": "Nigiri",
+            "description": "Nigiri sushi tradicional preparado en el lugar."
+          },
+          {
+            "name": "Sushi set",
+            "description": "Combinación de nigiri de hamachi y ebi."
+          }
+        ]
+      }
+    },
+    {
+      "id": "food",
+      "title": "Comida japonesa y parrilla",
+      "text": "Buta no kakuni, hayashi rice, saba a la parrilla, cerdo con miso y una hamburguesa estilo Wagyu.",
+      "cta": "Descubrir más",
+      "details": {
+        "intro": "Platos japoneses calientes y especialidades preparadas a la parrilla.",
+        "items": [
+          {
+            "name": "Buta no kakuni",
+            "description": "Cerdo cocinado lentamente al estilo japonés, servido con arroz."
+          },
+          {
+            "name": "Hayashi rice",
+            "description": "Popular plato japonés con arroz y una intensa salsa oscura."
+          },
+          {
+            "name": "Yaki sakana – saba",
+            "description": "Caballa a la parrilla preparada de forma sencilla al estilo japonés."
+          },
+          {
+            "name": "Butaniku no miso yaki",
+            "description": "Cerdo marinado en miso, servido con ensalada y aliño."
+          },
+          {
+            "name": "Wagyu-style burger",
+            "description": "Hamburguesa de ternera al estilo japonés con ensalada, cebolla y mayonesa de ninniku-miso."
+          }
+        ]
+      }
+    },
+    {
+      "id": "tea",
+      "title": "Té japonés",
+      "text": "Tres estaciones de té con una amplia selección, desde sencha y gyokuro hasta oolong, wakocha y té blanco.",
+      "cta": "Descubrir más",
+      "details": {
+        "intro": "Los tés japoneses se prepararán en tres estaciones independientes por Martin Kindl, Jiří Houska y Tomáš Pelich, aficionados al té con amplia experiencia.",
+        "secondary": "A lo largo del día, los visitantes podrán comparar diferentes métodos de elaboración, sabores y estilos de preparación del té japonés.",
+        "items": [
+          {
+            "name": "Sencha",
+            "description": "Té verde japonés vaporizado, enrollado en hojas con forma de aguja."
+          },
+          {
+            "name": "Kamairicha",
+            "description": "Té verde japonés procesado mediante tostado en sartén."
+          },
+          {
+            "name": "Gyokuro",
+            "description": "Té verde japonés conocido por cultivarse a la sombra antes de la cosecha."
+          },
+          {
+            "name": "Oolong",
+            "description": "Té con hojas parcialmente oxidadas."
+          },
+          {
+            "name": "Wakocha",
+            "description": "Té negro japonés."
+          },
+          {
+            "name": "Kurocha",
+            "description": "Té japonés fermentado."
+          },
+          {
+            "name": "Hōjicha",
+            "description": "Té verde japonés tostado."
+          },
+          {
+            "name": "Té blanco / Hakucha / Shirocha",
+            "description": "Té blanco de elaboración delicada."
+          }
+        ]
+      }
+    },
+    {
+      "id": "sake",
+      "title": "Sake y whisky",
+      "text": "Cinco sakes diferentes de Shizuoka, Kanagawa y Osaka, además de whisky japonés.",
+      "cta": "Descubrir más",
+      "details": {
+        "intro": "Nagomi Sake ofrecerá una degustación de cinco sakes diferentes de varias regiones de Japón para que los visitantes puedan comparar estilos regionales y productores.",
+        "items": [
+          {
+            "name": "Hananomai",
+            "region": "Shizuoka"
+          },
+          {
+            "name": "Izumibashi",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Afuri",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Daimon",
+            "region": "Osaka"
+          },
+          {
+            "name": "Matsumidori",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Whisky japonés",
+            "description": "También habrá whisky japonés."
+          }
+        ]
+      }
+    }
+  ]
+}

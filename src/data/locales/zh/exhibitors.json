@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "yamaya",
+      "name": "Yamaya",
+      "category": "日本料理",
+      "description": "日本美食。日本料理专家 Marek Hora 将准备正宗日本菜。",
+      "image": "/images/exhibitors/yamaya_restaurace.png",
+      "imageMode": "logo"
+    },
+    {
+      "id": "nagomi-tea",
+      "name": "Nagomi tea",
+      "category": "日本茶",
+      "description": "直接从日本茶农采购的高品质日本茶。",
+      "image": "/images/exhibitors/nagomi_tea.png",
+      "imageMode": "logo"
+    },
+    {
+      "id": "nagomi-sake",
+      "name": "Nagomi sake",
+      "category": "日本酒",
+      "description": "日本酒展示与品鉴。",
+      "image": "/images/exhibitors/nagomi_sake.png",
+      "imageMode": "logo",
+      "imageScale": 1.15
+    },
+    {
+      "id": "daniela-brouckova-rencova",
+      "name": "Daniela Broučková Renčová",
+      "category": "日本文化",
+      "description": "展示受日本启发的作品。",
+      "image": "/images/exhibitors/daniela_brouckova.png",
+      "imageMode": "photo",
+      "imagePosition": "50% 15%"
+    },
+    {
+      "id": "onigiri-hostivice",
+      "name": "Onigiri Hostivice",
+      "category": "美食",
+      "description": "日式饭团及其他特色食品。",
+      "image": "/images/exhibitors/onigiri_hostivice.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "japan-whisky",
+      "name": "Japan Whisky",
+      "category": "日本威士忌",
+      "description": "精选日本威士忌，并介绍日本威士忌文化。",
+      "image": "/images/exhibitors/japan_whisky.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "kumihimo",
+      "name": "Kumihimo – 日本组纽编绳",
+      "category": "传统工艺",
+      "description": "日本传统组纽编绳技法演示。",
+      "image": "/images/exhibitors/kumihimo_japonske_snury.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "matcha-tea",
+      "name": "Matcha tea (Nagomi tea)",
+      "category": "日本茶",
+      "description": "提供抹茶，以及使用和红茶、焙茶、乌龙茶、白茶和抹茶等粉末茶制作的茶拿铁。",
+      "image": "/images/exhibitors/matcha_tea.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "japanese-wagashi",
+      "name": "日本和果子",
+      "category": "日式甜点",
+      "description": "传统日本和果子。",
+      "image": "/images/exhibitors/japanese_wagashi.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "world-bakery-60",
+      "name": "World Bakery 60",
+      "category": "美食",
+      "description": "日式与亚洲风格烘焙食品、蛋糕和甜点。",
+      "image": "/images/exhibitors/world_bakery_60.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "glaceo",
+      "name": "Glaceo",
+      "category": "美食",
+      "description": "冰淇淋及冰爽特色食品。",
+      "image": "/images/exhibitors/glaceo.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "nihon-bunka-plzen",
+      "name": "Nihon Bunka Plzeň",
+      "category": "日本文化",
+      "description": "由 Nihon Bunka 协会展示日本文化、传统服饰和相关活动。",
+      "image": "/images/performers/nihon_bunka_plzen.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "go-akademie-praha",
+      "name": "GO Akademie Praha",
+      "category": "日本传统游戏",
+      "description": "介绍传统策略棋类游戏围棋。",
+      "image": "/images/exhibitors/go_akademie.png",
+      "imageMode": "photo"
+    },
+    {
+      "id": "fakulta-herni",
+      "name": "Fakulta herní",
+      "category": "游戏与教育",
+      "description": "展示游戏活动和教育内容。",
+      "image": "/images/exhibitors/fakulta_herni.png",
+      "imageMode": "photo"
+    }
+  ]
+}

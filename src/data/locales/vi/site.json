@@ -1,0 +1,228 @@
+{
+  "brand": {
+    "name": "Ngày Trà và Văn hóa Nhật Bản",
+    "shortName": "Japan Day Chýně",
+    "socialTag": "japandaychyne",
+    "descriptor": "Lễ hội văn hóa, ẩm thực và truyền thống Nhật Bản",
+    "japanese": "日本文化の日"
+  },
+  "event": {
+    "date": "10. 10. 2026",
+    "dateISO": "2026-10-10",
+    "openingTime": "10:00",
+    "closingTime": "",
+    "venue": "ZŠ Bolzanova",
+    "street": "Bolzanova 800",
+    "postalCode": "253 03",
+    "city": "Chýně",
+    "area": "Prague-West",
+    "region": "Vùng Trung Bohemia",
+    "country": "CZ",
+    "locationLabel": "Chýně gần Praha",
+    "admission": "từ 50 Kč",
+    "admissionPrice": 50,
+    "currency": "CZK",
+    "patronage": [
+      "Bảo trợ danh dự của Đại sứ quán Nhật Bản tại Cộng hòa Séc",
+      "Bảo trợ của Thị trưởng Chýně"
+    ]
+  },
+  "hero": {
+    "kicker": "10 tháng 10, 2026 • Chýně gần Praha",
+    "title": "Ngày Trà và Văn hóa Nhật Bản",
+    "descriptor": "Lễ hội văn hóa, ẩm thực và truyền thống Nhật Bản",
+    "subtitle": "Trải nghiệm Nhật Bản trong một ngày tại Chýně: văn hóa truyền thống và đương đại, võ thuật, ẩm thực Nhật Bản, trà, sake và gặp gỡ những người có mối gắn bó lâu dài với Nhật Bản.",
+    "ctaPrimary": "Xem chương trình",
+    "ctaSecondary": "Thông tin thực tế",
+    "shortName": "Japan Day Chýně 2026"
+  },
+  "about": {
+    "kicker": "Về sự kiện",
+    "title": "Một ngày với văn hóa, hương vị và trải nghiệm Nhật Bản",
+    "paragraphs": [
+      "Ngày Trà và Văn hóa Nhật Bản, còn được biết đến với tên ngắn Japan Day Chýně, là lễ hội văn hóa, ẩm thực và truyền thống Nhật Bản được tổ chức tại Chýně gần Praha.",
+      "Sự kiện quy tụ ẩm thực Nhật Bản, nghệ thuật truyền thống, võ thuật, âm nhạc, múa và trà Nhật Bản tại cùng một địa điểm. Trong suốt cả ngày, sân khấu sẽ đón các khách mời và nhóm có mối liên hệ chân thực và lâu dài với Nhật Bản.",
+      "Sự kiện cũng có các gian hàng bán hàng và giới thiệu sản phẩm theo chủ đề Nhật Bản. Ngày Trà và Văn hóa Nhật Bản 2026 diễn ra vào ngày 10 tháng 10 năm 2026 tại ZŠ Bolzanova, Bolzanova 800, Chýně gần Praha."
+    ]
+  },
+  "video": {
+    "kicker": "Không khí sự kiện",
+    "title": "Xem những khoảnh khắc nổi bật từ Ngày Trà và Văn hóa Nhật Bản",
+    "youtubeId": "hpFwDbZvoeg",
+    "caption": "Video từ kỳ trước. Video chỉ tải sau khi khách truy cập nhấn phát."
+  },
+  "practical": {
+    "kicker": "Thông tin thực tế",
+    "title": "Thời gian, địa điểm và vé vào cửa",
+    "items": [
+      {
+        "label": "Ngày",
+        "value": "10 tháng 10, 2026"
+      },
+      {
+        "label": "Mở cửa",
+        "value": "10:00"
+      },
+      {
+        "label": "Địa điểm",
+        "value": "ZŠ Bolzanova, Bolzanova 800, 253 03 Chýně"
+      },
+      {
+        "label": "Vé vào cửa",
+        "value": "từ 50 Kč"
+      }
+    ],
+    "transport": "Chýně nằm ở rìa phía tây Praha. Thông tin chi tiết về giao thông công cộng, cách di chuyển và bãi đỗ xe sẽ được bổ sung trước sự kiện.",
+    "accessibility": "Thông tin về khả năng tiếp cận sẽ được bổ sung sau khi các chi tiết tổ chức được xác nhận.",
+    "faq": [
+      {
+        "question": "Ngày Trà và Văn hóa Nhật Bản 2026 diễn ra khi nào?",
+        "answer": "Thứ Bảy, ngày 10 tháng 10 năm 2026. Hội trường mở cửa cho công chúng lúc 10:00."
+      },
+      {
+        "question": "Lễ hội được tổ chức ở đâu?",
+        "answer": "Tại ZŠ Bolzanova, Bolzanova 800, 253 03 Chýně gần Praha."
+      },
+      {
+        "question": "Giá vé là bao nhiêu?",
+        "answer": "Vé vào cửa từ 50 Kč. Trẻ em dưới 12 tuổi được miễn phí. Học sinh, sinh viên từ 12 tuổi trở lên trả 50 Kč khi xuất trình thẻ ISIC hoặc thẻ học sinh/sinh viên hợp lệ. Người từ 65 tuổi trở lên trả 50 Kč. Vé người lớn thông thường là 100 Kč. Vé gia đình là 200 Kč cho mỗi gia đình (cha mẹ đi cùng con)."
+      },
+      {
+        "question": "Tôi có thể xem chương trình mới nhất ở đâu?",
+        "answer": "Lịch hiện tại được đăng trên trang Chương trình và sẽ được cập nhật khi thời gian biểu diễn được xác nhận."
+      }
+    ]
+  },
+  "contact": {
+    "intro": "Nếu có câu hỏi về chương trình, việc tham dự sự kiện, hợp tác hoặc tham gia với tư cách đơn vị trưng bày, vui lòng sử dụng biểu mẫu liên hệ.",
+    "email": "",
+    "phone": ""
+  },
+  "contactForm": {
+    "kicker": "LIÊN HỆ",
+    "title": "Bạn vẫn còn câu hỏi?",
+    "intro": "Không tìm thấy câu trả lời trong phần câu hỏi thường gặp? Hãy gửi tin nhắn cho chúng tôi và chúng tôi sẽ phản hồi.",
+    "name": {
+      "label": "Tên",
+      "placeholder": "Tên của bạn"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "ban@example.com"
+    },
+    "subject": {
+      "label": "Chủ đề",
+      "placeholder": "Chúng tôi có thể giúp gì cho bạn?"
+    },
+    "message": {
+      "label": "Tin nhắn",
+      "placeholder": "Viết tin nhắn của bạn…"
+    },
+    "submit": "Gửi tin nhắn",
+    "sending": "Đang gửi…",
+    "success": "Cảm ơn bạn. Tin nhắn đã được gửi.",
+    "error": "Không thể gửi tin nhắn. Vui lòng thử lại.",
+    "privacy": "Chúng tôi chỉ sử dụng địa chỉ email của bạn để trả lời yêu cầu này."
+  },
+  "navigation": [
+    {
+      "label": "Về sự kiện",
+      "path": "/o-akci"
+    },
+    {
+      "label": "Chương trình",
+      "path": "/program"
+    },
+    {
+      "label": "Nghệ sĩ & khách mời",
+      "path": "/ucinkujici"
+    },
+    {
+      "label": "Ẩm thực Nhật Bản",
+      "path": "/gastronomie"
+    },
+    {
+      "label": "Đơn vị trưng bày",
+      "path": "/vystavovatele"
+    },
+    {
+      "label": "Thư viện ảnh",
+      "path": "/galerie"
+    },
+    {
+      "label": "Liên hệ",
+      "path": "/kontakt"
+    }
+  ],
+  "ui": {
+    "organizersKicker": "BAN TỔ CHỨC & ĐỐI TÁC",
+    "organizersTitle": "Những người đứng sau Japan Day",
+    "openingFrom": "Mở cửa từ {time}",
+    "programmeUntil": "đến {time}",
+    "breadcrumbLabel": "Điều hướng breadcrumb",
+    "homeLabel": "Ngày Trà và Văn hóa Nhật Bản — trang chủ",
+    "mainNavigation": "Điều hướng chính",
+    "openMenu": "Mở menu",
+    "language": "Ngôn ngữ",
+    "importantLinks": "Liên kết quan trọng",
+    "legalInformation": "Thông tin pháp lý",
+    "socialLinks": "Website / mạng xã hội",
+    "exhibitorListPending": "Danh sách đơn vị trưng bày đang được chuẩn bị.",
+    "previousYear": "Kỳ trước",
+    "galleryTitle": "Không khí Japan Day 2025",
+    "all": "Tất cả",
+    "showPhoto": "Xem ảnh: {alt}",
+    "closePhoto": "Đóng ảnh",
+    "photoPending": "Ảnh sẽ được bổ sung",
+    "heroCardLabel": "Ngày Trà và Văn hóa Nhật Bản 2026",
+    "cultureGastronomyTradition": "văn hóa • ẩm thực • truyền thống",
+    "organizers": "Ban tổ chức",
+    "partners": "Đối tác",
+    "mapTitle": "Bản đồ",
+    "openMap": "Mở trong Google Maps",
+    "venue": {
+      "heading": "Địa điểm sự kiện",
+      "text": "Sự kiện diễn ra tại ZŠ Bolzanova ở Chýně.",
+      "addressLines": [
+        "ZŠ Bolzanova",
+        "Bolzanova 800",
+        "253 03 Chýně"
+      ],
+      "meta": "Quận Prague-West • Vùng Trung Bohemia",
+      "openMap": "Mở trong Google Maps"
+    },
+    "patronage": "Bảo trợ",
+    "allPerformers": "Tất cả nghệ sĩ & khách mời",
+    "inProgramme": "Trong chương trình",
+    "inProgrammeHeading": "Trong chương trình",
+    "performersDetail": "Chi tiết về {name}",
+    "showDetail": "Xem chi tiết",
+    "transportAndParking": "Di chuyển và đỗ xe",
+    "accessibility": "Khả năng tiếp cận",
+    "faq": "Câu hỏi thường gặp",
+    "moreAbout": "Tìm hiểu thêm về {name}",
+    "playVideo": "Phát video",
+    "playVideoLabel": "Phát video từ Ngày Trà và Văn hóa Nhật Bản",
+    "previousYearVideoAlt": "Video từ kỳ Ngày Trà và Văn hóa Nhật Bản trước",
+    "galleryCategories": {
+      "Program": "Chương trình",
+      "Čaj": "Trà",
+      "Gastronomie": "Ẩm thực",
+      "Atmosféra": "Không khí",
+      "Stánky": "Gian hàng"
+    }
+  },
+  "footer": {
+    "note": "Chương trình có thể thay đổi.",
+    "legalLinks": [
+      {
+        "label": "Điều khoản và điều kiện",
+        "url": "https://www.chakai.cz/obchodni-podminky/"
+      },
+      {
+        "label": "Chính sách quyền riêng tư",
+        "url": "https://www.chakai.cz/podminky-ochrany-osobnich-udaju/"
+      }
+    ]
+  }
+}
