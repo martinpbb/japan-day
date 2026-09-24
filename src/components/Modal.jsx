@@ -9,7 +9,7 @@
 
 import React, { useEffect } from "react";
 import { createPortal } from "react-dom";
-import { useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/useI18n.js";
 
 export default function Modal({ open, onClose, children }) {
   const { site } = useI18n();

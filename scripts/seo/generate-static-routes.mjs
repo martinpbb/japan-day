@@ -31,6 +31,34 @@ function replaceTitle(html, title) {
   return html.replace(/<title>.*?<\/title>/s, `<title>${escapeHtml(title)}</title>`);
 }
 
+const gtmHead = `    <!-- Google Tag Manager -->
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-N5S65NK8');
+    </script>
+    <!-- End Google Tag Manager -->`;
+
+const gtmNoScript = `    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-N5S65NK8"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->`;
+
+function ensureGtm(html) {
+  const withHead = html.includes("'GTM-N5S65NK8'") ? html : html.replace(/<head>/i, `<head>\n${gtmHead}`);
+  return withHead.includes('googletagmanager.com/ns.html?id=GTM-N5S65NK8')
+    ? withHead
+    : withHead.replace(/<body>/i, `<body>\n${gtmNoScript}`);
+}
+
 function upsertMeta(html, attribute, key, content) {
   const regex = new RegExp(`<meta\\s+[^>]*${attribute}=["']${key}["'][^>]*>`, "i");
   const tag = `<meta ${attribute}="${key}" content="${escapeHtml(content)}" />`;
@@ -60,7 +88,7 @@ function addHreflang(html, logicalPath, baseUrl) {
 function renderRoute({ seo, site, logicalPath, publicPath, route }) {
   const canonical = publicUrl(seo.baseUrl, publicPath);
   const image = seo.defaultImage ? absoluteUrl(seo.baseUrl, seo.defaultImage) : "";
-  let html = baseHtml;
+  let html = ensureGtm(baseHtml);
   html = replaceTitle(html, route.title);
   html = upsertMeta(html, "name", "description", route.description);
   html = upsertMeta(html, "name", "robots", "index, follow");

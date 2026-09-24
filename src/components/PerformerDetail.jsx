@@ -12,7 +12,7 @@ import { ArrowLeft, Clock3 } from "lucide-react";
 import ImageWithFallback from "./ImageWithFallback.jsx";
 import Section from "./Section.jsx";
 import ContentRenderer from "./ContentRenderer.jsx";
-import { useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/useI18n.js";
 import { addLocalePrefix } from "../lib/i18nPaths.js";
 
 export default function PerformerDetail({ performer }) {

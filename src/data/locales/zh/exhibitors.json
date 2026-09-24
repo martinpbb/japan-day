@@ -47,7 +47,6 @@
       "name": "Japan Whisky",
       "category": "日本威士忌",
       "description": "精选日本威士忌，并介绍日本威士忌文化。",
-      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -63,7 +62,6 @@
       "name": "Matcha tea (Nagomi tea)",
       "category": "日本茶",
       "description": "提供抹茶，以及使用和红茶、焙茶、乌龙茶、白茶和抹茶等粉末茶制作的茶拿铁。",
-      "image": "/images/exhibitors/matcha_tea.png",
       "imageMode": "photo"
     },
     {
@@ -71,7 +69,6 @@
       "name": "日本和果子",
       "category": "日式甜点",
       "description": "传统日本和果子。",
-      "image": "/images/exhibitors/japanese_wagashi.png",
       "imageMode": "photo"
     },
     {

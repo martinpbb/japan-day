@@ -10,7 +10,7 @@
 import React from "react";
 import { Bird, Brush, Candy, CircleDot, Gamepad2, Palette, Shapes, ToyBrick } from "lucide-react";
 import Section from "./Section.jsx";
-import { useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/useI18n.js";
 import { addLocalePrefix } from "../lib/i18nPaths.js";
 
 const icons = [Palette, SparklesIcon, Bird, Gamepad2, Brush, CircleDot, ToyBrick, Candy];

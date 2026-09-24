@@ -1,8 +1,7 @@
-import React, { createContext, useCallback, useContext, useEffect, useMemo, useState } from "react";
-import { defaultLocale, getLocaleContent, getLocaleSite, supportedLocales } from "../data/content.js";
+import React, { useCallback, useEffect, useMemo, useState } from "react";
+import { defaultLocale, getLocaleContent, getLocaleSite, localeDocumentLanguages, supportedLocales } from "../data/content.js";
 import { addLocalePrefix, getLocaleFromPath } from "./i18nPaths.js";
-
-const I18nContext = createContext(null);
+import { I18nContext } from "./i18nContext.js";
 
 export function I18nProvider({ children }) {
   const [locale, setLocaleState] = useState(() => getLocaleFromPath(window.location.pathname));
@@ -14,7 +13,7 @@ export function I18nProvider({ children }) {
   }, []);
 
   useEffect(() => {
-    document.documentElement.lang = locale;
+    document.documentElement.lang = localeDocumentLanguages[locale] || localeDocumentLanguages[defaultLocale];
   }, [locale]);
 
   const setLocale = useCallback((nextLocale) => {
@@ -37,12 +36,6 @@ export function I18nProvider({ children }) {
   }), [locale, setLocale]);
 
   return <I18nContext.Provider value={value}>{children}</I18nContext.Provider>;
-}
-
-export function useI18n() {
-  const context = useContext(I18nContext);
-  if (!context) throw new Error("useI18n must be used within I18nProvider");
-  return context;
 }
 /**
  * Copyright © 2026 Martin Labudík

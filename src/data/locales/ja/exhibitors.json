@@ -47,7 +47,6 @@
       "name": "Japan Whisky",
       "category": "ジャパニーズウイスキー",
       "description": "ジャパニーズウイスキーのセレクションと、その文化をご紹介します。",
-      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -63,7 +62,6 @@
       "name": "Matcha tea (Nagomi tea)",
       "category": "日本茶",
       "description": "抹茶をはじめ、和紅茶、ほうじ茶、烏龍茶、白茶などの粉末茶を使ったティーラテをご用意します。",
-      "image": "/images/exhibitors/matcha_tea.png",
       "imageMode": "photo"
     },
     {
@@ -71,7 +69,6 @@
       "name": "Japanese wagashi",
       "category": "和菓子",
       "description": "日本の伝統的な和菓子をご紹介します。",
-      "image": "/images/exhibitors/japanese_wagashi.png",
       "imageMode": "photo"
     },
     {
