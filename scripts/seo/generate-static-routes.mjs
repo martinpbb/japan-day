@@ -52,11 +52,31 @@ const gtmNoScript = `    <!-- Google Tag Manager (noscript) -->
     </noscript>
     <!-- End Google Tag Manager (noscript) -->`;
 
+const ga4Head = `    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZPT8F3EETE"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-ZPT8F3EETE');
+    </script>`;
+
 function ensureGtm(html) {
   const withHead = html.includes("'GTM-N5S65NK8'") ? html : html.replace(/<head>/i, `<head>\n${gtmHead}`);
   return withHead.includes('googletagmanager.com/ns.html?id=GTM-N5S65NK8')
     ? withHead
     : withHead.replace(/<body>/i, `<body>\n${gtmNoScript}`);
+}
+
+function ensureGa4(html) {
+  const scriptCount = html.split("https://www.googletagmanager.com/gtag/js?id=G-ZPT8F3EETE").length - 1;
+  const configCount = (html.match(/gtag\('config', 'G-ZPT8F3EETE'\)/g) || []).length;
+  if (scriptCount === 1 && configCount === 1) return html;
+  if (scriptCount > 1 || configCount > 1 || scriptCount !== configCount) {
+    throw new Error("Expected exactly one complete GA4 integration in the route template.");
+  }
+  return html.replace(/<head>/i, `<head>\n${ga4Head}`);
 }
 
 function upsertMeta(html, attribute, key, content) {
@@ -88,7 +108,7 @@ function addHreflang(html, logicalPath, baseUrl) {
 function renderRoute({ seo, site, logicalPath, publicPath, route }) {
   const canonical = publicUrl(seo.baseUrl, publicPath);
   const image = seo.defaultImage ? absoluteUrl(seo.baseUrl, seo.defaultImage) : "";
-  let html = ensureGtm(baseHtml);
+  let html = ensureGa4(ensureGtm(baseHtml));
   html = replaceTitle(html, route.title);
   html = upsertMeta(html, "name", "description", route.description);
   html = upsertMeta(html, "name", "robots", "index, follow");
