@@ -1,6 +1,6 @@
 import React from "react";
 import { CalendarDays, Clock3, MapPin, Ticket } from "lucide-react";
-import { useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/useI18n.js";
 import { addLocalePrefix } from "../lib/i18nPaths.js";
 
 export default function Hero() {

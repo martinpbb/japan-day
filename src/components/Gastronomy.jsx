@@ -1,7 +1,7 @@
 import React from "react";
 import { Fish, Flame, Leaf, Wine } from "lucide-react";
 import Section from "./Section.jsx";
-import { useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/useI18n.js";
 import { addLocalePrefix } from "../lib/i18nPaths.js";
 
 const icons = [Fish, Flame, Leaf, Wine];

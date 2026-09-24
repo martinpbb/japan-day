@@ -9,7 +9,7 @@
 
 import React, { useState } from "react";
 import { Image as ImageIcon } from "lucide-react";
-import { useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/useI18n.js";
 
 const TARGET_RATIO = 16 / 10;
 

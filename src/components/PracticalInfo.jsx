@@ -2,7 +2,7 @@ import React from "react";
 import { CalendarDays, Clock3, MapPin, Ticket } from "lucide-react";
 import Section from "./Section.jsx";
 import { ContactForm } from "./Contact.jsx";
-import { useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/useI18n.js";
 
 const icons = [CalendarDays, Clock3, MapPin, Ticket];
 

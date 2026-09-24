@@ -28,7 +28,7 @@ import Breadcrumbs from "./components/Breadcrumbs.jsx";
 import SmartsuppChat from "./components/SmartsuppChat.jsx";
 import SEO from "./seo/SEO.jsx";
 import { buildPerformerRoute } from "./seo/performerRoute.js";
-import { useI18n } from "./lib/i18n.jsx";
+import { useI18n } from "./lib/useI18n.js";
 import { stripLocalePrefix } from "./lib/i18nPaths.js";
 
 const pageComponents = {

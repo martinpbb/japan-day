@@ -10,7 +10,7 @@
 import React, { useState } from "react";
 import { Send } from "lucide-react";
 import Section from "./Section.jsx";
-import { useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/useI18n.js";
 
 export function ContactForm() {
   const { site } = useI18n(); const copy = site.contactForm;

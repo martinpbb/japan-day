@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/useI18n.js";
 
 let smartsuppInitialized = false;
 const SMARTSUPP_KEY = "bc955f82abb1e2ce11cf5a729c9461f0324d7534";

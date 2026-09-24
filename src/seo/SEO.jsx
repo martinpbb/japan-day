@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { useI18n } from "../lib/i18n.jsx";
+import { useI18n } from "../lib/useI18n.js";
 import { absoluteUrl, buildSchemas } from "./schema.js";
 
 function ensureMeta(selector, attributeName, attributeValue) {
@@ -52,7 +52,7 @@ export default function SEO({ path, route }) {
       script.textContent = JSON.stringify(schema);
       document.head.appendChild(script);
     });
-  }, [path, route]);
+  }, [path, route, seo, site]);
 
   return null;
 }
