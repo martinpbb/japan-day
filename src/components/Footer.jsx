@@ -1,3 +1,12 @@
+/**
+ * Copyright © 2026 Martin Labudík
+ * All rights reserved.
+ *
+ * Unauthorized copying, modification, redistribution or reuse
+ * of this source code, in whole or in part, is prohibited
+ * without prior written permission from the copyright holder.
+ */
+
 import React from "react";
 import { useI18n } from "../lib/i18n.jsx";
 import { addLocalePrefix } from "../lib/i18nPaths.js";

@@ -104,3 +104,11 @@ await fs.writeFile(path.join(dist, "sitemap.xml"), sitemap);
 await fs.writeFile(path.join(dist, "robots.txt"), "User-agent: *\nAllow: /\n\nSitemap: https://japanday.cz/sitemap.xml\n");
 
 console.log(`Generated ${sitemapPaths.size} localized SEO route documents, sitemap.xml and robots.txt.`);
+/**
+ * Copyright © 2026 Martin Labudík
+ * All rights reserved.
+ *
+ * Unauthorized copying, modification, redistribution or reuse
+ * of this source code, in whole or in part, is prohibited
+ * without prior written permission from the copyright holder.
+ */

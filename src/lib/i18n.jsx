@@ -44,3 +44,19 @@ export function useI18n() {
   if (!context) throw new Error("useI18n must be used within I18nProvider");
   return context;
 }
+/**
+ * Copyright © 2026 Martin Labudík
+ * All rights reserved.
+ *
+ * Unauthorized copying, modification, redistribution or reuse
+ * of this source code, in whole or in part, is prohibited
+ * without prior written permission from the copyright holder.
+ */
+/**
+ * Copyright © 2026 Martin Labudík
+ * All rights reserved.
+ *
+ * Unauthorized copying, modification, redistribution or reuse
+ * of this source code, in whole or in part, is prohibited
+ * without prior written permission from the copyright holder.
+ */
