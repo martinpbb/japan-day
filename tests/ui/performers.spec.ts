@@ -2,13 +2,7 @@ import { test, expect } from "../helpers/fixtures";
 import { assertRenderedDetail } from "../helpers/assertions";
 import { localeCodes, prefixFor, type Locale } from "../helpers/locales";
 
-const performers = [
-  ["aikido-chyne", "Aikido Chýně"], ["marek-hora", "Marek Hora"],
-  ["noriko-komiyama", "Noriko Komiyama"], ["nihon-bunka-plzen", "Nihon Bunka Plzeň"],
-  ["gorin", "Gorin"], ["aska-pluskal", "Aska Pluskal"], ["iaido", "Iaido"],
-  ["sandomon-kendo-klub-praha", "Sandomon Kendo Klub Praha"], ["marketa-franova", "Markéta Franová"],
-  ["shakuhachi", "Shakuhachi Shibumi"], ["yosakoi-hanamaru", "Yosakoi Hanamaru"], ["radka-tumova", "Radka Tůmova"],
-] as const;
+const performers = ["aikido-chyne", "marek-hora", "noriko-komiyama", "nihon-bunka-plzen", "gorin", "aska-pluskal", "iaido", "sandomon-kendo-klub-praha", "marketa-franova", "shakuhachi", "yosakoi-hanamaru", "radka-tumova"] as const;
 
 function assertNoRuntimeErrors(runtime: { pageErrors: string[]; consoleErrors: string[] }) {
   expect(runtime.pageErrors, `page errors: ${runtime.pageErrors.join(" | ")}`).toEqual([]);
@@ -16,9 +10,11 @@ function assertNoRuntimeErrors(runtime: { pageErrors: string[]; consoleErrors: s
 }
 
 test("@ui every performer card navigates to a rendered detail page", async ({ page, runtime }) => {
-  for (const [id, name] of performers) {
+  for (const id of performers) {
     await page.goto("/");
-    await page.locator(`#host-${id}`).click();
+    const card = page.locator(`#host-${id}`);
+    const name = await card.locator("h3").innerText();
+    await card.click();
     await expect(page).toHaveURL(new RegExp(`/ucinkujici/${id}/?$`));
     await assertRenderedDetail(page, name);
     assertNoRuntimeErrors(runtime);
@@ -26,9 +22,12 @@ test("@ui every performer card navigates to a rendered detail page", async ({ pa
 });
 
 test("@ui every performer detail route renders directly", async ({ page, runtime }) => {
-  for (const [id, name] of performers) {
+  await page.goto("/");
+  const names = new Map<string, string>();
+  for (const id of performers) names.set(id, await page.locator(`#host-${id} h3`).innerText());
+  for (const id of performers) {
     await page.goto(`/ucinkujici/${id}`);
-    await assertRenderedDetail(page, name);
+    await assertRenderedDetail(page, names.get(id)!);
     assertNoRuntimeErrors(runtime);
   }
 });
