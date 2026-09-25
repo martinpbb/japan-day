@@ -210,6 +210,13 @@
       "Gastronomie": "Gastronomía",
       "Atmosféra": "Ambiente",
       "Stánky": "Puestos"
+    },
+    "cookieConsent": {
+      "title": "Usamos cookies analíticas",
+      "text": "Usamos Google Analytics para saber cómo utilizan los visitantes la web del Día Japonés. Estos datos nos ayudan a mejorar el sitio.",
+      "necessary": "Solo necesarias",
+      "analytics": "Permitir estadísticas",
+      "settings": "Configuración de cookies"
     }
   },
   "footer": {

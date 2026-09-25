@@ -210,6 +210,13 @@
       "Gastronomie": "Gastronomie",
       "Atmosféra": "Atmosféra",
       "Stánky": "Stánky"
+    },
+    "cookieConsent": {
+      "title": "Používáme analytické cookies",
+      "text": "Používáme Google Analytics, abychom zjistili, jak návštěvníci používají web Japonského dne. Tyto údaje nám pomáhají web zlepšovat.",
+      "necessary": "Pouze nezbytné",
+      "analytics": "Povolit statistiky",
+      "settings": "Nastavení cookies"
     }
   },
   "footer": {

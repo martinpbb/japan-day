@@ -210,6 +210,13 @@
       "Gastronomie": "Food",
       "Atmosféra": "Atmosphere",
       "Stánky": "Stalls"
+    },
+    "cookieConsent": {
+      "title": "We use analytics cookies",
+      "text": "We use Google Analytics to understand how visitors use the Japan Day website. This helps us improve the site.",
+      "necessary": "Only necessary",
+      "analytics": "Allow statistics",
+      "settings": "Cookie settings"
     }
   },
   "footer": {
