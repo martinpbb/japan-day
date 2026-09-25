@@ -849,6 +849,22 @@ button {
   color: #efb9b3;
   text-decoration: underline;
 }
+.footerCookieSettings {
+  margin-top: 5px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #fff;
+  font: inherit;
+  font-size: 14px;
+  text-align: left;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.footerCookieSettings:hover,
+.footerCookieSettings:focus-visible {
+  color: #efb9b3;
+}
 .footerBottom {
   display: flex;
   align-items: center;
@@ -866,6 +882,43 @@ button {
   font-size: 38px;
   color: #efb9b3;
 }
+.cookieConsent {
+  position: fixed;
+  z-index: 20;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 22px 24px;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+.cookieConsentContent { max-width: 720px; }
+.cookieConsent h2 { margin: 0 0 7px; font: 500 24px Georgia, serif; }
+.cookieConsent p { margin: 0; color: var(--muted); line-height: 1.55; }
+.cookieConsentActions { display: flex; flex: 0 0 auto; align-items: center; gap: 10px; }
+.cookieConsentActions button { white-space: nowrap; }
+.cookieConsentNecessary {
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--ink);
+  background: transparent;
+  font-weight: 750;
+  cursor: pointer;
+}
+.cookieConsentNecessary:hover,
+.cookieConsentNecessary:focus-visible { border-color: var(--red); color: var(--red); }
+.cookieConsent button:focus-visible,
+.footerCookieSettings:focus-visible { outline: 3px solid rgba(186, 36, 49, 0.35); outline-offset: 3px; }
 @media (max-width: 700px) {
   .footerColumns {
     grid-template-columns: 1fr;
@@ -884,6 +937,11 @@ button {
   .footerMark {
     margin-left: auto;
   }
+}
+@media (max-width: 760px) {
+  .cookieConsent { right: 0; bottom: 0; left: 0; align-items: stretch; flex-direction: column; gap: 18px; padding: 20px; border-radius: 18px 18px 0 0; }
+  .cookieConsentActions { flex-direction: column-reverse; align-items: stretch; }
+  .cookieConsentActions button { width: 100%; }
 }
 @media (max-width: 900px) {
   .heroGrid,

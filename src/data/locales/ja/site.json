@@ -210,6 +210,13 @@
       "Gastronomie": "グルメ",
       "Atmosféra": "会場の雰囲気",
       "Stánky": "出店"
+    },
+    "cookieConsent": {
+      "title": "分析 Cookie を使用しています",
+      "text": "日本デーのウェブサイトを訪問者がどのように利用しているかを把握するため、Google Analytics を使用しています。データはサイトの改善に役立てます。",
+      "necessary": "必要なもののみ",
+      "analytics": "統計を許可",
+      "settings": "Cookie の設定"
     }
   },
   "footer": {

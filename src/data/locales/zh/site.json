@@ -210,6 +210,13 @@
       "Gastronomie": "美食",
       "Atmosféra": "现场氛围",
       "Stánky": "摊位"
+    },
+    "cookieConsent": {
+      "title": "我们使用分析 Cookie",
+      "text": "我们使用 Google Analytics 了解访客如何使用日本日网站。这些数据有助于我们改进网站。",
+      "necessary": "仅必要 Cookie",
+      "analytics": "允许统计",
+      "settings": "Cookie 设置"
     }
   },
   "footer": {

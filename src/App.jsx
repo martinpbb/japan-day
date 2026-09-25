@@ -7,7 +7,7 @@
  * without prior written permission from the copyright holder.
  */
 
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import Header from "./components/Header.jsx";
 import Hero from "./components/Hero.jsx";
 import About from "./components/About.jsx";
@@ -26,6 +26,7 @@ import Footer from "./components/Footer.jsx";
 import PageIntro from "./components/PageIntro.jsx";
 import Breadcrumbs from "./components/Breadcrumbs.jsx";
 import SmartsuppChat from "./components/SmartsuppChat.jsx";
+import CookieConsent from "./components/CookieConsent.jsx";
 import SEO from "./seo/SEO.jsx";
 import { buildPerformerRoute } from "./seo/performerRoute.js";
 import { useI18n } from "./lib/useI18n.js";
@@ -99,9 +100,10 @@ export default function App() {
   const { seo, performers } = content;
   const path = normalizePath(stripLocalePrefix(window.location.pathname));
   const performer = getPerformerFromPath(path, performers);
-  const performerRoute = performer ? buildPerformerRoute(performer) : null;
+  const performerRoute = performer ? buildPerformerRoute(performer, seo) : null;
   const route = performerRoute || seo.routes[path] || seo.routes["/"];
   const isKnown = Boolean(performerRoute || seo.routes[path]);
+  const [cookieSettingsOpen, setCookieSettingsOpen] = useState(false);
 
   useEffect(() => {
     if (window.location.hash) {
@@ -123,7 +125,8 @@ export default function App() {
       ) : (
         <SubPage path={path} route={route} />
       )}
-      <Footer />
+      <Footer onCookieSettings={() => setCookieSettingsOpen(true)} />
+      <CookieConsent isOpen={cookieSettingsOpen} onClose={() => setCookieSettingsOpen(false)} />
     </>
   );
 }

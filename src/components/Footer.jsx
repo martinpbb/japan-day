@@ -10,7 +10,7 @@
 import React from "react";
 import { useI18n } from "../lib/useI18n.js";
 import { addLocalePrefix } from "../lib/i18nPaths.js";
-export default function Footer() {
+export default function Footer({ onCookieSettings }) {
   const { locale, site } = useI18n();
   const { ui } = site;
   const footerNavigation = site.navigation.filter((item) => [
@@ -39,6 +39,7 @@ export default function Footer() {
           <nav className="footerColumn" aria-label={ui.legalInformation}>
             <h2>{ui.legalInformation}</h2>
             {site.footer.legalLinks.map((item) => <a key={item.url} href={item.url} target="_blank" rel="noreferrer">{item.label}</a>)}
+            <button className="footerCookieSettings" type="button" onClick={onCookieSettings}>{ui.cookieConsent.settings}</button>
           </nav>
         </div>
         <div className="footerBottom">

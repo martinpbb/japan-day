@@ -1,6 +1,30 @@
 <!doctype html>
 <html lang="cs">
   <head>
+    <!-- Google Consent Mode v2: deny analytics and advertising until the visitor chooses. -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('consent', 'default', {
+        analytics_storage: 'denied',
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied'
+      });
+      try {
+        var savedConsent = window.localStorage.getItem('japanday_cookie_consent');
+        if (savedConsent === 'necessary' || savedConsent === 'analytics') {
+          gtag('consent', 'update', {
+            analytics_storage: savedConsent === 'analytics' ? 'granted' : 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied'
+          });
+        }
+      } catch (error) {
+        // Storage can be unavailable in privacy-restricted browsers; the default remains denied.
+      }
+    </script>
     <!-- Google Tag Manager -->
     <script>
       (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -13,8 +37,6 @@
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZPT8F3EETE"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
       gtag('config', 'G-ZPT8F3EETE');

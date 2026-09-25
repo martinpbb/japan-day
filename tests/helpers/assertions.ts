@@ -9,6 +9,13 @@ export async function assertCommonPage(page: Page, locale: Locale, route = "/") 
   await expect(page.locator("h1")).toHaveCount(1);
 }
 
+export async function assertRenderedDetail(page: Page, expectedH1: string | RegExp) {
+  await expect(page.locator("main")).toBeVisible();
+  await expect(page.locator("main")).not.toHaveText(/^\s*$/);
+  await expect(page.locator("h1")).toHaveText(expectedH1);
+  await expect(page.locator("main")).toContainText(/\S/);
+}
+
 export async function assertImages(page: Page) {
   for (const image of await page.locator("img:visible").all()) {
     await expect(image).toHaveAttribute("alt");

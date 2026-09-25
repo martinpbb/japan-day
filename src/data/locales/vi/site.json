@@ -210,6 +210,13 @@
       "Gastronomie": "Ẩm thực",
       "Atmosféra": "Không khí",
       "Stánky": "Gian hàng"
+    },
+    "cookieConsent": {
+      "title": "Chúng tôi sử dụng cookie phân tích",
+      "text": "Chúng tôi sử dụng Google Analytics để tìm hiểu cách khách truy cập sử dụng trang web Ngày Nhật Bản. Dữ liệu này giúp chúng tôi cải thiện trang web.",
+      "necessary": "Chỉ cookie cần thiết",
+      "analytics": "Cho phép thống kê",
+      "settings": "Cài đặt cookie"
     }
   },
   "footer": {

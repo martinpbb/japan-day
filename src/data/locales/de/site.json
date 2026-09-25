@@ -210,6 +210,13 @@
       "Gastronomie": "Gastronomie",
       "Atmosféra": "Atmosphäre",
       "Stánky": "Stände"
+    },
+    "cookieConsent": {
+      "title": "Wir verwenden Analyse-Cookies",
+      "text": "Wir verwenden Google Analytics, um zu erfahren, wie Besucher die Website des Japanischen Tages nutzen. Diese Daten helfen uns, die Website zu verbessern.",
+      "necessary": "Nur notwendige",
+      "analytics": "Statistik erlauben",
+      "settings": "Cookie-Einstellungen"
     }
   },
   "footer": {
