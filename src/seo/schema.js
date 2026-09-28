@@ -3,20 +3,36 @@ export function absoluteUrl(baseUrl, path = "/") {
   return `${baseUrl}${path.startsWith("/") ? path : `/${path}`}`;
 }
 
+const schemaPerformers = [
+  ["Person", "Marek Hora"], ["Person", "Noriko Komiyama"], ["Person", "Markéta Fránová"],
+  ["Person", "Aska Pluskal"], ["Person", "Tomáš Pelich"], ["Person", "Radka Tůmová"],
+  ["PerformingGroup", "Gorin"], ["PerformingGroup", "Aikidō Chýně"],
+  ["PerformingGroup", "SAN DŌ MON Kendō Klub Praha"], ["PerformingGroup", "Budō Plzeň"],
+  ["PerformingGroup", "Nihon Bunka Plzeň"], ["PerformingGroup", "Yosakoi Hanamaru"]
+].map(([type, name]) => ({ "@type": type, name }));
+
+const schemaLanguage = {
+  "cs-CZ": "cs", "en-GB": "en", "ja-JP": "ja", "de-DE": "de",
+  "es-ES": "es", "zh-CN": "zh-CN", "vi-VN": "vi"
+};
+
 export function buildFestivalSchema({ seo, site, path = "/" }) {
+  const localePrefix = { "en-GB": "/en", "ja-JP": "/ja", "de-DE": "/de", "es-ES": "/es", "zh-CN": "/zh", "vi-VN": "/vi" }[seo.language] || "";
+  const localizedPath = path === "/" && localePrefix ? `${localePrefix}/` : path;
   const image = seo.defaultImage ? absoluteUrl(seo.baseUrl, seo.defaultImage) : undefined;
   const startDate = `${site.event.dateISO}T${site.event.openingTime}:00+02:00`;
   const event = {
     "@context": "https://schema.org",
-    "@type": "Festival",
-    "@id": `${absoluteUrl(seo.baseUrl, path)}#festival`,
+    "@type": "Event",
+    "@id": `${absoluteUrl(seo.baseUrl, localizedPath)}#festival`,
     name: "Japonský den čaje a kultury 2026",
     alternateName: "Japan Day Chýně 2026",
     description: seo.routes["/"].description,
     startDate,
+    endDate: `${site.event.dateISO}T19:00:00+02:00`,
     eventStatus: "https://schema.org/EventScheduled",
     eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
-    inLanguage: seo.language,
+    inLanguage: schemaLanguage[seo.language] || seo.language,
     location: {
       "@type": "Place",
       name: site.event.venue,
@@ -29,15 +45,17 @@ export function buildFestivalSchema({ seo, site, path = "/" }) {
         addressCountry: site.event.country
       }
     },
-    url: absoluteUrl(seo.baseUrl, path),
-    organizer: [
-      { "@id": `${seo.baseUrl}/#organizer-city` },
-      { "@type": "Person", name: "Ing. Martin Labudík" }
-    ],
+    url: absoluteUrl(seo.baseUrl, localizedPath),
+    organizer: {
+      "@type": "Organization",
+      name: "Město Chýně",
+      url: "https://www.chyne.cz/"
+    },
+    performer: schemaPerformers,
     isAccessibleForFree: false,
     offers: {
       "@type": "Offer",
-      url: absoluteUrl(seo.baseUrl, path),
+      url: absoluteUrl(seo.baseUrl, localizedPath),
       price: site.event.admissionPrice,
       priceCurrency: site.event.currency,
       availability: "https://schema.org/InStock"
