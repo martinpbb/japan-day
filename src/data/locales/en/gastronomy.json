@@ -1,1 +1,160 @@
-{"items":[{"id":"sushi","title":"Sushi & sashimi","text":"Hamachi sashimi, nigiri, maki, maguro zuke don and more sushi prepared at the event.","cta":"Discover more","details":{"intro":"Fresh fish and sushi prepared during Japan Day.","items":[{"name":"Hamachi sashimi","description":"Fresh slices of hamachi served in a simple Japanese style that lets the fish speak for itself."},{"name":"Negi-hama maki","description":"Maki sushi with hamachi and spring onion."},{"name":"Tekka maki","description":"Classic thin maki sushi with tuna."},{"name":"Maguro zuke don","description":"A rice bowl with tuna marinated in the zuke style."},{"name":"Sake don","description":"A Japanese rice bowl with salmon."},{"name":"Nigiri","description":"Traditional nigiri sushi prepared on site."},{"name":"Sushi set","description":"A combination of hamachi and ebi nigiri."}]}},{"id":"food","title":"Japanese food & grill","text":"Buta no kakuni, hayashi rice, grilled saba, miso pork and a Wagyu-style burger.","cta":"Discover more","details":{"intro":"Warm Japanese dishes and specialities prepared on the grill.","items":[{"name":"Buta no kakuni","description":"Slow-cooked Japanese-style pork served with rice."},{"name":"Hayashi rice","description":"A popular Japanese dish with rice and a rich dark sauce."},{"name":"Yaki sakana – saba","description":"Grilled mackerel prepared in a simple Japanese style."},{"name":"Butaniku no miso yaki","description":"Pork marinated in miso, served with salad and dressing."},{"name":"Wagyu-style burger","description":"A Japanese-style beef burger with salad, onion and ninniku-miso mayonnaise."}]}},{"id":"tea","title":"Japanese tea","text":"Three tea stations with a broad selection, from sencha and gyokuro to oolong, wakocha and white tea.","cta":"Discover more","details":{"intro":"Japanese teas will be prepared at three separate tea stations by Martin Kindl, Jiří Houska and Tomáš Pelich, experienced tea enthusiasts.","secondary":"Visitors can compare different ways of processing, flavours and styles of Japanese tea preparation throughout the day.","items":[{"name":"Sencha","description":"Japanese steamed green tea rolled into needle-shaped leaves."},{"name":"Kamairicha","description":"Japanese green tea processed by pan-firing."},{"name":"Gyokuro","description":"Japanese green tea known for being shaded before harvest."},{"name":"Oolong","description":"Tea with partially oxidised leaves."},{"name":"Wakocha","description":"Japanese black tea."},{"name":"Kurocha","description":"Japanese fermented tea."},{"name":"Hōjicha","description":"Roasted Japanese green tea."},{"name":"White tea / Hakucha / Shirocha","description":"A gently processed white tea."}]}},{"id":"sake","title":"Sake & whisky","text":"Five different sakes from Shizuoka, Kanagawa and Osaka, plus Japanese whisky.","cta":"Discover more","details":{"intro":"Nagomi Sake will offer a tasting of five different sakes from several regions of Japan, allowing visitors to compare regional styles and producers.","items":[{"name":"Hananomai","region":"Shizuoka"},{"name":"Izumibashi","region":"Kanagawa"},{"name":"Afuri","region":"Kanagawa"},{"name":"Daimon","region":"Osaka"},{"name":"Matsumidori","region":"Kanagawa"},{"name":"Japanese whisky","description":"Japanese whisky will also be available."}]}}]}
+{
+  "items": [
+    {
+      "id": "sushi",
+      "title": "Sushi & sashimi",
+      "text": "Hamachi sashimi, sake zuke don, nigiri and negi hama maki prepared fresh at the event.",
+      "cta": "Learn more",
+      "details": {
+        "intro": "Fresh fish, sashimi and sushi prepared directly during Japan Day.",
+        "secondary": "Allergens: wheat, soy, crustaceans, fish.",
+        "items": [
+          {
+            "name": "Hamachi sashimi",
+            "description": "Japanese amberjack.",
+            "price": "200 Kč"
+          },
+          {
+            "name": "Sake zuke don",
+            "description": "Marinated salmon, caviar, cucumber, takuan and radish, served over sushi rice.",
+            "price": "180 Kč"
+          },
+          {
+            "name": "Sushi set",
+            "description": "Sake nigiri with salmon and Hamachi nigiri with Japanese amberjack.",
+            "price": "150 Kč"
+          },
+          {
+            "name": "Negi hama maki",
+            "description": "Sushi roll with Japanese amberjack and spring onion.",
+            "price": "140 Kč"
+          }
+        ]
+      }
+    },
+    {
+      "id": "food",
+      "title": "Japanese dishes & grill",
+      "text": "Roasted hamachi, buta no kaku ni, maguro daikon, Japanese chicken curry, saba shioyaki, miso-marinated pork and a Wagyu-style burger.",
+      "cta": "Learn more",
+      "details": {
+        "intro": "Hot Japanese dishes and grilled specialties prepared fresh on site.",
+        "secondary": "All hot dishes are served with rice. Allergens: wheat, soy, crustaceans, fish.",
+        "items": [
+          {
+            "name": "Hamachi kama no ninniku tare",
+            "description": "Roasted Japanese amberjack collar with garlic sauce.",
+            "price": "160 Kč"
+          },
+          {
+            "name": "Buta no kaku ni",
+            "description": "Braised pork belly.",
+            "price": "150 Kč"
+          },
+          {
+            "name": "Maguro daikon",
+            "description": "Cooked tuna with daikon radish and ginger.",
+            "price": "160 Kč"
+          },
+          {
+            "name": "Kare rice",
+            "description": "Japanese chicken curry.",
+            "price": "140 Kč"
+          },
+          {
+            "name": "Wagyu style burger",
+            "description": "Beef neck and Japanese beef, white onion, garlic miso mayonnaise, iceberg lettuce and pickled cucumber.",
+            "price": "200 Kč"
+          },
+          {
+            "name": "Yaki sakana – saba shioyaki",
+            "description": "Grilled salted mackerel."
+          },
+          {
+            "name": "Butaniku miso yaki",
+            "description": "Roasted slices of pork neck marinated in sweet miso."
+          }
+        ]
+      }
+    },
+    {
+      "id": "tea",
+      "title": "Japanese tea",
+      "text": "Three tea stations offering a wide selection of Japanese teas – from sencha and gyokuro to oolong, wakocha and white tea.",
+      "cta": "Learn more",
+      "details": {
+        "intro": "At three separate tea stations, Japanese teas will be prepared by Martin Kindl, Jiří Houska and Tomáš Pelich – experienced tea enthusiasts.",
+        "secondary": "Visitors will be able to compare different processing methods, flavours and styles of Japanese tea preparation throughout the day.",
+        "items": [
+          {
+            "name": "Sencha",
+            "description": "Japanese green tea that is steamed and shaped into fine needles."
+          },
+          {
+            "name": "Kamairicha",
+            "description": "Japanese green tea processed by pan-firing."
+          },
+          {
+            "name": "Gyokuro",
+            "description": "Japanese green tea known for being shaded before harvest."
+          },
+          {
+            "name": "Oolong",
+            "description": "Tea made from partially oxidised leaves."
+          },
+          {
+            "name": "Wakocha",
+            "description": "Japanese black tea."
+          },
+          {
+            "name": "Kurocha",
+            "description": "Japanese fermented tea."
+          },
+          {
+            "name": "Hōjicha",
+            "description": "Roasted Japanese green tea."
+          },
+          {
+            "name": "White tea / Hakucha / Shirocha",
+            "description": "Delicately processed white tea."
+          }
+        ]
+      }
+    },
+    {
+      "id": "sake",
+      "title": "Sake & whisky",
+      "text": "Five different sakes from Shizuoka, Kanagawa and Osaka, together with a selection of Japanese whisky.",
+      "cta": "Learn more",
+      "details": {
+        "intro": "Nagomi Sake will offer a tasting of five different sakes from several regions of Japan. Visitors will be able to compare regional styles and the distinct character of individual producers.",
+        "items": [
+          {
+            "name": "Hananomai",
+            "region": "Shizuoka"
+          },
+          {
+            "name": "Izumibashi",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Afuri",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Daimon",
+            "region": "Osaka"
+          },
+          {
+            "name": "Matsumidori",
+            "region": "Kanagawa"
+          },
+          {
+            "name": "Japanese whisky",
+            "description": "Japanese whisky will also be available."
+          }
+        ]
+      }
+    }
+  ]
+}

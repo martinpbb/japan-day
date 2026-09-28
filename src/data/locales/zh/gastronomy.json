@@ -3,38 +3,31 @@
     {
       "id": "sushi",
       "title": "寿司与刺身",
-      "text": "现场制作 Hamachi 刺身、握寿司、卷寿司、金枪鱼渍丼等多种寿司。",
+      "text": "现场制作 Hamachi 刺身、三文鱼渍丼、握寿司和葱香 Hamachi 卷。",
       "cta": "了解更多",
       "details": {
-        "intro": "Japan Day 现场准备新鲜鱼类与寿司。",
+        "intro": "日本日活动期间现场制作新鲜鱼类、刺身和寿司。",
+        "secondary": "过敏原：小麦、大豆、甲壳类、鱼类。",
         "items": [
           {
-            "name": "Hamachi sashimi",
-            "description": "新鲜 Hamachi 切片，以简洁日式方式呈现，突出鱼本身的风味。"
+            "name": "Hamachi 刺身",
+            "description": "日本鰤鱼刺身。",
+            "price": "200 Kč"
           },
           {
-            "name": "Negi-hama maki",
-            "description": "Hamachi 与葱制作的卷寿司。"
+            "name": "Sake zuke don",
+            "description": "腌制三文鱼、鱼子酱、黄瓜、日式腌萝卜和小萝卜，搭配寿司饭。",
+            "price": "180 Kč"
           },
           {
-            "name": "Tekka maki",
-            "description": "经典细卷金枪鱼寿司。"
+            "name": "寿司套餐",
+            "description": "三文鱼握寿司和日本鰤鱼 Hamachi 握寿司。",
+            "price": "150 Kč"
           },
           {
-            "name": "Maguro zuke don",
-            "description": "以 zuke 腌渍方式处理的金枪鱼盖饭。"
-          },
-          {
-            "name": "Sake don",
-            "description": "日式三文鱼盖饭。"
-          },
-          {
-            "name": "Nigiri",
-            "description": "现场制作的传统握寿司。"
-          },
-          {
-            "name": "Sushi set",
-            "description": "Hamachi 握寿司与虾握寿司的组合。"
+            "name": "Negi hama maki",
+            "description": "日本鰤鱼与青葱寿司卷。",
+            "price": "140 Kč"
           }
         ]
       }
@@ -42,30 +35,44 @@
     {
       "id": "food",
       "title": "日本料理与烧烤",
-      "text": "Buta no kakuni、Hayashi rice、烤鲭鱼、味噌猪肉和 Wagyu 风格汉堡。",
+      "text": "烤 Hamachi、日式炖猪肉、金枪鱼炖白萝卜、日式鸡肉咖喱、盐烤青花鱼、味噌烤猪肉和 Wagyu 风格汉堡。",
       "cta": "了解更多",
       "details": {
-        "intro": "热腾腾的日本料理与现场烧烤特色菜。",
+        "intro": "现场制作的热食日本料理和烧烤特色菜。",
+        "secondary": "所有热菜均配米饭。过敏原：小麦、大豆、甲壳类、鱼类。",
         "items": [
           {
-            "name": "Buta no kakuni",
-            "description": "日式慢炖猪肉，配米饭。"
+            "name": "Hamachi kama no ninniku tare",
+            "description": "烤日本鰤鱼鱼颈，配蒜香酱汁。",
+            "price": "160 Kč"
           },
           {
-            "name": "Hayashi rice",
-            "description": "广受欢迎的日式米饭料理，搭配浓郁深色酱汁。"
+            "name": "Buta no kaku ni",
+            "description": "日式慢炖五花肉。",
+            "price": "150 Kč"
           },
           {
-            "name": "Yaki sakana – saba",
-            "description": "以简洁日式方式烤制的鲭鱼。"
+            "name": "Maguro daikon",
+            "description": "金枪鱼与白萝卜、生姜一起炖煮。",
+            "price": "160 Kč"
           },
           {
-            "name": "Butaniku no miso yaki",
-            "description": "味噌腌制猪肉，配沙拉和酱汁。"
+            "name": "Kare rice",
+            "description": "日式鸡肉咖喱饭。",
+            "price": "140 Kč"
           },
           {
-            "name": "Wagyu-style burger",
-            "description": "日式风格牛肉汉堡，搭配沙拉、洋葱和蒜味味噌蛋黄酱。"
+            "name": "Wagyu style burger",
+            "description": "牛颈肉与日本牛肉、白洋葱、蒜香味噌蛋黄酱、冰山生菜和腌黄瓜。",
+            "price": "200 Kč"
+          },
+          {
+            "name": "Yaki sakana – saba shioyaki",
+            "description": "日式盐烤青花鱼。"
+          },
+          {
+            "name": "Butaniku miso yaki",
+            "description": "甜味噌腌制后烤制的猪颈肉片。"
           }
         ]
       }
@@ -73,31 +80,31 @@
     {
       "id": "tea",
       "title": "日本茶",
-      "text": "三处茶席提供丰富选择，从煎茶、玉露到乌龙茶、和红茶与白茶。",
+      "text": "三个茶席提供丰富的日本茶，从煎茶和玉露到乌龙茶、和红茶以及白茶。",
       "cta": "了解更多",
       "details": {
-        "intro": "Martin Kindl、Jiří Houska 和 Tomáš Pelich 三位经验丰富的茶爱好者将在三个独立茶席冲泡日本茶。",
-        "secondary": "访客可在一天中比较不同的制茶方式、风味和日本茶冲泡风格。",
+        "intro": "三个独立茶席将由 Martin Kindl、Jiří Houska 和 Tomáš Pelich 三位经验丰富的茶爱好者冲泡不同种类的日本茶。",
+        "secondary": "游客可以在一天中比较日本茶不同的加工方式、风味以及冲泡方法。",
         "items": [
           {
             "name": "煎茶",
-            "description": "日本蒸青绿茶，茶叶揉制成针状。"
+            "description": "经过蒸青并制成细长针状的日本绿茶。"
           },
           {
             "name": "釜炒茶",
-            "description": "采用炒制方式加工的日本绿茶。"
+            "description": "采用锅炒方式加工的日本绿茶。"
           },
           {
             "name": "玉露",
-            "description": "以采摘前遮阴栽培而闻名的日本绿茶。"
+            "description": "一种在采摘前进行遮阴栽培的日本绿茶。"
           },
           {
             "name": "乌龙茶",
-            "description": "部分氧化的茶。"
+            "description": "使用部分氧化茶叶制成的茶。"
           },
           {
             "name": "和红茶",
-            "description": "日本红茶。"
+            "description": "日本生产的红茶。"
           },
           {
             "name": "黑茶",
@@ -105,11 +112,11 @@
           },
           {
             "name": "焙茶",
-            "description": "焙炒的日本绿茶。"
+            "description": "经过烘焙的日本绿茶。"
           },
           {
-            "name": "白茶（Hakucha / Shirocha）",
-            "description": "轻柔加工的白茶。"
+            "name": "白茶 / Hakucha / Shirocha",
+            "description": "采用轻柔工艺加工的白茶。"
           }
         ]
       }
@@ -120,27 +127,27 @@
       "text": "来自静冈、神奈川和大阪的五款日本酒，以及日本威士忌。",
       "cta": "了解更多",
       "details": {
-        "intro": "Nagomi Sake 将提供来自日本多个地区的五款日本酒品鉴，让访客比较不同地区风格和酒造。",
+        "intro": "Nagomi Sake 将提供来自日本多个地区的五款日本酒品鉴。游客可以比较不同地区的风格以及各酒造独特的个性。",
         "items": [
           {
             "name": "Hananomai",
-            "region": "Shizuoka"
+            "region": "静冈"
           },
           {
             "name": "Izumibashi",
-            "region": "Kanagawa"
+            "region": "神奈川"
           },
           {
             "name": "Afuri",
-            "region": "Kanagawa"
+            "region": "神奈川"
           },
           {
             "name": "Daimon",
-            "region": "Osaka"
+            "region": "大阪"
           },
           {
             "name": "Matsumidori",
-            "region": "Kanagawa"
+            "region": "神奈川"
           },
           {
             "name": "日本威士忌",

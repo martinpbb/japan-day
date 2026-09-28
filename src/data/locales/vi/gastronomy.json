@@ -3,38 +3,31 @@
     {
       "id": "sushi",
       "title": "Sushi & sashimi",
-      "text": "Hamachi sashimi, nigiri, maki, maguro zuke don và nhiều loại sushi khác được chuẩn bị ngay tại sự kiện.",
-      "cta": "Tìm hiểu thêm",
+      "text": "Hamachi sashimi, sake zuke don, nigiri và negi hama maki được chế biến trực tiếp tại sự kiện.",
+      "cta": "Xem thêm",
       "details": {
-        "intro": "Cá tươi và sushi được chuẩn bị trong Japan Day.",
+        "intro": "Cá tươi, sashimi và sushi được chế biến trực tiếp trong ngày hội Nhật Bản.",
+        "secondary": "Chất gây dị ứng: lúa mì, đậu nành, động vật giáp xác, cá.",
         "items": [
           {
             "name": "Hamachi sashimi",
-            "description": "Các lát hamachi tươi được phục vụ theo phong cách Nhật đơn giản để làm nổi bật hương vị của cá."
+            "description": "Cá cam Nhật Bản.",
+            "price": "200 Kč"
           },
           {
-            "name": "Negi-hama maki",
-            "description": "Maki sushi với hamachi và hành lá."
-          },
-          {
-            "name": "Tekka maki",
-            "description": "Maki sushi cuộn mỏng cổ điển với cá ngừ."
-          },
-          {
-            "name": "Maguro zuke don",
-            "description": "Cơm tô với cá ngừ ướp theo kiểu zuke."
-          },
-          {
-            "name": "Sake don",
-            "description": "Cơm tô Nhật Bản với cá hồi."
-          },
-          {
-            "name": "Nigiri",
-            "description": "Nigiri sushi truyền thống được làm tại chỗ."
+            "name": "Sake zuke don",
+            "description": "Cá hồi ướp, trứng cá muối, dưa chuột, takuan và củ cải, dùng cùng cơm sushi.",
+            "price": "180 Kč"
           },
           {
             "name": "Sushi set",
-            "description": "Kết hợp nigiri hamachi và ebi."
+            "description": "Sake nigiri với cá hồi và Hamachi nigiri với cá cam Nhật Bản.",
+            "price": "150 Kč"
+          },
+          {
+            "name": "Negi hama maki",
+            "description": "Sushi cuộn với cá cam Nhật Bản và hành lá.",
+            "price": "140 Kč"
           }
         ]
       }
@@ -42,30 +35,44 @@
     {
       "id": "food",
       "title": "Món Nhật & đồ nướng",
-      "text": "Buta no kakuni, hayashi rice, saba nướng, thịt heo miso và burger phong cách Wagyu.",
-      "cta": "Tìm hiểu thêm",
+      "text": "Hamachi nướng, buta no kaku ni, maguro daikon, cà ri gà Nhật Bản, saba shioyaki, thịt lợn ướp miso và burger phong cách Wagyu.",
+      "cta": "Xem thêm",
       "details": {
-        "intro": "Các món Nhật nóng và đặc sản được chế biến trên vỉ nướng.",
+        "intro": "Các món Nhật nóng và món nướng được chế biến trực tiếp tại sự kiện.",
+        "secondary": "Tất cả các món nóng đều được phục vụ kèm cơm. Chất gây dị ứng: lúa mì, đậu nành, động vật giáp xác, cá.",
         "items": [
           {
-            "name": "Buta no kakuni",
-            "description": "Thịt heo hầm chậm kiểu Nhật, dùng với cơm."
+            "name": "Hamachi kama no ninniku tare",
+            "description": "Phần cổ cá cam Nhật Bản nướng với sốt tỏi.",
+            "price": "160 Kč"
           },
           {
-            "name": "Hayashi rice",
-            "description": "Món Nhật phổ biến gồm cơm và sốt nâu đậm đà."
+            "name": "Buta no kaku ni",
+            "description": "Thịt ba chỉ lợn hầm mềm.",
+            "price": "150 Kč"
           },
           {
-            "name": "Yaki sakana – saba",
-            "description": "Cá thu nướng được chế biến theo phong cách Nhật đơn giản."
+            "name": "Maguro daikon",
+            "description": "Cá ngừ nấu với củ cải daikon và gừng.",
+            "price": "160 Kč"
           },
           {
-            "name": "Butaniku no miso yaki",
-            "description": "Thịt heo ướp miso, dùng cùng salad và sốt."
+            "name": "Kare rice",
+            "description": "Cà ri gà kiểu Nhật.",
+            "price": "140 Kč"
           },
           {
-            "name": "Wagyu-style burger",
-            "description": "Burger bò phong cách Nhật với salad, hành tây và mayonnaise ninniku-miso."
+            "name": "Wagyu style burger",
+            "description": "Thịt cổ bò và thịt bò Nhật Bản, hành tây trắng, sốt mayonnaise tỏi miso, xà lách iceberg và dưa chuột muối.",
+            "price": "200 Kč"
+          },
+          {
+            "name": "Yaki sakana – saba shioyaki",
+            "description": "Cá thu nướng muối."
+          },
+          {
+            "name": "Butaniku miso yaki",
+            "description": "Các lát thịt cổ lợn nướng được ướp với miso ngọt."
           }
         ]
       }
@@ -73,27 +80,27 @@
     {
       "id": "tea",
       "title": "Trà Nhật Bản",
-      "text": "Ba quầy trà với lựa chọn phong phú, từ sencha và gyokuro đến oolong, wakocha và trà trắng.",
-      "cta": "Tìm hiểu thêm",
+      "text": "Ba quầy trà với nhiều loại trà Nhật Bản – từ sencha và gyokuro đến oolong, wakocha và trà trắng.",
+      "cta": "Xem thêm",
       "details": {
-        "intro": "Trà Nhật Bản sẽ được pha tại ba quầy riêng biệt bởi Martin Kindl, Jiří Houska và Tomáš Pelich, những người yêu trà giàu kinh nghiệm.",
-        "secondary": "Trong suốt ngày, khách tham quan có thể so sánh các phương pháp chế biến, hương vị và phong cách pha trà Nhật Bản khác nhau.",
+        "intro": "Tại ba quầy trà riêng biệt, Martin Kindl, Jiří Houska và Tomáš Pelich – những người có nhiều kinh nghiệm với trà – sẽ pha các loại trà Nhật Bản.",
+        "secondary": "Trong suốt ngày hội, khách tham quan có thể so sánh các phương pháp chế biến, hương vị và cách pha trà Nhật Bản khác nhau.",
         "items": [
           {
             "name": "Sencha",
-            "description": "Trà xanh Nhật hấp, lá được cuộn thành hình kim."
+            "description": "Trà xanh Nhật Bản được hấp và tạo hình thành những lá trà nhỏ dạng kim."
           },
           {
             "name": "Kamairicha",
-            "description": "Trà xanh Nhật được sao chảo."
+            "description": "Trà xanh Nhật Bản được chế biến bằng phương pháp sao trên chảo."
           },
           {
             "name": "Gyokuro",
-            "description": "Trà xanh Nhật nổi tiếng với việc che bóng trước khi thu hoạch."
+            "description": "Trà xanh Nhật Bản nổi tiếng với phương pháp che bóng cây trà trước khi thu hoạch."
           },
           {
             "name": "Oolong",
-            "description": "Trà có lá oxy hóa một phần."
+            "description": "Trà được làm từ lá trà oxy hóa một phần."
           },
           {
             "name": "Wakocha",
@@ -101,14 +108,14 @@
           },
           {
             "name": "Kurocha",
-            "description": "Trà lên men Nhật Bản."
+            "description": "Trà lên men của Nhật Bản."
           },
           {
             "name": "Hōjicha",
-            "description": "Trà xanh Nhật rang."
+            "description": "Trà xanh Nhật Bản rang."
           },
           {
-            "name": "Trà trắng / Hakucha / Shirocha",
+            "name": "White tea / Hakucha / Shirocha",
             "description": "Trà trắng được chế biến nhẹ nhàng."
           }
         ]
@@ -117,10 +124,10 @@
     {
       "id": "sake",
       "title": "Sake & whisky",
-      "text": "Năm loại sake khác nhau từ Shizuoka, Kanagawa và Osaka, cùng whisky Nhật Bản.",
-      "cta": "Tìm hiểu thêm",
+      "text": "Năm loại sake khác nhau từ Shizuoka, Kanagawa và Osaka cùng với một số loại whisky Nhật Bản.",
+      "cta": "Xem thêm",
       "details": {
-        "intro": "Nagomi Sake sẽ tổ chức nếm thử năm loại sake từ nhiều vùng của Nhật Bản, giúp khách tham quan so sánh phong cách vùng miền và các nhà sản xuất.",
+        "intro": "Nagomi Sake sẽ giới thiệu năm loại sake khác nhau từ nhiều vùng của Nhật Bản. Khách tham quan có thể so sánh phong cách vùng miền và đặc trưng riêng của từng nhà sản xuất.",
         "items": [
           {
             "name": "Hananomai",
@@ -144,7 +151,7 @@
           },
           {
             "name": "Whisky Nhật Bản",
-            "description": "Cũng sẽ có whisky Nhật Bản."
+            "description": "Whisky Nhật Bản cũng sẽ được phục vụ."
           }
         ]
       }

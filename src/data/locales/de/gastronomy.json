@@ -3,69 +3,76 @@
     {
       "id": "sushi",
       "title": "Sushi & Sashimi",
-      "text": "Hamachi-Sashimi, Nigiri, Maki, Maguro Zuke Don und weitere Sushi werden direkt bei der Veranstaltung zubereitet.",
+      "text": "Hamachi-Sashimi, Sake Zuke Don, Nigiri und Negi Hama Maki werden direkt auf der Veranstaltung frisch zubereitet.",
       "cta": "Mehr erfahren",
       "details": {
-        "intro": "Frischer Fisch und Sushi, während des Japan Day zubereitet.",
+        "intro": "Frischer Fisch, Sashimi und Sushi, die direkt während des Japan Day zubereitet werden.",
+        "secondary": "Allergene: Weizen, Soja, Krebstiere, Fisch.",
         "items": [
           {
             "name": "Hamachi sashimi",
-            "description": "Frische Hamachi-Scheiben, schlicht japanisch serviert, damit der Geschmack des Fisches im Mittelpunkt steht."
+            "description": "Japanische Seriola.",
+            "price": "200 Kč"
           },
           {
-            "name": "Negi-hama maki",
-            "description": "Maki-Sushi mit Hamachi und Frühlingszwiebel."
-          },
-          {
-            "name": "Tekka maki",
-            "description": "Klassisches dünnes Maki-Sushi mit Thunfisch."
-          },
-          {
-            "name": "Maguro zuke don",
-            "description": "Reisschale mit im Zuke-Stil mariniertem Thunfisch."
-          },
-          {
-            "name": "Sake don",
-            "description": "Japanische Reisschale mit Lachs."
-          },
-          {
-            "name": "Nigiri",
-            "description": "Traditionelles Nigiri-Sushi, vor Ort zubereitet."
+            "name": "Sake zuke don",
+            "description": "Marinierter Lachs, Kaviar, Gurke, Takuan und Rettich, serviert auf Sushi-Reis.",
+            "price": "180 Kč"
           },
           {
             "name": "Sushi set",
-            "description": "Kombination aus Hamachi- und Ebi-Nigiri."
+            "description": "Sake Nigiri mit Lachs und Hamachi Nigiri mit japanischer Seriola.",
+            "price": "150 Kč"
+          },
+          {
+            "name": "Negi hama maki",
+            "description": "Sushi-Rolle mit japanischer Seriola und Frühlingszwiebeln.",
+            "price": "140 Kč"
           }
         ]
       }
     },
     {
       "id": "food",
-      "title": "Japanische Küche & Grill",
-      "text": "Buta no kakuni, Hayashi Rice, gegrillte Saba, Miso-Schweinefleisch und ein Wagyu-Style-Burger.",
+      "title": "Japanische Gerichte & Grill",
+      "text": "Gebratener Hamachi, Buta no Kaku Ni, Maguro Daikon, japanisches Hähnchen-Curry, Saba Shioyaki, Schweinefleisch in Miso-Marinade und Wagyu-Style-Burger.",
       "cta": "Mehr erfahren",
       "details": {
-        "intro": "Warme japanische Gerichte und Spezialitäten vom Grill.",
+        "intro": "Warme japanische Gerichte und Grillspezialitäten, frisch vor Ort zubereitet.",
+        "secondary": "Alle warmen Gerichte werden mit Reis serviert. Allergene: Weizen, Soja, Krebstiere, Fisch.",
         "items": [
           {
-            "name": "Buta no kakuni",
-            "description": "Langsam gegartes Schweinefleisch nach japanischer Art mit Reis."
+            "name": "Hamachi kama no ninniku tare",
+            "description": "Gebratener Kragen vom japanischen Hamachi mit Knoblauchsauce.",
+            "price": "160 Kč"
           },
           {
-            "name": "Hayashi rice",
-            "description": "Beliebtes japanisches Gericht mit Reis und einer kräftigen dunklen Sauce."
+            "name": "Buta no kaku ni",
+            "description": "Geschmorter Schweinebauch.",
+            "price": "150 Kč"
           },
           {
-            "name": "Yaki sakana – saba",
-            "description": "Gegrillte Makrele, schlicht japanisch zubereitet."
+            "name": "Maguro daikon",
+            "description": "Gekochter Thunfisch mit Daikon-Rettich und Ingwer.",
+            "price": "160 Kč"
           },
           {
-            "name": "Butaniku no miso yaki",
-            "description": "In Miso mariniertes Schweinefleisch mit Salat und Dressing."
+            "name": "Kare rice",
+            "description": "Japanisches Hähnchen-Curry.",
+            "price": "140 Kč"
           },
           {
-            "name": "Wagyu-style burger",
-            "description": "Japanisch inspirierter Rindfleisch-Burger mit Salat, Zwiebel und Ninniku-Miso-Mayonnaise."
+            "name": "Wagyu style burger",
+            "description": "Rindernacken und japanisches Rindfleisch, weiße Zwiebel, Knoblauch-Miso-Mayonnaise, Eisbergsalat und eingelegte Gurke.",
+            "price": "200 Kč"
+          },
+          {
+            "name": "Yaki sakana – saba shioyaki",
+            "description": "Gegrillte gesalzene Makrele."
+          },
+          {
+            "name": "Butaniku miso yaki",
+            "description": "Gebratene Schweinenackenscheiben, mariniert in süßem Miso."
           }
         ]
       }
@@ -73,27 +80,27 @@
     {
       "id": "tea",
       "title": "Japanischer Tee",
-      "text": "Drei Teestationen mit großer Auswahl – von Sencha und Gyokuro bis Oolong, Wakocha und Weißtee.",
+      "text": "Drei Teestationen mit einer großen Auswahl japanischer Tees – von Sencha und Gyokuro bis zu Oolong, Wakocha und weißem Tee.",
       "cta": "Mehr erfahren",
       "details": {
-        "intro": "Japanische Tees werden an drei separaten Teestationen von Martin Kindl, Jiří Houska und Tomáš Pelich, erfahrenen Teeliebhabern, zubereitet.",
-        "secondary": "Besucher können im Laufe des Tages unterschiedliche Verarbeitungsarten, Geschmacksprofile und Zubereitungsstile japanischer Tees vergleichen.",
+        "intro": "An drei separaten Teestationen bereiten Martin Kindl, Jiří Houska und Tomáš Pelich – erfahrene Teeliebhaber – japanische Tees zu.",
+        "secondary": "Die Besucher können im Laufe des Tages verschiedene Verarbeitungsmethoden, Geschmacksprofile und Zubereitungsarten japanischen Tees vergleichen.",
         "items": [
           {
             "name": "Sencha",
-            "description": "Japanischer gedämpfter Grüntee mit nadelförmig gerollten Blättern."
+            "description": "Japanischer Grüntee, der gedämpft und zu feinen Nadeln geformt wird."
           },
           {
             "name": "Kamairicha",
-            "description": "Japanischer Grüntee, der in der Pfanne erhitzt wird."
+            "description": "Japanischer Grüntee, der durch Pfannenröstung verarbeitet wird."
           },
           {
             "name": "Gyokuro",
-            "description": "Japanischer Grüntee, der für die Beschattung vor der Ernte bekannt ist."
+            "description": "Japanischer Grüntee, der für seine Beschattung vor der Ernte bekannt ist."
           },
           {
             "name": "Oolong",
-            "description": "Tee mit teilweise oxidierten Blättern."
+            "description": "Tee aus teilweise oxidierten Blättern."
           },
           {
             "name": "Wakocha",
@@ -108,8 +115,8 @@
             "description": "Gerösteter japanischer Grüntee."
           },
           {
-            "name": "Weißtee / Hakucha / Shirocha",
-            "description": "Schonend verarbeiteter Weißtee."
+            "name": "White tea / Hakucha / Shirocha",
+            "description": "Schonend verarbeiteter weißer Tee."
           }
         ]
       }
@@ -117,10 +124,10 @@
     {
       "id": "sake",
       "title": "Sake & Whisky",
-      "text": "Fünf verschiedene Sake aus Shizuoka, Kanagawa und Osaka sowie japanischer Whisky.",
+      "text": "Fünf verschiedene Sake aus Shizuoka, Kanagawa und Osaka sowie eine Auswahl japanischen Whiskys.",
       "cta": "Mehr erfahren",
       "details": {
-        "intro": "Nagomi Sake bietet eine Verkostung von fünf verschiedenen Sake aus mehreren Regionen Japans an, sodass Besucher regionale Stile und Produzenten vergleichen können.",
+        "intro": "Nagomi Sake bietet eine Verkostung von fünf verschiedenen Sake aus mehreren Regionen Japans an. Besucher können unterschiedliche regionale Stile und den individuellen Charakter der Produzenten vergleichen.",
         "items": [
           {
             "name": "Hananomai",
@@ -144,7 +151,7 @@
           },
           {
             "name": "Japanischer Whisky",
-            "description": "Auch japanischer Whisky wird angeboten."
+            "description": "Auch japanischer Whisky wird erhältlich sein."
           }
         ]
       }
