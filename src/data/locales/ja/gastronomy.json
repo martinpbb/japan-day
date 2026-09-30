@@ -149,10 +149,18 @@
             "name": "Matsumidori",
             "region": "神奈川"
           },
-          {
-            "name": "ジャパニーズウイスキー",
-            "description": "日本のウイスキーもご用意します。"
-          }
+          { "name": "Ichiro's Malt" },
+          { "name": "Nikka" },
+          { "name": "Yoichi" },
+          { "name": "Miyagikyo" },
+          { "name": "Suntory" },
+          { "name": "Yamazaki" },
+          { "name": "Hakushu" },
+          { "name": "Hibiki" },
+          { "name": "Akashi White Oak" },
+          { "name": "Shizuoka" },
+          { "name": "Kansosuke" },
+          { "name": "Shindo" }
         ]
       }
     }

@@ -149,10 +149,18 @@
             "name": "Matsumidori",
             "region": "神奈川"
           },
-          {
-            "name": "日本威士忌",
-            "description": "现场也将提供日本威士忌。"
-          }
+          { "name": "Ichiro's Malt" },
+          { "name": "Nikka" },
+          { "name": "Yoichi" },
+          { "name": "Miyagikyo" },
+          { "name": "Suntory" },
+          { "name": "Yamazaki" },
+          { "name": "Hakushu" },
+          { "name": "Hibiki" },
+          { "name": "Akashi White Oak" },
+          { "name": "Shizuoka" },
+          { "name": "Kansosuke" },
+          { "name": "Shindo" }
         ]
       }
     }

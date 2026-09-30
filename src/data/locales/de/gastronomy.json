@@ -149,10 +149,18 @@
             "name": "Matsumidori",
             "region": "Kanagawa"
           },
-          {
-            "name": "Japanischer Whisky",
-            "description": "Auch japanischer Whisky wird erhältlich sein."
-          }
+          { "name": "Ichiro's Malt" },
+          { "name": "Nikka" },
+          { "name": "Yoichi" },
+          { "name": "Miyagikyo" },
+          { "name": "Suntory" },
+          { "name": "Yamazaki" },
+          { "name": "Hakushu" },
+          { "name": "Hibiki" },
+          { "name": "Akashi White Oak" },
+          { "name": "Shizuoka" },
+          { "name": "Kansosuke" },
+          { "name": "Shindo" }
         ]
       }
     }
