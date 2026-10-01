@@ -123,8 +123,8 @@
     },
     {
       "id": "sake",
-      "title": "Saké & whisky",
-      "text": "Pět různých saké z Shizuoky, Kanagawy a Osaky a také nabídka japonské whisky.",
+      "title": "Saké",
+      "text": "Pět různých saké z Shizuoky, Kanagawy a Osaky.",
       "cta": "Zjistit více",
       "details": {
         "intro": "Nagomi Sake nabídne ochutnávku pěti různých saké z několika oblastí Japonska. Návštěvníci tak budou moci porovnat rozdílné regionální styly a charakter jednotlivých producentů.",
@@ -148,7 +148,18 @@
           {
             "name": "Matsumidori",
             "region": "Kanagawa"
-          },
+          }
+        ]
+      }
+    },
+    {
+      "id": "whisky",
+      "title": "Japonská whisky",
+      "text": "Výběr japonské whisky od různých producentů a palíren.",
+      "cta": "Zjistit více",
+      "details": {
+        "intro": "JB Trade GmbH nabídne ochutnávku japonské whisky.",
+        "items": [
           { "name": "Ichiro's Malt" },
           { "name": "Nikka" },
           { "name": "Yoichi" },

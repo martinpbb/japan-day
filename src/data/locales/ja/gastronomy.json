@@ -123,7 +123,7 @@
     },
     {
       "id": "sake",
-      "title": "日本酒・ウイスキー",
+      "title": "日本酒",
       "text": "静岡、神奈川、大阪の5種類の日本酒と、日本のウイスキーをご用意します。",
       "cta": "詳しく見る",
       "details": {
@@ -148,7 +148,18 @@
           {
             "name": "Matsumidori",
             "region": "神奈川"
-          },
+          }
+        ]
+      }
+    },
+    {
+      "id": "whisky",
+      "title": "ジャパニーズウイスキー",
+      "text": "さまざまな製造者と蒸留所による日本のウイスキーの試飲です。",
+      "cta": "詳しく見る",
+      "details": {
+        "intro": "JB Trade GmbHが日本のウイスキーの試飲をご提供します。",
+        "items": [
           { "name": "Ichiro's Malt" },
           { "name": "Nikka" },
           { "name": "Yoichi" },

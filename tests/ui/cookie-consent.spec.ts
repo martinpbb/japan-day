@@ -11,10 +11,6 @@ async function dataLayer(page) {
 }
 
 test.describe("@ui cookie consent", () => {
-  test.beforeEach(async ({ page }) => {
-    await page.addInitScript((key) => localStorage.removeItem(key), consentKey);
-  });
-
   test("shows banner and stores necessary consent", async ({ page }) => {
     await page.goto("/");
     await expect(page.getByRole("dialog")).toBeVisible();

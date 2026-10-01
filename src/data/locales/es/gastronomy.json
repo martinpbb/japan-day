@@ -123,7 +123,7 @@
     },
     {
       "id": "sake",
-      "title": "Sake y whisky",
+      "title": "Saké",
       "text": "Cinco sakes diferentes de Shizuoka, Kanagawa y Osaka, además de una selección de whisky japonés.",
       "cta": "Más información",
       "details": {
@@ -148,7 +148,18 @@
           {
             "name": "Matsumidori",
             "region": "Kanagawa"
-          },
+          }
+        ]
+      }
+    },
+    {
+      "id": "whisky",
+      "title": "Whisky japonés",
+      "text": "Una selección de whiskies japoneses de diferentes productores y destilerías.",
+      "cta": "Más información",
+      "details": {
+        "intro": "JB Trade GmbH ofrecerá una degustación de una selección de whiskies japoneses.",
+        "items": [
           { "name": "Ichiro's Malt" },
           { "name": "Nikka" },
           { "name": "Yoichi" },

@@ -123,7 +123,7 @@
     },
     {
       "id": "sake",
-      "title": "日本酒与威士忌",
+      "title": "日本酒",
       "text": "来自静冈、神奈川和大阪的五款日本酒，以及日本威士忌。",
       "cta": "了解更多",
       "details": {
@@ -148,7 +148,18 @@
           {
             "name": "Matsumidori",
             "region": "神奈川"
-          },
+          }
+        ]
+      }
+    },
+    {
+      "id": "whisky",
+      "title": "日本威士忌",
+      "text": "来自不同生产商和酿酒厂的精选日本威士忌。",
+      "cta": "了解更多",
+      "details": {
+        "intro": "JB Trade GmbH 将提供精选日本威士忌品鉴。",
+        "items": [
           { "name": "Ichiro's Malt" },
           { "name": "Nikka" },
           { "name": "Yoichi" },

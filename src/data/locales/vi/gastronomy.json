@@ -123,7 +123,7 @@
     },
     {
       "id": "sake",
-      "title": "Sake & whisky",
+      "title": "Saké",
       "text": "Năm loại sake khác nhau từ Shizuoka, Kanagawa và Osaka cùng với một số loại whisky Nhật Bản.",
       "cta": "Xem thêm",
       "details": {
@@ -148,7 +148,18 @@
           {
             "name": "Matsumidori",
             "region": "Kanagawa"
-          },
+          }
+        ]
+      }
+    },
+    {
+      "id": "whisky",
+      "title": "Whisky Nhật Bản",
+      "text": "Một số loại whisky Nhật Bản từ các nhà sản xuất và lò chưng cất khác nhau.",
+      "cta": "Tìm hiểu thêm",
+      "details": {
+        "intro": "JB Trade GmbH sẽ giới thiệu và phục vụ thử một số loại whisky Nhật Bản.",
+        "items": [
           { "name": "Ichiro's Malt" },
           { "name": "Nikka" },
           { "name": "Yoichi" },
