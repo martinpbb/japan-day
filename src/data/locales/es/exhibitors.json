@@ -110,6 +110,23 @@
       "description": "Presentación de actividades lúdicas y educativas.",
       "image": "/images/exhibitors/fakulta_herni.png",
       "imageMode": "photo"
+    },
+    {
+      "id": "tenkokudo",
+      "name": "てん刻堂 – Tenkokudō",
+      "category": "Grabado tradicional japonés de sellos – Tenkoku",
+      "short": "Sellos tenkoku japoneses elaborados a mano. En 20 años, Tenkokudō ha creado más de 2.000 sellos únicos.",
+      "description": "El intenso sello bermellón rakkan se utiliza tradicionalmente como toque final en obras de caligrafía y arte japonés. Desde hace 20 años, Tenkokudō elabora a mano en Japón sellos tenkoku y ha creado más de 2.000 piezas únicas. Es posible encargar un sello con un nombre, caracteres elegidos o incluso un sencillo motivo gráfico. En la exposición se podrán ver impresiones de sellos realizados anteriormente. Cada sello se talla cuidadosamente a mano en piedra y constituye una pieza única. La producción se realiza exclusivamente por encargo y tarda aproximadamente cuatro semanas.",
+      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "imageMode": "photo"
+    },
+    {
+      "id": "samurai-cz",
+      "name": "SAMURAI.cz",
+      "website": "https://www.samurai.cz/",
+      "category": "Cuchillos de cocina japoneses y de acero de Damasco",
+      "short": "Cuchillos de cocina de alta gama, hojas de Damasco y tipos japoneses como Santoku, Gyuto, Kiritsuke y Nakiri.",
+      "description": "SAMURAI.cz se especializa en cuchillos de cocina de alta gama, con especial atención al filo, la precisión y la calidad de fabricación. Su oferta incluye tipos de cuchillos japoneses como Santoku, Gyuto, Kiritsuke y Nakiri, así como cuchillos destinados a la preparación de sushi y sashimi. La gama también incluye cuchillos de acero de Damasco, modelos forjados a mano y cuchillos fabricados con aceros de alta calidad como VG10 o modernos aceros pulvimetalúrgicos. Durante el Japan Day, los visitantes podrán conocer distintos tipos de cuchillos y su uso en la gastronomía japonesa."
     }
   ]
 }

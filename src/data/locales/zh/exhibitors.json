@@ -110,6 +110,23 @@
       "description": "展示游戏活动和教育内容。",
       "image": "/images/exhibitors/fakulta_herni.png",
       "imageMode": "photo"
+    },
+    {
+      "id": "tenkokudo",
+      "name": "てん刻堂 – Tenkokudō",
+      "category": "日本传统篆刻与落款印",
+      "short": "手工制作的日本篆刻印章。Tenkokudō 在20年间已制作超过2,000枚独一无二的印章。",
+      "description": "鲜艳的朱红色落款印，是日本书法和艺术作品中传统的点睛之笔。Tenkokudō 在日本从事篆刻制作已有20年，至今已手工制作超过2,000枚独一无二的印章。除了姓名和指定文字之外，也可以加入简单的小型图案。本次展览将展示过去制作的各种印影。每一枚印章都由石材精心手工雕刻而成，是世界上独一无二的作品。所有印章均为完全定制制作，制作时间约为四周。",
+      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "imageMode": "photo"
+    },
+    {
+      "id": "samurai-cz",
+      "name": "SAMURAI.cz",
+      "website": "https://www.samurai.cz/",
+      "category": "日式与大马士革厨房刀具",
+      "short": "高品质厨房刀具、大马士革刀刃，以及三德刀、牛刀、切付刀、菜切刀等日式刀型。",
+      "description": "SAMURAI.cz 专注于高品质厨房刀具，强调锋利度、精准度和制作工艺。其产品包括三德刀、牛刀、切付刀、菜切刀等日式刀型，以及用于寿司和刺身制作的刀具。产品系列还包括大马士革钢刀具、手工锻造型号，以及采用 VG10 或现代粉末钢等高品质钢材的刀具。在 Japan Day 活动中，参观者可以了解不同类型的厨房刀具及其在日本饮食文化中的用途。"
     }
   ]
 }

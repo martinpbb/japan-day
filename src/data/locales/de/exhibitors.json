@@ -110,6 +110,23 @@
       "description": "Präsentation von Spielaktivitäten und Bildungsangeboten.",
       "image": "/images/exhibitors/fakulta_herni.png",
       "imageMode": "photo"
+    },
+    {
+      "id": "tenkokudo",
+      "name": "てん刻堂 – Tenkokudō",
+      "category": "Traditionelle japanische Siegelkunst – Tenkoku",
+      "short": "Handgefertigte japanische Tenkoku-Siegel. Tenkokudō hat in 20 Jahren mehr als 2.000 individuelle Siegel geschaffen.",
+      "description": "Das leuchtend zinnoberrote Rakkan-Siegel bildet traditionell den abschließenden Akzent eines kalligrafischen oder künstlerischen Werkes. Tenkokudō fertigt in Japan seit 20 Jahren Tenkoku-Siegel in Handarbeit und hat in dieser Zeit mehr als 2.000 individuelle Stücke geschaffen. Auf Wunsch kann ein Siegel mit einem Namen, ausgewählten Schriftzeichen oder auch einem einfachen Bildmotiv gestaltet werden. In der Ausstellung werden Abdrücke bereits gefertigter Siegel gezeigt. Jedes Siegel wird sorgfältig von Hand aus Stein gearbeitet und ist ein Unikat. Die Herstellung erfolgt ausschließlich auf Bestellung und dauert ungefähr vier Wochen.",
+      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "imageMode": "photo"
+    },
+    {
+      "id": "samurai-cz",
+      "name": "SAMURAI.cz",
+      "website": "https://www.samurai.cz/",
+      "category": "Japanische und Damast-Küchenmesser",
+      "short": "Hochwertige Küchenmesser, Damastklingen und japanische Messertypen wie Santoku, Gyuto, Kiritsuke und Nakiri.",
+      "description": "SAMURAI.cz konzentriert sich auf hochwertige Küchenmesser mit besonderem Augenmerk auf Schärfe, Präzision und sorgfältige Verarbeitung. Das Sortiment umfasst japanische Messertypen wie Santoku, Gyuto, Kiritsuke und Nakiri sowie Messer für die Zubereitung von Sushi und Sashimi. Zum Angebot gehören außerdem Damastmesser, handgeschmiedete Modelle und Messer mit Klingen aus hochwertigen Stählen wie VG10 oder modernen Pulverstählen. Beim Japan Day können Besucher verschiedene Messertypen kennenlernen und mehr über ihren Einsatz in der japanischen Gastronomie erfahren."
     }
   ]
 }

@@ -110,6 +110,23 @@
       "description": "Presentation of gaming activities and education.",
       "image": "/images/exhibitors/fakulta_herni.png",
       "imageMode": "photo"
+    },
+    {
+      "id": "tenkokudo",
+      "name": "てん刻堂 – Tenkokudō",
+      "category": "Traditional Japanese seal engraving – Tenkoku",
+      "short": "Handcrafted Japanese tenkoku seals. Over 20 years, Tenkokudō has created more than 2,000 original seals.",
+      "description": "The vivid vermilion rakkan seal is traditionally used as the finishing touch on works of Japanese calligraphy and art. For 20 years in Japan, Tenkokudō has handcrafted more than 2,000 individual tenkoku seals. A seal can be created with your preferred name or characters, and it can also include a simple pictorial motif. The exhibition presents impressions of seals created over the years. Each unique seal is carefully carved by hand from stone. All seals are made to order, with an approximate production time of four weeks.",
+      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "imageMode": "photo"
+    },
+    {
+      "id": "samurai-cz",
+      "name": "SAMURAI.cz",
+      "website": "https://www.samurai.cz/",
+      "category": "Japanese-style and Damascus kitchen knives",
+      "short": "Premium kitchen knives, Damascus blades and Japanese knife types such as Santoku, Gyuto, Kiritsuke and Nakiri.",
+      "description": "SAMURAI.cz focuses on premium kitchen knives with an emphasis on sharpness, precision and quality craftsmanship. Its range includes Japanese knife types such as Santoku, Gyuto, Kiritsuke and Nakiri, as well as knives designed for preparing sushi and sashimi. The assortment also includes Damascus knives, hand-forged models and knives using premium steels such as VG10 and modern powder steels. At Japan Day, visitors will be able to discover different types of kitchen knives and learn more about their use in Japanese gastronomy."
     }
   ]
 }

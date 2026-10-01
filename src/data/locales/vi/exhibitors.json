@@ -110,6 +110,23 @@
       "description": "Giới thiệu các hoạt động trò chơi và giáo dục.",
       "image": "/images/exhibitors/fakulta_herni.png",
       "imageMode": "photo"
+    },
+    {
+      "id": "tenkokudo",
+      "name": "てん刻堂 – Tenkokudō",
+      "category": "Nghệ thuật khắc ấn truyền thống Nhật Bản – Tenkoku",
+      "short": "Những con dấu tenkoku Nhật Bản được chế tác thủ công. Trong 20 năm, Tenkokudō đã tạo ra hơn 2.000 con dấu độc bản.",
+      "description": "Con dấu rakkan màu son đỏ rực thường được dùng như nét hoàn thiện cuối cùng cho các tác phẩm thư pháp và nghệ thuật Nhật Bản. Trong suốt 20 năm hoạt động tại Nhật Bản, Tenkokudō đã thủ công chế tác hơn 2.000 con dấu tenkoku độc bản. Có thể đặt làm con dấu với tên, ký tự theo yêu cầu hoặc thêm một họa tiết đơn giản. Tại triển lãm sẽ trưng bày các mẫu dấu đã được thực hiện trước đây. Mỗi con dấu được chế tác cẩn thận bằng tay từ đá và là một sản phẩm duy nhất. Sản phẩm chỉ được làm theo đơn đặt hàng, với thời gian hoàn thiện khoảng bốn tuần.",
+      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "imageMode": "photo"
+    },
+    {
+      "id": "samurai-cz",
+      "name": "SAMURAI.cz",
+      "website": "https://www.samurai.cz/",
+      "category": "Dao bếp kiểu Nhật và dao thép Damascus",
+      "short": "Dao bếp cao cấp, lưỡi Damascus và các kiểu dao Nhật Bản như Santoku, Gyuto, Kiritsuke và Nakiri.",
+      "description": "SAMURAI.cz tập trung vào các loại dao bếp cao cấp với trọng tâm là độ sắc bén, độ chính xác và chất lượng gia công. Danh mục sản phẩm bao gồm các kiểu dao Nhật Bản như Santoku, Gyuto, Kiritsuke và Nakiri, cũng như các loại dao dùng để chế biến sushi và sashimi. Ngoài ra còn có dao thép Damascus, các mẫu rèn thủ công và các mẫu sử dụng thép cao cấp như VG10 hoặc thép bột hiện đại. Tại Japan Day, khách tham quan có thể tìm hiểu nhiều loại dao khác nhau và cách sử dụng chúng trong ẩm thực Nhật Bản."
     }
   ]
 }

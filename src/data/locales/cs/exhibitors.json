@@ -110,6 +110,23 @@
       "description": "Prezentace herních aktivit a vzdělávání.",
       "image": "/images/exhibitors/fakulta_herni.png",
       "imageMode": "photo"
+    },
+    {
+      "id": "tenkokudo",
+      "name": "てん刻堂 – Tenkokudō",
+      "category": "Tradiční japonské pečetě – tenkoku",
+      "short": "Ručně vyráběné japonské pečetě tenkoku. Tenkokudō za 20 let vytvořilo více než 2 000 originálních pečetí.",
+      "description": "Výrazná červená pečeť rakkan-in je tradičním zakončením kaligrafických a výtvarných děl. Tenkokudō se v Japonsku již 20 let věnuje ruční výrobě pečetí tenkoku a za tuto dobu vytvořilo více než 2 000 originálních kusů. Na přání lze vyrobit pečeť se jménem, vybranými znaky nebo jednoduchým obrazovým motivem. Na výstavě budou k vidění otisky již vytvořených pečetí. Každá pečeť vzniká ručně z kamene jako jedinečný originál. Výroba probíhá výhradně na objednávku a trvá přibližně čtyři týdny.",
+      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "imageMode": "photo"
+    },
+    {
+      "id": "samurai-cz",
+      "name": "SAMURAI.cz",
+      "website": "https://www.samurai.cz/",
+      "category": "Japonské a damaškové kuchyňské nože",
+      "short": "Prémiové kuchyňské nože, damaškové čepele a japonské typy nožů jako Santoku, Gyuto, Kiritsuke nebo Nakiri.",
+      "description": "SAMURAI.cz se zaměřuje na prémiové kuchyňské nože s důrazem na ostrost, přesnost a kvalitní zpracování. V nabídce najdete japonské typy nožů jako Santoku, Gyuto, Kiritsuke nebo Nakiri, stejně jako nože určené pro přípravu sushi a sashimi. Součástí sortimentu jsou také damaškové nože, ručně kované modely a nože s jádry z prémiových ocelí, například VG10 nebo moderních práškových ocelí. Na Japonském dni si návštěvníci budou moci prohlédnout různé typy kuchyňských nožů a lépe poznat jejich využití v japonské gastronomii."
     }
   ]
 }
