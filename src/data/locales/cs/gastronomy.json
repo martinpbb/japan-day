@@ -35,7 +35,7 @@
     {
       "id": "food",
       "title": "Japonská jídla & gril",
-      "text": "Pečený kranas, buta no kaku ni, maguro daikon, japonské kuřecí curry, saba shioyaki, miso vepřové i Wagyu-style burger.",
+      "text": "Pečený kranas, Buta no kakuni, maguro daikon, japonské kuřecí curry, saba shioyaki, miso vepřové i Wagyu-style burger.",
       "cta": "Zjistit více",
       "details": {
         "intro": "Teplá japonská jídla a speciality připravované přímo na místě.",
@@ -47,7 +47,7 @@
             "price": "160 Kč"
           },
           {
-            "name": "Buta no kaku ni",
+            "name": "Buta no kakuni",
             "description": "Vařený vepřový bůček.",
             "price": "150 Kč"
           },

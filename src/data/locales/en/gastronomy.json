@@ -35,7 +35,7 @@
     {
       "id": "food",
       "title": "Japanese dishes & grill",
-      "text": "Roasted hamachi, buta no kaku ni, maguro daikon, Japanese chicken curry, saba shioyaki, miso-marinated pork and a Wagyu-style burger.",
+      "text": "Roasted hamachi, Buta no kakuni, maguro daikon, Japanese chicken curry, saba shioyaki, miso-marinated pork and a Wagyu-style burger.",
       "cta": "Learn more",
       "details": {
         "intro": "Hot Japanese dishes and grilled specialties prepared fresh on site.",
@@ -47,7 +47,7 @@
             "price": "160 Kč"
           },
           {
-            "name": "Buta no kaku ni",
+            "name": "Buta no kakuni",
             "description": "Braised pork belly.",
             "price": "150 Kč"
           },

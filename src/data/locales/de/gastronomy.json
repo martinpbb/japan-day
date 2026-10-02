@@ -35,7 +35,7 @@
     {
       "id": "food",
       "title": "Japanische Gerichte & Grill",
-      "text": "Gebratener Hamachi, Buta no Kaku Ni, Maguro Daikon, japanisches Hähnchen-Curry, Saba Shioyaki, Schweinefleisch in Miso-Marinade und Wagyu-Style-Burger.",
+      "text": "Gebratener Hamachi, Buta no kakuni, Maguro Daikon, japanisches Hähnchen-Curry, Saba Shioyaki, Schweinefleisch in Miso-Marinade und Wagyu-Style-Burger.",
       "cta": "Mehr erfahren",
       "details": {
         "intro": "Warme japanische Gerichte und Grillspezialitäten, frisch vor Ort zubereitet.",
@@ -47,7 +47,7 @@
             "price": "160 Kč"
           },
           {
-            "name": "Buta no kaku ni",
+            "name": "Buta no kakuni",
             "description": "Geschmorter Schweinebauch.",
             "price": "150 Kč"
           },

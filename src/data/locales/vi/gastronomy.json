@@ -35,7 +35,7 @@
     {
       "id": "food",
       "title": "Món Nhật & đồ nướng",
-      "text": "Hamachi nướng, buta no kaku ni, maguro daikon, cà ri gà Nhật Bản, saba shioyaki, thịt lợn ướp miso và burger phong cách Wagyu.",
+      "text": "Hamachi nướng, Buta no kakuni, maguro daikon, cà ri gà Nhật Bản, saba shioyaki, thịt lợn ướp miso và burger phong cách Wagyu.",
       "cta": "Xem thêm",
       "details": {
         "intro": "Các món Nhật nóng và món nướng được chế biến trực tiếp tại sự kiện.",
@@ -47,7 +47,7 @@
             "price": "160 Kč"
           },
           {
-            "name": "Buta no kaku ni",
+            "name": "Buta no kakuni",
             "description": "Thịt ba chỉ lợn hầm mềm.",
             "price": "150 Kč"
           },

@@ -35,7 +35,7 @@
     {
       "id": "food",
       "title": "Platos japoneses y parrilla",
-      "text": "Hamachi asado, buta no kaku ni, maguro daikon, curry japonés de pollo, saba shioyaki, cerdo marinado en miso y hamburguesa estilo Wagyu.",
+      "text": "Hamachi asado, Buta no kakuni, maguro daikon, curry japonés de pollo, saba shioyaki, cerdo marinado en miso y hamburguesa estilo Wagyu.",
       "cta": "Más información",
       "details": {
         "intro": "Platos japoneses calientes y especialidades a la parrilla preparados directamente en el lugar.",
@@ -47,7 +47,7 @@
             "price": "160 Kč"
           },
           {
-            "name": "Buta no kaku ni",
+            "name": "Buta no kakuni",
             "description": "Panceta de cerdo cocida lentamente.",
             "price": "150 Kč"
           },
