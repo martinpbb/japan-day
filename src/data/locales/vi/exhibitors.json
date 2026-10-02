@@ -3,6 +3,7 @@
     {
       "id": "yamaya",
       "name": "Yamaya",
+      "website": "https://yamaya.cz/",
       "category": "Ẩm thực Nhật Bản",
       "description": "Ẩm thực Nhật Bản. Marek Hora, chuyên gia về ẩm thực Nhật, sẽ chuẩn bị các món Nhật chính thống.",
       "image": "/images/exhibitors/yamaya_restaurace.png",
@@ -11,6 +12,7 @@
     {
       "id": "nagomi-tea",
       "name": "Nagomi tea",
+      "website": "https://www.nagomitea.eu/",
       "category": "Trà Nhật Bản",
       "description": "Các loại trà Nhật cao cấp được nhập trực tiếp từ người trồng tại Nhật Bản.",
       "image": "/images/exhibitors/nagomi_tea.png",
@@ -19,6 +21,7 @@
     {
       "id": "nagomi-sake",
       "name": "Nagomi sake",
+      "website": "https://www.nagomisake.cz/",
       "category": "Sake",
       "description": "Giới thiệu và nếm thử sake Nhật Bản.",
       "image": "/images/exhibitors/nagomi_sake.png",
@@ -45,8 +48,10 @@
     {
       "id": "japan-whisky",
       "name": "Japan Whisky",
+      "website": "https://jwhisky.com/",
       "category": "Whisky Nhật Bản",
       "description": "Tuyển chọn whisky Nhật Bản và giới thiệu văn hóa whisky Nhật.",
+      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -59,17 +64,20 @@
     },
     {
       "id": "matcha-tea",
-      "name": "Matcha tea (Nagomi tea)",
+      "name": "Matcha & tea latte (Nagomi tea)",
       "category": "Trà Nhật Bản",
       "description": "Matcha và các loại tea latte làm từ trà bột như wakocha, hōjicha, oolongcha, hakucha và matcha.",
       "imageMode": "photo"
     },
     {
       "id": "japanese-wagashi",
-      "name": "Wagashi Nhật Bản",
+      "name": "Wagashi Nhật Bản từ Miyabi",
+      "website": "https://miyabi.cz/",
       "category": "Đồ ngọt Nhật Bản",
-      "description": "Các loại bánh ngọt wagashi truyền thống của Nhật.",
-      "imageMode": "photo"
+      "short": "Các loại wagashi truyền thống Nhật Bản do nhà hàng Miyabi Prague chuẩn bị.",
+      "description": "Nhà hàng Miyabi Prague sẽ mang đến Japan Day các loại wagashi truyền thống của Nhật Bản. Khách tham quan sẽ có cơ hội thưởng thức những món bánh ngọt Nhật Bản cổ điển, thường được dùng cùng trà và gắn liền với văn hóa ẩm thực Nhật Bản.",
+      "image": "/images/exhibitors/miyabi.png",
+      "imageMode": "logo"
     },
     {
       "id": "world-bakery-60",
@@ -90,6 +98,7 @@
     {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
+      "website": "https://nihonbunka.cz/",
       "category": "Văn hóa Nhật Bản",
       "description": "Văn hóa Nhật Bản, trang phục truyền thống và các hoạt động do hội Nihon Bunka giới thiệu.",
       "image": "/images/performers/nihon_bunka_plzen.png",
@@ -117,12 +126,13 @@
       "category": "Nghệ thuật khắc ấn truyền thống Nhật Bản – Tenkoku",
       "short": "Những con dấu tenkoku Nhật Bản được chế tác thủ công. Trong 20 năm, Tenkokudō đã tạo ra hơn 2.000 con dấu độc bản.",
       "description": "Con dấu rakkan màu son đỏ rực thường được dùng như nét hoàn thiện cuối cùng cho các tác phẩm thư pháp và nghệ thuật Nhật Bản. Trong suốt 20 năm hoạt động tại Nhật Bản, Tenkokudō đã thủ công chế tác hơn 2.000 con dấu tenkoku độc bản. Có thể đặt làm con dấu với tên, ký tự theo yêu cầu hoặc thêm một họa tiết đơn giản. Tại triển lãm sẽ trưng bày các mẫu dấu đã được thực hiện trước đây. Mỗi con dấu được chế tác cẩn thận bằng tay từ đá và là một sản phẩm duy nhất. Sản phẩm chỉ được làm theo đơn đặt hàng, với thời gian hoàn thiện khoảng bốn tuần.",
-      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "image": "/images/exhibitors/tenkokudo.png",
       "imageMode": "photo"
     },
     {
       "id": "samurai-cz",
       "name": "SAMURAI.cz",
+      "image": "/images/exhibitors/samurai_noze.png",
       "website": "https://www.samurai.cz/",
       "category": "Dao bếp kiểu Nhật và dao thép Damascus",
       "short": "Dao bếp cao cấp, lưỡi Damascus và các kiểu dao Nhật Bản như Santoku, Gyuto, Kiritsuke và Nakiri.",

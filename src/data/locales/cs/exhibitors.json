@@ -3,6 +3,7 @@
     {
       "id": "yamaya",
       "name": "Yamaya",
+      "website": "https://yamaya.cz/",
       "category": "Gastronomie",
       "description": "Japonská gastronomie. Marek Hora - specialista na japonskou kuchyni připraví autentická japonská jídla.",
       "image": "/images/exhibitors/yamaya_restaurace.png",
@@ -11,6 +12,7 @@
     {
       "id": "nagomi-tea",
       "name": "Nagomi tea",
+      "website": "https://www.nagomitea.eu/",
       "category": "Japonský čaj",
       "description": "Výběrové japonské čaje přímo od pěstitelů z Japonska.",
       "image": "/images/exhibitors/nagomi_tea.png",
@@ -19,6 +21,7 @@
     {
       "id": "nagomi-sake",
       "name": "Nagomi sake",
+      "website": "https://www.nagomisake.cz/",
       "category": "Saké",
       "description": "Prezentace a ochutnávka japonského saké.",
       "image": "/images/exhibitors/nagomi_sake.png",
@@ -45,8 +48,10 @@
     {
       "id": "japan-whisky",
       "name": "Japan Whisky",
+      "website": "https://jwhisky.com/",
       "category": "Japonská whisky",
       "description": "Výběr japonské whisky a představení japonské whisky kultury.",
+      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -59,17 +64,20 @@
     },
     {
       "id": "matcha-tea",
-      "name": "Matcha tea (Nagomi tea)",
+      "name": "Matcha & tea latte (Nagomi tea)",
       "category": "Japonský čaj",
       "description": "Čaj matcha a čajové latte připravované z mletých čajů: wakocha, hōjicha, oolongcha, hakucha a matcha.",
       "imageMode": "photo"
     },
     {
       "id": "japanese-wagashi",
-      "name": "Japanese wagashi",
+      "name": "Japanese wagashi by Miyabi",
+      "website": "https://miyabi.cz/",
       "category": "Japonské sladkosti",
-      "description": "Tradiční japonské sladkosti wagashi.",
-      "imageMode": "photo"
+      "short": "Tradiční japonské sladkosti wagashi připravené restaurací Miyabi Prague.",
+      "description": "Restaurace Miyabi Prague dodá na Japonský den tradiční japonské sladkosti wagashi. Návštěvníci tak budou mít možnost ochutnat klasické japonské cukrářské výrobky, které se často podávají k čaji a jsou nedílnou součástí japonské kultury stolování.",
+      "image": "/images/exhibitors/miyabi.png",
+      "imageMode": "logo"
     },
     {
       "id": "world-bakery-60",
@@ -90,6 +98,7 @@
     {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
+      "website": "https://nihonbunka.cz/",
       "category": "Japonská kultura",
       "description": "Prezentace japonské kultury, tradičního odívání a aktivit spolku Nihon Bunka.",
       "image": "/images/performers/nihon_bunka_plzen.png",
@@ -117,12 +126,13 @@
       "category": "Tradiční japonské pečetě – tenkoku",
       "short": "Ručně vyráběné japonské pečetě tenkoku. Tenkokudō za 20 let vytvořilo více než 2 000 originálních pečetí.",
       "description": "Výrazná červená pečeť rakkan-in je tradičním zakončením kaligrafických a výtvarných děl. Tenkokudō se v Japonsku již 20 let věnuje ruční výrobě pečetí tenkoku a za tuto dobu vytvořilo více než 2 000 originálních kusů. Na přání lze vyrobit pečeť se jménem, vybranými znaky nebo jednoduchým obrazovým motivem. Na výstavě budou k vidění otisky již vytvořených pečetí. Každá pečeť vzniká ručně z kamene jako jedinečný originál. Výroba probíhá výhradně na objednávku a trvá přibližně čtyři týdny.",
-      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "image": "/images/exhibitors/tenkokudo.png",
       "imageMode": "photo"
     },
     {
       "id": "samurai-cz",
       "name": "SAMURAI.cz",
+      "image": "/images/exhibitors/samurai_noze.png",
       "website": "https://www.samurai.cz/",
       "category": "Japonské a damaškové kuchyňské nože",
       "short": "Prémiové kuchyňské nože, damaškové čepele a japonské typy nožů jako Santoku, Gyuto, Kiritsuke nebo Nakiri.",

@@ -3,6 +3,7 @@
     {
       "id": "yamaya",
       "name": "Yamaya",
+      "website": "https://yamaya.cz/",
       "category": "日本料理",
       "description": "日本美食。日本料理专家 Marek Hora 将准备正宗日本菜。",
       "image": "/images/exhibitors/yamaya_restaurace.png",
@@ -11,6 +12,7 @@
     {
       "id": "nagomi-tea",
       "name": "Nagomi tea",
+      "website": "https://www.nagomitea.eu/",
       "category": "日本茶",
       "description": "直接从日本茶农采购的高品质日本茶。",
       "image": "/images/exhibitors/nagomi_tea.png",
@@ -19,6 +21,7 @@
     {
       "id": "nagomi-sake",
       "name": "Nagomi sake",
+      "website": "https://www.nagomisake.cz/",
       "category": "日本酒",
       "description": "日本酒展示与品鉴。",
       "image": "/images/exhibitors/nagomi_sake.png",
@@ -45,8 +48,10 @@
     {
       "id": "japan-whisky",
       "name": "Japan Whisky",
+      "website": "https://jwhisky.com/",
       "category": "日本威士忌",
       "description": "精选日本威士忌，并介绍日本威士忌文化。",
+      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -59,17 +64,20 @@
     },
     {
       "id": "matcha-tea",
-      "name": "Matcha tea (Nagomi tea)",
+      "name": "Matcha & tea latte (Nagomi tea)",
       "category": "日本茶",
       "description": "提供抹茶，以及使用和红茶、焙茶、乌龙茶、白茶和抹茶等粉末茶制作的茶拿铁。",
       "imageMode": "photo"
     },
     {
       "id": "japanese-wagashi",
-      "name": "日本和果子",
+      "name": "Miyabi 日式和菓子",
+      "website": "https://miyabi.cz/",
       "category": "日式甜点",
-      "description": "传统日本和果子。",
-      "imageMode": "photo"
+      "short": "由 Miyabi Prague 餐厅准备的传统日本和菓子。",
+      "description": "Miyabi Prague 餐厅将在 Japan Day 提供传统日本和菓子。参观者可以品尝经典的日本传统点心，这些点心通常与茶一同享用，也是日本饮食文化的重要组成部分。",
+      "image": "/images/exhibitors/miyabi.png",
+      "imageMode": "logo"
     },
     {
       "id": "world-bakery-60",
@@ -90,6 +98,7 @@
     {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
+      "website": "https://nihonbunka.cz/",
       "category": "日本文化",
       "description": "由 Nihon Bunka 协会展示日本文化、传统服饰和相关活动。",
       "image": "/images/performers/nihon_bunka_plzen.png",
@@ -117,12 +126,13 @@
       "category": "日本传统篆刻与落款印",
       "short": "手工制作的日本篆刻印章。Tenkokudō 在20年间已制作超过2,000枚独一无二的印章。",
       "description": "鲜艳的朱红色落款印，是日本书法和艺术作品中传统的点睛之笔。Tenkokudō 在日本从事篆刻制作已有20年，至今已手工制作超过2,000枚独一无二的印章。除了姓名和指定文字之外，也可以加入简单的小型图案。本次展览将展示过去制作的各种印影。每一枚印章都由石材精心手工雕刻而成，是世界上独一无二的作品。所有印章均为完全定制制作，制作时间约为四周。",
-      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "image": "/images/exhibitors/tenkokudo.png",
       "imageMode": "photo"
     },
     {
       "id": "samurai-cz",
       "name": "SAMURAI.cz",
+      "image": "/images/exhibitors/samurai_noze.png",
       "website": "https://www.samurai.cz/",
       "category": "日式与大马士革厨房刀具",
       "short": "高品质厨房刀具、大马士革刀刃，以及三德刀、牛刀、切付刀、菜切刀等日式刀型。",

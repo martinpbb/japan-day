@@ -3,6 +3,7 @@
     {
       "id": "yamaya",
       "name": "Yamaya",
+      "website": "https://yamaya.cz/",
       "category": "Japanese cuisine",
       "description": "Japanese gastronomy. Marek Hora, a specialist in Japanese cuisine, will prepare authentic Japanese dishes.",
       "image": "/images/exhibitors/yamaya_restaurace.png",
@@ -11,6 +12,7 @@
     {
       "id": "nagomi-tea",
       "name": "Nagomi tea",
+      "website": "https://www.nagomitea.eu/",
       "category": "Japanese tea",
       "description": "Premium Japanese teas sourced directly from growers in Japan.",
       "image": "/images/exhibitors/nagomi_tea.png",
@@ -19,6 +21,7 @@
     {
       "id": "nagomi-sake",
       "name": "Nagomi sake",
+      "website": "https://www.nagomisake.cz/",
       "category": "Sake",
       "description": "Presentation and tasting of Japanese sake.",
       "image": "/images/exhibitors/nagomi_sake.png",
@@ -45,8 +48,10 @@
     {
       "id": "japan-whisky",
       "name": "Japan Whisky",
+      "website": "https://jwhisky.com/",
       "category": "Japanese whisky",
       "description": "A selection of Japanese whisky and an introduction to Japanese whisky culture.",
+      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -59,17 +64,20 @@
     },
     {
       "id": "matcha-tea",
-      "name": "Matcha tea (Nagomi tea)",
+      "name": "Matcha & tea latte (Nagomi tea)",
       "category": "Japanese tea",
       "description": "Matcha tea and tea lattes prepared from powdered teas including wakocha, hōjicha, oolongcha, hakucha and matcha.",
       "imageMode": "photo"
     },
     {
       "id": "japanese-wagashi",
-      "name": "Japanese wagashi",
+      "name": "Japanese wagashi by Miyabi",
+      "website": "https://miyabi.cz/",
       "category": "Japanese sweets",
-      "description": "Traditional Japanese wagashi sweets.",
-      "imageMode": "photo"
+      "short": "Traditional Japanese wagashi prepared by Miyabi Prague.",
+      "description": "Miyabi Prague will provide traditional Japanese wagashi for Japan Day. Visitors will have the opportunity to taste classic Japanese confectionery, traditionally served with tea and closely connected with Japanese food culture.",
+      "image": "/images/exhibitors/miyabi.png",
+      "imageMode": "logo"
     },
     {
       "id": "world-bakery-60",
@@ -90,6 +98,7 @@
     {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
+      "website": "https://nihonbunka.cz/",
       "category": "Japanese culture",
       "description": "Japanese culture, traditional clothing and activities presented by the Nihon Bunka association.",
       "image": "/images/performers/nihon_bunka_plzen.png",
@@ -117,12 +126,13 @@
       "category": "Traditional Japanese seal engraving – Tenkoku",
       "short": "Handcrafted Japanese tenkoku seals. Over 20 years, Tenkokudō has created more than 2,000 original seals.",
       "description": "The vivid vermilion rakkan seal is traditionally used as the finishing touch on works of Japanese calligraphy and art. For 20 years in Japan, Tenkokudō has handcrafted more than 2,000 individual tenkoku seals. A seal can be created with your preferred name or characters, and it can also include a simple pictorial motif. The exhibition presents impressions of seals created over the years. Each unique seal is carefully carved by hand from stone. All seals are made to order, with an approximate production time of four weeks.",
-      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "image": "/images/exhibitors/tenkokudo.png",
       "imageMode": "photo"
     },
     {
       "id": "samurai-cz",
       "name": "SAMURAI.cz",
+      "image": "/images/exhibitors/samurai_noze.png",
       "website": "https://www.samurai.cz/",
       "category": "Japanese-style and Damascus kitchen knives",
       "short": "Premium kitchen knives, Damascus blades and Japanese knife types such as Santoku, Gyuto, Kiritsuke and Nakiri.",

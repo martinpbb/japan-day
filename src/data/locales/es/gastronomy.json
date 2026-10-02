@@ -122,6 +122,21 @@
       }
     },
     {
+      "id": "beer",
+      "title": "Cerveza japonesa",
+      "text": "Se servirá cerveza japonesa Kirin de barril.",
+      "cta": "Más información",
+      "details": {
+        "intro": "Se servirá cerveza japonesa Kirin de barril.",
+        "items": [
+          {
+            "name": "Kirin",
+            "description": "Cerveza japonesa de barril."
+          }
+        ]
+      }
+    },
+    {
       "id": "sake",
       "title": "Saké",
       "text": "Cinco sakes diferentes de Shizuoka, Kanagawa y Osaka, además de una selección de whisky japonés.",

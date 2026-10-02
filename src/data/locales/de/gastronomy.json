@@ -122,6 +122,21 @@
       }
     },
     {
+      "id": "beer",
+      "title": "Japanisches Bier",
+      "text": "Japanisches Kirin-Bier wird frisch vom Fass ausgeschenkt.",
+      "cta": "Mehr erfahren",
+      "details": {
+        "intro": "Japanisches Kirin-Bier wird frisch vom Fass ausgeschenkt.",
+        "items": [
+          {
+            "name": "Kirin",
+            "description": "Japanisches Bier vom Fass."
+          }
+        ]
+      }
+    },
+    {
       "id": "sake",
       "title": "Saké",
       "text": "Fünf verschiedene Sake aus Shizuoka, Kanagawa und Osaka sowie eine Auswahl japanischen Whiskys.",

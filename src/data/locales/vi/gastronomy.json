@@ -122,6 +122,21 @@
       }
     },
     {
+      "id": "beer",
+      "title": "Bia Nhật Bản",
+      "text": "Bia Kirin Nhật Bản sẽ được phục vụ tươi từ vòi.",
+      "cta": "Tìm hiểu thêm",
+      "details": {
+        "intro": "Bia Kirin Nhật Bản sẽ được phục vụ tươi từ vòi.",
+        "items": [
+          {
+            "name": "Kirin",
+            "description": "Bia Kirin Nhật Bản tươi từ vòi."
+          }
+        ]
+      }
+    },
+    {
       "id": "sake",
       "title": "Saké",
       "text": "Năm loại sake khác nhau từ Shizuoka, Kanagawa và Osaka cùng với một số loại whisky Nhật Bản.",

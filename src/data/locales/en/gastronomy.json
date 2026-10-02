@@ -122,6 +122,21 @@
       }
     },
     {
+      "id": "beer",
+      "title": "Japanese beer",
+      "text": "Japanese Kirin beer will be served fresh on tap from the keg.",
+      "cta": "Learn more",
+      "details": {
+        "intro": "Japanese Kirin beer will be served fresh on tap from the keg.",
+        "items": [
+          {
+            "name": "Kirin",
+            "description": "Japanese draft beer."
+          }
+        ]
+      }
+    },
+    {
       "id": "sake",
       "title": "Saké",
       "text": "Five different sakes from Shizuoka, Kanagawa and Osaka, together with a selection of Japanese whisky.",

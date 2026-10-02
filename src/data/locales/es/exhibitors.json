@@ -3,6 +3,7 @@
     {
       "id": "yamaya",
       "name": "Yamaya",
+      "website": "https://yamaya.cz/",
       "category": "Gastronomía japonesa",
       "description": "Gastronomía japonesa. Marek Hora, especialista en cocina japonesa, preparará platos japoneses auténticos.",
       "image": "/images/exhibitors/yamaya_restaurace.png",
@@ -11,6 +12,7 @@
     {
       "id": "nagomi-tea",
       "name": "Nagomi tea",
+      "website": "https://www.nagomitea.eu/",
       "category": "Té japonés",
       "description": "Tés japoneses de alta calidad obtenidos directamente de productores de Japón.",
       "image": "/images/exhibitors/nagomi_tea.png",
@@ -19,6 +21,7 @@
     {
       "id": "nagomi-sake",
       "name": "Nagomi sake",
+      "website": "https://www.nagomisake.cz/",
       "category": "Sake",
       "description": "Presentación y degustación de sake japonés.",
       "image": "/images/exhibitors/nagomi_sake.png",
@@ -45,8 +48,10 @@
     {
       "id": "japan-whisky",
       "name": "Japan Whisky",
+      "website": "https://jwhisky.com/",
       "category": "Whisky japonés",
       "description": "Selección de whisky japonés e introducción a la cultura del whisky en Japón.",
+      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -59,17 +64,20 @@
     },
     {
       "id": "matcha-tea",
-      "name": "Matcha tea (Nagomi tea)",
+      "name": "Matcha & tea latte (Nagomi tea)",
       "category": "Té japonés",
       "description": "Matcha y lattes de té preparados con tés en polvo, como wakocha, hōjicha, oolongcha, hakucha y matcha.",
       "imageMode": "photo"
     },
     {
       "id": "japanese-wagashi",
-      "name": "Wagashi japoneses",
+      "name": "Wagashi japoneses de Miyabi",
+      "website": "https://miyabi.cz/",
       "category": "Dulces japoneses",
-      "description": "Dulces japoneses tradicionales wagashi.",
-      "imageMode": "photo"
+      "short": "Wagashi tradicionales japoneses preparados por el restaurante Miyabi Prague.",
+      "description": "El restaurante Miyabi Prague ofrecerá wagashi tradicionales japoneses durante el Japan Day. Los visitantes tendrán la oportunidad de probar dulces japoneses clásicos, que tradicionalmente se sirven con té y forman parte de la cultura gastronómica japonesa.",
+      "image": "/images/exhibitors/miyabi.png",
+      "imageMode": "logo"
     },
     {
       "id": "world-bakery-60",
@@ -90,6 +98,7 @@
     {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
+      "website": "https://nihonbunka.cz/",
       "category": "Cultura japonesa",
       "description": "Cultura japonesa, indumentaria tradicional y actividades presentadas por la asociación Nihon Bunka.",
       "image": "/images/performers/nihon_bunka_plzen.png",
@@ -117,12 +126,13 @@
       "category": "Grabado tradicional japonés de sellos – Tenkoku",
       "short": "Sellos tenkoku japoneses elaborados a mano. En 20 años, Tenkokudō ha creado más de 2.000 sellos únicos.",
       "description": "El intenso sello bermellón rakkan se utiliza tradicionalmente como toque final en obras de caligrafía y arte japonés. Desde hace 20 años, Tenkokudō elabora a mano en Japón sellos tenkoku y ha creado más de 2.000 piezas únicas. Es posible encargar un sello con un nombre, caracteres elegidos o incluso un sencillo motivo gráfico. En la exposición se podrán ver impresiones de sellos realizados anteriormente. Cada sello se talla cuidadosamente a mano en piedra y constituye una pieza única. La producción se realiza exclusivamente por encargo y tarda aproximadamente cuatro semanas.",
-      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "image": "/images/exhibitors/tenkokudo.png",
       "imageMode": "photo"
     },
     {
       "id": "samurai-cz",
       "name": "SAMURAI.cz",
+      "image": "/images/exhibitors/samurai_noze.png",
       "website": "https://www.samurai.cz/",
       "category": "Cuchillos de cocina japoneses y de acero de Damasco",
       "short": "Cuchillos de cocina de alta gama, hojas de Damasco y tipos japoneses como Santoku, Gyuto, Kiritsuke y Nakiri.",

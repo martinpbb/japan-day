@@ -3,6 +3,7 @@
     {
       "id": "yamaya",
       "name": "Yamaya",
+      "website": "https://yamaya.cz/",
       "category": "日本料理",
       "description": "日本料理のガストロノミー。日本料理の専門家であるMarek Horaが、本格的な日本料理を調理します。",
       "image": "/images/exhibitors/yamaya_restaurace.png",
@@ -11,6 +12,7 @@
     {
       "id": "nagomi-tea",
       "name": "Nagomi tea",
+      "website": "https://www.nagomitea.eu/",
       "category": "日本茶",
       "description": "日本の生産者から直接仕入れた上質な日本茶をご紹介します。",
       "image": "/images/exhibitors/nagomi_tea.png",
@@ -19,6 +21,7 @@
     {
       "id": "nagomi-sake",
       "name": "Nagomi sake",
+      "website": "https://www.nagomisake.cz/",
       "category": "日本酒",
       "description": "日本酒の紹介と試飲を行います。",
       "image": "/images/exhibitors/nagomi_sake.png",
@@ -45,8 +48,10 @@
     {
       "id": "japan-whisky",
       "name": "Japan Whisky",
+      "website": "https://jwhisky.com/",
       "category": "ジャパニーズウイスキー",
       "description": "ジャパニーズウイスキーのセレクションと、その文化をご紹介します。",
+      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -59,17 +64,20 @@
     },
     {
       "id": "matcha-tea",
-      "name": "Matcha tea (Nagomi tea)",
+      "name": "Matcha & tea latte (Nagomi tea)",
       "category": "日本茶",
       "description": "抹茶をはじめ、和紅茶、ほうじ茶、烏龍茶、白茶などの粉末茶を使ったティーラテをご用意します。",
       "imageMode": "photo"
     },
     {
       "id": "japanese-wagashi",
-      "name": "Japanese wagashi",
+      "name": "Miyabiの和菓子",
+      "website": "https://miyabi.cz/",
       "category": "和菓子",
-      "description": "日本の伝統的な和菓子をご紹介します。",
-      "imageMode": "photo"
+      "short": "Miyabi Pragueがご用意する、日本の伝統的な和菓子。",
+      "description": "Japan Dayでは、Miyabi Pragueが日本の伝統的な和菓子をご用意します。お茶とともに親しまれてきた、日本の食文化を象徴する伝統的なお菓子をお楽しみいただけます。",
+      "image": "/images/exhibitors/miyabi.png",
+      "imageMode": "logo"
     },
     {
       "id": "world-bakery-60",
@@ -90,6 +98,7 @@
     {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
+      "website": "https://nihonbunka.cz/",
       "category": "日本文化",
       "description": "Nihon Bunkaによる日本文化、伝統衣装、各種活動の紹介です。",
       "image": "/images/performers/nihon_bunka_plzen.png",
@@ -117,12 +126,13 @@
       "category": "篆刻・落款印",
       "short": "日本で20年間にわたり、2,000個を超える篆刻を一つひとつ手作業で制作してきた「てん刻堂」。",
       "description": "書道作品の仕上げを飾る、鮮やかな朱色の落款印。日本で20年間にわたり、2,000個を超える篆刻を一つひとつ手作業でお届けしてきました。お好きなお名前・文字はもちろん、シンプルなワンポイントの絵を入れることも可能です。今回の展示では、これまでにお作りした印影を展示しております。世界にひとつだけの特別な印鑑を、石材から丁寧にお作りします。完全受注制作で、納期は約4週間です。",
-      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "image": "/images/exhibitors/tenkokudo.png",
       "imageMode": "photo"
     },
     {
       "id": "samurai-cz",
       "name": "SAMURAI.cz",
+      "image": "/images/exhibitors/samurai_noze.png",
       "website": "https://www.samurai.cz/",
       "category": "日本式包丁・ダマスカス包丁",
       "short": "三徳、牛刀、切付、菜切などの日本式包丁や、ダマスカス鋼を使用した高品質なキッチンナイフ。",

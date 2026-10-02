@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+.pnpm-store/
 
 # Editor directories and files
 .vscode/*
@@ -31,3 +32,4 @@ graphify-out/
 .playwright-mcp/*
 playwright-report/*
 test-results/*
+.pnpm-store/v11/index.db-shm

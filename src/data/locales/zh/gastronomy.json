@@ -122,6 +122,21 @@
       }
     },
     {
+      "id": "beer",
+      "title": "日本啤酒",
+      "text": "现场将供应桶装生啤 Kirin。",
+      "cta": "了解更多",
+      "details": {
+        "intro": "现场将供应桶装生啤 Kirin。",
+        "items": [
+          {
+            "name": "Kirin",
+            "description": "Kirin 日本桶装生啤。"
+          }
+        ]
+      }
+    },
+    {
       "id": "sake",
       "title": "日本酒",
       "text": "来自静冈、神奈川和大阪的五款日本酒，以及日本威士忌。",

@@ -3,6 +3,7 @@
     {
       "id": "yamaya",
       "name": "Yamaya",
+      "website": "https://yamaya.cz/",
       "category": "Japanische Küche",
       "description": "Japanische Gastronomie. Marek Hora, Spezialist für japanische Küche, bereitet authentische japanische Gerichte zu.",
       "image": "/images/exhibitors/yamaya_restaurace.png",
@@ -11,6 +12,7 @@
     {
       "id": "nagomi-tea",
       "name": "Nagomi tea",
+      "website": "https://www.nagomitea.eu/",
       "category": "Japanischer Tee",
       "description": "Hochwertige japanische Tees, direkt von Erzeugern in Japan bezogen.",
       "image": "/images/exhibitors/nagomi_tea.png",
@@ -19,6 +21,7 @@
     {
       "id": "nagomi-sake",
       "name": "Nagomi sake",
+      "website": "https://www.nagomisake.cz/",
       "category": "Sake",
       "description": "Präsentation und Verkostung von japanischem Sake.",
       "image": "/images/exhibitors/nagomi_sake.png",
@@ -45,8 +48,10 @@
     {
       "id": "japan-whisky",
       "name": "Japan Whisky",
+      "website": "https://jwhisky.com/",
       "category": "Japanischer Whisky",
       "description": "Auswahl japanischer Whiskys und Einführung in die japanische Whiskykultur.",
+      "image": "/images/exhibitors/japan_whisky.png",
       "imageMode": "photo"
     },
     {
@@ -59,17 +64,20 @@
     },
     {
       "id": "matcha-tea",
-      "name": "Matcha tea (Nagomi tea)",
+      "name": "Matcha & tea latte (Nagomi tea)",
       "category": "Japanischer Tee",
       "description": "Matcha und Tee-Latte aus gemahlenen Teesorten wie Wakocha, Hōjicha, Oolongcha, Hakucha und Matcha.",
       "imageMode": "photo"
     },
     {
       "id": "japanese-wagashi",
-      "name": "Japanische Wagashi",
+      "name": "Japanische Wagashi von Miyabi",
+      "website": "https://miyabi.cz/",
       "category": "Japanische Süßigkeiten",
-      "description": "Traditionelle japanische Wagashi-Süßigkeiten.",
-      "imageMode": "photo"
+      "short": "Traditionelle japanische Wagashi, zubereitet vom Restaurant Miyabi Prague.",
+      "description": "Das Restaurant Miyabi Prague wird für den Japan Day traditionelle japanische Wagashi bereitstellen. Besucher haben die Möglichkeit, klassische japanische Süßwaren zu probieren, die traditionell zum Tee serviert werden und eng mit der japanischen Esskultur verbunden sind.",
+      "image": "/images/exhibitors/miyabi.png",
+      "imageMode": "logo"
     },
     {
       "id": "world-bakery-60",
@@ -90,6 +98,7 @@
     {
       "id": "nihon-bunka-plzen",
       "name": "Nihon Bunka Plzeň",
+      "website": "https://nihonbunka.cz/",
       "category": "Japanische Kultur",
       "description": "Japanische Kultur, traditionelle Kleidung und Aktivitäten, präsentiert vom Verein Nihon Bunka.",
       "image": "/images/performers/nihon_bunka_plzen.png",
@@ -117,12 +126,13 @@
       "category": "Traditionelle japanische Siegelkunst – Tenkoku",
       "short": "Handgefertigte japanische Tenkoku-Siegel. Tenkokudō hat in 20 Jahren mehr als 2.000 individuelle Siegel geschaffen.",
       "description": "Das leuchtend zinnoberrote Rakkan-Siegel bildet traditionell den abschließenden Akzent eines kalligrafischen oder künstlerischen Werkes. Tenkokudō fertigt in Japan seit 20 Jahren Tenkoku-Siegel in Handarbeit und hat in dieser Zeit mehr als 2.000 individuelle Stücke geschaffen. Auf Wunsch kann ein Siegel mit einem Namen, ausgewählten Schriftzeichen oder auch einem einfachen Bildmotiv gestaltet werden. In der Ausstellung werden Abdrücke bereits gefertigter Siegel gezeigt. Jedes Siegel wird sorgfältig von Hand aus Stein gearbeitet und ist ein Unikat. Die Herstellung erfolgt ausschließlich auf Bestellung und dauert ungefähr vier Wochen.",
-      "image": "/images/exhibitors/tenkokudo-seal-impressions.jpg",
+      "image": "/images/exhibitors/tenkokudo.png",
       "imageMode": "photo"
     },
     {
       "id": "samurai-cz",
       "name": "SAMURAI.cz",
+      "image": "/images/exhibitors/samurai_noze.png",
       "website": "https://www.samurai.cz/",
       "category": "Japanische und Damast-Küchenmesser",
       "short": "Hochwertige Küchenmesser, Damastklingen und japanische Messertypen wie Santoku, Gyuto, Kiritsuke und Nakiri.",

@@ -122,6 +122,21 @@
       }
     },
     {
+      "id": "beer",
+      "title": "Japonské pivo",
+      "text": "Na čepu bude japonské pivo Kirin přímo ze sudu.",
+      "cta": "Zjistit více",
+      "details": {
+        "intro": "Na čepu bude japonské pivo Kirin přímo ze sudu.",
+        "items": [
+          {
+            "name": "Kirin",
+            "description": "Čepované japonské pivo."
+          }
+        ]
+      }
+    },
+    {
       "id": "sake",
       "title": "Saké",
       "text": "Pět různých saké z Shizuoky, Kanagawy a Osaky.",
