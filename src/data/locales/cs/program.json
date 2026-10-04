@@ -117,6 +117,15 @@
     },
     {
       "time": "16:45",
+      "endTime": "17:00",
+      "category": "SOUTĚŽE PRO DĚTI",
+      "title": "Vyhlášení dětských soutěží",
+      "description": "Vyhlášení výsledků obou dětských soutěží – Japonská proměna a Nejlépe vybarvený obrázek.",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "16:45",
       "endTime": "17:05",
       "performerId": "gorin",
       "title": "Gorin – samurajská lukostřelba",
@@ -149,13 +158,6 @@
       "title": "Gorin – tamešigiri",
       "description": "Ukázka tamešigiri – tradičního testovacího sekání rohoží japonskou katanou.",
       "type": "performance",
-      "confirmed": true
-    },
-    {
-      "time": "18:40",
-      "endTime": "18:55",
-      "title": "Závěr akce a vyhlášení soutěže o nejlepší kimono",
-      "type": "ceremony",
       "confirmed": true
     },
     {

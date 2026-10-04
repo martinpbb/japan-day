@@ -117,6 +117,15 @@
     },
     {
       "time": "16:45",
+      "endTime": "17:00",
+      "category": "儿童比赛",
+      "title": "儿童比赛结果公布",
+      "description": "公布两个儿童比赛项目的结果——日本主题变装和最佳涂色作品。",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "16:45",
       "endTime": "17:05",
       "performerId": "gorin",
       "title": "Gorin – 武士弓术",
@@ -149,13 +158,6 @@
       "title": "Gorin – 试斩",
       "description": "试斩（tameshigiri）演示，即使用日本刀对卷席进行传统试切。",
       "type": "performance",
-      "confirmed": true
-    },
-    {
-      "time": "18:40",
-      "endTime": "18:55",
-      "title": "闭幕节目与“最佳和服”比赛公布",
-      "type": "ceremony",
       "confirmed": true
     },
     {

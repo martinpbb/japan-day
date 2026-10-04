@@ -117,6 +117,15 @@
     },
     {
       "time": "16:45",
+      "endTime": "17:00",
+      "category": "KINDERWETTBEWERBE",
+      "title": "Siegerehrung der Kinderwettbewerbe",
+      "description": "Bekanntgabe der Ergebnisse beider Kinderwettbewerbe – Japanische Verwandlung und Das schönste ausgemalte Bild.",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "16:45",
       "endTime": "17:05",
       "performerId": "gorin",
       "title": "Gorin – Samurai-Bogenschießen",
@@ -149,13 +158,6 @@
       "title": "Gorin – Tameshigiri",
       "description": "Vorführung von Tameshigiri – der traditionellen Praxis des Testschnitts gerollter Matten mit einem japanischen Katana.",
       "type": "performance",
-      "confirmed": true
-    },
-    {
-      "time": "18:40",
-      "endTime": "18:55",
-      "title": "Abschlussprogramm und Bekanntgabe des Wettbewerbs um das beste Kimono",
-      "type": "ceremony",
       "confirmed": true
     },
     {

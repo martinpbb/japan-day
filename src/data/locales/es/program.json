@@ -117,6 +117,15 @@
     },
     {
       "time": "16:45",
+      "endTime": "17:00",
+      "category": "CONCURSOS INFANTILES",
+      "title": "Resultados de los concursos infantiles",
+      "description": "Anuncio de los resultados de ambos concursos infantiles – Transformación japonesa y El dibujo mejor coloreado.",
+      "type": "ceremony",
+      "confirmed": true
+    },
+    {
+      "time": "16:45",
       "endTime": "17:05",
       "performerId": "gorin",
       "title": "Gorin – tiro con arco samurái",
@@ -149,13 +158,6 @@
       "title": "Gorin – Tameshigiri",
       "description": "Demostración de tameshigiri, la práctica tradicional de corte de prueba sobre esteras enrolladas con una katana japonesa.",
       "type": "performance",
-      "confirmed": true
-    },
-    {
-      "time": "18:40",
-      "endTime": "18:55",
-      "title": "Programa de cierre y anuncio del concurso al mejor kimono",
-      "type": "ceremony",
       "confirmed": true
     },
     {
