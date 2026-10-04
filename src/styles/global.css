@@ -330,8 +330,13 @@ button {
   opacity: 0.65;
   white-space: nowrap;
 }
+.timelineDotWrapper {
+  height: 56px;
+  display: grid;
+  place-items: center;
+  align-self: start;
+}
 .timelineDot {
-  align-self: center;
   width: 7px;
   height: 7px;
   background: #a99f8e;
@@ -533,6 +538,30 @@ button {
 .childrenCard p {
   min-height: 4.8em;
 }
+.childrenCompetition {
+  margin-top: 58px;
+}
+.childrenCompetitionEyebrow {
+  margin: 0 0 10px;
+  color: var(--red);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+.childrenCompetition h2 { margin: 0 0 12px; }
+.childrenCompetitionIntro { max-width: 760px; color: var(--muted); line-height: 1.65; }
+.childrenCompetitionGrid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; margin-top: 28px; }
+.childrenCompetitionCard { padding: 28px; border: 1px solid #d9bba5; border-radius: var(--radius); background: #fffaf4; }
+.childrenCompetitionCard > svg, .childrenPrize > svg { color: var(--red); flex: 0 0 auto; }
+.childrenCompetitionCard h3 { margin: 18px 0 10px; }
+.childrenCompetitionCard p { color: var(--muted); line-height: 1.65; }
+.childrenCompetitionCard .childrenCompetitionLead { color: var(--ink); font-weight: 700; }
+.childrenCompetitionDetail { padding-top: 12px; border-top: 1px solid #ead8c8; }
+.childrenCompetitionEvaluation { margin-bottom: 0; font-size: 0.95rem; }
+.childrenCompetitionEvaluation strong { color: var(--ink); }
+.childrenPrize { display: flex; gap: 18px; align-items: flex-start; margin-top: 18px; padding: 22px 24px; border-left: 3px solid var(--red); background: rgba(255,255,255,.55); }
+.childrenPrize h3 { margin: 0 0 8px; }
+.childrenPrize p { max-width: 820px; margin: 0; color: var(--muted); line-height: 1.65; }
 .childrenCta {
   display: inline-flex;
   margin-top: 28px;
@@ -1030,6 +1059,7 @@ button {
   .partnerGrid {
     grid-template-columns: 1fr;
   }
+  .childrenCompetitionGrid { grid-template-columns: 1fr; }
   .programItem {
     grid-template-columns: 64px 15px 52px minmax(0, 1fr);
     gap: 12px;
