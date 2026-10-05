@@ -35,6 +35,14 @@ export default function PerformerDetail({ performer }) {
           <div className="programMeta">{performer.category}</div>
           <p className="performerLead">{performer.short}</p>
           <p>{performer.description}</p>
+          {performer.represents ? (
+            <div className="programMeta">{performer.represents.label}: {performer.represents.value}</div>
+          ) : null}
+          {performer.website ? (
+            <div className="programMeta">
+              {performer.website.label}: <a href={performer.website.url} target="_blank" rel="noopener noreferrer">{performer.website.url}</a>
+            </div>
+          ) : null}
           <ContentRenderer content={performer.content} />
 
           {appearances.length > 0 ? (
