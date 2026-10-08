@@ -152,8 +152,17 @@
       "confirmed": true
     },
     {
-      "time": "18:25",
-      "endTime": "18:50",
+      "time": "18:10",
+      "endTime": "18:30",
+      "performerId": "ogashi-dojo",
+      "title": "Ōgashi Dōjō – Katori Shintō-ryū",
+      "description": "Demostración de la escuela tradicional japonesa Tenshin Shōden Katori Shintō-ryū con espada, bastón largo y naginata.",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:45",
+      "endTime": "19:10",
       "performerId": "gorin",
       "title": "Gorin – Tameshigiri",
       "description": "Demostración de tameshigiri, la práctica tradicional de corte de prueba sobre esteras enrolladas con una katana japonesa.",

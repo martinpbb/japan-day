@@ -152,8 +152,17 @@
       "confirmed": true
     },
     {
-      "time": "18:25",
-      "endTime": "18:50",
+      "time": "18:10",
+      "endTime": "18:30",
+      "performerId": "ogashi-dojo",
+      "title": "Ōgashi Dōjō – Katori Shintō-ryū",
+      "description": "天真正伝香取神道流の演武。剣、長杖、薙刀を使った稽古を紹介します。",
+      "type": "performance",
+      "confirmed": true
+    },
+    {
+      "time": "18:45",
+      "endTime": "19:10",
       "performerId": "gorin",
       "title": "Gorin – 試し斬り",
       "description": "日本刀で巻き藁を斬る、伝統的な試し斬りの実演です。",

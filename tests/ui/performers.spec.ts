@@ -2,7 +2,7 @@ import { test, expect } from "../helpers/fixtures";
 import { assertRenderedDetail } from "../helpers/assertions";
 import { localeCodes, prefixFor, type Locale } from "../helpers/locales";
 
-const performers = ["aikido-chyne", "marek-hora", "noriko-komiyama", "nihon-bunka-plzen", "gorin", "aska-pluskal", "iaido", "sandomon-kendo-klub-praha", "marketa-franova", "shakuhachi", "yosakoi-hanamaru", "radka-tumova"] as const;
+const performers = ["aikido-chyne", "marek-hora", "noriko-komiyama", "nihon-bunka-plzen", "gorin", "aska-pluskal", "iaido", "sandomon-kendo-klub-praha", "marketa-franova", "shakuhachi", "yosakoi-hanamaru", "radka-tumova", "ogashi-dojo"] as const;
 
 function assertNoRuntimeErrors(runtime: { pageErrors: string[]; consoleErrors: string[] }) {
   expect(runtime.pageErrors, `page errors: ${runtime.pageErrors.join(" | ")}`).toEqual([]);
