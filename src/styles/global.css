@@ -1665,3 +1665,18 @@ button {
  * of this source code, in whole or in part, is prohibited
  * without prior written permission from the copyright holder.
  */
+
+.exhibitorDetailIntro { max-width: 850px; margin-bottom: 32px; }
+.exhibitorDetailIntro h1 { font-size: clamp(2rem, 4vw, 3.5rem); line-height: 1.15; overflow-wrap: anywhere; }
+.exhibitorDetailIntro .performerLead { font-size: 1.2rem; line-height: 1.7; color: var(--muted); }
+.exhibitorDetailImage { display: block; width: 100%; max-width: 100%; height: auto; object-fit: contain; border-radius: var(--radius); background: var(--paper-2); }
+.exhibitorDetailBody { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 36px; align-items: start; margin: 36px 0; }
+.exhibitorDetailStory p { margin: 0 0 24px; line-height: 1.85; }
+.exhibitorOrder { padding: clamp(20px, 4vw, 32px); border: 1px solid var(--line); border-top: 4px solid var(--red); border-radius: var(--radius); background: var(--white); }
+.exhibitorOrder h2 { margin-top: 0; }
+.exhibitorOrderPrice { font-size: 1.4rem; }
+.exhibitorOrder li { margin-bottom: 8px; line-height: 1.6; }
+.exhibitorDetailGallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; align-items: start; margin-bottom: 36px; }
+@media (max-width: 760px) {
+  .exhibitorDetailBody, .exhibitorDetailGallery { grid-template-columns: minmax(0, 1fr); }
+}

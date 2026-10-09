@@ -83,7 +83,9 @@
       "h1": "Dành cho trẻ em và gia đình",
       "intro": "Hoạt động thủ công, cuộc thi, origami, trò chơi và nhiều điều thú vị cho mọi lứa tuổi.",
       "breadcrumb": "Trẻ em và gia đình",
-      "schema": ["breadcrumb"]
+      "schema": [
+        "breadcrumb"
+      ]
     },
     "/vystavovatele": {
       "title": "Đơn vị trưng bày & bán hàng | Ngày Trà và Văn hóa Nhật Bản",
@@ -131,6 +133,20 @@
       "h1": "Liên hệ",
       "intro": "Thông tin liên hệ của ban tổ chức và thông tin dành cho các đối tác, đơn vị trưng bày tiềm năng.",
       "breadcrumb": "Liên hệ",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele/tenkokudo": {
+      "title": "Tenkokudō（てん刻堂） – Con dấu truyền thống Nhật Bản | Japan Day Chýně",
+      "description": "Nghệ thuật tenkoku truyền thống Nhật Bản – khắc thủ công con dấu bằng đá với tên, ký tự hoặc họa tiết đơn giản.",
+      "h1": "Tenkokudō（てん刻堂） – Con dấu truyền thống Nhật Bản",
+      "intro": "Nghệ thuật tenkoku truyền thống Nhật Bản – khắc thủ công con dấu bằng đá với tên, ký tự hoặc họa tiết đơn giản.",
+      "breadcrumb": "Tenkokudō（てん刻堂）",
+      "breadcrumbParent": {
+        "name": "Đơn vị trưng bày",
+        "path": "/vystavovatele"
+      },
       "schema": [
         "breadcrumb"
       ]

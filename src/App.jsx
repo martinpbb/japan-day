@@ -16,6 +16,7 @@ import Performers from "./components/Performers.jsx";
 import PerformerDetail from "./components/PerformerDetail.jsx";
 import Gastronomy from "./components/Gastronomy.jsx";
 import Children from "./components/Children.jsx";
+import ExhibitorDetail from "./components/ExhibitorDetail.jsx";
 import Exhibitors from "./components/Exhibitors.jsx";
 import VideoSection from "./components/VideoSection.jsx";
 import Gallery from "./components/Gallery.jsx";
@@ -97,8 +98,9 @@ function PerformerPage({ performer, route }) {
 
 export default function App() {
   const { content } = useI18n();
-  const { seo, performers } = content;
+  const { seo, performers, exhibitors } = content;
   const path = normalizePath(stripLocalePrefix(window.location.pathname));
+  const exhibitor = exhibitors.items.find((item) => item.detail && path === `/vystavovatele/${item.id}`);
   const performer = getPerformerFromPath(path, performers);
   const performerRoute = performer ? buildPerformerRoute(performer, seo) : null;
   const route = performerRoute || seo.routes[path] || seo.routes["/"];
@@ -118,7 +120,12 @@ export default function App() {
       <SmartsuppChat />
       <SEO path={isKnown ? path : "/"} route={route} />
       <Header />
-      {performer ? (
+      {exhibitor ? (
+        <main>
+          <Breadcrumbs current={route.breadcrumb} parent={route.breadcrumbParent} />
+          <ExhibitorDetail exhibitor={exhibitor} />
+        </main>
+      ) : performer ? (
         <PerformerPage performer={performer} route={route} />
       ) : path === "/" || !isKnown ? (
         <HomePage />

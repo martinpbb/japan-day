@@ -122,12 +122,29 @@
     },
     {
       "id": "tenkokudo",
-      "name": "てん刻堂 – Tenkokudō",
+      "name": "Tenkokudō（てん刻堂）",
       "category": "Nghệ thuật khắc ấn truyền thống Nhật Bản – Tenkoku",
-      "short": "Những con dấu tenkoku Nhật Bản được chế tác thủ công. Trong 20 năm, Tenkokudō đã tạo ra hơn 2.000 con dấu độc bản.",
-      "description": "Con dấu rakkan màu son đỏ rực thường được dùng như nét hoàn thiện cuối cùng cho các tác phẩm thư pháp và nghệ thuật Nhật Bản. Trong suốt 20 năm hoạt động tại Nhật Bản, Tenkokudō đã thủ công chế tác hơn 2.000 con dấu tenkoku độc bản. Có thể đặt làm con dấu với tên, ký tự theo yêu cầu hoặc thêm một họa tiết đơn giản. Tại triển lãm sẽ trưng bày các mẫu dấu đã được thực hiện trước đây. Mỗi con dấu được chế tác cẩn thận bằng tay từ đá và là một sản phẩm duy nhất. Sản phẩm chỉ được làm theo đơn đặt hàng, với thời gian hoàn thiện khoảng bốn tuần.",
+      "short": "Con dấu tenkoku truyền thống Nhật Bản được chế tác thủ công từ đá. Hơn 2.000 con dấu độc bản đã được tạo ra trong 20 năm.",
+      "description": "Tenkokudō giới thiệu nghệ thuật tenkoku truyền thống của Nhật Bản – kỹ thuật khắc con dấu thủ công trên đá. Những dấu in màu đỏ son đặc trưng, còn được gọi là rakkan, có thể được sử dụng như chữ ký cá nhân hoặc như một chi tiết hoàn thiện cho thư pháp và tác phẩm nghệ thuật.\n\nNghệ nhân đã theo đuổi công việc này tại Nhật Bản trong suốt 20 năm và trong thời gian đó đã chế tác thủ công hơn 2.000 con dấu độc bản. Mỗi con dấu được làm riêng và có thể mang tên, ký tự được chọn hoặc một họa tiết đơn giản.\n\nTại Japan Day, khách tham quan có thể xem các mẫu dấu và tác phẩm đã được thực hiện trước đây. Ngoài ra còn có thể đặt làm một con dấu độc đáo bằng đá theo yêu cầu. Thời gian hoàn thiện thường khoảng bốn tuần.",
       "image": "/images/exhibitors/tenkokudo.png",
-      "imageMode": "photo"
+      "imageMode": "photo",
+      "detail": {
+        "heading": "Tenkokudō（てん刻堂） – Con dấu truyền thống Nhật Bản",
+        "lead": "Nghệ thuật tenkoku truyền thống Nhật Bản – khắc thủ công con dấu bằng đá với tên, ký tự hoặc họa tiết đơn giản.",
+        "customOrder": {
+          "title": "Con dấu đặt làm riêng",
+          "price": "500 CZK cho mỗi ký tự",
+          "priceNote": "Ký tự có thể là kanji, hiragana hoặc katakana.",
+          "details": [
+            "chế tác thủ công từ đá",
+            "tên hoặc ký tự được chọn",
+            "kanji, hiragana hoặc katakana",
+            "sản xuất theo đơn đặt hàng",
+            "thời gian hoàn thiện khoảng 4 tuần"
+          ]
+        }
+      },
+      "gallery": []
     },
     {
       "id": "samurai-cz",

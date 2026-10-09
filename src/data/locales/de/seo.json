@@ -83,7 +83,9 @@
       "h1": "Für Kinder und Familien",
       "intro": "Basteln, Wettbewerbe, Origami, Spiele und mehr für kleine und große Gäste.",
       "breadcrumb": "Kinder und Familien",
-      "schema": ["breadcrumb"]
+      "schema": [
+        "breadcrumb"
+      ]
     },
     "/vystavovatele": {
       "title": "Aussteller & Verkaufsstände | Japanischer Tag des Tees und der Kultur",
@@ -131,6 +133,20 @@
       "h1": "Kontakt",
       "intro": "Kontaktdaten der Veranstalter und Informationen für potenzielle Partner und Aussteller.",
       "breadcrumb": "Kontakt",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele/tenkokudo": {
+      "title": "Tenkokudō（てん刻堂） – Traditionelle japanische Siegel | Japan Day Chýně",
+      "description": "Traditionelle japanische Tenkoku-Siegelkunst – handgefertigte Steinsiegel mit Namen, ausgewählten Zeichen oder einem einfachen Motiv.",
+      "h1": "Tenkokudō（てん刻堂） – Traditionelle japanische Siegel",
+      "intro": "Traditionelle japanische Tenkoku-Siegelkunst – handgefertigte Steinsiegel mit Namen, ausgewählten Zeichen oder einem einfachen Motiv.",
+      "breadcrumb": "Tenkokudō（てん刻堂）",
+      "breadcrumbParent": {
+        "name": "Aussteller",
+        "path": "/vystavovatele"
+      },
       "schema": [
         "breadcrumb"
       ]

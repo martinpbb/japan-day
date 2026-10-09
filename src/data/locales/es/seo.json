@@ -83,7 +83,9 @@
       "h1": "Para niños y familias",
       "intro": "Manualidades, concursos, origami, juegos y más para visitantes pequeños y mayores.",
       "breadcrumb": "Niños y familias",
-      "schema": ["breadcrumb"]
+      "schema": [
+        "breadcrumb"
+      ]
     },
     "/vystavovatele": {
       "title": "Expositores y vendedores | Día Japonés del Té y la Cultura",
@@ -131,6 +133,20 @@
       "h1": "Contacto",
       "intro": "Datos de contacto de los organizadores e información para posibles colaboradores y expositores.",
       "breadcrumb": "Contacto",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele/tenkokudo": {
+      "title": "Tenkokudō（てん刻堂） – Sellos tradicionales japoneses | Japan Day Chýně",
+      "description": "Arte tradicional japonés de tenkoku: sellos de piedra tallados a mano con nombres, caracteres seleccionados o un motivo sencillo.",
+      "h1": "Tenkokudō（てん刻堂） – Sellos tradicionales japoneses",
+      "intro": "Arte tradicional japonés de tenkoku: sellos de piedra tallados a mano con nombres, caracteres seleccionados o un motivo sencillo.",
+      "breadcrumb": "Tenkokudō（てん刻堂）",
+      "breadcrumbParent": {
+        "name": "Expositores",
+        "path": "/vystavovatele"
+      },
       "schema": [
         "breadcrumb"
       ]

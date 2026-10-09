@@ -122,12 +122,29 @@
     },
     {
       "id": "tenkokudo",
-      "name": "てん刻堂 – Tenkokudō",
+      "name": "Tenkokudō（てん刻堂）",
       "category": "Grabado tradicional japonés de sellos – Tenkoku",
-      "short": "Sellos tenkoku japoneses elaborados a mano. En 20 años, Tenkokudō ha creado más de 2.000 sellos únicos.",
-      "description": "El intenso sello bermellón rakkan se utiliza tradicionalmente como toque final en obras de caligrafía y arte japonés. Desde hace 20 años, Tenkokudō elabora a mano en Japón sellos tenkoku y ha creado más de 2.000 piezas únicas. Es posible encargar un sello con un nombre, caracteres elegidos o incluso un sencillo motivo gráfico. En la exposición se podrán ver impresiones de sellos realizados anteriormente. Cada sello se talla cuidadosamente a mano en piedra y constituye una pieza única. La producción se realiza exclusivamente por encargo y tarda aproximadamente cuatro semanas.",
+      "short": "Sellos tenkoku tradicionales japoneses tallados a mano en piedra. Más de 2.000 sellos originales creados durante 20 años.",
+      "description": "Tenkokudō presenta el arte tradicional japonés del tenkoku, el tallado manual de sellos en piedra. Sus característicos sellos rojos, conocidos también como rakkan, se utilizan por ejemplo como firma personal o como elemento final en obras de caligrafía y arte.\n\nLa artista lleva 20 años dedicándose a esta técnica en Japón y durante este tiempo ha creado a mano más de 2.000 sellos originales. Cada pieza se realiza individualmente y puede incluir un nombre, caracteres elegidos o un sencillo motivo gráfico.\n\nDurante el Japan Day se mostrarán ejemplos de impresiones y trabajos realizados anteriormente. También será posible encargar un sello único tallado a mano en piedra. La producción se realiza por encargo y suele tardar aproximadamente cuatro semanas.",
       "image": "/images/exhibitors/tenkokudo.png",
-      "imageMode": "photo"
+      "imageMode": "photo",
+      "detail": {
+        "heading": "Tenkokudō（てん刻堂） – Sellos tradicionales japoneses",
+        "lead": "Arte tradicional japonés de tenkoku: sellos de piedra tallados a mano con nombres, caracteres seleccionados o un motivo sencillo.",
+        "customOrder": {
+          "title": "Sello personalizado",
+          "price": "500 CZK por carácter",
+          "priceNote": "El carácter puede ser kanji, hiragana o katakana.",
+          "details": [
+            "tallado a mano en piedra",
+            "nombre o caracteres elegidos",
+            "kanji, hiragana o katakana",
+            "producción por encargo",
+            "plazo aproximado de 4 semanas"
+          ]
+        }
+      },
+      "gallery": []
     },
     {
       "id": "samurai-cz",

@@ -122,12 +122,29 @@
     },
     {
       "id": "tenkokudo",
-      "name": "てん刻堂 – Tenkokudō",
+      "name": "Tenkokudō（てん刻堂）",
       "category": "Tradiční japonské pečetě – tenkoku",
-      "short": "Ručně vyráběné japonské pečetě tenkoku. Tenkokudō za 20 let vytvořilo více než 2 000 originálních pečetí.",
-      "description": "Výrazná červená pečeť rakkan-in je tradičním zakončením kaligrafických a výtvarných děl. Tenkokudō se v Japonsku již 20 let věnuje ruční výrobě pečetí tenkoku a za tuto dobu vytvořilo více než 2 000 originálních kusů. Na přání lze vyrobit pečeť se jménem, vybranými znaky nebo jednoduchým obrazovým motivem. Na výstavě budou k vidění otisky již vytvořených pečetí. Každá pečeť vzniká ručně z kamene jako jedinečný originál. Výroba probíhá výhradně na objednávku a trvá přibližně čtyři týdny.",
+      "short": "Tradiční japonské pečetě tenkoku, ručně vyráběné z kamene. Více než 2 000 originálních pečetí během 20 let.",
+      "description": "Tenkokudō představuje tradiční japonské umění tenkoku – ruční výrobu a rytí pečetí do kamene. Výrazné červené otisky, známé také jako rakkan, se používají například jako osobní podpis nebo jako završení kaligrafických a výtvarných děl.\n\nAutorka se této tvorbě věnuje v Japonsku již 20 let a během této doby ručně vytvořila více než 2 000 originálních pečetí. Každá vzniká individuálně a je možné do ní zpracovat jméno, vybrané znaky nebo jednoduchý obrazový motiv.\n\nNa Japonském dni budou k vidění ukázky již vytvořených otisků a realizací. Zájemci si mohou objednat také vlastní pečeť vyrobenou na zakázku z kamene. Výroba probíhá individuálně a běžná dodací doba je přibližně 4 týdny.",
       "image": "/images/exhibitors/tenkokudo.png",
-      "imageMode": "photo"
+      "imageMode": "photo",
+      "detail": {
+        "heading": "Tenkokudō（てん刻堂） – tradiční japonské pečetě",
+        "lead": "Tradiční japonské umění tenkoku – ručně vyráběné kamenné pečetě, které mohou nést jméno, vybrané znaky nebo jednoduchý motiv.",
+        "customOrder": {
+          "title": "Pečeť na zakázku",
+          "price": "500 Kč za 1 znak",
+          "priceNote": "Znak může být proveden jako kanji, hiragana nebo katakana.",
+          "details": [
+            "ruční výroba z kamene",
+            "jméno nebo vybrané znaky",
+            "kanji, hiragana nebo katakana",
+            "výroba na objednávku",
+            "dodání přibližně 4 týdny"
+          ]
+        }
+      },
+      "gallery": []
     },
     {
       "id": "samurai-cz",

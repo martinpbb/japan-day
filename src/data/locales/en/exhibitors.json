@@ -122,12 +122,29 @@
     },
     {
       "id": "tenkokudo",
-      "name": "てん刻堂 – Tenkokudō",
+      "name": "Tenkokudō（てん刻堂）",
       "category": "Traditional Japanese seal engraving – Tenkoku",
-      "short": "Handcrafted Japanese tenkoku seals. Over 20 years, Tenkokudō has created more than 2,000 original seals.",
-      "description": "The vivid vermilion rakkan seal is traditionally used as the finishing touch on works of Japanese calligraphy and art. For 20 years in Japan, Tenkokudō has handcrafted more than 2,000 individual tenkoku seals. A seal can be created with your preferred name or characters, and it can also include a simple pictorial motif. The exhibition presents impressions of seals created over the years. Each unique seal is carefully carved by hand from stone. All seals are made to order, with an approximate production time of four weeks.",
+      "short": "Traditional Japanese tenkoku seals, handcrafted from stone. More than 2,000 original seals created over 20 years.",
+      "description": "Tenkokudō presents the traditional Japanese art of tenkoku – the hand carving of seals in stone. Their vivid red impressions, also known as rakkan, are used for example as a personal signature or as a finishing element on calligraphy and works of art.\n\nThe artist has been creating these seals in Japan for 20 years and has handcrafted more than 2,000 original pieces during that time. Each seal is made individually and can feature a name, selected characters or a simple pictorial motif.\n\nAt Japan Day, visitors will be able to see examples of previously created impressions and finished works. It is also possible to order a unique custom seal carved by hand from stone. Production is made to order and usually takes approximately four weeks.",
       "image": "/images/exhibitors/tenkokudo.png",
-      "imageMode": "photo"
+      "imageMode": "photo",
+      "detail": {
+        "heading": "Tenkokudō（てん刻堂） – Traditional Japanese Seals",
+        "lead": "Traditional Japanese tenkoku seal carving – handcrafted stone seals featuring a name, selected characters or a simple motif.",
+        "customOrder": {
+          "title": "Custom-made seal",
+          "price": "CZK 500 per character",
+          "priceNote": "The character may be kanji, hiragana or katakana.",
+          "details": [
+            "handcrafted from stone",
+            "name or selected characters",
+            "kanji, hiragana or katakana",
+            "made to order",
+            "approximate production time: 4 weeks"
+          ]
+        }
+      },
+      "gallery": []
     },
     {
       "id": "samurai-cz",

@@ -1,12 +1,35 @@
 {
   "organizers": [
-    { "name": "Město Chýně", "image": "/images/organizers/mesto_chyne.png" },
-    { "name": "Ing. Martin Labudík", "image": "" }
+    {
+      "name": "Město Chýně",
+      "image": "/images/organizers/mesto_chyne.png"
+    },
+    {
+      "name": "Ing. Martin Labudík",
+      "image": ""
+    }
   ],
   "partners": [
-    { "name": "Velvyslanectví Japonska v České republice", "note": "Čestná záštita", "image": "/images/partners/velvyslanectvi_japonska_v_praze.png" },
-    { "name": "Fujitsu", "image": "/images/partners/fujitsu_company.jpg" },
-    { "name": "Nagomi s.r.o.", "image": "/images/partners/nagomi.png" },
-    { "name": "ZŠ Bolzanova", "image": "/images/partners/zakladni_skola_bolzanova.png" }
+    {
+      "name": "Velvyslanectví Japonska v České republice",
+      "note": "Čestná záštita",
+      "image": "/images/partners/velvyslanectvi_japonska_v_praze.png"
+    },
+    {
+      "name": "Fujitsu",
+      "image": "/images/partners/fujitsu_company.jpg"
+    },
+    {
+      "name": "Nagomi s.r.o.",
+      "image": "/images/partners/nagomi.png"
+    },
+    {
+      "name": "ZŠ Bolzanova",
+      "image": "/images/partners/zakladni_skola_bolzanova.png"
+    },
+    {
+      "name": "Glaceo",
+      "image": "/images/exhibitors/glaceo.png"
+    }
   ]
 }

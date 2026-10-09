@@ -54,9 +54,9 @@
         "breadcrumb"
       ]
     },
-  "/ucinkujici": {
-    "sectionKicker": "HOSTÉ A ÚČINKUJÍCÍ",
-    "sectionTitle": "Poznejte lidi, kteří vám přiblíží Japonsko",
+    "/ucinkujici": {
+      "sectionKicker": "HOSTÉ A ÚČINKUJÍCÍ",
+      "sectionTitle": "Poznejte lidi, kteří vám přiblíží Japonsko",
       "title": "Účinkující | Japonský den čaje a kultury 2026",
       "description": "Poznejte účinkující a hosty Japonského dne čaje a kultury 2026 — osobnosti japonské gastronomie, ikebany, bojových umění, hudby a tance.",
       "h1": "Účinkující a hosté",
@@ -84,7 +84,9 @@
       "h1": "Pro děti a rodiny",
       "intro": "Tvoření, soutěže, origami, hry a další program pro malé i velké návštěvníky.",
       "breadcrumb": "Pro děti a rodiny",
-      "schema": ["breadcrumb"]
+      "schema": [
+        "breadcrumb"
+      ]
     },
     "/vystavovatele": {
       "title": "Vystavovatelé a prodejci | Japonský den čaje a kultury",
@@ -132,6 +134,20 @@
       "h1": "Kontakt",
       "intro": "Kontakt na pořadatele a informace pro zájemce o spolupráci.",
       "breadcrumb": "Kontakt",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele/tenkokudo": {
+      "title": "Tenkokudō（てん刻堂） – tradiční japonské pečetě | Japan Day Chýně",
+      "description": "Tradiční japonské umění tenkoku – ručně vyráběné kamenné pečetě, které mohou nést jméno, vybrané znaky nebo jednoduchý motiv.",
+      "h1": "Tenkokudō（てん刻堂） – tradiční japonské pečetě",
+      "intro": "Tradiční japonské umění tenkoku – ručně vyráběné kamenné pečetě, které mohou nést jméno, vybrané znaky nebo jednoduchý motiv.",
+      "breadcrumb": "Tenkokudō（てん刻堂）",
+      "breadcrumbParent": {
+        "name": "Vystavovatelé",
+        "path": "/vystavovatele"
+      },
       "schema": [
         "breadcrumb"
       ]

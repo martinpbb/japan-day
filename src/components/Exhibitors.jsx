@@ -11,8 +11,9 @@ import React from "react";
 import Section from "./Section.jsx";
 import ImageWithFallback from "./ImageWithFallback.jsx";
 import { useI18n } from "../lib/useI18n.js";
+import { addLocalePrefix } from "../lib/i18nPaths.js";
 export default function Exhibitors() {
-  const { site, content } = useI18n();
+  const { locale, site, content } = useI18n();
   const route = content.seo.routes["/vystavovatele"];
 
   const renderCard = (item) => {
@@ -35,7 +36,9 @@ export default function Exhibitors() {
       </div>
     </>;
 
-    return externalWebsite
+    return item.detail
+      ? <a className="exhibitorCard exhibitorCardLink" href={addLocalePrefix(`/vystavovatele/${item.id}`, locale)} key={item.id}>{card}</a>
+      : externalWebsite
       ? <a className="exhibitorCard exhibitorCardLink" href={externalWebsite} target="_blank" rel="noopener noreferrer" key={item.id || item.name}>{card}</a>
       : <article className="exhibitorCard" key={item.id || item.name}>{card}</article>;
   };

@@ -122,12 +122,29 @@
     },
     {
       "id": "tenkokudo",
-      "name": "てん刻堂 – Tenkokudō",
+      "name": "Tenkokudō（てん刻堂）",
       "category": "Traditionelle japanische Siegelkunst – Tenkoku",
-      "short": "Handgefertigte japanische Tenkoku-Siegel. Tenkokudō hat in 20 Jahren mehr als 2.000 individuelle Siegel geschaffen.",
-      "description": "Das leuchtend zinnoberrote Rakkan-Siegel bildet traditionell den abschließenden Akzent eines kalligrafischen oder künstlerischen Werkes. Tenkokudō fertigt in Japan seit 20 Jahren Tenkoku-Siegel in Handarbeit und hat in dieser Zeit mehr als 2.000 individuelle Stücke geschaffen. Auf Wunsch kann ein Siegel mit einem Namen, ausgewählten Schriftzeichen oder auch einem einfachen Bildmotiv gestaltet werden. In der Ausstellung werden Abdrücke bereits gefertigter Siegel gezeigt. Jedes Siegel wird sorgfältig von Hand aus Stein gearbeitet und ist ein Unikat. Die Herstellung erfolgt ausschließlich auf Bestellung und dauert ungefähr vier Wochen.",
+      "short": "Traditionelle japanische Tenkoku-Siegel, von Hand aus Stein gefertigt. Mehr als 2.000 individuelle Siegel in 20 Jahren.",
+      "description": "Tenkokudō präsentiert die traditionelle japanische Kunst des Tenkoku – das handwerkliche Gravieren von Siegeln in Stein. Die charakteristischen roten Abdrücke, auch Rakkan genannt, dienen beispielsweise als persönliche Signatur oder als abschließendes Element bei Kalligrafien und Kunstwerken.\n\nDie Künstlerin widmet sich dieser Arbeit seit 20 Jahren in Japan und hat in dieser Zeit mehr als 2.000 individuelle Siegel von Hand gefertigt. Jedes Siegel wird einzeln hergestellt und kann einen Namen, ausgewählte Schriftzeichen oder ein einfaches Bildmotiv enthalten.\n\nBeim Japan Day werden Beispiele bereits gefertigter Siegelabdrücke und Arbeiten gezeigt. Interessierte können außerdem ein individuelles Siegel aus Stein auf Bestellung anfertigen lassen. Die Herstellung dauert in der Regel etwa vier Wochen.",
       "image": "/images/exhibitors/tenkokudo.png",
-      "imageMode": "photo"
+      "imageMode": "photo",
+      "detail": {
+        "heading": "Tenkokudō（てん刻堂） – Traditionelle japanische Siegel",
+        "lead": "Traditionelle japanische Tenkoku-Siegelkunst – handgefertigte Steinsiegel mit Namen, ausgewählten Zeichen oder einem einfachen Motiv.",
+        "customOrder": {
+          "title": "Individuelles Siegel auf Bestellung",
+          "price": "500 CZK pro Zeichen",
+          "priceNote": "Das Zeichen kann Kanji, Hiragana oder Katakana sein.",
+          "details": [
+            "handgefertigt aus Stein",
+            "Name oder ausgewählte Schriftzeichen",
+            "Kanji, Hiragana oder Katakana",
+            "Fertigung auf Bestellung",
+            "Lieferzeit ca. 4 Wochen"
+          ]
+        }
+      },
+      "gallery": []
     },
     {
       "id": "samurai-cz",

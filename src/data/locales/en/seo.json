@@ -83,7 +83,9 @@
       "h1": "For children and families",
       "intro": "Crafts, competitions, origami, games and more for young and grown-up visitors.",
       "breadcrumb": "Children and families",
-      "schema": ["breadcrumb"]
+      "schema": [
+        "breadcrumb"
+      ]
     },
     "/vystavovatele": {
       "title": "Exhibitors & Vendors | Japanese Day of Tea and Culture",
@@ -131,6 +133,20 @@
       "h1": "Contact",
       "intro": "Contact details for the organisers and information for potential partners and exhibitors.",
       "breadcrumb": "Contact",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele/tenkokudo": {
+      "title": "Tenkokudō（てん刻堂） – Traditional Japanese Seals | Japan Day Chýně",
+      "description": "Traditional Japanese tenkoku seal carving – handcrafted stone seals featuring a name, selected characters or a simple motif.",
+      "h1": "Tenkokudō（てん刻堂） – Traditional Japanese Seals",
+      "intro": "Traditional Japanese tenkoku seal carving – handcrafted stone seals featuring a name, selected characters or a simple motif.",
+      "breadcrumb": "Tenkokudō（てん刻堂）",
+      "breadcrumbParent": {
+        "name": "Exhibitors",
+        "path": "/vystavovatele"
+      },
       "schema": [
         "breadcrumb"
       ]

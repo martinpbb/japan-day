@@ -83,7 +83,9 @@
       "h1": "儿童与家庭",
       "intro": "手工、比赛、折纸、游戏等适合大小游客的活动。",
       "breadcrumb": "儿童与家庭",
-      "schema": ["breadcrumb"]
+      "schema": [
+        "breadcrumb"
+      ]
     },
     "/vystavovatele": {
       "title": "参展商与销售摊位 | 日本茶与文化日",
@@ -131,6 +133,20 @@
       "h1": "联系",
       "intro": "主办方联系方式，以及面向潜在合作伙伴和参展商的信息。",
       "breadcrumb": "联系",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele/tenkokudo": {
+      "title": "Tenkokudō（てん刻堂）– 日本传统篆刻与印章 | Japan Day Chýně",
+      "description": "日本传统篆刻艺术——将姓名、指定文字或简单图案手工雕刻在石材上。",
+      "h1": "Tenkokudō（てん刻堂）– 日本传统篆刻与印章",
+      "intro": "日本传统篆刻艺术——将姓名、指定文字或简单图案手工雕刻在石材上。",
+      "breadcrumb": "Tenkokudō（てん刻堂）",
+      "breadcrumbParent": {
+        "name": "参展商",
+        "path": "/vystavovatele"
+      },
       "schema": [
         "breadcrumb"
       ]

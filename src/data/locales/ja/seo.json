@@ -81,7 +81,9 @@
       "h1": "子どもと家族のために",
       "intro": "工作、コンテスト、折り紙、ゲームなど、家族で楽しめるプログラムです。",
       "breadcrumb": "子どもと家族",
-      "schema": ["breadcrumb"]
+      "schema": [
+        "breadcrumb"
+      ]
     },
     "/vystavovatele": {
       "title": "出展者・販売ブース | 日本茶と日本文化の日",
@@ -129,6 +131,20 @@
       "h1": "お問い合わせ",
       "intro": "主催者へのお問い合わせ、および協力をご検討の方へのご案内です。",
       "breadcrumb": "お問い合わせ",
+      "schema": [
+        "breadcrumb"
+      ]
+    },
+    "/vystavovatele/tenkokudo": {
+      "title": "てん刻堂 – 日本の伝統的な篆刻 | Japan Day Chýně",
+      "description": "お名前や文字、シンプルな絵柄を石材に彫る、日本の伝統的な篆刻です。",
+      "h1": "てん刻堂 – 日本の伝統的な篆刻",
+      "intro": "お名前や文字、シンプルな絵柄を石材に彫る、日本の伝統的な篆刻です。",
+      "breadcrumb": "てん刻堂",
+      "breadcrumbParent": {
+        "name": "出展者",
+        "path": "/vystavovatele"
+      },
       "schema": [
         "breadcrumb"
       ]
