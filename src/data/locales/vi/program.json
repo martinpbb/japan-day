@@ -1,6 +1,10 @@
 {
   "status": "published",
   "note": "Chương trình Ngày Trà và Văn hóa Nhật Bản 2026. Chương trình có thể thay đổi.",
+  "plan": {
+    "image": "/images/gallery/mapa.png",
+    "alt": "S? ?? ??a ?i?m s? ki?n"
+  },
   "items": [
     {
       "time": "10:00",

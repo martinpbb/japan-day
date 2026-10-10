@@ -1,6 +1,10 @@
 {
   "status": "published",
   "note": "Programm des Japanischen Tages des Tees und der Kultur 2026. Änderungen vorbehalten.",
+  "plan": {
+    "image": "/images/gallery/mapa.png",
+    "alt": "Lageplan des Veranstaltungsgel?ndes"
+  },
   "items": [
     {
       "time": "10:00",

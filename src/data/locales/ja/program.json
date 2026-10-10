@@ -1,6 +1,10 @@
 {
   "status": "published",
   "note": "日本茶と日本文化の日 2026のプログラムです。内容・時間は変更となる場合があります。",
+  "plan": {
+    "image": "/images/gallery/mapa.png",
+    "alt": "?????????"
+  },
   "items": [
     {
       "time": "10:00",

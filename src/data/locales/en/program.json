@@ -1,6 +1,10 @@
 {
   "status": "published",
   "note": "Programme for the Japanese Day of Tea and Culture 2026. Programme subject to change.",
+  "plan": {
+    "image": "/images/gallery/mapa.png",
+    "alt": "Event venue plan"
+  },
   "items": [
     {
       "time": "10:00",

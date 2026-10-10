@@ -302,6 +302,22 @@ button {
   letter-spacing: 0.15em;
   font-weight: 800;
 }
+.programPlanSection {
+  margin-top: 48px;
+}
+
+.programPlan {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--white);
+  margin-bottom: 32px;
+}
+
 .timeline {
   border-top: 1px solid var(--line);
 }

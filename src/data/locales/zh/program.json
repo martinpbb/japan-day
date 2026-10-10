@@ -1,6 +1,10 @@
 {
   "status": "published",
   "note": "2026 日本茶与文化日节目。节目可能调整。",
+  "plan": {
+    "image": "/images/gallery/mapa.png",
+    "alt": "???????"
+  },
   "items": [
     {
       "time": "10:00",

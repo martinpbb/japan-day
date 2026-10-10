@@ -1,6 +1,12 @@
 {
   "status": "published",
   "note": "Program Japonského dne čaje a kultury 2026. Změna programu vyhrazena.",
+  "plan": {
+    "title": "Orientační plán haly",
+    "description": "Rozmístění pódia, stánků, aktivit a občerstvení ve sportovní hale ZŠ Bolzanova v Chýni.",
+    "image": "/images/gallery/mapa.png",
+    "alt": "Pl?n are?lu akce"
+  },
   "items": [
     {
       "time": "10:00",
