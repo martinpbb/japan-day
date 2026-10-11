@@ -16,4 +16,4 @@ Tests are grouped with `@smoke`, `@ui`, `@seo`, `@a11y`, `@responsive`, `@data`,
 
 Visual tests currently save explicit diagnostic screenshots under `test-results`. Formspree is intercepted in contact tests; no real message is sent. Smartsupp, YouTube, Google Maps, and GTM network failures are treated as third-party noise while first-party failures remain actionable. Production tests are skipped unless `BASE_URL` points at the production origin.
 
-The data/static tests inspect source JSON and existing `dist` output. Run `npm run build` before those tests when checking the 154-route sitemap and generated documents. Browser binaries are installed separately with Playwright's install command.
+The data/static tests inspect source JSON and existing `dist` output. Run `npm run build` before these tests when checking the sitemap and generated documents; sitemap expectations are derived from localized SEO routes and detail entities in source data. Browser binaries are installed separately with Playwright's install command.

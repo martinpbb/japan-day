@@ -19,10 +19,12 @@ test("@data sitemap is valid when build output exists", () => {
     const dataDir = path.resolve(process.cwd(), "src/data/locales", locale);
     const seo = JSON.parse(fs.readFileSync(path.join(dataDir, "seo.json"), "utf8"));
     const performers = JSON.parse(fs.readFileSync(path.join(dataDir, "performers.json"), "utf8"));
+    const exhibitors = JSON.parse(fs.readFileSync(path.join(dataDir, "exhibitors.json"), "utf8"));
     // Match the generator's union of editorial routes and performer detail routes.
     const routes = new Set<string>([
       ...Object.keys(seo.routes),
       ...performers.items.map((performer: { id: string }) => `/ucinkujici/${performer.id}`),
+      ...exhibitors.items.filter((exhibitor: { detail?: unknown }) => exhibitor.detail).map((exhibitor: { id: string }) => `/vystavovatele/${exhibitor.id}`),
     ]);
     const toUrl = (route: string) => `https://japanday.cz${prefixFor(locale, route).replace(/\/$/, "")}/`;
     for (const route of routes) expectedUrls.add(toUrl(route));

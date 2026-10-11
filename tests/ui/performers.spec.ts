@@ -1,8 +1,10 @@
 import { test, expect } from "../helpers/fixtures";
 import { assertRenderedDetail } from "../helpers/assertions";
 import { localeCodes, prefixFor, type Locale } from "../helpers/locales";
+import { readLocaleContent } from "../helpers/content";
 
 const performers = ["aikido-chyne", "marek-hora", "noriko-komiyama", "nihon-bunka-plzen", "gorin", "aska-pluskal", "iaido", "sandomon-kendo-klub-praha", "marketa-franova", "shakuhachi", "yosakoi-hanamaru", "radka-tumova", "ogashi-dojo"] as const;
+const ogashi = readLocaleContent<any>("performers").items.find((performer: { id: string }) => performer.id === "ogashi-dojo");
 
 function assertNoRuntimeErrors(runtime: { pageErrors: string[]; consoleErrors: string[] }) {
   expect(runtime.pageErrors, `page errors: ${runtime.pageErrors.join(" | ")}`).toEqual([]);
@@ -40,4 +42,14 @@ test("@ui one performer click flow renders in every locale", async ({ page, runt
     await assertRenderedDetail(page, /\S+/);
     assertNoRuntimeErrors(runtime);
   }
+});
+
+test("@ui ogashi-dojo detail preserves its Japanese name, image and programme link", async ({ page }) => {
+  await page.goto("/ucinkujici/ogashi-dojo");
+  await expect(page.locator("main h1")).toHaveText(ogashi.name);
+  const image = page.locator(".performerDetailImage");
+  await expect(image).toHaveAttribute("src", ogashi.image);
+  expect(await image.evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
+  await expect(page.locator('.performerScheduleLink[href="/program"]')).toBeVisible();
+  await expect(page.locator("main")).not.toContainText(/\?gashi|D\?j\?|Sh\?den|Shint\?-ry\?/i);
 });

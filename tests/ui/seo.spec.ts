@@ -13,6 +13,14 @@ test.describe("@seo route metadata", () => {
   });
 });
 
+for (const route of ["/ucinkujici/ogashi-dojo", "/vystavovatele/tenkokudo"]) test(`@seo ${route} has complete detail metadata`, async ({ page }) => {
+  await page.goto(route);
+  await expect(page).toHaveTitle(/\S+/);
+  await expect(page.locator("meta[name=description]")).toHaveAttribute("content", /\S+/);
+  await expect(page.locator("link[rel=canonical]")).toHaveAttribute("href", `https://japanday.cz${route}`);
+  await expect(page.locator("link[rel=alternate]")).toHaveCount(8);
+});
+
 test.describe("@seo Event JSON-LD", () => {
   const expectedLanguage: Record<string, string> = { cs: "cs", en: "en", ja: "ja", de: "de", es: "es", zh: "zh-CN", vi: "vi" };
 
