@@ -5,15 +5,86 @@
   "cta": "Zjistit více",
   "freeEntry": "Děti do 12 let mají vstup zdarma.",
   "activities": [
-    { "id": "japanese-drawing", "title": "Japonské malování a soutěž", "short": "Malování japonských motivů a soutěž o koš plný sladkostí.", "description": "Děti si budou moci vybarvovat a malovat různé motivy inspirované Japonskem. Hotová díla se mohou zapojit do soutěže o nejkrásnější obrázek. Autor vítězného díla získá koš plný japonských a asijských sladkostí a dobrot." },
-    { "id": "face-painting", "title": "Soutěž v malování na obličej", "short": "Rodiče mohou proměnit své děti v anime nebo japonské postavičky.", "description": "Do soutěže se mohou zapojit děti společně s rodiči. Rodiče mohou namalovat své dítě jako oblíbenou anime nebo japonskou postavičku. Nejpovedenější a nejoriginálnější výtvor získá cenu." },
-    { "id": "origami", "title": "Origami workshop", "short": "Vyzkoušejte si tradiční japonské skládání papíru.", "description": "Děti i rodiče si budou moci vyzkoušet origami, tradiční japonské umění skládání papíru, a vytvořit si vlastní jednoduchý papírový model." },
-    { "id": "retro-games", "title": "Retro japonské konzolové hry", "short": "Zahrajte si klasické hry na starších herních konzolích.", "description": "Děti i rodiče si budou moci zahrát starší konzolové hry spojené s japonskou herní kulturou a připomenout si dobu klasických herních konzolí." },
-    { "id": "ink-painting", "title": "Tušová malba", "short": "Vyzkoušejte si malování tuší inspirované japonským uměním.", "description": "Děti si budou moci vyzkoušet jednoduchou práci s tuší a vytvořit vlastní motiv inspirovaný japonskou výtvarnou kulturou." },
-    { "id": "go", "title": "Desková hra Go", "short": "Seznamte se s jednou z nejznámějších tradičních strategických her.", "description": "Návštěvníci si budou moci vyzkoušet deskovou hru Go, seznámit se s jejími základními pravidly a zahrát si jednoduchou partii." },
-    { "id": "play-area", "title": "Herní prostor pro nejmenší", "short": "Jednoduché hry a prostor pro děti přibližně do 7 let.", "description": "Pro děti přibližně do 7 let bude připravený prostor s jednoduchými hrami a zábavou, kde si mohou během dne hrát nebo si odpočinout od hlavního programu." },
-    { "id": "sweets", "title": "Zmrzlina a sladké dobroty", "short": "Sladká pauza pro malé i velké návštěvníky.", "description": "Během dne budou k dispozici také zmrzlina, japonské a asijské sladkosti a další dobroty pro děti i dospělé." }
+    {
+      "id": "japanese-drawing",
+      "title": "Japonské malování a soutěž",
+      "short": "Malování japonských motivů a soutěž o koš plný sladkostí.",
+      "description": "Děti si budou moci vybarvovat a malovat různé motivy inspirované Japonskem. Hotová díla se mohou zapojit do soutěže o nejkrásnější obrázek. Autor vítězného díla získá koš plný japonských a asijských sladkostí a dobrot."
+    },
+    {
+      "id": "face-painting",
+      "title": "Soutěž v malování na obličej",
+      "short": "Rodiče mohou proměnit své děti v anime nebo japonské postavičky.",
+      "description": "Do soutěže se mohou zapojit děti společně s rodiči. Rodiče mohou namalovat své dítě jako oblíbenou anime nebo japonskou postavičku. Nejpovedenější a nejoriginálnější výtvor získá cenu."
+    },
+    {
+      "id": "origami",
+      "title": "Origami workshop",
+      "short": "Vyzkoušejte si tradiční japonské skládání papíru.",
+      "description": "Děti i rodiče si budou moci vyzkoušet origami, tradiční japonské umění skládání papíru, a vytvořit si vlastní jednoduchý papírový model."
+    },
+    {
+      "id": "retro-games",
+      "title": "Retro japonské konzolové hry",
+      "short": "Zahrajte si klasické hry na starších herních konzolích.",
+      "description": "Děti i rodiče si budou moci zahrát starší konzolové hry spojené s japonskou herní kulturou a připomenout si dobu klasických herních konzolí."
+    },
+    {
+      "id": "ink-painting",
+      "title": "Tušová malba",
+      "short": "Vyzkoušejte si malování tuší inspirované japonským uměním.",
+      "description": "Děti si budou moci vyzkoušet jednoduchou práci s tuší a vytvořit vlastní motiv inspirovaný japonskou výtvarnou kulturou."
+    },
+    {
+      "id": "go",
+      "title": "Desková hra Go",
+      "short": "Seznamte se s jednou z nejznámějších tradičních strategických her.",
+      "description": "Návštěvníci si budou moci vyzkoušet deskovou hru Go, seznámit se s jejími základními pravidly a zahrát si jednoduchou partii."
+    },
+    {
+      "id": "play-area",
+      "title": "Herní prostor pro nejmenší",
+      "short": "Jednoduché hry a prostor pro děti přibližně do 7 let.",
+      "description": "Pro děti přibližně do 7 let bude připravený prostor s jednoduchými hrami a zábavou, kde si mohou během dne hrát nebo si odpočinout od hlavního programu."
+    },
+    {
+      "id": "sweets",
+      "title": "Zmrzlina a sladké dobroty",
+      "short": "Sladká pauza pro malé i velké návštěvníky.",
+      "description": "Během dne budou k dispozici také zmrzlina, japonské a asijské sladkosti a další dobroty pro děti i dospělé."
+    }
   ],
-  "competition": { "eyebrow": "DĚTSKÁ SOUTĚŽ", "title": "Zapoj fantazii a soutěž!", "intro": "Letos chceme dát prostor hlavně dětem a jejich fantazii. Proto jsme připravili dvě soutěžní kategorie, do kterých se mohou zapojit malí i větší návštěvníci Japonského dne.", "categories": [{ "id": "transformation", "title": "Japonská proměna", "intro": "Vytvo? vlastn? japonsk? vzhled ? m??e? si namalovat obli?ej, ozdobit oble?en? nebo p?ij?t rovnou v kompletn?m kost?mu. Sout?? nen? zam??ena jen na facepainting. Hodnot?me celkovou prom?nu a n?pad.", "body": "T?matem je Japonsko. Inspirovat se m??e? nap??klad sakurou a japonskou p??rodou, j?kai a japonsk?mi p???erami, samuraji a ninji, tradi?n?m Japonskem, japonsk?mi symboly, anime a mangou, obl?ben?m anime hrdinou nebo vlastn? japonskou postavou.", "detail": "Sout??n? vzhled m??e tvo?it pomalovan? obli?ej, ozdoben? tri?ko nebo jin? oble?en?, dopl?ky, cel? kost?m nebo kombinace v?eho dohromady.", "evaluationLabel": "Hodnotit budeme:", "evaluation": "p?edev??m celkov? n?pad, originalitu, zpracov?n? a spojen? s japonskou t?matikou. V?t?zem tedy m??e b?t stejn? dob?e poveden? facepainting jako propracovan? outfit nebo kompletn? kost?m." }, { "id": "colouring", "title": "Nejlépe vybarvený obrázek", "intro": "Tato kategorie je připravena především pro naše nejmenší návštěvníky.", "body": "Na místě dostanete předtištěné obrázky s japonskou a anime tématikou, které můžete vybarvit podle vlastní fantazie.", "detail": "Pastelky do ruky a jde se na to!", "evaluationLabel": "Hodnotit budeme:", "evaluation": "především pečlivost, práci s barvami a celkový dojem." }], "prize": { "title": "Na vítěze obou kategorií čekají ceny.", "text": "Nemusíte být profesionální kreslíři ani cosplayeři. Nejdůležitější je zapojit fantazii, pobavit se a užít si Japonský den společně s námi." } },
-  "safety": { "title": "Dohled nad dětmi", "text": "Dětské aktivity nejsou službou hlídání dětí. Děti zůstávají po celou dobu pod dohledem a odpovědností rodiče nebo jiné doprovázející dospělé osoby. Prosíme rodiče, aby při hrách, soutěžích a dalších aktivitách dohlíželi na bezpečnost svých dětí i ostatních účastníků." }
+  "competition": {
+    "eyebrow": "DĚTSKÁ SOUTĚŽ",
+    "title": "Zapoj fantazii a soutěž!",
+    "intro": "Letos chceme dát prostor hlavně dětem a jejich fantazii. Proto jsme připravili dvě soutěžní kategorie, do kterých se mohou zapojit malí i větší návštěvníci Japonského dne.",
+    "categories": [
+      {
+        "id": "transformation",
+        "title": "Japonská proměna",
+        "intro": "Vytvoř vlastní japonský vzhled – můžeš si namalovat obličej, ozdobit oblečení nebo přijít rovnou v kompletním kostýmu. Soutěž není zaměřena jen na facepainting. Hodnotíme celkovou proměnu a nápad.",
+        "body": "Tématem je Japonsko. Inspirovat se můžeš například sakurou a japonskou přírodou, jókai a japonskými příšerami, samuraji a ninji, tradičním Japonskem, japonskými symboly, anime a mangou, oblíbeným anime hrdinou nebo vlastní japonskou postavou.",
+        "detail": "Soutěžní vzhled může tvořit pomalovaný obličej, ozdobené tričko nebo jiné oblečení, doplňky, celý kostým nebo kombinace všeho dohromady.",
+        "evaluationLabel": "Hodnotit budeme:",
+        "evaluation": "především celkový nápad, originalitu, zpracování a spojení s japonskou tématikou. Vítězem tedy může být stejně dobře povedený facepainting jako propracovaný outfit nebo kompletní kostým."
+      },
+      {
+        "id": "colouring",
+        "title": "Nejlépe vybarvený obrázek",
+        "intro": "Tato kategorie je připravena především pro naše nejmenší návštěvníky.",
+        "body": "Na místě dostanete předtištěné obrázky s japonskou a anime tématikou, které můžete vybarvit podle vlastní fantazie.",
+        "detail": "Pastelky do ruky a jde se na to!",
+        "evaluationLabel": "Hodnotit budeme:",
+        "evaluation": "především pečlivost, práci s barvami a celkový dojem."
+      }
+    ],
+    "prize": {
+      "title": "Na vítěze obou kategorií čekají ceny.",
+      "text": "Nemusíte být profesionální kreslíři ani cosplayeři. Nejdůležitější je zapojit fantazii, pobavit se a užít si Japonský den společně s námi."
+    }
+  },
+  "safety": {
+    "title": "Dohled nad dětmi",
+    "text": "Dětské aktivity nejsou službou hlídání dětí. Děti zůstávají po celou dobu pod dohledem a odpovědností rodiče nebo jiné doprovázející dospělé osoby. Prosíme rodiče, aby při hrách, soutěžích a dalších aktivitách dohlíželi na bezpečnost svých dětí i ostatních účastníků."
+  }
 }
